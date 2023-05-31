@@ -1,3 +1,6 @@
+# `pip install translate`
+
+#Importe as bibliotecas
 import json
 from translate import Translator
 
@@ -6,7 +9,6 @@ json_paths = [
     "./pt-BR/Achievements.json",
     "./pt-BR/Codex.json",
     "./pt-BR/Events.json",
-    "./pt-BR/GameUI.json",
     "./pt-BR/Items.json",
     "./pt-BR/Perks.json",
     "./pt-BR/Quotes.json",
@@ -24,7 +26,21 @@ for json_path in json_paths:
 
     # Percorra os objetos e traduza o campo "text"
     for row in json_content["rows"]:
-        translated = translator.translate(row["text"])
+        text = row["text"]
+        translated_parts = []
+        max_length = 500  # Limite máximo de caracteres por consulta
+
+        # Divide o texto em partes menores
+        while text:
+            part = text[:max_length]
+            text = text[max_length:]
+            translated_part = translator.translate(part)
+            translated_parts.append(translated_part)
+
+        # Concatena as partes traduzidas
+        translated = " ".join(translated_parts)
+
+        # Atualiza o campo "text" com a tradução
         row["text"] = translated
 
     # Salve o arquivo JSON traduzido
@@ -32,10 +48,11 @@ for json_path in json_paths:
         json.dump(json_content, json_file, ensure_ascii=False, indent=4)
 
 
+# Modelos de traduçoes 
 
-#Test V2
-
-#from translate import Translator
+##################################
+# Test V2 translate
+# from translate import Translator
 #import json
 #
 ## Carregue o arquivo JSON
@@ -54,10 +71,11 @@ for json_path in json_paths:
 ## Salve o arquivo JSON traduzido
 #with open(json_path, "w", encoding="utf-8") as json_file:
 #    json.dump(json_content, json_file, ensure_ascii=False, indent=4)
+##################################
 
 
-# Test v1
-
+##################################
+# Test v1 Google Translate
 #import json
 #from googletrans import Translator
 #
@@ -78,6 +96,6 @@ for json_path in json_paths:
 ## Salve o arquivo JSON traduzido
 #with open(json_path, "w", encoding="utf-8") as json_file:
 #    json.dump(json_content, json_file, ensure_ascii=False, indent=4)
-
-
+#
+##################################
 
