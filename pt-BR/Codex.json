@@ -1,0 +1,609 @@
+{
+    "id": "Codex",
+    "rows": [
+        {
+            "id": "GameDescription",
+            "text": "Introdução"
+        },
+        {
+            "id": "GameDescription_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "KeyBindings",
+            "text": "Combinações de Teclas"
+        },
+        {
+            "id": "KeyBindings_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "KeyBindings_Controller",
+            "text": "Controlos"
+        },
+        {
+            "id": "KeyBindings_Content_Controller",
+            "text": "[h1]Controles[/h1][h1]Mapa[/h1]Y: Diário Aberto\n[p][h1] Página da Equipa [/h1]A: Mostrar ações de itens disponíveis\n[p][h1]Mapa / Batalha[/h1]Direita: Mover câmera\n[p][h1]Batalha[/h1]L/R: Percorrer os personagens\nZL/ZR: Ciclo através de acções de carácter\nA: Confirmar a ação\nY: Encerrar turno\nX: Ver detalhes\n[p][h1]Comerciante[/h1]X: Vender artigo\nA: Comprar item"
+        },
+        {
+            "id": "KeyBindings_Content_Xbox",
+            "text": "[h1]Controles[/h1][h1]Mapa[/h1]Y: Diário Aberto\n[p][h1] Página da Equipa [/h1]A: Mostrar ações de itens disponíveis\n[p][h1]Mapa / Batalha[/h1]Direita: Mover câmera\n[p][h1]Batalha[/h1]LB/RB: Percorrer os personagens\nLT/RT: Ciclo através de acções de carácter\nA: Confirmar a ação\nY: Encerrar turno\nX: Ver detalhes\n[p][h1]Comerciante[/h1]X: Vender artigo\nA: Comprar item"
+        },
+        {
+            "id": "KeyBindings_Content_Steamdeck",
+            "text": "[h1]Controles[/h1][h1]Mapa[/h1]Y: Diário Aberto\n[p][h1] Página da Equipa [/h1]A: Mostrar ações de itens disponíveis\n[p][h1]Mapa / Batalha[/h1]Direita: Mover câmera\n[p][h1]Batalha[/h1]L1/R1: Percorra os personagens\nL2/R2: Ciclo através das ações dos personagens\nA: Confirmar a ação\nY: Encerrar turno\nX: Ver detalhes\n[p][h1]Comerciante[/h1]X: Vender artigo\nA: Comprar item"
+        },
+        {
+            "id": "Adventures",
+            "text": "Aventura"
+        },
+        {
+            "id": "Adventures_Content",
+            "text": "[h1]Equipes e aventuras[/h1] O Caminho consiste em uma série de aventuras individuais que aumentam gradualmente em dificuldade. Para começar uma aventura, você deve primeiro montar uma equipe a partir do total de personagens desbloqueados e não feridos disponíveis.\n[p][img:codex_teamselect]\n[p][h1]Desbloquear Novas Aventuras[/h1]No início do jogo, todas as aventuras que não sejam a aventura inicial estão bloqueadas. Cada aventura completa desbloqueia automaticamente a próxima aventura."
+        },
+        {
+            "id": "JeepStorage",
+            "text": "Armazenamento do carro"
+        },
+        {
+            "id": "JeepStorage_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "JeepStorage_Content_Controller",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "EquipmentSlots",
+            "text": "Slots de Equipamentos"
+        },
+        {
+            "id": "EquipmentSlots_Content",
+            "text": "[h1] Espaços de Equipamento [/h1]Você pode equipar o primeiro espaço de equipamento de um personagem com uma arma à distância ou uma arma corpo a corpo. Você pode equipar o segundo espaço de um personagem com uma arma corpo a corpo ou outro item. Esses outros itens podem ser granadas de mão, kits médicos e kits de reparo. O terceiro slot é destinado exclusivamente para armaduras.\n[p][img:codex_itemslots]"
+        },
+        {
+            "id": "Characters",
+            "text": "Personagens"
+        },
+        {
+            "id": "Characters_Content",
+            "text": "[h1] Informações de Recrutamento [/h1]Quando você seleciona um personagem, as estatísticas do personagem são exibidas à direita, juntamente com um breve resumo dos seus pontos fortes e fracos. As três barras coloridas imediatamente à direita do retrato do personagem indicam sua saúde (vermelho), valor da armadura (azul) e bravura (laranja).\n[p][img:codex_character]"
+        },
+        {
+            "id": "CharacterAttributes",
+            "text": "Estatísticas de Personagem"
+        },
+        {
+            "id": "CharacterAttributes_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "CharacterSkills",
+            "text": "Vantagens e Habilidades"
+        },
+        {
+            "id": "CharacterSkills_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS personagem pode melhorar suas estatísticas e habilidades ou aprender a usar novos itens.\n[p][img:codex_skilltree]"
+        },
+        {
+            "id": "CharacterSkills_Content_Controller",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "CharacterUnlock",
+            "text": "Desbloquear Novos Personagens"
+        },
+        {
+            "id": "CharacterUnlock_Content",
+            "text": "[h1]Desbloquear novos personagens[/h1][img:codex_unlock01]\nVocê começa o jogo com um número limitado de personagens jogáveis. Personagens adicionais são desbloqueados durante o jogo sempre que você satisfizer determinadas condições. As condições precisas para cada personagem são exibidas quando você clica com o botão esquerdo sobre elas ou lê a lista de conquistas.\n[p][img:codex_unlock02]"
+        },
+        {
+            "id": "CharacterUnlock_Content_Controller",
+            "text": "[h1]Desbloquear novos personagens[/h1][img:codex_unlock01]\nVocê começa o jogo com um número limitado de personagens jogáveis. Você pode desbloquear personagens adicionais durante o jogo, satisfazendo certas condições. As condições precisas para cada personagem são exibidas em sua folha de informações e na página Troféus do Diário.\n[p][img:codex_unlock02]"
+        },
+        {
+            "id": "HospitalizedChars",
+            "text": "Personagens hospitalizados"
+        },
+        {
+            "id": "HospitalizedChars_Content",
+            "text": "[h1] Caracteres hospitalizados e recuperação[/h1][img:codex_hospitalized01]\nPersonagens que estão incapacitados durante uma aventura são bloqueados para a próxima expedição, pois precisam se recuperar de seus ferimentos. Você pode pagar em dinheiro para comprar melhores cuidados médicos e reduzir seu tempo no hospital.\n[p][img:codex_hospitalized02]"
+        },
+        {
+            "id": "Persistence",
+            "text": "Persisténsia"
+        },
+        {
+            "id": "Persistence_Content",
+            "text": "[h1]Ganhar Experiência e Equipamento[/h1]Independentemente do resultado de uma aventura, cada personagem participante mantém os pontos de experiência e itens que ganha. Somente o cancelamento de uma aventura redefinirá os pontos de experiência e itens ganhos por todos os personagens participantes durante essa aventura.\n[p][img:codex_itemlegendary03]"
+        },
+        {
+            "id": "Achievements",
+            "text": "Conquistas"
+        },
+        {
+            "id": "Achievements_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "Achievements_Content_GamePass",
+            "text": "[h1]Conquistas[/h1]Pode aceder às suas conquistas a partir do separador no canto inferior direito deste Ecrã do Codex. Mova o cursor sobre uma conquista para ver seu nome e as ações necessárias para desbloqueá-la.\n[p]Cada conquista desbloqueada concede uma recompensa; isso também é descrito na dica de ferramenta. Cada recompensa pode ser reivindicada imediatamente quando uma conquista é desbloqueada ou mais tarde clicando com o botão esquerdo do mouse na conquista na Tela de Conquistas.\n[p][img:codex_achievements]"
+        },
+        {
+            "id": "Achievements_Content_Controller",
+            "text": "[h1]Troféus[/h1]A página Troféus do Diário contém uma lista de todas as conquistas no jogo, incluindo as que você ainda não obteve. Navegue pela lista de conquistas não obtidas para ver as ações necessárias para desbloqueá-las.\n[p]Receberá uma recompensa por cada conquista que desbloquear. Para reivindicar uma recompensa, pressione Reivindicar imediatamente após desbloquear uma conquista ou encontre a conquista na página Troféus posteriormente.\n[p][img:codex_achievements]"
+        },
+        {
+            "id": "TravelBasics",
+            "text": "Noções básicas"
+        },
+        {
+            "id": "TravelBasics_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS a aventura tem seus próprios eventos que impulsionam a história dessa aventura individual, bem como a narrativa abrangente.\n[p][img:codex_itemlegendary02]"
+        },
+        {
+            "id": "TravelResources",
+            "text": "Recursos de Viagem"
+        },
+        {
+            "id": "TravelResources_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS aumentar o número de recursos capturados."
+        },
+        {
+            "id": "Events",
+            "text": "Ícones do evento"
+        },
+        {
+            "id": "Events_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "Events_Content_Controller",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "IconVisibility",
+            "text": "Ícones e visibilidade do evento"
+        },
+        {
+            "id": "IconVisibility_Content",
+            "text": "[h1] Ícones de eventos e visibilidade[/h1]Quando uma expedição entra num novo mapa, só pode ver um número aleatório de eventos, fornecendo-lhe a base inicial para planear a sua viagem."
+        },
+        {
+            "id": "EventCourses",
+            "text": "Resultados do Evento"
+        },
+        {
+            "id": "EventCourses_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "PerkList",
+            "text": "Lista de regalias"
+        },
+        {
+            "id": "PerkList_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS a capacidade de exercer pressão psicológica sobre os outros.\n[p][h1]Survivalist[/h1]Permite decisões alternativas baseadas no conhecimento profundo do ambiente natural, incluindo condições climáticas e as características de vários animais selvagens.\n[p][h1] Conhecimento Proibido [/h1]Permite decisões alternativas que começam onde a aprendizagem escolar termina e a área cinzenta das tradições místicas começa."
+        },
+        {
+            "id": "TeamScreen",
+            "text": "Ecrã da Equipa"
+        },
+        {
+            "id": "TeamScreen_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "TeamScreen_Content_Controller",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "LevelUp",
+            "text": "Aumento de nível"
+        },
+        {
+            "id": "LevelUp_Content",
+            "text": "[h1]Subir de nível [/h1]Um pequeno ícone na barra de informações inferior indica que um personagem subiu de nível.\n[p][img:codex_levelup]\n[p]Pode atualizar a personagem no ecrã da equipa clicando com o botão esquerdo no botão Subir de Nível sobre a personagem correspondente.\n[p][img:codex_levelupbutton]\n[p]O jogo abre a árvore de habilidades do personagem, onde você pode escolher a nova vantagem."
+        },
+        {
+            "id": "LevelUp_Content_Controller",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 03 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "RareItems",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 03 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "RareItems_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "CharacterPlacement",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 03 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "CharacterPlacement_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "CharacterPlacement_Content_Controller",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "CharacterPlacement_Content_Xbox",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "CharacterPlacement_Content_Steamdeck",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "EnemyInfo",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 03 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "EnemyInfo_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "CharacterSelection",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 03 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "CharacterSelection_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 03 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "CharacterSelection_Content_Controller",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 03 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "CharacterSelection_Content_Xbox",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 03 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "CharacterSelection_Content_Steamdeck",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 03 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "CoverTypes",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 03 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "CoverTypes_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "PartialCovers",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 03 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "PartialCovers_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "Walls",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 03 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Walls_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "HitChances",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 03 MINUTES 00 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "HitChances_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 02 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "CharacterActions",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 02 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "CharacterActions_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "CharacterActions_Content_Controller",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "CharacterActions_Content_Xbox",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "CharacterActions_Content_Steamdeck",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "SpecialActions",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 02 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "SpecialActions_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 02 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "MovementActions",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 02 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "MovementActions_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "MovementActions_Content_Controller",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "AttackActions",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 02 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "AttackActions_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "AttackActions_Content_Controller",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 02 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "AttackActions_Content_Xbox",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 02 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "AttackActions_Content_Steamdeck",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 02 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "NeutralActions",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 02 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "NeutralActions_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "NeutralActions_Content_Controller",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "DamageClasses",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "DamageClasses_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "WeaponTypeIntro",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "WeaponTypeIntro_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 41 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "WeaponTypePistol",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "WeaponTypePistol_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "WeaponTypeShotgun",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 37 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "WeaponTypeShotgun_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "WeaponTypeAssault",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 35 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "WeaponTypeAssault_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "WeaponTypeSniper",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "WeaponTypeSniper_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "WeaponTypeDisintegrator",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 29 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "WeaponTypeDisintegrator_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "WeaponTypeKnife",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "WeaponTypeKnife_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 25 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "WeaponTypeGrenade",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "WeaponTypeGrenade_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "TheNazis",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "TheNazis_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Infanterist",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 19 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Infanterist_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Dog",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 16 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Dog_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 14 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Shotgunner",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Shotgunner_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Sniper",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Sniper_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Medic",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Medic_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 06 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Officer",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Officer_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "EliteDog",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "EliteDog_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 01 MINUTES 01 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Teslaborg",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Teslaborg_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "TheBrotherhood",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "TheBrotherhood_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Cultist",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Cultist_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Zombie",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Zombie_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Infected",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Infected_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Sporebearer",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "Sporebearer_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "HighPriestess",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "HighPriestess_Content",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 41 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "TravelSummary",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "TravelSummary_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "CombatSummary",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 37 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "CombatSummary_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "CombatSummary_Content_Controller",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "GameOptions",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "GameOptions_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "GameOptions_Content_Controller",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "BattleModes",
+            "text": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        },
+        {
+            "id": "BattleModes_Content",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+            "id": "Credits",
+            "text": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  06 HOURS 00 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+        }
+    ]
+}
