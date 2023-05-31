@@ -2,8 +2,7 @@
 
 https://store.steampowered.com/app/546430/Pathway/
 
-<iframe width="560" height="315" src="https://store.steampowered.com/app/546430/Pathway/" title="Pathway" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div>
 <div id="contenedor">
  <iframe src="https://store.steampowered.com/widget/546430/" frameborder="0" width="646" height="190"></iframe>
 </div>
@@ -28,3 +27,4 @@ height: 100%;
 }
 </style>
 
+</div>
