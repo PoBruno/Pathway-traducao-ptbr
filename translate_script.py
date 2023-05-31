@@ -1,8 +1,5 @@
-# `pip install translate`
-
-#Importe as bibliotecas
 import json
-from translate import Translator
+from deepl import Translator
 
 # Array com os caminhos dos arquivos JSON
 json_paths = [
@@ -10,13 +7,14 @@ json_paths = [
     "./pt-BR/Codex.json",
     "./pt-BR/Events.json",
     "./pt-BR/Items.json",
+    "./pt-BR/Items.json",
     "./pt-BR/Perks.json",
     "./pt-BR/Quotes.json",
     "./pt-BR/Tutorial.json"
 ]
 
 # Crie uma instância do tradutor
-translator = Translator(to_lang="pt")
+translator = Translator(target_lang="pt")
 
 # Percorra os arquivos JSON
 for json_path in json_paths:
@@ -27,20 +25,7 @@ for json_path in json_paths:
     # Percorra os objetos e traduza o campo "text"
     for row in json_content["rows"]:
         text = row["text"]
-        translated_parts = []
-        max_length = 500  # Limite máximo de caracteres por consulta
-
-        # Divide o texto em partes menores
-        while text:
-            part = text[:max_length]
-            text = text[max_length:]
-            translated_part = translator.translate(part)
-            translated_parts.append(translated_part)
-
-        # Concatena as partes traduzidas
-        translated = " ".join(translated_parts)
-
-        # Atualiza o campo "text" com a tradução
+        translated = translator.translate(text)
         row["text"] = translated
 
     # Salve o arquivo JSON traduzido
