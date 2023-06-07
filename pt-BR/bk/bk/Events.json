@@ -603,969 +603,963 @@
 	},
 	{
 		"id": "LE_AngryCobra01_SurvivalF",
-		"text": "Como se do nada, [char1] aparece atrás da cobra! Ele tenta agarrá-lo, mas o animal se solta! \n\nTão rápido quanto um raio, [char1] mergulha para longe da cobra atacante e rola para fora do perigo. Você corre por suas vidas!"
+		"text": "As if from nowhere, [char1] appears behind the snake! He makes a grab for it, but the animal slithers free! \n\nAs fast as lightning, [char1] dives away from the attacking cobra and rolls out of danger. You run for your lives!"
 	},
 	{
 		"id": "LE_AngryCobra01_SurvivalF_female",
-		"text": "Como se do nada, [char1] aparece atrás da cobra! Ela tenta agarrá-lo, mas o animal se solta! \n\nTão rápido quanto um raio, [char1] mergulha para longe da cobra atacante e rola para fora do perigo. Você corre por suas vidas!"
+		"text": "As if from nowhere, [char1] appears behind the snake! She makes a grab for it, but the animal slithers free! \n\nAs fast as lightning, [char1] dives away from the attacking cobra and rolls out of danger. You run for your lives!"
 	},
 	{
 		"id": "LE_AngryCobra01_Loot",
-		"text": "Você encontra um soldado alemão deitado de bruços na areia. O homem obviamente tinha reflexos piores do que você! Você vê um caixote do exército alemão ao lado do corpo e o agarra sem cerimônia."
+		"text": "You find a German soldier lying face down in the sand. The man obviously had worse reflexes than you! You see a German army crate next to the body and grab it unceremoniously."
 	},
 	{
 		"id": "RE_DateTreeGrove01_Intro",
-		"text": "Escondido no leito de um rio seco, você encontra um poço com algumas tamareiras crescendo em suas margens. As tamareiras estão cheias de frutas, então você decide fazer uma pausa neste local sombreado. \n\nEste é o local perfeito para uma pausa prolongada. Você quer descansar aqui?"
+		"text": "Hidden in a dry river bed, you find a waterhole with a few date palms growing at its banks. The date palms are heavy with fruit, so you decide to take a break in this shady spot. \n\nThis is the perfect place to take an extended break. Do you want to rest here?"
 	},
 	{
 		"id": "RE_DateTreeGrove01_Choice01",
-		"text": "Faça uma longa pausa"
+		"text": "Take a long break"
 	},
 	{
 		"id": "RE_DateTreeGrove01_Rest",
-		"text": "Você monta seu acampamento. Exausto, você se permite uma soneca curta. Depois de um sono curto e sem sonhos, você acorda revigorado. Você levanta acampamento e parte novamente."
+		"text": "You pitch your camp. Exhausted, you allow yourself a short nap. After a short, dreamless sleep, you wake up reinvigorated. You break camp and set off again."
 	},
 	{
 		"id": "RE_DateTreeGrove01_Choice02",
-		"text": "Continuar viagem"
+		"text": "Continue journey"
 	},
 	{
 		"id": "SE_Adventure01Intro_Intro",
-		"text": "Você verifica seu equipamento uma última vez e liga o motor: sua jornada começa!"
+		"text": "You check your gear one last time and start the engine: Your journey begins!"
 	},
 	{
 		"id": "SE_Adventure01FinalFight_Intro",
-		"text": "Você vê a base fortificada do Regimento de Escavação Sudoeste na planície do vale à frente -você finalmente alcançou seu objetivo! Enquanto você está pensando em como passar pela entrada fortemente protegida, de repente você avista um jipe ​​solitário da Wehrmacht se aproximando de seu veículo. [CTP]\n\nVocê se esconde atrás das rochas e espera a patrulha desembarcar -então você os pega de surpresa e os amarra! \n\nPouco tempo depois, você dirige para o acampamento alemão vestindo uniformes \"emprestados\". A sentinela de aparência entediada acena para o seu jipe ​​da Wehrmacht com apenas um olhar -até agora, tudo bem..."
+		"text": "You see the fortified base of the Excavation Regiment Southwest on the valley plain ahead - you have finally reached your goal! As you are considering how to make it through the heavily guarded entrance, you suddenly spot a lone Wehrmacht jeep approaching your vehicle. [CTP]\n\nYou hide behind the rocks and wait for the patrol to disembark - then you take them by surprise and tie them up! \n\nA short time later, you drive into the German camp wearing \"borrowed\" uniforms. The bored-looking sentry waves your Wehrmacht jeep through with barely a glance - so far, so good..."
 	},
 	{
 		"id": "SE_Adventure01FinalFight_Camp",
-		"text": "Disfarçado de soldados alemães, você procura no complexo do acampamento -Morten deve estar aqui em algum lugar! Seus corações disparam enquanto você passa despercebido pela multidão de soldados inimigos! [CTP]\n\nDe repente, você percebe uma pequena carreata partindo. Enquanto ele passa, você vê Morten em um dos carros -você imediatamente pula em seu jipe ​​​​capturado e segue para o final do comboio quando ele sai do acampamento e segue para o deserto!"
+		"text": "Disguised as German soldiers, you search the camp complex - Morten must be here somewhere! Your hearts race as you pass unnoticed through the crowds of enemy soldiers! [CTP]\n\nYou suddenly notice a small motorcade setting off. As it drives past, you spot Morten in one of the cars - you immediately jump into your captured jeep and tag onto the end of the convoy as it exits the camp and heads into the desert!"
 	},
 	{
 		"id": "SE_Adventure01FinalFight_Convoy",
-		"text": "Depois de alguns quilômetros, o comboio para em uma base auxiliar menor. Você vê Morten sendo levado -você não tem muito tempo! A execução do seu amigo é iminente! [CTP] \n\nDe repente, você ouve um grito -você foi descoberto! Vocês olham um para o outro com determinação severa e carregam suas armas. \n\nÉ isso!"
+		"text": "After a few miles, the convoy stops at a smaller auxiliary base. You see Morten being led away - you don’t have much time! Your friend’s execution is imminent! [CTP] \n\nSuddenly, you hear a shout – you have been discovered! You look at each other with grim determination and load your weapons. \n\nThis is it!"
 	},
 	{
 		"id": "SE_Adventure01FinalFight_StandardWin",
-		"text": "Quando as armas finalmente silenciam e a fumaça se dissipa, Morten tropeça em sua direção. \n\n[char0]: \"É sempre bom saber que você pode contar com seus amigos.\"\n\n[char0]: \"Embora você não tenha pressa!\"[CTP]\n \n[char0]: \"Você não vai acreditar no que eu coloquei em minhas mãos em Casablanca! Pena que os nazistas levaram tudo. Bem, talvez outra hora...\""
+		"text": "When the guns finally fall silent and the smoke dissipates, Morten stumbles towards you. \n\n[char0]: \"It’s always good to know you can rely on your friends.\"\n\n[char0]: \"Although you took your sweet time about it!\"[CTP]\n\n[char0]: \"You won’t believe what I got my hands on in Casablanca! Too bad the Nazis took everything. Ah well, maybe another time...\""
 	},
 	{
 		"id": "FE_GenericDesertRuins01_A_Intro",
-		"text": "Você provavelmente é a primeira pessoa em muitos anos a pisar neste lugar deserto. A areia do deserto deixou pouco mais do que algumas paredes em ruínas."
+		"text": "You are probably the first people in many years to set foot in this deserted place. The desert sand has left little more than a few crumbling walls."
 	},
 	{
 		"id": "FE_GenericDesertRuins01_B_Intro",
-		"text": "Os escassos restos de algumas paredes em ruínas nas areias do deserto marcam o local de um antigo assentamento. Hoje, o lugar é árido e deserto."
+		"text": "The meager remains of a few ruined walls in the desert sands mark the site of a former settlement. Today, the place is barren and deserted."
 	},
 	{
 		"id": "FE_GenericDesertRuins01_C_Intro",
-		"text": "Apenas as fundações desta antiga vila abandonada permanecem. Você não encontra nada de importante e continua sua jornada."
+		"text": "Only the foundations of this ancient, abandoned village remain. You find nothing of importance and continue your journey."
 	},
 	{
 		"id": "FE_GenericDesertRuins01_D_Intro",
-		"text": "Algumas paredes em ruínas quebram a monotonia das dunas do deserto, presumivelmente as ruínas de algumas cabanas de pastores. Eles foram abandonados há muitos anos."
+		"text": "A few crumbling walls break the monotony of the desert dunes, presumably the ruins of some shepherds’ huts. They were abandoned many years ago."
 	},
 	{
 		"id": "FE_GenericDesertRuins01_E_Intro",
-		"text": "Você se depara com os restos de uma batalha desesperada. Ao longo de incontáveis ​​anos, as areias do deserto recuperaram o que antes lhes era negado.."
+		"text": "You come across the remains of a desperate battle. Over countless years, the desert sands have reclaimed what was once denied them."
 	},
 	{
 		"id": "FE_GenericOldCemetery01_A_Intro",
-		"text": "Você descobre algumas lápides tortas nas areias do deserto. Um silêncio sombrio cobre este lugar abandonado."
+		"text": "You discover some crooked tombstones in the desert sands. A dismal silence blankets this forsaken place."
 	},
 	{
 		"id": "FE_GenericOldCemetery01_B_Intro",
-		"text": "O vento do deserto geme suavemente através das lápides desbotadas pelo sol deste lugar há muito abandonado."
+		"text": "The desert wind moans softly through the sun-bleached tombstones of this long-abandoned place."
 	},
 	{
 		"id": "FE_GenericOldCemetery01_C_Intro",
-		"text": "Apenas as pontas das lápides se projetam da areia. Em breve, as marés inconstantes do deserto eterno terão reclamado este lugar."
+		"text": "Only the tips of the tombstones protrude from the sand. Soon, the shifting tides of the eternal desert will have reclaimed this place."
 	},
 	{
 		"id": "FE_GenericOldCemetery01_D_Intro",
-		"text": "De longe, você vê fileiras de lápides no deserto. Este antigo cemitério no deserto está desolado e deserto."
+		"text": "From afar, you see rows of tombstones in the wasteland. This ancient desert graveyard is desolate and deserted."
 	},
 	{
 		"id": "FE_GenericOldCemetery01_E_Intro",
-		"text": "Atrás da próxima duna, você vê algumas lápides desgastadas. Você mantém uma distância respeitosa para não profanar o local."
+		"text": "Behind the next dune, you see a few weathered tombstones. You maintain a respectful distance so as not to desecrate the place."
 	},
 	{
 		"id": "FE_GenericBrushwood01_A_Intro",
-		"text": "Você se depara com alguns arbustos ralos e árvores desafiando o calor escaldante do deserto."
+		"text": "You come across some scraggy shrubs and trees defying the searing desert heat."
 	},
 	{
 		"id": "FE_GenericBrushwood01_B_Intro",
-		"text": "O implacável sol do deserto ressequiu as raízes retorcidas de alguns arbustos emaranhados. Eles parecem esculturas estranhas, torcidas em agonia."
+		"text": "The relentless desert sun has parched the gnarled roots of a few tangled shrubs. They look like weird sculptures, twisted in agony."
 	},
 	{
 		"id": "FE_GenericBrushwood01_C_Intro",
-		"text": "Um bosque de arbustos emaranhados indica que deve haver água em algum lugar por aqui, mas você não encontra nenhum sinal de uma fonte subterrânea.."
+		"text": "A grove of tangled brush indicates that there must be water somewhere around here, but you find no sign of an overground source."
 	},
 	{
 		"id": "FE_GenericBrushwood01_D_Intro",
-		"text": "Você não encontra nada aqui além de algumas árvores secas e arbustos rijos."
+		"text": "You find nothing here but a few parched trees and wiry bushes."
 	},
 	{
 		"id": "FE_GenericBrushwood01_E_Intro",
-		"text": "Apesar da secura e calor, algumas árvores aleijadas cercadas por alguns arbustos baixos sobrevivem aqui."
+		"text": "Despite the dryness and heat, a few crippled trees surrounded by some low shrubs survive here."
 	},
 	{
 		"id": "FE_GenericLonelyGoats01_A_Intro",
-		"text": "Você ouve o balido gutural das cabras do deserto antes que elas surjam por trás da próxima duna: O rebanho solitário vagueia por este deserto desolado em busca de sua próxima refeição insignificante."
+		"text": "You hear the guttural bleating of the desert goats before they emerge from behind the next dune: The lonely herd wanders this desolate wilderness in search of its next paltry meal."
 	},
 	{
 		"id": "FE_GenericLonelyGoats01_B_Intro",
-		"text": "Um pequeno rebanho de cabras pasta no mato à sua frente. Os animais magros e magros olham para você com curiosidade antes de voltar para seu pasto escasso."
+		"text": "A small herd of goats grazes on the brushwood in front of you. The gaunt, wiry animals eye you curiously before turning back to their meager pasture."
 	},
 	{
 		"id": "FE_GenericLonelyGoats01_C_Intro",
-		"text": "Os arbustos estéreis e retorcidos deste lugar atraíram algumas cabras famintas que se amontoam quando veem você."
+		"text": "The barren, gnarled shrubbery in this place has attracted some starving goats that huddle closer together when they see you."
 	},
 	{
 		"id": "FE_GenericLonelyGoats01_D_Intro",
-		"text": "As cabras que descansam preguiçosamente no chão não parecem selvagens. Você olha em volta, mas não vê um pastor."
+		"text": "The goats lounging lazily on the ground do not seem wild. You look around, but you do not see a shepherd."
 	},
 	{
 		"id": "FE_GenericLonelyGoats01_E_Intro",
-		"text": "Ao verem você, as cabras que cochilaram aqui balem animadas e pulam.\n\nQuando os animais percebem que você não representa uma ameaça, eles voltam para o pasto."
+		"text": "When they see you, the goats that have been dozing here bleat excitedly and jump up.\n\nWhen the animals realize you pose no threat, they return to their grazing."
 	},
 	{
 		"id": "ME_GenericOriental01_Choice01",
-		"text": "Troca"
+		"text": "Trade"
 	},
 	{
 		"id": "ME_GenericOriental01_Choice02",
-		"text": "Continue sua jornada"
+		"text": "Continue your journey"
 	},
 	{
 		"id": "ME_GenericOriental01_A_Intro",
-		"text": "Você chega exausto ao oásis e descobre que um viajante já acampou aqui. O comerciante acena para você com entusiasmo!"
+		"text": "You arrive exhausted at the oasis and discover that a traveler has already set up camp here. The trader waves you over enthusiastically!"
 	},
 	{
 		"id": "ME_GenericOriental01_B_Intro",
-		"text": "Em um oásis, você encontra um comerciante que está muito ansioso para lhe vender sua mercadoria.."
+		"text": "At an oasis, you meet a merchant who is very eager to sell you his merchandise."
 	},
 	{
 		"id": "ME_GenericOriental01_C_Intro",
-		"text": "O comerciante armou seu modesto acampamento à sombra de algumas palmeiras."
+		"text": "The merchant has pitched his modest camp in the shade of some palm trees."
 	},
 	{
 		"id": "ME_GenericOriental01_D_Intro",
-		"text": "Quando o comerciante vê você, ele acena para você com entusiasmo e espalha seus produtos na sua frente."
+		"text": "When the merchant sees you, he waves to you excitedly and spreads his wares out in front of you."
 	},
 	{
 		"id": "ME_GenericOriental01_E_Intro",
-		"text": "Um homem está tirando uma soneca à sombra das palmeiras. Quando ele ouve você, ele pula e aponta convidativamente para seus bens. Ele é um comerciante viajante!"
+		"text": "A man is taking a nap in the shade of the palm trees. When he hears you, he jumps up and points invitingly to his goods. He is a traveling merchant!"
 	},
 	{
 		"id": "RE_GenericOasis01_Choice01",
-		"text": "Descansar"
+		"text": "Rest up"
 	},
 	{
 		"id": "RE_GenericOasis01_Choice02",
-		"text": "Continue sua jornada"
+		"text": "Continue your journey"
 	},
 	{
 		"id": "RE_GenericOasis01_A_Intro",
-		"text": "À sombra de algumas palmeiras, encontra-se um pequeno poço de água salobra – este seria um bom local para fazer uma pausa!"
+		"text": "In the shade of some palm trees, you find a small, brackish waterhole – this would be a good place to take a break!"
 	},
 	{
 		"id": "RE_GenericOasis01_A_Rest",
-		"text": "Você monta um acampamento improvisado. Depois de uma soneca curta, você acorda revigorado. Você junta seus poucos pertences e parte novamente."
+		"text": "You pitch an improvised camp. After a short nap, you wake up reinvigorated. You gather up your few belongings and set off again."
 	},
 	{
 		"id": "RE_GenericOasis01_B_Intro",
-		"text": "O poço é bem sombreado e convidativo – quer acampar aqui?"
+		"text": "The waterhole is well shaded and inviting – do you want to set up camp here?"
 	},
 	{
 		"id": "RE_GenericOasis01_B_Rest",
-		"text": "Você monta acampamento na sombra e cuida de seus ferimentos. Você logo tem café fervendo na fogueira e seu ânimo melhora. Com o moral restaurado, você continua sua jornada."
+		"text": "You set up camp in the shade and tend to your wounds. You soon have coffee simmering over the campfire and your spirits improve. With morale restored, you continue your journey."
 	},
 	{
 		"id": "RE_GenericOasis01_C_Intro",
-		"text": "O poço é cercado por algumas palmeiras e arbustos que balançam suavemente ao vento. Pode ser uma boa ideia fazer uma pausa..."
+		"text": "The waterhole is surrounded by a few palm trees and shrubs that sway gently in the wind. It might be a good idea to take a break..."
 	},
 	{
 		"id": "RE_GenericOasis01_C_Rest",
-		"text": "Você usa o intervalo para esticar as pernas e cuidar de cortes e contusões. Finalmente, você partiu novamente revigorado."
+		"text": "You use the break to stretch your legs and tend to your cuts and bruises. Finally, you set off again reinvigorated."
 	},
 	{
 		"id": "RE_GenericOasis01_D_Intro",
-		"text": "Você se depara com um pequeno oásis no mar infinito de dunas: algumas palmeiras resistentes fornecem alguma sombra. Este seria um ótimo lugar para fazer uma pausa!"
+		"text": "You come across a small oasis in the endless sea of ​​dunes: A few hardy palms provide some shade. This would be a great place to take a break!"
 	},
 	{
 		"id": "RE_GenericOasis01_D_Rest",
-		"text": "Você passa uma longa pausa tratando de seus hematomas e lubrificando suas armas. Descansado e de bom humor, você arruma suas coisas para deixar o oásis."
+		"text": "You spend a long break treating your bruises and greasing your weapons. Rested and in good spirits, you pack your things to leave the oasis."
 	},
 	{
 		"id": "RE_GenericOasis01_E_Intro",
-		"text": "O oásis consiste em um palmeiral esparso, alguns arbustos resistentes e um poço de água cercado por pegadas antigas. Você pode parar aqui para uma pequena pausa."
+		"text": "The oasis consists of a sparse palm grove, some hardy shrubs and a waterhole surrounded by old hoof tracks. You could stop here for a short break."
 	},
 	{
 		"id": "RE_GenericOasis01_E_Rest",
-		"text": "Você usa a pausa para cuidar de suas feridas. Você completa sua estadia com uma refeição simples. Sua força restaurada, você continua sua jornada."
+		"text": "You use the break to care for your wounds. You complete your stay with a simple meal. Your strength restored, you continue your journey."
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Disadvantage_A_Intro",
-		"text": "Um silêncio fantasmagórico cobre o acampamento militar abandonado. Suas barricadas não são tripuladas, as lonas farfalham ao vento. O que aconteceu com os soldados que estavam acampados aqui? \n\nVocê não precisa esperar muito por uma resposta. De repente, o acampamento ganha vida: com sorrisos zombeteiros, os soldados nazistas emergem de trás de barris e tendas. É uma armadilha!"
+		"text": "A ghostly silence blankets the abandoned military camp. Its barricades are unmanned, the tarpaulins rustle in the wind. What happened to the soldiers who were camped here? \n\nYou do not have to wait long for an answer. All of a sudden, the camp springs to life: With mocking grins, the Nazi soldiers emerge from behind barrels and tents. It’s a trap!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Disadvantage_B_Intro",
-		"text": "Você chega a um acampamento militar abandonado. O lugar parece deserto, as barreiras de sacos de areia não são tripuladas. Por que os alemães abandonaram o acampamento? \n\nComo se em resposta à sua pergunta não dita, o acampamento de repente ganha vida: Soldados saltam de trás de barris e tendas. Eles apontam seus rifles para você! Você caiu em uma armadilha!"
+		"text": "You arrive at an abandoned military camp. The place seems deserted, the sandbag barriers are unmanned. Why did the Germans abandon the camp? \n\nAs if in response to your unspoken question, the camp suddenly springs to life: Soldiers jump out from behind barrels and tents. They point their rifles at you! You have walked into a trap!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Disadvantage_C_Intro",
-		"text": "O acampamento militar à sua frente parece deserto, mas você desconfia do silêncio. Você se aproxima com cuidado...\n\n… e vai direto para uma emboscada nazista! Um destacamento de soldados emerge das tendas com armas em punho e sorrisos zombeteiros em seus rostos!"
+		"text": "The military camp in front of you appears deserted, but you are suspicious of the silence. You approach carefully...\n\n… and walk right into a Nazi ambush! A detachment of soldiers emerges from the tents with weapons drawn and mocking grins on their faces!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Disadvantage_D_Intro",
-		"text": "Você se depara com um acampamento militar alemão. Não há uma alma humana para ser vista em toda parte. O acampamento parece ter sido abandonado às pressas – o que aconteceu aqui? \n\nAo começar a procurar respostas no acampamento, você de repente percebe que cometeu um erro terrível: você caiu em uma armadilha alemã, enquanto soldados emergem das sombras com armas em punho!"
+		"text": "You come across a German military camp. There isn’t a human soul to be seen far and wide. The camp looks like it was abandoned in a hurry – what happened here? \n\nAs you start to search the camp for answers you suddenly realize you have made a terrible mistake: You have fallen into a German trap, as soldiers emerge from the shadows with weapons drawn!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Disadvantage_E_Intro",
-		"text": "Você vê o acampamento militar abandonado à distância. Todas as pistas apontam para uma partida precipitada. Esperando por mais informações, você começa a procurar no acampamento. \n\nSomente quando você vê soldados saindo de suas tendas com suas armas em punho, você percebe que caiu em uma armadilha!"
+		"text": "You spot the abandoned military camp from a distance. All the clues point to a hasty departure. Hoping for further insights, you start to search the camp. \n\nOnly when you see soldiers stepping out of their tents with their guns drawn, do you realize that you've fallen into a trap!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Disadvantage_F_Intro",
-		"text": "Um silêncio fantasmagórico paira sobre o acampamento fortificado à sua frente. Com sua curiosidade aguçada, você começa a procurar no local.\n\nDe repente, você vê movimento no acampamento -é uma emboscada!"
+		"text": "A ghostly silence hangs over the fortified camp in front of you. Your curiosity piqued, you begin to search the place.\n\nYou suddenly see movement in the camp - it’s an ambush!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Neutral_A_Intro",
-		"text": "No momento em que você vira a esquina, a sentinela atrás dos sacos de areia o localiza e soa o alarme! Você assustou uma unidade de soldados alemães que construíram um acampamento fortificado aqui!"
+		"text": "The moment you turn the corner, the sentry behind the sandbags spots you and sounds the alarm! You have startled a unit of German soldiers who have built a fortified camp here!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Neutral_B_Intro",
-		"text": "À sua frente, um destacamento de soldados alemães está agachado em um acampamento militar! Eles viram você e estão se escondendo atrás de seus sacos de areia! Momentos depois, eles abrem fogo!"
+		"text": "Up ahead of you, a detachment of German soldiers are hunkered down in a military camp! They have spotted you and are taking cover behind their sandbags! Moments later, they open fire!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Neutral_C_Intro",
-		"text": "Você vê sacos de areia empilhados para fornecer cobertura improvisada. Você ouve um grito alto e o acampamento fortificado ganha vida imediatamente. Você mergulha para se proteger -momentos depois as balas começam a voar!"
+		"text": "You see sandbags piled up to provide improvised cover. You hear a loud cry and the fortified camp springs to life immediately. You dive for cover – moments later the bullets begin to fly!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Neutral_D_Intro",
-		"text": "Ao se aproximar sorrateiramente do acampamento fortificado, você é avistado! Os soldados em repouso estão tão surpresos quanto você! Eles freneticamente pegam suas armas e abrem fogo! Você corre para se proteger e responde ao fogo!"
+		"text": "As you sneak up on the fortified camp, you are spotted! The resting soldiers are as surprised as you are! They frantically grab their weapons and open fire! You rush for cover and return fire!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Neutral_E_Intro",
-		"text": "Os soldados no acampamento militar à frente ainda não o notaram, então você decide se retirar. De repente, você ouve um grito alto: Os guardas viram você! Os alemães pegam suas armas enquanto você mergulha para se proteger!"
+		"text": "The soldiers in the military camp up ahead have not noticed you yet, so you decide to withdraw. Suddenly, you hear a loud cry: The guards have spotted you! The Germans grab their weapons as you dive for cover!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Neutral_F_Intro",
-		"text": "Se você pensou que poderia entrar no acampamento militar sem ser visto, você se enganou! Os soldados viram você e estão se preparando para a batalha!"
+		"text": "If you thought you could sneak into the military camp unseen, you were mistaken! The soldiers have seen you and are preparing for battle!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_Choice01",
-		"text": "Ataque"
+		"text": "Attack"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_Choice02",
-		"text": "Retirar"
+		"text": "Withdraw"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_A_Intro",
-		"text": "Você vê um acampamento fortificado do exército alemão. Os guardas de aparência entediada estão vadiando – eles não estão esperando um ataque!"
+		"text": "You see a fortified German Army camp. The bored-looking guards are lounging around – they are not expecting an attack!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_B_Intro",
-		"text": "Um grupo de soldados está escondido atrás de sacos de areia em um acampamento fortificado. Eles ainda não notaram você!"
+		"text": "A group of soldiers is dug in behind sandbags in a fortified camp. They have not noticed you yet!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_C_Intro",
-		"text": "Uma unidade de soldados alemães está entrincheirada atrás de sacos de areia à sua frente. Os soldados estão parados em pequenos grupos e parecem estar conversando profundamente -eles não notaram você!"
+		"text": "A unit of German soldiers is dug in behind sandbags up ahead of you. The soldiers are standing around in small groups and seem to be deep in conversation – they have not noticed you!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_D_Intro",
-		"text": "De longe você pode ouvir comandos ecoando no ar do deserto. Você avança cautelosamente e descobre sacos de areia e ninhos de metralhadoras -os soldados estão construindo um acampamento fortificado aqui!"
+		"text": "From afar you can hear commands echoing in the desert air. You cautiously sneak forward and discover sandbags and machine gun nests – the soldiers are building a fortified camp here!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_E_Intro",
-		"text": "O grande grupo de soldados no acampamento fortificado não considerou necessário montar guarda -um erro grave!"
+		"text": "The large group of soldiers in the fortified camp did not consider it necessary to set a guard – a serious mistake!"
 	},
 	{
 		"id": "BE_GenericNaziCamp01_Advantage_F_Intro",
-		"text": "De alguma distância, você avista um grande acampamento fortificado no deserto sem fim. Você se aproxima cuidadosamente -os soldados não o viram!"
+		"text": "From some distance away, you spot a large fortified camp in the endless desert. You carefully creep closer – the soldiers have not seen you!"
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_Choice01",
-		"text": "Abrir fogo de uma emboscada"
+		"text": "Open fire from an ambush"
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_Choice02",
-		"text": "Continue sua jornada"
+		"text": "Continue your journey"
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_A_Intro",
-		"text": "A areia recém-revolvida e as pegadas ao redor da entrada levam a apenas uma conclusão: as antigas cisternas deste assentamento abandonado recebem visitantes! \n\nVocê cede à sua curiosidade e desce cuidadosamente nas antigas ruínas. Você logo vê um esquadrão de soldados trabalhando nas paredes em ruínas. Eles ainda não notaram você!"
+		"text": "The freshly churned up sand and footprints around the entrance lead to just one conclusion: The ancient cisterns of this abandoned settlement have visitors! \n\nYou give in to your curiosity and carefully descend into the old ruins. You soon spot a squad of soldiers at work on the crumbling walls. They have not noticed you yet!"
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_B_Intro",
-		"text": "A antiga casa do poço recebeu um tratamento rude: potes de barro foram quebrados e a porta aberta está pendurada nas dobradiças. Os perpetradores ainda poderiam estar no poço? \n\nPouco tempo depois, você se aproxima furtivamente de um esquadrão de soldados. Eles permanecem alheios à sua aproximação e continuam batendo nas paredes das cavernas sob o poço."
+		"text": "The ancient well house has taken some rough treatment: Clay jars have been smashed and the open door hangs from its hinges. Could the perpetrators still be in the well shaft? \n\nA short time later, you sneak up on a squad of soldiers. They remain oblivious to your approach and keep tapping on the walls of the caverns under the well."
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_C_Intro",
-		"text": "Vozes abafadas se elevam das profundezas do poço abandonado. Você prepara suas armas e decide investigar.\n\nVocê desce às profundezas e se aproxima furtivamente de um grupo de soldados vagando pelas cisternas úmidas."
+		"text": "Muted voices rise from the depths of the abandoned well. You ready your weapons and decide to investigate.\n\nYou descend into the depths and sneak up on a group of soldiers wandering through the dank cisterns."
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_D_Intro",
-		"text": "As pegadas que você segue levam às fundações de uma cisterna de água abandonada. Você entra cuidadosamente na estrutura para descobrir mais sobre seus visitantes misteriosos.\n\nVocê logo descobre uma tropa de soldados exaustos nos corredores úmidos do extenso sistema de cisternas de água."
+		"text": "The footprints you have been following lead to the foundations of an abandoned water cistern. You carefully enter the structure to find out more about its mysterious visitors.\n\nYou soon discover a troop of soldiers lying exhausted in the dank corridors of the extensive system of water cisterns."
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_E_Intro",
-		"text": "Você ouve gritos altos nas proximidades e se protege. Você se aproxima cautelosamente e avista uma grande unidade de soldados entrando em uma caverna. \n\nVocê espera alguns minutos antes de segui-los. Você encontra os soldados novamente em uma junção de túnel. Eles ainda não notaram você!"
+		"text": "You hear loud shouts nearby and take cover. You cautiously sneak closer and spot a large unit of soldiers entering a cave. \n\nYou wait a few minutes before following them. You come across the soldiers again at a tunnel junction. They still have not noticed you!"
 	},
 	{
 		"id": "BE_GenericNaziSewerAdvant01_F_Intro",
-		"text": "Você explora as ruínas de uma vila abandonada e descobre a entrada semienterrada de um antigo sistema labiríntico de cisternas de água.\n\nVocê se aproxima cuidadosamente e descobre uma grande seção de soldados alemães. Eles estão completamente inconscientes de sua abordagem..."
+		"text": "You explore the ruins of an abandoned village and discover the half-buried entrance to an ancient, labyrinthine system of water cisterns.\n\nYou carefully creep closer and discover a large section of German soldiers. They are completely unaware of your approach..."
 	},
 	{
 		"id": "BE_GenericNaziSewerDisadv01_A_Intro",
-		"text": "Você se depara com um oásis deserto, meio enterrado na areia do deserto. Após uma busca rápida, você descobre que o poço seco leva mais para o subsolo. Você começa sua descida.\n\nVocê logo chega a um cruzamento importante onde os túneis úmidos convergem -um som repentino o assusta e você gira para ver: uma unidade de soldados com armas em punho! \n\nÉ uma emboscada!"
+		"text": "You come across a deserted oasis, half buried in the desert sand. After a quick search, you discover that the dried-out well shaft leads further underground. You start your descent.\n\nYou soon reach a major junction where the dank tunnels converge – a sudden sound startles you and you spin around to see: a unit of soldiers with weapons drawn! \n\nIt’s an ambush!"
 	},
 	{
 		"id": "BE_GenericNaziSewerDisadv01_B_Intro",
-		"text": "Além da próxima duna de areia, você tropeça na entrada de um antigo sistema de cisternas! Você faz uma breve pausa para consultar seus companheiros.\n\nVocê começa a explorar o sistema e cai direto em uma emboscada alemã!"
+		"text": "Beyond the next sand dune, you stumble across the entrance to an old system of cisterns! You pause briefly to consult with your companions.\n\nYou set out to explore the system – and run straight into a German ambush!"
 	},
 	{
 		"id": "BE_GenericNaziSewerDisadv01_C_Intro",
-		"text": "A entrada para o sistema de cisternas parece deserta há muito tempo. Impulsionado pela curiosidade, você desce na escuridão.\n\nDepois de algum tempo vagando, você finalmente chega a uma junção entre o extenso sistema de túneis. De repente, você é emboscado por uma unidade de soldados alemães que o segue sem ser notado.!"
+		"text": "The entrance to the system of cisterns seems long deserted. Driven by curiosity, you descend into the darkness.\n\nAfter some time wandering around, you finally reach a junction among the sprawling system of tunnels. Suddenly, you are ambushed by a unit of German soldiers who have been following you unnoticed!"
 	},
 	{
 		"id": "BE_GenericNaziSewerDisadv01_D_Intro",
-		"text": "Entre as dunas de areia, você se depara com as paredes externas de um trailer abandonado. Lá dentro, você encontra uma descida estreita para as cisternas.\n\nVocê explora os cursos de água subterrâneos e finalmente entra na abóbada principal, onde a água se acumula desde tempos incalculáveis. \n\nInfelizmente, você se depara com as armas de um esquadrão de soldados, que claramente encontraram outra maneira de entrar!"
+		"text": "Between the sand dunes, you come across the outer walls of an abandoned caravansary. Inside, you find a narrow descent into the cisterns.\n\nYou explore the subterranean watercourses and finally enter the main vault, where the water has collected since time untold. \n\nUnfortunately, you run directly into the guns of a squad of soldiers, who clearly found another way in!"
 	},
 	{
 		"id": "BE_GenericNaziSewerDisadv01_E_Intro",
-		"text": "Você encontra uma escada de corda que desce até o poço seco. Você prepara suas armas e avança pelas cisternas até finalmente chegar a um cruzamento.\n\nInfelizmente, você fez barulho o suficiente para alertar os soldados alemães que estão esperando em emboscada!"
+		"text": "You find a rope ladder leading down into the dried-out well. You ready your weapons and advance through the cisterns until you finally arrive at a junction.\n\nUnfortunately, you were noisy enough to alert the German soldiers who are waiting in ambush!"
 	},
 	{
 		"id": "BE_GenericNaziSewerDisadv01_F_Intro",
-		"text": "Apenas alguns edifícios na aldeia ainda estão de pé. Em um deles, você encontra um poço profundo com uma longa escada encostada na lateral.\n\nVocê começa a explorar o que logo se torna um vasto sistema subterrâneo de túneis de água. Pouco tempo depois, você está olhando para os canos de vários rifles alemães -você caiu em uma emboscada!"
+		"text": "Only a few buildings in the village are still standing. In one of them, you find a deep shaft with a long ladder leaning against its side.\n\nYou start to explore what soon turns out to be a vast underground system of water tunnels. A short time later, you are staring down the barrels of several German rifles - you have walked into an ambush!"
 	},
 	{
 		"id": "BE_GenericNaziSewerNeutral01_A_Intro",
-		"text": "À sua frente, as ruínas de um trailer abandonado erguem-se das areias do deserto! Você vasculha os prédios e encontra um alçapão que leva a um sistema subterrâneo de túneis de água. \n\nAo finalmente chegar a uma extensa abóbada onde a água salobra converge, você ouve um grito alto! Você foi descoberto por um esquadrão de soldados alemães!"
+		"text": "Up ahead of you, the ruins of an abandoned caravansary rise from the desert sands! You search the buildings and find a trapdoor that leads to an underground system of water tunnels. \n\nAs you finally reach a sprawling vault where the brackish water converges, you hear a loud shout! You have been discovered by a squad of German soldiers!"
 	},
 	{
 		"id": "BE_GenericNaziSewerNeutral01_B_Intro",
-		"text": "A entrada para o sistema subterrâneo de cisternas de água foi arrombada. Com as armas em punho, você desce uma escada íngreme e estreita.\n\nNo interior, suas suspeitas são confirmadas: um esquadrão de soldados está reabastecendo seus suprimentos de água aqui! Eles viram você!"
+		"text": "The entrance to the underground system of water cisterns has been smashed in. With weapons drawn, you descend a steep, narrow staircase.\n\nInside, your suspicions are confirmed: A squad of soldiers are replenishing their water supplies here! They have seen you!"
 	},
 	{
 		"id": "BE_GenericNaziSewerNeutral01_C_Intro",
-		"text": "O poço antigo e dilapidado secou há muitos anos. Você vê um túnel lateral que se ramifica do fundo do poço e decide descer de rapel até ele.\n\nAo entrar na cisterna principal, você vê uma sentinela alemã de aparência entediada encostada em uma parede. Ele também vê você e alerta seus companheiros!"
+		"text": "The ancient, dilapidated well dried up many years ago. You see a side tunnel that branches off from the bottom of the well and you decide to rappel down to it.\n\nAs you enter the main cistern, you see a bored-looking German sentry leaning against a wall. He spots you too and alerts his comrades!"
 	},
 	{
 		"id": "BE_GenericNaziSewerNeutral01_D_Intro",
-		"text": "Mesmo à distância, a silhueta do caravançará quebra a monotonia do horizonte desértico. Ao entrar, você encontra um túnel que o leva a um sistema subterrâneo de cisternas de água.\n\nDe repente, você ouve passos à sua frente. Antes que você possa reagir, um soldado aparece na esquina! Ele imediatamente alerta o resto de sua unidade!"
+		"text": "Even from a distance, the silhouette of the caravansary breaks the monotony of the desert horizon. As you enter it, you find a tunnel that leads you to an underground system of water cisterns.\n\nSuddenly, you hear footsteps ahead of you. Before you can react, a soldier comes around the corner! He immediately alerts the rest of his unit!"
 	},
 	{
 		"id": "BE_GenericNaziSewerNeutral01_E_Intro",
-		"text": "Você percebe um poço de mina de aparência estranha. A entrada está meio enterrada, mas você consegue se espremer.\n\nNo interior, você segue um corredor íngreme que leva a um extenso sistema de túneis de água. Você encontra um grupo de soldados alemães, que procuram água potável aqui. Os soldados inimigos abrem fogo!"
+		"text": "You notice a strange-looking mine shaft. The entrance is half buried, but you manage to squeeze through.\n\nInside, you follow a steep corridor that leads to an extensive system of water tunnels. You come across a group of German soldiers, who are looking for drinking water here. The enemy soldiers open fire!"
 	},
 	{
 		"id": "BE_GenericNaziSewerNeutral01_F_Intro",
-		"text": "Você vê um único soldado descendo por uma corda em um poço no deserto. Movido por uma mistura de curiosidade e emoção da perseguição, você decide segui-lo.\n\nAbaixo, você descobre uma verdadeira rede de túneis -mas, infelizmente, também assusta um grupo de soldados que esperavam aqui por seu camarada . Parece que uma luta é inevitável!"
+		"text": "You see a single soldier descending on a rope into a desert well. Driven by a mixture of curiosity and the thrill of the chase, you decide to follow him.\n\nBelow, you discover a veritable network of tunnels - but unfortunately, you also startle a group of soldiers who have been waiting here for their comrade. It seems like a fight is unavoidable!"
 	},
 	{
 		"id": "BE_NaziExcavation01_Intro",
-		"text": "Você se depara com um local de escavação alemão. À primeira vista, parece abandonado há muito tempo, mas então você percebe algumas latas vazias no chão.[CTP]\n\nUma rápida investigação revela que as provisões foram abertas recentemente. Os alemães provavelmente estão em algum lugar dentro do complexo do templo. O que você quer fazer?"
+		"text": "You come across a German excavation site. At first glance, it appears long-abandoned, but then you notice some empty cans on the ground.[CTP]\n\nA quick investigation reveals that the provisions were opened recently. The Germans are probably somewhere inside the temple complex. What do you want to do?"
 	},
 	{
 		"id": "BE_NaziExcavation01_Choice01",
-		"text": "Procure os escavadores"
+		"text": "Look for the diggers"
 	},
 	{
 		"id": "BE_NaziExcavation01_Choice02",
-		"text": "Continue sua jornada"
+		"text": "Continue your journey"
 	},
 	{
 		"id": "BE_NaziExcavation01_Enter",
-		"text": "Você examina cuidadosamente a entrada que foi recentemente escavada nas areias do deserto. Então você avança silenciosamente pela passagem para o interior do complexo."
+		"text": "You cautiously examine the entrance that has recently been excavated from the desert sands. Then you advance quietly through the passage into the interior of the complex."
 	},
 	{
 		"id": "BE_NaziExcavation01_RE01_Advantage",
-		"text": "Você ouve o som de picaretas e pás à frente, então rasteja para a frente com cuidado, escondendo-se atrás das paredes e pilares. Você chega a um salão espaçoso e faz uma pausa para avaliar a cena à sua frente: uma grande unidade de soldados alemães montou um local de escavação improvisado aqui -eles parecem estar procurando por algo. [CTP]\n\nEles estão tão absortos em seu trabalho que não notam você. Você para por um momento para decidir o que fazer."
+		"text": "You hear the sound of picks and shovels up ahead, so you creep forward carefully, hiding behind the walls and pillars. You reach a spacious hall and pause to assess the scene in front of you: A large unit of German soldiers have set up an improvised excavation site here – they appear to be looking for something. [CTP]\n\nThey are so engrossed in their work that they do not notice you. You stop for a moment to decide what to do."
 	},
 	{
 		"id": "BE_NaziExcavation01_RE01_Choice01",
-		"text": "Embosque seus inimigos"
+		"text": "Ambush your enemies"
 	},
 	{
 		"id": "BE_NaziExcavation01_RE01_Choice02",
-		"text": "Deixe o templo"
+		"text": "Leave the temple"
 	},
 	{
 		"id": "BE_NaziExcavation01_RE01_Loot",
-		"text": "Depois de se certificar de que o barulho da sua batalha não alertou nenhum outro inimigo, você explora o local. O eco de suas botas nas lajes empoeiradas do salão é amplificado mil vezes pelas paredes de pedra – a atmosfera opressiva pesa sobre você. Você pode sentir os séculos de silêncio mortal em seus ombros. [CTP]\n\nVocê logo esquece seu desconforto quando o brilho de suas lanternas cai sobre vasos de barro ornamentados cheios de objetos funerários colocados ao pé dos pilares!"
+		"text": "After making sure that the noise of your battle has not alerted any other enemies, you explore the site. The echo of your boots on the hall’s dusty flagstones is amplified a thousandfold by the stone walls – the oppressive atmosphere weighs on you. You can feel the centuries of deathly silence on your shoulders. [CTP]\n\nYou soon forget your discomfort when the glow of your lanterns falls on ornate clay pots full of burial objects placed at the foot of the pillars!"
 	},
 	{
 		"id": "BE_NaziExcavation01_RE01_Withdraw",
-		"text": "Silenciosamente, você recua para as sombras. Pouco tempo depois, você chega ao ar livre novamente sem incidentes. Você escapa sem ser visto e segue em frente."
+		"text": "Silently, you draw back into the shadows. A short time later, you reach the open air again without incident. You escape unseen and move on."
 	},
 	{
 		"id": "BE_NaziExcavation01_RE02_Neutral",
-		"text": "Ao virar uma esquina, um grito alto faz você pular – a próxima sala é ocupada por um grande grupo de soldados alemães! Uma das sentinelas avistou você e está alertando seus companheiros. Prepare-se para fazer a batalha!"
+		"text": "As you turn a corner, a loud shout makes you jump – the next room is occupied by a large group of German soldiers! One of the sentries has spotted you and is alerting his comrades. Prepare to do battle!"
 	},
 	{
 		"id": "BE_NaziExcavation01_RE02_Loot",
-		"text": "De longe, você vê o enorme sarcófago que domina toda a sala, cercado por pilares. Você se aproxima do colossal caixão de pedra e o examina cuidadosamente. O sarcófago sobreviveu a milênios intocado por ladrões de túmulos! [CTP]\n\nTrabalhando juntos, vocês conseguem levantar a pesada tampa de pedra – com o coração na boca, vocês finalmente olham para dentro!"
+		"text": "From a distance, you see the massive sarcophagus that dominates the entire room, surrounded by pillars. You approach the colossal stone coffin and examine it carefully. The sarcophagus has survived the millennia untouched by grave robbers! [CTP]\n\nWorking together, you manage to lift the heavy stone lid aside – with your heart in your mouth, you finally peer inside!"
 	},
 	{
 		"id": "BE_NaziDesertNeutral01_Intro",
-		"text": "Ao virar uma esquina, você fica cara a cara com uma unidade de soldados alemães que estão acampados aqui. Eles o localizam imediatamente -ordens em voz alta soam e os soldados correm freneticamente para pegar suas armas! Você usa os poucos momentos que lhe restam para mergulhar em busca de cobertura.\n\nMomentos depois, você está envolvido em uma batalha desesperada pela sobrevivência."
+		"text": "As you turn a corner, you come face to face with a unit of German soldiers that are camped here. They spot you immediately – loud orders ring out and soldiers rush frantically to seize their weapons! You use the few moments you have left to dive for cover.\n\nMoments later, you are engaged in a desperate battle for survival."
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_Intro",
-		"text": "Você vê uma grande tropa de soldados alemães que montaram acampamento aqui. Eles não parecem ter notado você ainda."
+		"text": "You spot a large troop of German soldiers who have set up camp here. They do not seem to have noticed you yet."
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_Choice01",
-		"text": "Abrir fogo"
+		"text": "Open fire"
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_Choice02",
-		"text": "Pesquisar suprimentos inimigos"
+		"text": "Search enemy supplies"
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_Choice03",
-		"text": "Retirar"
+		"text": "Withdraw"
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_StealthW",
-		"text": "[char0] se esgueira até o depósito de suprimentos inimigo e o procura silenciosamente. Depois do que parece uma eternidade, ele reaparece e apresenta seus espólios com alegria."
+		"text": "[char0] sneaks up to the enemy supply dump and searches it silently. After what seems like an eternity, he reappears and presents his spoils with glee."
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_StealthW_female",
-		"text": "[char0] se esgueira até o depósito de suprimentos inimigo e o procura silenciosamente. Depois do que parece uma eternidade, ela reaparece e apresenta seus espólios com alegria."
+		"text": "[char0] sneaks up to the enemy supply dump and searches it silently. After what seems like an eternity, she reappears and presents her spoils with glee."
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_StealthF",
-		"text": "[char0] foge e logo desaparece de vista. De repente você ouve gritos e tiros! Apressadamente, você se prepara para lutar!"
+		"text": "[char0] sneaks off and soon disappears from sight. You suddenly hear shouting and shooting! Hastily, you prepare to fight!"
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_StealthF_female",
-		"text": "[char0] foge e logo desaparece de vista. De repente você ouve gritos e tiros! Apressadamente, você se prepara para lutar!"
+		"text": "[char0] sneaks off and soon disappears from sight. You suddenly hear shouting and shooting! Hastily, you prepare to fight!"
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_Mishap",
-		"text": "Ao se retirar, [char1] tropeça em uma pilha de pedras. Os soldados saltam em alarme!"
+		"text": "As you withdraw, [char1] stumbles over a pile of rocks. The soldiers jump up in alarm!"
 	},
 	{
 		"id": "BE_NaziDesertAdvantage01_Mishap_female",
-		"text": "Ao se retirar, [char1] tropeça em uma pilha de pedras. Os soldados saltam em alarme!"
+		"text": "As you withdraw, [char1] stumbles over a pile of rocks. The soldiers jump up in alarm!"
 	},
 	{
 		"id": "BE_NaziDesertDisadvantage01_Intro",
-		"text": "Você se aproxima cuidadosamente do acampamento abandonado. Algumas marcas de pneus e uma fogueira apagada são tudo o que seus ocupantes anteriores deixaram para trás.."
+		"text": "You carefully approach the abandoned camp. A few tire marks and an extinguished campfire are all that its previous occupants left behind."
 	},
 	{
 		"id": "BE_NaziDesertDisadvantage01_Ambushed",
-		"text": "[char0] empurra um dedo para as cinzas: \"Eles não se foram há muito tempo.\"\n\n[char1] (escondido nas sombras): \"Isso mesmo, gênio!\" \n\nVocê se vira e olha para baixo meia dúzia de canos de rifle apontados diretamente para você!"
+		"text": "[char0] pushes a finger into the ashes: \"They haven’t been gone long.\"\n\n[char1] (hidden in the shadows): \"That's right, genius!\" \n\nYou turn around and stare down half a dozen rifle barrels pointed right at you!"
 	},
 	{
 		"id": "BE_NaziDesertDisadvantage01_Ambushed_female",
-		"text": "[char0] empurra um dedo para as cinzas: \"Eles não se foram há muito tempo.\"\n\n[char1] (escondido nas sombras): \"Isso mesmo, gênio!\" \n\nVocê se vira e olha para baixo meia dúzia de canos de rifle apontados diretamente para você!"
+		"text": "[char0] pushes a finger into the ashes: \"They haven’t been gone long.\"\n\n[char1] (hidden in the shadows): \"That's right, genius!\" \n\nYou turn around and stare down half a dozen rifle barrels pointed right at you!"
 	},
 	{
 		"id": "BE_NaziDesertDisadvantage01_DetectW",
-		"text": "[char2]: \"Algo está errado aqui... Rápido, proteja-se!\" \n\nUma voz ligeiramente desapontada soa das sombras: \n\n[char1]: \"Ah bem, nem sempre funciona... continue, agarrá-los!\""
+		"text": "[char2]: \"Something's wrong here... Quick, take cover!\" \n\nA slightly disappointed voice sounds from the shadows: \n\n[char1]: \"Ah well, it doesn’t always work... go on, seize them!\""
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_Intro",
-		"text": "À sombra de um palmeiral, você se esgueira até o acampamento inimigo. Ao espiar por entre os arbustos, você vê um sítio arqueológico extenso e aparentemente deserto. Mas então você vê alguns guardas patrulhando a área."
+		"text": "In the shade of a palm grove, you sneak up to the enemy camp. As you peer through the bushes, you see a sprawling, apparently deserted archaeological site. But then you spot a few guards patrolling the area."
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_Ambushed",
-		"text": "Quando você está prestes a discutir o que fazer a seguir, ouve um clique metálico atrás de você. Você se vira consternado ao ver meia dúzia de rifles apontados diretamente para você! [CTP]\n\nO esquadrão de soldados alemães tem um prisioneiro. Um policial fica de lado: \n\n[char0]: \"Sempre vale a pena ser minucioso!\""
+		"text": "Just as you are about to discuss what to do next, you hear a metallic click behind you. You turn around in dismay to see half a dozen rifles pointed right at you!  [CTP]\n\nThe squad of German soldiers has a prisoner. An officer stands off to one side: \n\n[char0]: \"It always pays to be thorough!\""
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_Choice01",
-		"text": "Ataque"
+		"text": "Attack"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_Choice02",
-		"text": "Tome o refém oficial"
+		"text": "Take the officer hostage"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_DaredevilW",
-		"text": "Como num passe de mágica, [char1] de repente está parado ao lado do oficial inimigo. Um momento depois, ele o agarra e o usa como escudo humano. Uma lâmina brilha em sua mão livre. [CTP]\n\n[char1]: \"Eu chamaria isso de situação clássica de impasse. Que tal: vocês homens larguem suas armas e dêem três passos para trás?\"\n\n[char0]: \"Faça como ele diz!\""
+		"text": "As if by magic, [char1] is suddenly standing beside the enemy officer. A moment later he seizes him and uses him as a human shield. A blade flashes in his free hand. [CTP]\n\n[char1]: \"I’d call this a classic standoff situation. How about: you men drop your weapons and take three steps back?\"\n\n[char0]: \"Do as he says!\""
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_DaredevilW_female",
-		"text": "Como num passe de mágica, [char1] de repente está parado ao lado do oficial inimigo. Um momento depois ela o agarra e o usa como um escudo humano. Uma lâmina brilha em sua mão livre. [CTP]\n\n[char1]: \"Eu chamaria isso de situação clássica de impasse. Que tal: vocês homens larguem suas armas e dêem três passos para trás?\"\n\n[char0]: \"Faça o que ela diz!\""
+		"text": "As if by magic, [char1] is suddenly standing beside the enemy officer. A moment later she seizes him and uses him as a human shield. A blade flashes in her free hand. [CTP]\n\n[char1]: \"I’d call this a classic standoff situation. How about: you men drop your weapons and take three steps back?\"\n\n[char0]: \"Do as she says!\""
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_Attack",
-		"text": "Um forte golpe na nuca faz o comandante dormir. Você mergulha para se proteger e abre fogo contra os soldados restantes!"
+		"text": "A sharp blow to the back of the head sends the commander to sleep. You dive for cover and open fire on the remaining soldiers!"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_Choice03",
-		"text": "Liberte o prisioneiro e retire-se"
+		"text": "Free prisoner and withdraw"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_Withdraw",
-		"text": "[char1]: \"Nós também gostaríamos do prisioneiro -você acha que pode providenciar isso?\"\n\n[char0]: \"Acho que sim...\"\n\nVocê pega o prisioneiro e saia rapidamente do alcance dos rifles inimigos. Você se retira, mantendo seu oficial como refém. [CTP]\n\nFora da vista do acampamento, você o revista rapidamente antes de nocauteá-lo com um golpe certeiro na nuca. \n\nApressadamente, você continua sua jornada, mas não vê sinal dos soldados inimigos."
+		"text": "[char1]: \"We would also like the prisoner – do you think you can arrange that?\"\n\n[char0]: \"I suppose so...\"\n\nYou take the prisoner and quickly get out of range of the enemy rifles. You withdraw, keeping your officer hostage. [CTP]\n\nOut of sight of the camp, you search him quickly before knocking him out with a sharp blow to the back of the head. \n\nHastily, you continue your journey, but see no sign of the enemy soldiers."
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_DaredevilF",
-		"text": "Desesperadamente, [char1] mergulha em direção ao oficial inimigo, mas erra feio quando o comandante desvia no último momento. Os alemães abrem fogo!"
+		"text": "Desperately, [char1] dives towards the enemy officer but misses badly as the commander sidesteps at the last moment. The Germans open fire!"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE01_DaredevilF_female",
-		"text": "Desesperadamente, [char1] mergulha em direção ao oficial inimigo, mas erra feio quando o comandante desvia no último momento. Os alemães abrem fogo!"
+		"text": "Desperately, [char1] dives towards the enemy officer but misses badly as the commander sidesteps at the last moment. The Germans open fire!"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE02_Unseen",
-		"text": "Você percebe um grande destacamento chegando de uma missão de reconhecimento com um prisioneiro a reboque. Por causa das sentinelas, você não pode se aproximar. O que você quer fazer?"
+		"text": "You notice a large detachment arriving from a reconnaissance mission with a prisoner in tow. Because of the sentries, you cannot sneak any closer. What do you want to do?"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE02_Choice01",
-		"text": "Investigue o acampamento"
+		"text": "Investigate the camp"
 	},
 	{
 		"id": "CU_NaziExcavationPrisoner01_RE02_Choice02",
-		"text": "Retirar"
+		"text": "Withdraw"
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_Intro",
-		"text": "Você se esgueira em um acampamento improvisado da Wehrmacht. Soldados estão empilhando sacos de areia, cavando fossos de latrinas: há muita atividade. \n\nAo lado, você vê uma pequena paliçada de arame farpado com uma sentinela na frente dela -faça eles têm um prisioneiro? Você tenta decidir o que fazer."
+		"text": "You sneak up on an improvised Wehrmacht camp. Soldiers are piling sandbags, digging latrine ditches: there is a lot of activity. \n\nOff to one side, you see a small barbed wire stockade with a sentry in front of it – do they have a prisoner? You try to decide what to do."
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_Choice01",
-		"text": "Ataque surpresa"
+		"text": "Surprise attack"
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_Choice02",
-		"text": "Liberte o prisioneiro"
+		"text": "Free the prisoner"
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_Choice03",
-		"text": "Retirar"
+		"text": "Withdraw"
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_TrickNPC",
-		"text": "[char0] pigarreia e fica em posição de sentido. Então ele marcha confiante até a sentinela, que imediatamente dispara uma rodada! \n\n[char0] enfia a mão na mochila, tira um punhado de papéis amassados ​​e os mantém sob o nariz do guarda."
+		"text": "[char0] clears his throat and stands to attention. Then he marches confidently up to the sentry, who immediately chambers a round! \n\n[char0] reaches into his satchel, takes out a handful of crumpled papers and holds them under the guard's nose."
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_TrickNPC_female",
-		"text": "[char0] pigarreia e fica em posição de sentido. Então ela marcha confiante até a sentinela, que imediatamente dispara uma rodada! \n\n[char0] enfia a mão em sua bolsa, tira um punhado de papéis amassados ​​e os mantém sob o nariz do guarda."
+		"text": "[char0] clears her throat and stands to attention. Then she marches confidently up to the sentry, who immediately chambers a round! \n\n[char0] reaches into her satchel, takes out a handful of crumpled papers and holds them under the guard's nose."
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_TrickNPCW",
-		"text": "Enquanto o soldado examina os papéis, [char0] o derruba com um golpe hábil na têmpora!\n\nVocê prende a respiração, mas o resto do acampamento não percebeu. [char0] logo encontra as chaves do complexo e volta com o prisioneiro."
+		"text": "As the soldier scans the papers, [char0] lays him low with a deft blow to the temple!\n\nYou hold your breath, but the rest of the camp has not noticed. [char0] soon finds the keys to the compound and returns with the prisoner."
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_TrickNPCW_female",
-		"text": "Enquanto o soldado examina os papéis, [char0] o derruba com um golpe hábil na têmpora!\n\nVocê prende a respiração, mas o resto do acampamento não percebeu. [char0] logo encontra as chaves do complexo e volta com o prisioneiro."
+		"text": "As the soldier scans the papers, [char0] lays him low with a deft blow to the temple!\n\nYou hold your breath, but the rest of the camp has not noticed. [char0] soon finds the keys to the compound and returns with the prisoner."
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_TrickNPCF",
-		"text": "O soldado em pânico aponta sua arma em alarme e [char0] joga as mãos para o ar. Em segundos, todo o acampamento está alerta!"
+		"text": "The panicked soldier points his weapon in alarm and [char0] throws his hands in the air. Within seconds, the entire camp is alerted!"
 	},
 	{
 		"id": "CU_NaziDesertAdvantagePrisoner01_TrickNPCF_female",
-		"text": "O soldado em pânico aponta sua arma em alarme e [char0] joga as mãos para o ar. Em segundos, todo o acampamento está alerta!"
+		"text": "The panicked soldier points his weapon in alarm and [char0] throws her hands in the air. Within seconds, the entire camp is alerted!"
 	},
 	{
 		"id": "RE_PalmCopse01_Intro",
-		"text": "Você chega a um poço cercado por palmeiras e alguns arbustos secos. Além de algumas pegadas antigas, você não vê mais sinais de atividade. A água turva cheira a mofo, mas isso era de se esperar. \n\nEste seria um local adequado lugar para uma pausa. Você quer acampar aqui?"
+		"text": "You reach a waterhole surrounded by palm trees and some dry scrub. Apart from a few old hoof prints you see no further signs of activity. The cloudy water smells stale, but that was to be expected. \n\nThis would be a suitable place for a break. Do you want to camp here?"
 	},
 	{
 		"id": "RE_PalmCopse01_Choice01",
-		"text": "Descansar"
+		"text": "Rest up"
 	},
 	{
 		"id": "RE_PalmCopse01_Choice02",
-		"text": "Continue sua jornada"
+		"text": "Continue your journey"
 	},
 	{
 		"id": "RE_PalmCopse01_Rest",
-		"text": "Você monta acampamento e lubrifica suas armas para protegê-los da onipresente areia do deserto. Uma soneca rápida faz maravilhas. Depois de uma refeição simples, você parte novamente revigorado."
+		"text": "You pitch camp and oil your weapons to protect them from the ubiquitous desert sand. A quick nap works wonders. After a simple meal, you set off again reinvigorated."
 	},
 	{
 		"id": "GE_LockedWellChamber01_Intro",
-		"text": "O velho caravançará é cercado por um bosque de palmeiras crescidas. À primeira vista, você pode dizer que ninguém mora aqui há décadas: o lugar parece abandonado. O único som é o farfalhar das folhas de palmeira ressecadas ao vento."
+		"text": "The old caravansary is surrounded by a grove of overgrown palm trees. At first glance, you can tell that no one has lived here for decades: The place looks abandoned. The only sound is the rustling of parched palm leaves in the wind."
 	},
 	{
 		"id": "GE_LockedWellChamber01_Choice01",
-		"text": "Procurar o caravançarário"
+		"text": "Search the caravansary"
 	},
 	{
 		"id": "GE_LockedWellChamber01_Choice02",
-		"text": "Dê uma olhada nas dependências"
+		"text": "Take a look at the outbuildings"
 	},
 	{
 		"id": "GE_LockedWellChamber01_Choice03",
-		"text": "Continue sua jornada"
+		"text": "Continue your journey"
 	},
 	{
 		"id": "GE_LockedWellChamber01_Search",
-		"text": "Conforme você caminha pelas câmaras empoeiradas, suas primeiras impressões são confirmadas: o lugar está deserto. Você não encontra nada de valor e continua sua jornada."
+		"text": "As you pace through the dusty chambers, your first impressions are confirmed: the place is deserted. You find nothing of value and continue your journey."
 	},
 	{
 		"id": "GE_LockedWellChamber01_RawStrengthW",
-		"text": "Como você pensou, o caravançarário está deserto, mas um anexo trancado desperta sua curiosidade. [char0] olha a enorme porta de madeira de cima a baixo antes de abri-la com as próprias mãos como se fosse feita de papelão. [CTP] \n \nÀ medida que seus olhos se acostumam com a escuridão, você percebe que está parado na sala do poço. Você usa a corda para abaixar o balde de madeira no poço até ouvir um barulho: Água!"
+		"text": "As you thought, the caravansary is deserted, but a locked outbuilding arouses your curiosity. [char0] looks the massive wooden door up and down before heaving it open with his bare hands as if it were made of cardboard. [CTP] \n\nAs your eyes get used to the darkness, you realize that you're standing in the well room. You use the rope to lower the wooden bucket into the well until you hear a splash: Water!"
 	},
 	{
 		"id": "GE_LockedWellChamber01_RawStrengthW_female",
-		"text": "Como você pensou, o trailer está deserto, mas um anexo trancado desperta sua curiosidade. [char0] olha a enorme porta de madeira de cima a baixo antes de abri-la com as próprias mãos como se fosse feita de papelão. [CTP] \n \nÀ medida que seus olhos se acostumam com a escuridão, você percebe que está parado na sala do poço. Você usa a corda para abaixar o balde de madeira no poço até ouvir um barulho: Água!"
+		"text": "As you thought, the caravansary is deserted, but a locked outbuilding arouses your curiosity. [char0] looks the massive wooden door up and down before heaving it open with her bare hands as if it were made of cardboard. [CTP] \n\nAs your eyes get used to the darkness, you realize that you're standing in the well room. You use the rope to lower the wooden bucket into the well until you hear a splash: Water!"
 	},
 	{
 		"id": "GE_LockedWellChamber01_StatBoost",
-		"text": "A água tem um gosto delicioso. Ao partir novamente, você se sente milagrosamente revigorado..."
+		"text": "The water tastes delicious. As you set off again, you feel miraculously refreshed..."
 	},
 	{
 		"id": "CR_Brandy01_Intro",
-		"text": "Enquanto você está pedindo informações a um dos aldeões, de repente você ouve uma voz familiar chamando você:\n\n[char0]: \"Ei! Tire-me daqui!\" \n\nVocê olha em volta e vê [char0] acenando desesperadamente da janela gradeada de sua cela de prisão. [CTP]\n\n[char1]: \"[char0]! O que aconteceu?\"\n\n[char0]: \"Não faço ideia – em um momento estou bebendo, no momento seguinte acordo aqui.\"\n\n[char2]: \"Ele ficou cego bêbado e começou a destruir nossa pousada.\""
+		"text": "As you are asking one of the villagers for directions, you suddenly hear a familiar voice calling to you:\n\n[char0]: \"Hey! Get me out of here!\" \n\nYou look around and see [char0] waving desperately from the barred window of his prison cell. [CTP]\n\n[char1]: \"[char0]! What happened?\"\n\n[char0]: \"No idea – one moment I'm having a drink, the next thing I wake up here.\"\n\n[char2]: \"He got blind drunk and started smashing up our inn.\""
 	},
 	{
 		"id": "CR_Brandy01_Intro_female",
-		"text": "Enquanto você está pedindo informações a um dos aldeões, de repente você ouve uma voz familiar chamando você:\n\n[char0]: \"Ei! Tire-me daqui!\" \n\nVocê olha em volta e vê [char0] acenando desesperadamente da janela gradeada de sua cela de prisão. [CTP]\n\n[char1]: \"[char0]! O que aconteceu?\"\n\n[char0]: \"Não faço ideia – em um momento estou bebendo, no momento seguinte acordo aqui.\"\n\n[char2]: \"Ela ficou cega bêbado e começou a destruir nossa pousada.\""
+		"text": "As you are asking one of the villagers for directions, you suddenly hear a familiar voice calling to you:\n\n[char0]: \"Hey! Get me out of here!\" \n\nYou look around and see [char0] waving desperately from the barred window of her prison cell. [CTP]\n\n[char1]: \"[char0]! What happened?\"\n\n[char0]: \"No idea – one moment I'm having a drink, the next thing I wake up here.\"\n\n[char2]: \"She got blind drunk and started smashing up our inn.\""
 	},
 	{
 		"id": "CR_Brandy01_Choice01",
-		"text": "Acalmar a multidão"
+		"text": "Calm the mob"
 	},
 	{
 		"id": "CR_Brandy01_Choice02",
-		"text": "Continue sua jornada"
+		"text": "Continue your journey"
 	},
 	{
 		"id": "CR_Brandy01_Choice03",
-		"text": "Conduzir uma negociação difícil"
+		"text": "Drive a hard bargain"
 	},
 	{
 		"id": "CR_Brandy01_Recruit",
-		"text": "[char1]: \"Não podemos fazer algum tipo de... acordo? Talvez possamos cobrir pelo menos alguns dos custos.\"\n\n[char2]: \"Não vai ser barato!\"\n\nSuspirando, você paga a quantia necessária."
+		"text": "[char1]: \"Can’t we come to some kind of... arrangement? Perhaps we could cover at least some of the costs.\"\n\n[char2]: \"It won’t be cheap!\"\n\nSighing, you pay the required sum."
 	},
 	{
 		"id": "CR_Brandy01_Intimidate",
-		"text": "[char1]: \"Não podemos fazer algum tipo de... acordo? Talvez possamos cobrir pelo menos alguns dos custos.\"\n\n[char2]: \"Não vai ser barato!\" \n\n[char3] paira sobre o homem e balança a cabeça em reprovação ."
+		"text": "[char1]: \"Can’t we come to some kind of... arrangement? Perhaps we could cover at least some of the costs.\"\n\n[char2]: \"It won’t be cheap!\" \n\n[char3] looms over the man and shakes his head at him reproachfully."
 	},
 	{
 		"id": "CR_Brandy01_Intimidate_female",
-		"text": "[char1]: \"Não podemos fazer algum tipo de... acordo? Talvez possamos pagar pelo menos parte dos custos.\"\n\n[char2]: \"Não vai ser barato!\" \n\n[char3] paira sobre o homem e balança a cabeça em reprovação ."
+		"text": "[char1]: \"Can’t we come to some kind of... arrangement? Perhaps we could pay at least part of the costs.\"\n\n[char2]: \"It won’t be cheap!\" \n\n[char3] looms over the man and shakes her head at him reproachfully."
 	},
 	{
 		"id": "CR_Brandy01_IntimidateW",
-		"text": "[char2]: (meekly) \"Talvez eu possa te encontrar no meio do caminho.”"
+		"text": "[char2]: (meekly) \"Perhaps I might be able to meet you halfway.”"
 	},
 	{
 		"id": "CR_Brandy01_IntimidateF",
-		"text": "[char2]: \"Pague pelo dano, ou esqueça!\""
+		"text": "[char2]: \"Pay for the damage, or forget it!\""
 	},
 	{
 		"id": "CR_Parachute01_Intro",
-		"text": 
-"De longe, você vê uma silhueta volumosa e colorida balançando ao vento do deserto. O que é? Uma barraca? Uma vela? \n\nAo se aproximar, você percebe que é um paraquedas! Ao lado dele, você vê [char0] sentado confortavelmente no topo de uma duna. Ao vê-lo, ele se levanta e caminha lentamente em sua direção: [CTP]\n\n[char0]: \"Este sol do deserto é terrível para o avião! Eu estava procurando por você, mas o motor superaqueceu.\" \n\n[char0]: \"Felizmente, eu nunca voo sem meu pára-quedas. É um hábito que salvou minha pele mais de uma vez.\" \n\n[char0]: \"E aí, o que você acha? Você poderia usar uma mão extra?\""
+		"text": "From afar, you see a bulky, colorful silhouette flapping in the desert wind. What is it? A tent? A sail? \n\nAs you approach, you realize it’s a parachute! Next to it, you see [char0] sitting comfortably on the crest of a dune. When he sees you, he gets up and walks slowly towards you: [CTP]\n\n[char0]: \"This desert sun is terrible for the plane! I was looking for you, but the engine overheated.\" \n\n[char0]: \"Fortunately, I never fly without my parachute. It’s a habit that has saved my skin on more than one occasion.\" \n\n[char0]: \"So what do you think? Could you use an extra hand?\""
 	},
 	{
 		"id": "CR_Parachute01_Intro_female",
-		"text": 
-"De longe, você vê uma silhueta volumosa e colorida balançando ao vento do deserto. O que é? Uma barraca? Uma vela? \n\nAo se aproximar, você percebe que é um paraquedas! Ao lado dele, você vê [char0] sentado confortavelmente no topo de uma duna. Ao vê-lo, ela se levanta e caminha lentamente em sua direção: [CTP]\n\n[char0]: \"Este sol do deserto é terrível para o avião! Eu estava procurando por você, mas o motor superaqueceu.\" \n\n[char0]: \"Felizmente, eu nunca voo sem meu pára-quedas! É um hábito que salvou minha pele mais de uma vez.\" \n\n[char0]: \"E aí, o que você acha? Você poderia usar uma mão extra?\""
+		"text": "From afar, you see a bulky, colorful silhouette flapping in the desert wind. What is it? A tent? A sail? \n\nAs you approach, you realize it’s a parachute! Next to it, you see [char0] sitting comfortably on the crest of a dune. When she sees you, she gets up and walks slowly towards you: [CTP]\n\n[char0]: \"This desert sun is terrible for the plane! I was looking for you, but the engine overheated.\" \n\n[char0]: \"Fortunately, I never fly without my parachute! It’s a habit that has saved my skin on more than one occasion.\" \n\n[char0]: \"So what do you think? Could you use an extra hand?\""
 	},
 	{
 		"id": "CR_Parachute01_Choice01",
-		"text": "Recrutar"
+		"text": "Recruit"
 	},
 	{
 		"id": "CR_Parachute01_Choice02",
-		"text": "Continue sua jornada"
+		"text": "Continue your journey"
 	},
 	{
 		"id": "CR_Excavation01_Intro",
-		"text": 
-"Você faz uma pausa: o que é esse som estranho? Parece um martelar suave, ecoando pelo deserto rochoso! \n\nCurioso, você segue o som e logo se depara com as ruínas de um antigo templo. Apenas as paredes da fundação permanecem. Você vê um acampamento improvisado que alguém armou próximo a um pequeno local de escavação.[CTP] \n\n\nParado em um buraco -você vê [char0], batendo na parede com um martelo! Você mal pode acreditar em seus olhos. Quando ele vê você, o rosto de [char0] se ilumina: \n\n[char0]: \"Que coincidência!\"\n\n[char0]: \"Os nômades me contaram sobre essas ruínas. Eles tiveram a gentileza de me trazer aqui.\" [CTP]\n\n[char0]: \"Estou cavando há três dias, mas francamente acho que não vou encontrar nada aqui! \"\n\n[char0]: \"Se eu te conheço, provavelmente você está com problemas até o pescoço de novo -você precisa de ajuda?\""
+		"text": "You pause: what is that strange sound? It sounds like a soft hammering, echoing across the rocky wasteland! \n\nCurious, you follow the sound and soon come across an old temple ruin. Only the foundation walls remain. You see a makeshift camp that someone has pitched next to a small excavation site.[CTP] \n\n\nStanding in a pit - you see [char0], tapping on the wall with a hammer! You can barely believe your eyes. When he sees you, [char0]’s face lights up:  \n\n[char0]: \"What a coincidence!\"\n\n[char0]: \"Nomads told me about these ruins. They were kind enough to bring me here.\" [CTP]\n\n[char0]: \"I've been digging for three days now, but frankly I don’t think I’m going to find anything here!\"\n\n[char0]: \"If I know you, you're probably up to your neck in trouble again – do you need help?\""
 	},
 	{
 		"id": "CR_Excavation01_Intro_female",
-		"text": 
-"Você faz uma pausa: o que é esse som estranho? Parece um martelar suave, ecoando pelo deserto rochoso! \n\nCurioso, você segue o som e logo se depara com as ruínas de um antigo templo. Apenas as paredes da fundação permanecem. Você vê um acampamento improvisado que alguém montou próximo a um pequeno local de escavação.[CTP] \n\n\nDe pé em um buraco -você vê [char0], batendo na parede com um martelo! Você mal pode acreditar em seus olhos. Quando ela vê você, o rosto de [char0] se ilumina:\n \n[char0]: \"Que coincidência!\"\n\n[char0]: \"Os nômades me contaram sobre essas ruínas. Eles tiveram a gentileza de me trazer aqui.\" [CTP]\n\n[char0]: \"Estou cavando há três dias, mas francamente acho que não vou encontrar nada aqui! \"\n\n[char0]: \"Se eu te conheço, provavelmente você está com problemas até o pescoço de novo -você precisa de ajuda?\""
+		"text": "You pause: what is that strange sound? It sounds like a soft hammering, echoing across the rocky wasteland! \n\nCurious, you follow the sound and soon come across an old temple ruin. Only the foundation walls remain. You see a makeshift camp that someone has pitched next to a small excavation site.[CTP] \n\n\nStanding in a pit - you see [char0], tapping on the wall with a hammer! You can barely believe your eyes. When she sees you, [char0]’s face lights up:\n  \n[char0]: \"What a coincidence!\"\n\n[char0]: \"Nomads told me about these ruins. They were kind enough to bring me here.\" [CTP]\n\n[char0]: \"I've been digging for three days now, but frankly I don’t think I’m going to find anything here!\"\n\n[char0]: \"If I know you, you're probably up to your neck in trouble again – do you need help?\""
 	},
 	{
 		"id": "CR_Excavation01_Choice01",
-		"text": "Recrutar"
+		"text": "Recruit"
 	},
 	{
 		"id": "CR_Excavation01_Choice02",
-		"text": "Continue sua jornada"
+		"text": "Continue your journey"
 	},
 	{
 		"id": "CR_Expenses01_Intro",
-		"text": "Ao se aproximar das cabanas, você vê uma figura familiar acenando para você do meio da aldeia: \n\n[char0]: \"[char1]! Esse é realmente você? O que te traz aqui?\"\n\n[char1]: \"Ouvi dizer que você estava por aqui em algum lugar, então pensei que poderia precisar de ajuda.\" [CTP]\n\n[char0]: \"Talvez . Qual é o problema?\"\n\n[char1]: \"Bem, eu incorri em algumas despesas, se é que você me entende.\""
+		"text": "As you approach the huts, you see a familiar figure waving to you from the middle of the village: \n\n[char0]: \"[char1]! Is that really you? What brings you here?\"\n\n[char1]: \"I heard you were around here somewhere, so I thought you might need some help.\" [CTP]\n\n[char0]: \"Maybe. What’s the catch?\"\n\n[char1]: \"Well, I have incurred a few expenses, if you know what I mean.\""
 	},
 	{
 		"id": "CR_Expenses01_Intro_female",
-		"text": "Ao se aproximar das cabanas, você vê uma figura familiar acenando para você do meio da aldeia: \n\n[char0]: \"[char1]! Esse é realmente você? O que te traz aqui?\"\n\n[char1]: \"Ouvi dizer que você estava por aqui em algum lugar, então pensei que poderia precisar de ajuda.\" [CTP]\n\n[char0]: \"Talvez . Qual é o problema?\"\n\n[char1]: \"Bem, eu incorri em algumas despesas, se é que você me entende.\""
+		"text": "As you approach the huts, you see a familiar figure waving to you from the middle of the village: \n\n[char0]: \"[char1]! Is that really you? What brings you here?\"\n\n[char1]: \"I heard you were around here somewhere, so I thought you might need some help.\" [CTP]\n\n[char0]: \"Maybe. What’s the catch?\"\n\n[char1]: \"Well, I have incurred a few expenses, if you know what I mean.\""
 	},
 	{
 		"id": "CR_Expenses01_Choice01",
-		"text": "Recrutar"
+		"text": "Recruit"
 	},
 	{
 		"id": "CR_Expenses01_Choice02",
-		"text": "Continue sua jornada"
+		"text": "Continue your journey"
 	},
 	{
 		"id": "GE_Shadow01_Intro",
-		"text": 
-"Exausto por sua jornada, você descansa um pouco. Um farfalhar suave o desperta de seu sono -você deve ter cochilado! Você olha para cima e vê uma silhueta alta, esbelta e fantasmagórica, vestida da cabeça aos pés em preto colante seda.\n\n[char0]: \"Le Fantôme -isso é uma surpresa...\"\n\n[char0]: \"... mas provavelmente não é uma coincidência?\"[CTP]\n \nO estranho mascarado balança a cabeça lentamente. \n\n[char0]: \"Deixe-me adivinhar: você está em uma missão própria -e os detalhes não são da nossa conta, certo?\" \n\nA leve aceno de cabeça. Isso é um brilho divertido em seus olhos? O vento assobia silenciosamente através das ruínas em ruínas."
+		"text": "Exhausted by your journey, you take a short rest. A soft rustling rouses you from your slumber - you must have nodded off! You look up and see a tall, slender, ghostly silhouette, clad from head to toe in skin-tight black silk.\n\n[char0]: \"Le Fantôme - this is a surprise...\"\n\n[char0]: \"... but probably not a coincidence?\"[CTP]\n\nThe masked stranger shakes his head slowly. \n\n[char0]: \"Let me guess: You're on a mission of your own – and the details are none of our business, right?\" \n\nA slight nod. Is that an amused glint in his eyes? The wind whistles quietly through the crumbling ruins."
 	},
 	{
 		"id": "GE_Shadow01_Choice01",
-		"text": "Recrutar"
+		"text": "Recruit"
 	},
 	{
 		"id": "GE_Shadow01_Choice02",
-		"text": "Continue sua jornada"
+		"text": "Continue your journey"
 	},
 	{
 		"id": "ME_ParkedBeduinCar01_Intro",
-		"text": "Você chega aos prédios externos de um pequeno povoado. Uma surpresa espera por você no centro da vila: É um jipe ​​novinho em folha! Um homem de aparência mal-humorada está parado ao lado do veículo. [CTP]\n\n[char0]: \"Eu dei uma dúzia de bons camelos por este monte de lixo sem valor! Que vergonha!\"\n\nAlgo está errado com o jipe. Talvez esta seja uma oportunidade para você?"
+		"text": "You reach the outer buildings of a small settlement. A surprise awaits you at the center of the village: It’s a brand new jeep! An ill-tempered looking man stands beside the vehicle. [CTP]\n\n[char0]: \"I gave a dozen good camels for this worthless heap of junk! Shame be on my head!\"\n\nSomething is wrong with the jeep. Perhaps this is an opportunity for you?"
 	},
 	{
 		"id": "ME_ParkedBeduinCar01_Choice01",
-		"text": "comprar gasolina"
+		"text": "Buy gasoline"
 	},
 	{
 		"id": "ME_ParkedBeduinCar01_Choice02",
-		"text": "Continue sua jornada"
+		"text": "Continue your journey"
 	},
 	{
 		"id": "ME_ParkedBeduinCar01_Trade",
-		"text": "Você logo chega a um acordo: o homem vende toda a gasolina a um preço razoável."
+		"text": "You soon reach an agreement: The man sells you all his gas at a reasonable price."
 	},
 	{
 		"id": "GE_BuriedMerchant01_Intro",
-		"text": "Você vê um camelo solitário parado à sombra de um pequeno bosque de palmeiras. Ao se aproximar, você vê que o animal está amarrado. Você encontra vestígios de um acampamento, mas não de uma alma humana."
+		"text": "You see a lonely camel standing in the shade of a small grove of palm trees. As you approach, you see that the animal is tethered. You find traces of a camp, but not a human soul."
 	},
 	{
 		"id": "GE_BuriedMerchant01_Choice01",
-		"text": "Investigue o acampamento"
+		"text": "Investigate the camp"
 	},
 	{
 		"id": "GE_BuriedMerchant01_Choice02",
-		"text": "Continue sua jornada"
+		"text": "Continue your journey"
 	},
 	{
 		"id": "GE_BuriedMerchant01_Choice03",
-		"text": "Pesquise bem o local"
+		"text": "Search the place thoroughly"
 	},
 	{
 		"id": "GE_BuriedMerchant01_Search",
-		"text": "Você examina o terreno rochoso, mas não vê ninguém. Após um breve descanso, você continua sua jornada."
+		"text": "You scan the rocky terrain but do not see anyone. After a short rest, you continue on your journey."
 	},
 	{
 		"id": "GE_BuriedMerchant01_RawStrength",
-		"text": "Não muito longe do acampamento abandonado, você encontra uma fenda nos penhascos próximos ao bosque. Pode ser a entrada de uma caverna, mas foi soterrada por uma avalanche de pedras. Os destroços parecem ter caído recentemente."
+		"text": "Not far from the abandoned camp, you find a crevice in the cliffs next to the grove. It may be a cave entrance, but it has been buried by a rock avalanche. The debris looks like it fell recently."
 	},
 	{
 		"id": "GE_BuriedMerchant01_RawStrengthW",
-		"text": "[char0] cospe nas mãos e começa a tirar as pedras enormes do caminho. De repente, você ouve gritos abafados de socorro. [char0] redobra seus esforços. Pouco tempo depois, você está puxando um nômade coberto de poeira para fora por trás dos escombros. \n\n[char1]: \"Certamente o céu te enviou! Uma avalanche deve ter caído durante a noite. Fui pego como uma raposa em uma armadilha!\""
+		"text": "[char0] spits on his hands and starts to heave the massive boulders out of the way. Suddenly, you hear muffled cries for help. [char0] redoubles his efforts. A short time later, you are pulling a dust-covered nomad out from behind the debris. \n\n[char1]: \"Surely heaven has sent you! An avalanche must have come down during the night. I was caught like a fox in a trap!\""
 	},
 	{
 		"id": "GE_BuriedMerchant01_RawStrengthW_female",
-		"text": "[char0] cospe nas mãos e começa a tirar as pedras enormes do caminho. De repente, você ouve gritos abafados de socorro. [char0] redobra seus esforços. Pouco tempo depois, você está puxando um nômade coberto de poeira para fora por trás dos escombros. \n\n[char1]: \"Certamente o céu te enviou! Uma avalanche deve ter caído durante a noite. Fui pego como uma raposa em uma armadilha!\""
+		"text": "[char0] spits on her hands and starts to heave the massive boulders out of the way. Suddenly, you hear muffled cries for help. [char0] redoubles her efforts. A short time later, you are pulling a dust-covered nomad out from behind the debris. \n\n[char1]: \"Surely heaven has sent you! An avalanche must have come down during the night. I was caught like a fox in a trap!\""
 	},
 	{
 		"id": "GE_BuriedMerchant01_ThankfulMerchant",
-		"text": "Ele volta para a caverna e volta com alguns fardos sobre os ombros: \n\n[char1]: \"Você salvou a vida de um simples viajante -por favor, aceite isso como um sinal de minha gratidão!\" [ CTP]\n\nEm suas mãos ele segura um amuleto indefinido -quem vai pegá-lo?"
+		"text": "He goes back into the cave and returns with some bundles over his shoulders: \n\n[char1]: \"You have saved the life of a simple traveler - please, take this as a token of my gratitude!\" [CTP]\n\nIn his hands he holds a nondescript amulet - who will take it?"
 	},
 	{
 		"id": "GE_BuriedMerchant01_RawStrengthF",
-		"text": "[char0] começa a bater nas rochas, mas depois de um tempo ele desiste: as pedras gigantescas não se movem um centímetro! Dando de ombros, você continua sua jornada."
+		"text": "[char0] starts to heave at the rocks but after a short while he gives up: the gigantic boulders won’t budge an inch! Shrugging, you continue your journey."
 	},
 	{
 		"id": "GE_BuriedMerchant01_RawStrengthF_female",
-		"text": "[char0] começa a bater nas rochas, mas depois de um tempo ela desiste: as pedras gigantescas não se movem um centímetro! Dando de ombros, você continua sua jornada."
+		"text": "[char0] starts to heave at the rocks but after a short while she gives up: the gigantic boulders won’t budge an inch! Shrugging, you continue your journey."
 	},
 	{
 		"id": "GE_BuriedMerchant01_Reward",
-		"text": "O amuleto é usado bem sobre o coração. Você agradece ao homem e continua sua jornada."
+		"text": "The amulet is worn right over the heart. You thank the man and continue your journey."
 	},
 	{
 		"id": "ME_NaziDeserterMerchant01_Intro",
-		"text": "Um jipe ​​da Wehrmacht está estacionado à sombra de algumas palmeiras. Um soldado solitário se encolhe ao lado de uma fogueira. Uma lata ferve nas chamas. Quando você está prestes a sacar suas armas, ele vê você e acena: \n\n[char0]: \"Relaxe! Estou no seu lado! Estou farto de tudo: o calor sem fim, as ordens inúteis! Já chega!\" [CTP]\n\nUm desertor! Como se lesse suas mentes, o homem acena com a cabeça jovialmente:\n\n[char0]: \"Isso mesmo! Eu só quero viver em paz -talvez em uma pequena cabana em uma ilha em algum lugar! Só preciso de um pouco de dinheiro para começar. Você está interessado?\"\n\nCom essas palavras ele abre seus caixotes e espalha seus produtos na sua frente."
+		"text": "A Wehrmacht jeep is parked in the shade of some palm trees. A lone soldier huddles beside a fire pit. A tin can simmers in the flames. Just as you are about to draw your weapons, he sees you and waves: \n\n[char0]: \"Relax! I'm on your side! I’m sick of it all: the endless heat, the pointless orders! I’ve had enough!\" [CTP]\n\nA deserter! As if he read your minds, the man nods jovially:\n\n[char0]: \"That’s right! I just want to live in peace - maybe in a little hut on an island somewhere! I just need a little cash to get started. Are you interested?\"\n\nWith these words he opens his crates and spreads his wares in front of you."
 	},
 	{
 		"id": "ME_NaziDeserterMerchant01_Choice01",
-		"text": "Troca"
+		"text": "Trade"
 	},
 	{
 		"id": "ME_NaziDeserterMerchant01_Choice02",
-		"text": "Continue sua jornada"
+		"text": "Continue your journey"
 	},
 	{
 		"id": "LE_DesertedShrine01_Intro",
-		"text": "Mesmo à distância, a estranha formação de pedra atrai sua atenção. É evidente que são os restos de um santuário local, provavelmente construído por nômades eras atrás.\n\nÉ a única proteção contra os elementos que você provavelmente encontrará por quilômetros, então você decide fazer uma pequena pausa."
+		"text": "Even from a distance, the strange stone formation attracts your attention. It is evidently the remnants of a local shrine, probably built by nomads eons ago.\n\nIt’s the only protection from the elements you are likely to find for miles, so you decide to take a short break."
 	},
 	{
 		"id": "LE_DesertedShrine01_Leave",
-		"text": "Os personagens estranhos neste santuário esquecido são verdadeiramente antigos, quase totalmente apagados pelas eras de vento, areia e sol. O que aconteceu com os construtores deste santuário? E seus deuses? Profundo em contemplação, você segue em frente."
+		"text": "The strange characters on this forgotten shrine are truly ancient, almost entirely erased by the eons of wind, sand and sun. What became of the builders of this sanctuary? What of their gods? Deep in contemplation, you move on."
 	},
 	{
 		"id": "LE_DesertedShrine01_Languages",
-		"text": "Conforme você se aproxima do altar tosco, o olhar de [char0] recai sobre os hieróglifos desgastados pelo tempo. Murmurando excitado, ele examina os estranhos personagens."
+		"text": "As you approach the crude altar, [char0]’s gaze falls on the weathered hieroglyphics. Muttering excitedly, he examines the strange characters."
 	},
 	{
 		"id": "LE_DesertedShrine01_Languages_female",
-		"text": "Conforme você se aproxima do altar tosco, o olhar de [char0] cai sobre os hieróglifos desgastados pelo tempo. Murmurando animadamente, ela examina os caracteres estranhos."
+		"text": "As you approach the crude altar, [char0]’s gaze falls on the weathered hieroglyphics. Muttering excitedly, she examines the strange characters."
 	},
 	{
 		"id": "LE_DesertedShrine01_LanguagesF",
-		"text": "Decepcionado, [char0] se afasta das inscrições: \n\n[char0]: \"Nunca vi escrever assim!\""
+		"text": "Disappointed, [char0] turns away from the inscriptions: \n\n[char0]: \"I’ve never seen writing like this!\""
 	},
 	{
 		"id": "LE_DesertedShrine01_LanguagesF_female",
-		"text": "Decepcionado, [char0] se afasta das inscrições: \n\n[char0]: \"Nunca vi escrever assim!\""
+		"text": "Disappointed, [char0] turns away from the inscriptions: \n\n[char0]: \"I’ve never seen writing like this!\""
 	},
 	{
 		"id": "LE_DesertedShrine01_LanguagesW",
-		"text": "[char0]: \"Isso foi... instrutivo.\"\n \n[char0]: \"A inscrição menciona um local sagrado escondido nas colinas próximas.\""
+		"text": "[char0]: \"That was... instructive.\"\n \n[char0]: \"The inscription mentions a hidden sacred site in the hills close-by.\""
 	},
 	{
 		"id": "LE_DesertedShrine01_Choice01",
-		"text": "Continue sua jornada"
+		"text": "Continue your journey"
 	},
 	{
 		"id": "LE_DesertedShrine01_Choice02",
-		"text": "Procure o lugar sagrado"
+		"text": "Seek the holy place"
 	},
 	{
 		"id": "LE_DesertedShrine01_Cave",
-		"text": 
-"Você chega a algumas rochas intransponíveis. Sem a inscrição do altar, você nunca teria pensado em explorar essas colinas inacessíveis, mas logo encontra uma passagem discreta escondida entre os afloramentos rochosos. [CTP]\n\nCurioso, você entra no oculto templo de pedra. As ornamentações em suas paredes são estranhas e desconhecidas. Colunas enormes, cobertas de cima a baixo com hieróglifos, revestem um corredor que leva a um sarcófago empoeirado.\n\nVocê empurra a laje de granito para o lado para dar uma olhada dentro do templo sarcófago bizarro."
+		"text": "You reach some impassable rocks. Without the altar‘s inscription, you would never have thought of exploring these inaccessible hills, but you soon find an inconspicuous passage hidden between the rocky outcrops. [CTP]\n\nCurious, you enter the concealed rock temple. The ornamentations on its walls are strange and unfamiliar. Massive columns, covered from top to bottom with hieroglyphs, line an aisle that leads up to a dusty sarcophagus.\n\nYou push the granite slab aside to take a look inside the bizarre sarcophagus."
 	},
 	{
 		"id": "LE_FriendlyBeduins01_Intro",
-		"text": "Você encontra alguns pastores de cabras acampados ao redor de um pequeno poço."
+		"text": "You meet a few goatherds camped around a small well."
 	},
 	{
 		"id": "LE_FriendlyBeduins01_Gestures",
-		"text": "Você tenta se comunicar por meio de sinais e gestos. Os nômades olham para você com interesse, mas não o entendem. Você continua sua jornada."
+		"text": "You attempt to communicate using signs and gestures. The nomads look at you with interest, but they do not understand you. You continue on your journey."
 	},
 	{
 		"id": "LE_FriendlyBeduins01_LanguagesW",
-		"text": "[char0] cumprimenta os homens. Uma palavra leva a outra e logo uma conversa animada se desenvolve. [char0] retorna com um sorriso satisfeito no rosto."
+		"text": "[char0] greets the men. One word leads to another, and soon an animated conversation develops. [char0] returns with a satisfied smile on his face."
 	},
 	{
 		"id": "LE_FriendlyBeduins01_LanguagesW_female",
-		"text": "[char0] cumprimenta os homens. Uma palavra leva a outra e logo uma conversa animada se desenvolve. [char0] retorna com um sorriso satisfeito no rosto."
+		"text": "[char0] greets the men. One word leads to another, and soon an animated conversation develops. [char0] returns with a satisfied smile on her face."
 	},
 	{
 		"id": "LE_FriendlyBeduins01_StrangeRumor",
-		"text":"[char0]: \"Os pastores me contaram sobre um estranho pilar negro nas dunas do deserto a leste daqui.\""
+		"text": "[char0]: \"The shepherds told me about a strange black pillar in the desert dunes east of here.\""
 	},
 	{
 		"id": "LE_FriendlyBeduins01_Choice01",
-		"text": "Continue sua jornada"
+		"text": "Continue your journey"
 	},
 	{
 		"id": "LE_FriendlyBeduins01_Choice02",
-		"text": "Procure o lugar sagrado"
+		"text": "Seek the holy place"
 	},
 	{
 		"id": "LE_FriendlyBeduins01_SearchFail",
-		"text": "A busca é mais difícil do que o esperado, porque uma duna se parece muito com a próxima.\n\nVocê finalmente desiste de sua busca pelo estranho pilar de pedra, frustrado por saber que acabou de desperdiçar seu precioso combustível por nada... "
+		"text": "The search is more difficult than expected, because one dune looks much like the next dune.\n\nYou finally give up your search for the strange stone pillar, frustrated by the knowledge that you just wasted your precious fuel for nothing..."
 	},
 	{
 		"id": "LE_FriendlyBeduins01_SearchWin",
-		"text": "Depois de um passeio acidentado pelas dunas, você finalmente chega ao lugar de que os nômades falaram. \n\nUm titânico pilar negro se ergue ameaçadoramente sobre a areia do deserto. Alguém está cavando em sua base, mas a pequena câmara que você encontra está intacta . [CTP]\n\nO que impediu os misteriosos escavadores de dar uma olhada em sua descoberta?\n\nVocê olha cautelosamente por cima do ombro -então você se ajoelha na areia para investigar os mistérios da estranha coluna."
+		"text": "After a bumpy ride through the dunes, you finally reach the place the nomads spoke of. \n\nA titanic black pillar rises menacingly over the desert sand. Someone has been digging at its base, but the small chamber you find there is intact. [CTP]\n\nWhat prevented the mysterious excavators from taking a closer look at their find?\n\nYou look warily over your shoulder - then you kneel in the sand to investigate the mysteries of the strange column."
 	},
 	{
 		"id": "FE_FriendlyBeduins02_Intro",
-		"text": "Alguns nômades montaram acampamento perto de um pequeno poço de água salobra."
+		"text": "A few nomads have pitched camp by a small, brackish waterhole."
 	},
 	{
 		"id": "FE_FriendlyBeduins02_Gestures",
-		"text": "Você se comunica com gestos e troca de acenos educados. Você logo continua sua jornada."
+		"text": "You communicate with gestures and exchange polite nods. You soon continue on your journey."
 	},
 	{
 		"id": "FE_FriendlyBeduins02_TrickNPCW",
-		"text": "[char0] convence os homens a jogar um jogo de dados inofensivo e desfruta de uma sorte completamente inesperada."
+		"text": "[char0] convinces the men to play a harmless game of dice and enjoys a completely unexpected lucky streak."
 	},
 	{
 		"id": "FE_FriendlyBeduins02_TrickNPCW_female",
-		"text": "[char0] convence os homens a jogar um jogo de dados inofensivo e desfruta de uma sorte completamente inesperada."
+		"text": "[char0] convinces the men to play a harmless game of dice and enjoys a completely unexpected lucky streak."
 	},
 	{
 		"id": "FE_UnknownPlane01_Intro",
-		"text": "Você ouve o zumbido das hélices muito antes de ver a silhueta ameaçadora do avião no céu acima de você. \n\nVocê estica o pescoço, mas não consegue distinguir nenhuma marca. \n\nO avião passa em círculos amplos antes finalmente desligando e desaparecendo nas nuvens."
+		"text": "You hear the drone of propellers long before you see the menacing silhouette of the plane in the sky above you. \n\nYou crane your necks, but you cannot make out any markings. \n\nThe plane arcs past in wide circles before finally turning off and disappearing into the clouds."
 	},
 	{
 		"id": "GE_SickBeduinCamel01_Intro",
-		"text": "As cabanas à sua frente parecem pertencer a um pastor rico. Ao se aproximar, você vê um homem de aparência preocupada sentado em frente aos currais dos camelos. \n\n[char0]: \"Estou amaldiçoado com o infortúnio! Minha melhor égua camelo está com febre e parou de se mexer. Se ela infectou os outros animais, estou arruinado!\""
+		"text": "The huts ahead of you appear to belong to a wealthy herdsman. As you approach, you see a worried-looking man sitting in front of the camel pens. \n\n[char0]: \"I am cursed with misfortune! My best camel mare has a fever and has stopped moving. If she has infected the other animals, I'm ruined!\""
 	},
 	{
 		"id": "GE_SickBeduinCamel01_Choice01",
-		"text":"Que pena..."
+		"text": "What a shame..."
 	},
 	{
 		"id": "GE_SickBeduinCamel01_Choice02",
-		"text": "Dê uma olhada no camelo"
+		"text": "Take a look at the camel"
 	},
 	{
 		"id": "GE_SickBeduinCamel01_Leave",
-		"text": "O homem tem sua simpatia, mas infelizmente você não pode ajudar e se despede rapidamente."
+		"text": "The man has your sympathy, but unfortunately you cannot help and you quickly take your leave."
 	},
 	{
 		"id": "GE_SickBeduinCamel01_MedicalW",
-		"text": "[char1] dá uma olhada no animal doente. Ele coça a cabeça, pega um punhado de comprimidos de sua caixa e os dá para o animal. \n\nO camelo começa a melhorar visivelmente depois de pouco tempo."
+		"text": "[char1] takes a look at the sick animal. He scratches his head, grabs a handful of tablets from his case and feeds them to the animal. \n\nThe camel starts to improve visibly after just a short time."
 	},
 	{
 		"id": "GE_SickBeduinCamel01_MedicalW_female",
-		"text": "[char1] dá uma olhada no animal doente. Ela coça a cabeça, pega um punhado de comprimidos de sua caixa e os dá para o animal. \n\nO camelo começa a melhorar visivelmente depois de um curto período de tempo."
+		"text": "[char1] takes a look at the sick animal. She scratches her head, grabs a handful of tablets from her case and feeds them to the animal. \n\nThe camel starts to improve visibly after just a short time."
 	},
 	{
 		"id": "GE_SickBeduinCamel01_MedicalF",
-		"text": "[char1] dá uma olhada no animal doente. Então ele balança a cabeça cansado: \n\n[char1]: \"Não parece bom...\"\n\nO homem tem sua simpatia, mas infelizmente você não pode ajudar e rapidamente se despede."
+		"text": "[char1] takes a look at the sick animal. Then he shakes his head wearily: \n\n[char1]: \"It doesn’t look good...\"\n\nThe man has your sympathy, but unfortunately you cannot help and you quickly take your leave."
 	},
 	{
 		"id": "GE_SickBeduinCamel01_MedicalF_female",
-		"text": "[char1] dá uma olhada no animal doente. Então ela balança a cabeça cansada: \n\n[char1]: \"Não parece bom...\"\n\nO homem tem sua simpatia, mas infelizmente você não pode ajudar e rapidamente se despede."
+		"text": "[char1] takes a look at the sick animal. Then she shakes her head wearily: \n\n[char1]: \"It doesn’t look good...\"\n\nThe man has your sympathy, but unfortunately you cannot help and you quickly take your leave."
 	},
 	{
 		"id": "GE_SickBeduinCamel01_Rest",
-		"text": "O pastor está muito feliz e convida você para sua casa! \n\nVocês compartilham um banquete saudável. Após a refeição, você lubrifica suas armas e verifica o resto de seu equipamento antes de se despedir de seu anfitrião."
+		"text": "The herdsman is overjoyed and invites you into his house! \n\nYou share a hearty feast. After your meal, you oil your weapons and check the rest of your equipment before taking leave of your host."
 	},
 	{
 		"id": "FE_ShotsFromNowhere01_Intro",
-		"text": "Você faz uma pequena pausa quando um tiro repentino quebra o silêncio -fontes de areia explodem a seus pés!\n\nVocê imediatamente se protege e examina a paisagem rochosa com seus olhos, mas não consegue ver o atirador. Você corre para vasculhar a área circundante, mas sua busca é em vão. Cautelosamente, você continua sua jornada, mas o misterioso atacante não ataca novamente."
+		"text": "You take a short break when a sudden shot shatters the silence – fountains of sand explode at your feet!\n\nYou immediately take cover and scan the rocky landscape with your eyes, but you cannot see the shooter. You rush out to scour the surrounding area but your search is in vain. Warily, you continue your journey, but the mysterious attacker does not strike again."
 	},
 	{
 		"id": "SE_Adventure01Clue01_Intro",
-		"text":"Você se depara com um acampamento militar alemão fortificado. Com arame farpado, sacos de areia e ninhos de metralhadoras, o lugar é como uma pequena fortaleza. Na borda do acampamento, você vê um depósito de combustível e uma pequena frota de veículos. [CTP] \n\nNo meio do acampamento, você vê várias antenas de rádio altas -não há dúvida sobre isso, você se deparou com um quartel-general alemão! Entrar sorrateiramente neste complexo bem guardado parece um esforço inútil..."
+		"text": "You come upon a fortified German military camp. With barbed wire, sandbags and machine gun nests, the place is like a small fortress. At the edge of the camp, you see a fuel depot and a small fleet of vehicles. [CTP] \n\nIn the middle of the camp, you see several towering radio antennas – there’s no doubt about it, you have come across a local German headquarters! Sneaking into this well-guarded complex seems like a hopeless endeavor..."
 	},
 	{
 		"id": "SE_Adventure01Clue01_Choice01",
-		"text": "Preparar para atacar"
+		"text": "Prepare to attack"
 	},
 	{
 		"id": "SE_Adventure01Clue01_Choice02",
-		"text": "Explodir o depósito de combustível"
+		"text": "Blow up the fuel dump"
 	},
 	{
 		"id": "SE_Adventure01Clue01_Choice03",
-		"text": "Retirar"
+		"text": "Withdraw"
 	},
 	{
 		"id": "SE_Adventure01Clue01_Daredevil",
-		"text": "[char0]: \"Eu acho que posso lidar com isso...\"\n\nAntes que você possa responder, [char0] rasteja até o ninho de metralhadora mais próximo, fazendo bom uso da cobertura disponível. Ele joga um punhado de pedras em um balde de metal próximo, distraindo os guardas. Ele aproveita a oportunidade para mergulhar atrás dos sacos de areia!"
+		"text": "[char0]: \"I think I can handle this...\"\n\nBefore you can reply, [char0] crawls over to the nearest machine gun nest, making good use of the available cover. He throws a handful of stones at a nearby metal bucket, distracting the guards. He seizes his opportunity to dive behind the sandbags!"
 	},
 	{
 		"id": "SE_Adventure01Clue01_Daredevil_female",
-		"text":"[char0]: \"Acho que posso lidar com isso...\"\n\nAntes que você possa responder, [char0] rasteja até o ninho de metralhadora mais próximo, fazendo bom uso da cobertura disponível. Ela joga um punhado de pedras em um balde de metal próximo, distraindo os guardas. Ela aproveita a oportunidade para mergulhar atrás dos sacos de areia!"
+		"text": "[char0]: \"I think I can handle this...\"\n\nBefore you can reply, [char0] crawls over to the nearest machine gun nest, making good use of the available cover. She throws a handful of stones at a nearby metal bucket, distracting the guards. She seizes her opportunity to dive behind the sandbags!"
 	},
 	{
 		"id": "SE_Adventure01Clue01_DaredevilW",
-		"text": "Você ouve alguns golpes abafados e o som da metralhadora pesada sendo levantada de seu suporte. \n\nMomentos depois, uma salva de tiros rompe o silêncio, seguida por uma explosão ensurdecedora! Você ouve gritos excitados e tiros, um gigantesca nuvem de fumaça sobe para o céu. \n\nO depósito de combustível queima brilhantemente! [CTP]\n\nVocê usa o caos geral para chegar à estação de rádio. Uma vez lá, você pega uma pilha de arquivos e faz o seu fuja enquanto os soldados ainda estão correndo como formigas assustadas!"
+		"text": "You hear some muffled blows, and the sound of the heavy machine gun being lifted from its stand. \n\nMoments later, a salvo of shots tears through the silence, followed by a deafening explosion! You hear excited shouts and gunfire, a gigantic cloud of smoke rises into the sky. \n\nThe fuel dump burns brightly! [CTP]\n\nYou use the general chaos to make your way to the radio station. Once there, you grab a stack of files and make your escape while the soldiers are still running around like frightened ants! When you reach safety, you take a closer look at your spoils."
 	},
 	{
 		"id": "SE_Adventure01Clue01_DaredevilF",
-		"text": "Você ouve alguns golpes abafados, então [char0] vem voando sobre a parede do saco de areia. Gritos de alarme enchem o acampamento! Uma batalha é inevitável!"
+		"text": "You hear a few muffled blows, then [char0] comes flying over the sandbag wall. Shouts of alarm fill the camp! A battle is inevitable!"
 	},
 	{
 		"id": "SE_Adventure01Clue01_DaredevilF_female",
-		"text": "Você ouve alguns golpes abafados, então [char0] vem voando sobre a parede do saco de areia. Gritos de alarme enchem o acampamento! Uma batalha é inevitável!"
+		"text": "You hear a few muffled blows, then [char0] comes flying over the sandbag wall. Shouts of alarm fill the camp! A battle is inevitable!"
 	},
 	{
 		"id": "SE_Adventure01Clue01_SecretDossierContent",

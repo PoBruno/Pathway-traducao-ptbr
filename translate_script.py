@@ -1,38 +1,90 @@
+#                                                #
+# Author: Bruno Gomes  -  31/05/2023             #
+# www.github.com/pobruno                         #
+# Bruno Gomes                                    #
+#                                                #
+# Script para traduzir os arquivos JSON do jogo  #
+##################################################
+
 import json
-from deepl import Translator
+import regex as re
+from googletrans import Translator
 
 # Array com os caminhos dos arquivos JSON
 json_paths = [
     "./pt-BR/Achievements.json",
-    "./pt-BR/Codex.json",
-    "./pt-BR/Events.json",
-    "./pt-BR/Items.json",
-    "./pt-BR/Items.json",
-    "./pt-BR/Perks.json",
-    "./pt-BR/Quotes.json",
-    "./pt-BR/Tutorial.json"
+    "./pt-BR/Events.json"
+    #"./pt-BR/Items.json",
+    #"./pt-BR/Perks.json",
+    #"./pt-BR/Quotes.json"
+    #"./pt-BR/Tutorial.json"
 ]
 
-# Crie uma instância do tradutor
-translator = Translator(target_lang="pt")
+# Tamanho máximo de caracteres para cada lote de tradução
+batch_size = 1000
 
-# Percorra os arquivos JSON
+# Função para filtrar e modelar os caracteres indesejados e remover comandos de formatação
+def filter_text(text):
+    # Remove comandos de formatação HTML e outros comandos específicos
+    text = text.replace("\n", "a1b1c1").replace(
+        "\"", "a2b2c2").replace("[char0]", "a01b01c00").replace("[char1]", "a01b01c01").replace("[char2]", "a01b01c02").replace("[char3]", "").replace("[char4]", "a01b01c04").replace("[char4]", "a01b01c04")
+    return text
+
+# Função para traduzir um lote de textos
+def translate_batch(texts, dest_language):
+    translator = Translator()
+
+    # Traduz o lote de textos, ignorando textos que excedem o limite de caracteres
+    translations = []
+    for text in texts:
+        try:
+            translation = translator.translate(text, dest=dest_language)
+            translations.append(translation.text)
+        except AttributeError:
+            translations.append(text)
+
+    # Retorna os textos traduzidos
+    return translations
+
+# Percorre os arquivos JSON
 for json_path in json_paths:
-    # Carregue o arquivo JSON
+    # Carrega o arquivo JSON
     with open(json_path, "r", encoding="utf-8") as json_file:
         json_content = json.load(json_file)
 
-    # Percorra os objetos e traduza o campo "text"
+    # Cria uma lista para armazenar os textos a serem traduzidos
+    texts_to_translate = []
+
+    # Percorre os objetos e adiciona os textos à lista
     for row in json_content["rows"]:
         text = row["text"]
-        translated = translator.translate(text)
-        row["text"] = translated
+        filtered_text = filter_text(text)
+        texts_to_translate.append(filtered_text)
 
-    # Salve o arquivo JSON traduzido
+    # Divide a lista de textos em lotes menores
+    batches = [texts_to_translate[i:i+batch_size]
+               for i in range(0, len(texts_to_translate), batch_size)]
+
+    # Percorre cada lote e realiza a tradução
+    for batch in batches:
+        translated_batch = translate_batch(batch, "pt")
+
+        # Atualiza os textos traduzidos no JSON
+        for i, translation in enumerate(translated_batch):
+            json_content["rows"][i]["text"] = translation
+
+    # Salva o arquivo JSON traduzido
     with open(json_path, "w", encoding="utf-8") as json_file:
         json.dump(json_content, json_file, ensure_ascii=False, indent=4)
 
+# Fim de tradução
 
+
+
+
+
+
+##################################
 # Modelos de traduçoes 
 
 ##################################

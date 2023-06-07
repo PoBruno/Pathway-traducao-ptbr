@@ -1,0 +1,33 @@
+{
+"id": "GameUI",
+"rows": [
+	{
+		"id": "GameOptions_Global_DefaultAISpeed",
+		"text": ""
+	},
+	{
+		"id": "GameOptions_Global_DefaultAISpeedTooltip",
+		"text": ""
+	},
+	{
+		"id": "TeamSelect_ViewSkillTree",
+		"text": ""
+	},
+	{
+		"id": "TeamSelect_Toggle_Character",
+		"text": ""
+	},
+	{
+		"id": "TeamSelect_Toggle_Storage",
+		"text": ""
+	},
+	{
+		"id": "Controller_Help_CloseMenu",
+		"text": ""
+	},
+	{
+		"id": "Controller_Profile_Name",
+		"text": ""
+	}
+]
+}

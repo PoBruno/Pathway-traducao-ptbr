@@ -3,28 +3,607 @@
 "rows": [
 	{
 		"id": "GameDescription",
-		"text": "Introduction"
+		"text": ""
 	},
 	{
 		"id": "GameDescription_Content",
-		"text": "[h1]Background[/h1]The year is 1936 and Nazi activity is increasing in intensity by the day.\nTirelessly, they send their expeditions into the vastness of the deserts and the inhospitable mountains of the Middle East.\nNorth Africa, Arabia - what could the armies of evil be searching for?\n[p][img:codex_atmoshot]\n[p][h1]Every expedition is different[/h1]In Pathway, you send a group of intrepid adventurers on perilous expeditions. They must win turn-based battles, uncover ancient secrets, and manage their fuel supplies to ensure they arrive in time to thwart the evil plans of their merciless enemies.\nEvery expedition is different in Pathway. This is because, in addition to a basic outline, expeditions are always assigned a random series of new events. But even events that you may have encountered before can take an unexpected turn, either through chance or because of the different composition of your team.\n[p][h1]Persistent gameplay[/h1]Even a defeat means progress in Pathway, as characters gain experience even when they fail. Over the course of individual adventures, characters will gain enough experience and equipment to attempt increasingly risky undertakings.\nManage your expedition! Make use of the strengths of its individual members! Make the right decisions on the events you experience during your journey!\n[p][h1]Every decision counts[/h1]The world is on the brink of disaster as an undeclared war rages in the shadows! Victory or defeat – only you and your unsung heroes can decide the outcome!\n[p][img:codex_armor]"
+		"text": ""
 	},
 	{
 		"id": "KeyBindings",
-		"text": "Key Bindings"
+		"text": ""
 	},
 	{
 		"id": "KeyBindings_Content",
-		"text": "[h1]Key Bindings[/h1]As you progress through the codex, you will learn in detail how to play the game. You can also configure key bindings under Options / Controls. By default, key bindings are defined as described below:\n[p][h1]Map[/h1]I: Open Team Screen\n[p][h1]Team Screen[/h1]Right-click or left-click on ranged weapon: Reload\nRight-click or left-click on medkit: Heal / revive character\nRight-click or left-click on repairkit: Repair armor\nRight-click or left-click on any item: Drop item\n[p][h1]Map / Battle[/h1]WASD: Move camera\nPress Space + LMB: Free camera move\n[p][h1]Battle[/h1]Right arrow: Next own unit\nLeft arrow: Previous own unit\nReturn: End turn\n1: Standard ranged attack\n2: Special ranged attack\n3: Standard knife attack\n4: Special knife attack\n5: Use item\nF: Armor-related special action\nR: Reload\nB: Fist punch\nLMB: Initiate action\nRMB: Abort action\n[p][h1]Trader[/h1]Right-click on own item: Sell item\nRight-click or left-click on trader item: Buy item"
+		"text": ""
 	},
 	{
 		"id": "KeyBindings_Controller",
-		"text": "Controls"
+		"text": ""
 	},
-	,
+	{
+		"id": "KeyBindings_Content_Controller",
+		"text": ""
+	},
+	{
+		"id": "KeyBindings_Content_Xbox",
+		"text": ""
+	},
+	{
+		"id": "KeyBindings_Content_Steamdeck",
+		"text": ""
+	},
+	{
+		"id": "Adventures",
+		"text": ""
+	},
+	{
+		"id": "Adventures_Content",
+		"text": ""
+	},
+	{
+		"id": "JeepStorage",
+		"text": ""
+	},
+	{
+		"id": "JeepStorage_Content",
+		"text": ""
+	},
+	{
+		"id": "JeepStorage_Content_Controller",
+		"text": ""
+	},
+	{
+		"id": "EquipmentSlots",
+		"text": ""
+	},
+	{
+		"id": "EquipmentSlots_Content",
+		"text": ""
+	},
+	{
+		"id": "Characters",
+		"text": ""
+	},
+	{
+		"id": "Characters_Content",
+		"text": ""
+	},
+	{
+		"id": "CharacterAttributes",
+		"text": ""
+	},
+	{
+		"id": "CharacterAttributes_Content",
+		"text": ""
+	},
+	{
+		"id": "CharacterSkills",
+		"text": ""
+	},
+	{
+		"id": "CharacterSkills_Content",
+		"text": ""
+	},
+	{
+		"id": "CharacterSkills_Content_Controller",
+		"text": ""
+	},
+	{
+		"id": "CharacterUnlock",
+		"text": ""
+	},
+	{
+		"id": "CharacterUnlock_Content",
+		"text": ""
+	},
+	{
+		"id": "CharacterUnlock_Content_Controller",
+		"text": ""
+	},
+	{
+		"id": "HospitalizedChars",
+		"text": ""
+	},
+	{
+		"id": "HospitalizedChars_Content",
+		"text": ""
+	},
+	{
+		"id": "Persistence",
+		"text": ""
+	},
+	{
+		"id": "Persistence_Content",
+		"text": ""
+	},
+	{
+		"id": "Achievements",
+		"text": ""
+	},
+	{
+		"id": "Achievements_Content",
+		"text": ""
+	},
+	{
+		"id": "Achievements_Content_GamePass",
+		"text": ""
+	},
+	{
+		"id": "Achievements_Content_Controller",
+		"text": ""
+	},
+	{
+		"id": "TravelBasics",
+		"text": ""
+	},
+	{
+		"id": "TravelBasics_Content",
+		"text": ""
+	},
+	{
+		"id": "TravelResources",
+		"text": ""
+	},
+	{
+		"id": "TravelResources_Content",
+		"text": ""
+	},
+	{
+		"id": "Events",
+		"text": ""
+	},
+	{
+		"id": "Events_Content",
+		"text": ""
+	},
+	{
+		"id": "Events_Content_Controller",
+		"text": ""
+	},
+	{
+		"id": "IconVisibility",
+		"text": ""
+	},
+	{
+		"id": "IconVisibility_Content",
+		"text": ""
+	},
+	{
+		"id": "EventCourses",
+		"text": ""
+	},
+	{
+		"id": "EventCourses_Content",
+		"text": ""
+	},
+	{
+		"id": "PerkList",
+		"text": ""
+	},
+	{
+		"id": "PerkList_Content",
+		"text": ""
+	},
+	{
+		"id": "TeamScreen",
+		"text": ""
+	},
+	{
+		"id": "TeamScreen_Content",
+		"text": ""
+	},
+	{
+		"id": "TeamScreen_Content_Controller",
+		"text": ""
+	},
+	{
+		"id": "LevelUp",
+		"text": ""
+	},
+	{
+		"id": "LevelUp_Content",
+		"text": ""
+	},
+	{
+		"id": "LevelUp_Content_Controller",
+		"text": ""
+	},
+	{
+		"id": "RareItems",
+		"text": ""
+	},
+	{
+		"id": "RareItems_Content",
+		"text": ""
+	},
+	{
+		"id": "CharacterPlacement",
+		"text": ""
+	},
+	{
+		"id": "CharacterPlacement_Content",
+		"text": ""
+	},
+	{
+		"id": "CharacterPlacement_Content_Controller",
+		"text": ""
+	},
+	{
+		"id": "CharacterPlacement_Content_Xbox",
+		"text": ""
+	},
+	{
+		"id": "CharacterPlacement_Content_Steamdeck",
+		"text": ""
+	},
+	{
+		"id": "EnemyInfo",
+		"text": ""
+	},
+	{
+		"id": "EnemyInfo_Content",
+		"text": ""
+	},
+	{
+		"id": "CharacterSelection",
+		"text": ""
+	},
+	{
+		"id": "CharacterSelection_Content",
+		"text": ""
+	},
+	{
+		"id": "CharacterSelection_Content_Controller",
+		"text": ""
+	},
+	{
+		"id": "CharacterSelection_Content_Xbox",
+		"text": ""
+	},
+	{
+		"id": "CharacterSelection_Content_Steamdeck",
+		"text": ""
+	},
+	{
+		"id": "CoverTypes",
+		"text": ""
+	},
+	{
+		"id": "CoverTypes_Content",
+		"text": ""
+	},
+	{
+		"id": "PartialCovers",
+		"text": ""
+	},
+	{
+		"id": "PartialCovers_Content",
+		"text": ""
+	},
+	{
+		"id": "Walls",
+		"text": ""
+	},
+	{
+		"id": "Walls_Content",
+		"text": ""
+	},
+	{
+		"id": "HitChances",
+		"text": ""
+	},
+	{
+		"id": "HitChances_Content",
+		"text": ""
+	},
+	{
+		"id": "CharacterActions",
+		"text": ""
+	},
+	{
+		"id": "CharacterActions_Content",
+		"text": ""
+	},
+	{
+		"id": "CharacterActions_Content_Controller",
+		"text": ""
+	},
+	{
+		"id": "CharacterActions_Content_Xbox",
+		"text": ""
+	},
+	{
+		"id": "CharacterActions_Content_Steamdeck",
+		"text": ""
+	},
+	{
+		"id": "SpecialActions",
+		"text": ""
+	},
+	{
+		"id": "SpecialActions_Content",
+		"text": ""
+	},
+	{
+		"id": "MovementActions",
+		"text": ""
+	},
+	{
+		"id": "MovementActions_Content",
+		"text": ""
+	},
+	{
+		"id": "MovementActions_Content_Controller",
+		"text": ""
+	},
+	{
+		"id": "AttackActions",
+		"text": ""
+	},
+	{
+		"id": "AttackActions_Content",
+		"text": ""
+	},
+	{
+		"id": "AttackActions_Content_Controller",
+		"text": ""
+	},
+	{
+		"id": "AttackActions_Content_Xbox",
+		"text": ""
+	},
+	{
+		"id": "AttackActions_Content_Steamdeck",
+		"text": ""
+	},
+	{
+		"id": "NeutralActions",
+		"text": ""
+	},
+	{
+		"id": "NeutralActions_Content",
+		"text": ""
+	},
+	{
+		"id": "NeutralActions_Content_Controller",
+		"text": ""
+	},
+	{
+		"id": "DamageClasses",
+		"text": ""
+	},
+	{
+		"id": "DamageClasses_Content",
+		"text": ""
+	},
+	{
+		"id": "WeaponTypeIntro",
+		"text": ""
+	},
+	{
+		"id": "WeaponTypeIntro_Content",
+		"text": ""
+	},
+	{
+		"id": "WeaponTypePistol",
+		"text": ""
+	},
+	{
+		"id": "WeaponTypePistol_Content",
+		"text": ""
+	},
+	{
+		"id": "WeaponTypeShotgun",
+		"text": ""
+	},
+	{
+		"id": "WeaponTypeShotgun_Content",
+		"text": ""
+	},
+	{
+		"id": "WeaponTypeAssault",
+		"text": ""
+	},
+	{
+		"id": "WeaponTypeAssault_Content",
+		"text": ""
+	},
+	{
+		"id": "WeaponTypeSniper",
+		"text": ""
+	},
+	{
+		"id": "WeaponTypeSniper_Content",
+		"text": ""
+	},
+	{
+		"id": "WeaponTypeDisintegrator",
+		"text": ""
+	},
+	{
+		"id": "WeaponTypeDisintegrator_Content",
+		"text": ""
+	},
+	{
+		"id": "WeaponTypeKnife",
+		"text": ""
+	},
+	{
+		"id": "WeaponTypeKnife_Content",
+		"text": ""
+	},
+	{
+		"id": "WeaponTypeGrenade",
+		"text": ""
+	},
+	{
+		"id": "WeaponTypeGrenade_Content",
+		"text": ""
+	},
+	{
+		"id": "TheNazis",
+		"text": ""
+	},
+	{
+		"id": "TheNazis_Content",
+		"text": ""
+	},
+	{
+		"id": "Infanterist",
+		"text": ""
+	},
+	{
+		"id": "Infanterist_Content",
+		"text": ""
+	},
+	{
+		"id": "Dog",
+		"text": ""
+	},
+	{
+		"id": "Dog_Content",
+		"text": ""
+	},
+	{
+		"id": "Shotgunner",
+		"text": ""
+	},
+	{
+		"id": "Shotgunner_Content",
+		"text": ""
+	},
+	{
+		"id": "Sniper",
+		"text": ""
+	},
+	{
+		"id": "Sniper_Content",
+		"text": ""
+	},
+	{
+		"id": "Medic",
+		"text": ""
+	},
+	{
+		"id": "Medic_Content",
+		"text": ""
+	},
+	{
+		"id": "Officer",
+		"text": ""
+	},
+	{
+		"id": "Officer_Content",
+		"text": ""
+	},
+	{
+		"id": "EliteDog",
+		"text": ""
+	},
+	{
+		"id": "EliteDog_Content",
+		"text": ""
+	},
+	{
+		"id": "Teslaborg",
+		"text": ""
+	},
+	{
+		"id": "Teslaborg_Content",
+		"text": ""
+	},
+	{
+		"id": "TheBrotherhood",
+		"text": ""
+	},
+	{
+		"id": "TheBrotherhood_Content",
+		"text": ""
+	},
+	{
+		"id": "Cultist",
+		"text": ""
+	},
+	{
+		"id": "Cultist_Content",
+		"text": ""
+	},
+	{
+		"id": "Zombie",
+		"text": ""
+	},
+	{
+		"id": "Zombie_Content",
+		"text": ""
+	},
+	{
+		"id": "Infected",
+		"text": ""
+	},
+	{
+		"id": "Infected_Content",
+		"text": ""
+	},
+	{
+		"id": "Sporebearer",
+		"text": ""
+	},
+	{
+		"id": "Sporebearer_Content",
+		"text": ""
+	},
+	{
+		"id": "HighPriestess",
+		"text": ""
+	},
+	{
+		"id": "HighPriestess_Content",
+		"text": ""
+	},
+	{
+		"id": "TravelSummary",
+		"text": ""
+	},
+	{
+		"id": "TravelSummary_Content",
+		"text": ""
+	},
+	{
+		"id": "CombatSummary",
+		"text": ""
+	},
+	{
+		"id": "CombatSummary_Content",
+		"text": ""
+	},
+	{
+		"id": "CombatSummary_Content_Controller",
+		"text": ""
+	},
+	{
+		"id": "GameOptions",
+		"text": ""
+	},
+	{
+		"id": "GameOptions_Content",
+		"text": ""
+	},
+	{
+		"id": "GameOptions_Content_Controller",
+		"text": ""
+	},
+	{
+		"id": "BattleModes",
+		"text": ""
+	},
+	{
+		"id": "BattleModes_Content",
+		"text": ""
+	},
 	{
 		"id": "Credits",
-		"text": "[h1]Pathway[/h1][h1]A game by Robotality[/h1][br]\n[p][br]\n[p][h2]Simon Bachmann[/h2]Art, Level Design & Biz Dev\n[p][h2]Daniel Ludwig[/h2]Code\n[p][h2]Stefan Bachmann[/h2]Code & Game Design\n[p][h2]Stephan Naujoks[/h2]Writing & Additional Game Design\n[p][h2]Gavin Harrison[/h2]Music & Sound Design\n[p][h2]Lucas \"\"Midio\"\" Carvalho[/h2]Character Design & Animation\n[p][h2]Andreas Illenseer[/h2]Item Icons & Additional Animations\n[p][h2]Phil Giarrusso[/h2]UI Design & Art\n[p][h2]Johan Vinet[/h2]Additional UI Art\n[p][h2]Matthew \"\"Leth\"\" Griffin[/h2]Marketing/PR Director\n[p][h2]Hassan DuRant[/h2]Additional Writing\n[p][br]\n[p][br]\n[p][h2]Sebastian Tredinnick[/h2]English Translation\n[p][h2]Damian Harrison[/h2]English Translation\n[p][h2]Pierre Gehenne[/h2]French Translation\n[p][h2]Rolf Klischewski[/h2]Additional German Translation\n[p][h2]Akebono Translation Service[/h2]Chinese and Japanese Translation\n[p][h2]Karnie[/h2]Additional Chinese Translation\n[p][h2]satojomov[/h2]Additional Japanese Translation\n[p][h2]Rob Northcott[/h2]Additional Orchestration & Arrangement\n[p][h2]Catherine O'Grady[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Flute\n[p][h2]Kristin Naigus[/h2]Oboe, English Horn & Clarinet\n[p][h2]George Cooke[/h2]Cello\n[p][h2]Sam Hughes[/h2]Character Voices\n[p][h2]Thryn Henderson[/h2]Character Voices\n[p][h2]Bob Smith[/h2]Narrator\n[p][br]\n[p][br]\n[p][h1]Chucklefish[/h1][br]\n[p][h2]Finn Brice[/h2]Chucklefish Founder\n[p][h2]Donna Orlowski[/h2]Chief Operating Officer\n[p][h2]Tom Katkus[/h2]Product Manager\n[p][h2]Katy Ellis[/h2]Marketing & Community\n[p][h2]Alexis Trust[/h2]Marketing & Community\n[p][h2]Rosie Ball[/h2]Brand Designer\n[p][h2]Ryan Alfred Page[/h2]Brand Designer\n[p][h2]Renee Simonini[/h2]Brand Designer\n[p][h2]Stephen Alexander[/h2]Video Editor - Trailer\n[p][h2]Caoimhe Roddy[/h2]Publishing Producer\n[p][h2]Shona Feltham[/h2]Quality Assurance\n[p][br]\n[p][br]\n[p][h1]Universally Speaking[/h1][br]\n[p][h2]Chandler James[/h2]QA Lead\n[p][h2]Alix Saunders[/h2]QA Tester\n[p][h2]Michael Wilkinson[/h2]QA Tester\n[p][h2]Nathan Hill[/h2]CQA Tester\n[p][br]\n[p][br]\n[p][h1]Game Testers[/h1]AnemoneMeer\nAndrew Feres\nAntonio M. \"\"Matchet\"\" Gallardo Vargas\nAaron Aslett\nCaleb Selstad\nChristopher Burwell\nFelix Fehlberg\nIsrael Puerta Merino\nJohn \"\"Redacted\"\" Draconis\nKamil Sztuczka\nKarl Willers\nKarnie\nLaw_4x\nMatej \"\"Retro\"\" Jan\nPablo Barea\nPhilipp \"\"murks\"\" Überbacher\nsatojomov\nTobias Gut\n[p][br]\n[p][br]\n[p][h1]Marketing Translations[/h1]Localize Direct\n[p][br]\n[p][br]\n[p][h1]Launch Trailer[/h1]We Are Reach\n[p][br]\n[p][br]\n[p][h1]Thank you[/h1]Oliver Franzke\nSergei Klimov\nMario Zechner\nRolf Klischewski\nMatthias Kaestner\nLili Ibrahim\nChristian Verling\nTimo Krahl\nDaniel Kvarfordt\nDouble Fine\nThomas “Cyangmou” Feichtmeir\nAlex Vostrov\nSeriouslyClara\nDune\nAndrew Ferguson\nPawel Pastuszak\nIoannis Tsakpinis\n[p][h1]Stephan wants to thank:[/h1]Tobias Schachte & Martin Gantefoehr\nFor taking me in\n[p][h1]Simon sends his love and gratitude to:[/h1]Melanie, Emilia & Leander\nNia Schmidheiny\nGabriel Bachmann\nHans-Rudolf und Kathrin Bachmann\nChristoph Bachmann\nHans-Juergen & Elvira Zuelch\n[p][h1]Daniel greets:[/h1]Jana, Karsten & Elian\nAndre “Floh” Weissflog\nChris Engelbert\nTom “Tommele” Bott\n[p][h1]Stefan thanks:[/h1]Madison & Ezra\nAlways my favourites\n[p][br]\n[p][br]\n[p][br]\n[p][br]\n[p][br]\n[p][h2]Thank you for playing Pathway![/h2][br]\n[p][br]\n[p][br]"
+		"text": ""
 	}
 ]
 }

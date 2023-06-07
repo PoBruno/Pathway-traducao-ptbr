@@ -3,31 +3,3455 @@
 "rows": [
 	{
 		"id": "grenade_0_description",
-		"text": "British forces have been using the no. 23 as their standard grenade since 1902."
+		"text": ""
 	},
 	{
 		"id": "grenade_0_name",
-		"text": "Hastings bomb No. 23"
+		"text": ""
 	},
 	{
 		"id": "grenade_1_description",
-		"text": "The rearmament of the German army is also based on this impressive new development from the Steiner plant."
+		"text": ""
 	},
 	{
 		"id": "grenade_1_name",
-		"text": "Steiner Granate 1924"
+		"text": ""
 	},
 	{
 		"id": "grenade_2_description",
-		"text": "When it comes to explosive power, this ultra-modern American fragmentation grenade is way ahead of the competition."
+		"text": ""
 	},
 	{
 		"id": "grenade_2_name",
-		"text": "Preston Grape Grenade"
+		"text": ""
 	},
 	{
 		"id": "grenade_3_description",
-		"text": "Ancient - and unstable..."
+		"text": ""
+	},
+	{
+		"id": "grenade_3_name",
+		"text": ""
+	},
+	{
+		"id": "grenade_4_description",
+		"text": ""
+	},
+	{
+		"id": "grenade_4_name",
+		"text": ""
+	},
+	{
+		"id": "grenade_5_description",
+		"text": ""
+	},
+	{
+		"id": "grenade_5_name",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_0_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_0_name",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_1_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_1_name",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_2_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_2_name",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_3_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_3_name",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_4_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_4_name",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_5_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_5_name",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_6_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_6_name",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_7_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_7_name",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_8_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_8_name",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_9_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_9_name",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_0_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_0_name",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_1_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_1_name",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_2_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_2_name",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_3_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_3_name",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_4_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_4_name",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_5_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_5_name",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_6_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_6_name",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_7_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_7_name",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_8_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_8_name",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_9_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_9_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_0_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_0_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_0_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_0_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_0_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_0_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_1_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_1_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_1_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_1_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_1_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_1_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_2_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_2_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_2_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_2_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_2_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_2_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_3_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_3_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_3_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_3_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_3_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_3_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_4_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_4_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_4_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_4_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_4_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_4_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_5_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_5_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_5_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_5_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_5_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_5_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_6_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_6_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_6_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_6_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_6_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_6_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_7_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_7_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_7_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_7_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_7_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_7_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_8_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_8_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_8_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_8_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_8_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_8_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_9_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_9_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_9_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_9_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_9_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_9_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_0_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_0_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_0_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_0_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_0_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_0_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_1_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_1_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_1_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_1_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_1_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_1_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_2_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_2_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_2_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_2_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_2_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_2_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_3_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_3_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_3_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_3_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_3_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_3_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_4_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_4_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_4_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_4_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_4_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_4_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_5_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_5_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_5_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_5_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_5_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_5_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_6_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_6_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_6_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_6_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_6_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_6_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_7_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_7_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_7_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_7_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_7_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_7_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_8_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_8_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_8_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_8_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_8_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_8_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_9_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_9_a_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_9_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_9_b_name",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_9_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_9_name",
+		"text": ""
+	},
+	{
+		"id": "money_description",
+		"text": ""
+	},
+	{
+		"id": "money_name",
+		"text": ""
+	},
+	{
+		"id": "money_antique_description",
+		"text": ""
+	},
+	{
+		"id": "money_antique_name",
+		"text": ""
+	},
+	{
+		"id": "carFuel_antique_description",
+		"text": ""
+	},
+	{
+		"id": "carFuel_antique_name",
+		"text": ""
+	},
+	{
+		"id": "carFuel_description",
+		"text": ""
+	},
+	{
+		"id": "carFuel_name",
+		"text": ""
+	},
+	{
+		"id": "supplies_name",
+		"text": ""
+	},
+	{
+		"id": "supplies_description",
+		"text": ""
+	},
+	{
+		"id": "supplies_antique_name",
+		"text": ""
+	},
+	{
+		"id": "supplies_antique_description",
+		"text": ""
+	},
+	{
+		"id": "valkyriumCrystal_description",
+		"text": ""
+	},
+	{
+		"id": "valkyriumCrystal_name",
+		"text": ""
+	},
+	{
+		"id": "ammo_large_description",
+		"text": ""
+	},
+	{
+		"id": "ammo_large_name",
+		"text": ""
+	},
+	{
+		"id": "ammo_medium_description",
+		"text": ""
+	},
+	{
+		"id": "ammo_medium_name",
+		"text": ""
+	},
+	{
+		"id": "ammo_small_description",
+		"text": ""
+	},
+	{
+		"id": "ammo_small_name",
+		"text": ""
+	},
+	{
+		"id": "ammo_antique_small_description",
+		"text": ""
+	},
+	{
+		"id": "ammo_antique_small_name",
+		"text": ""
+	},
+	{
+		"id": "medkit_0_description",
+		"text": ""
+	},
+	{
+		"id": "medkit_0_name",
+		"text": ""
+	},
+	{
+		"id": "medkit_1_description",
+		"text": ""
+	},
+	{
+		"id": "medkit_1_name",
+		"text": ""
+	},
+	{
+		"id": "medkit_2_description",
+		"text": ""
+	},
+	{
+		"id": "medkit_2_name",
+		"text": ""
+	},
+	{
+		"id": "medkit_3_description",
+		"text": ""
+	},
+	{
+		"id": "medkit_3_name",
+		"text": ""
+	},
+	{
+		"id": "medkit_4_description",
+		"text": ""
+	},
+	{
+		"id": "medkit_4_name",
+		"text": ""
+	},
+	{
+		"id": "medkit_5_description",
+		"text": ""
+	},
+	{
+		"id": "medkit_5_name",
+		"text": ""
+	},
+	{
+		"id": "medkit_6_description",
+		"text": ""
+	},
+	{
+		"id": "medkit_6_name",
+		"text": ""
+	},
+	{
+		"id": "repairkit_0_description",
+		"text": ""
+	},
+	{
+		"id": "repairkit_0_name",
+		"text": ""
+	},
+	{
+		"id": "repairkit_1_description",
+		"text": ""
+	},
+	{
+		"id": "repairkit_1_name",
+		"text": ""
+	},
+	{
+		"id": "repairkit_2_description",
+		"text": ""
+	},
+	{
+		"id": "repairkit_2_name",
+		"text": ""
+	},
+	{
+		"id": "repairkit_3_description",
+		"text": ""
+	},
+	{
+		"id": "repairkit_3_name",
+		"text": ""
+	},
+	{
+		"id": "repairkit_4_description",
+		"text": ""
+	},
+	{
+		"id": "repairkit_4_name",
+		"text": ""
+	},
+	{
+		"id": "repairkit_5_description",
+		"text": ""
+	},
+	{
+		"id": "repairkit_5_name",
+		"text": ""
+	},
+	{
+		"id": "artefact01_description",
+		"text": ""
+	},
+	{
+		"id": "artefact01_name",
+		"text": ""
+	},
+	{
+		"id": "artefact02_description",
+		"text": ""
+	},
+	{
+		"id": "artefact02_name",
+		"text": ""
+	},
+	{
+		"id": "artefact03_description",
+		"text": ""
+	},
+	{
+		"id": "artefact03_name",
+		"text": ""
+	},
+	{
+		"id": "artefact04_description",
+		"text": ""
+	},
+	{
+		"id": "artefact04_name",
+		"text": ""
+	},
+	{
+		"id": "artefact05_description",
+		"text": ""
+	},
+	{
+		"id": "artefact05_name",
+		"text": ""
+	},
+	{
+		"id": "artefact06_description",
+		"text": ""
+	},
+	{
+		"id": "artefact06_name",
+		"text": ""
+	},
+	{
+		"id": "artefact07_description",
+		"text": ""
+	},
+	{
+		"id": "artefact07_name",
+		"text": ""
+	},
+	{
+		"id": "artefact08_description",
+		"text": ""
+	},
+	{
+		"id": "artefact08_name",
+		"text": ""
+	},
+	{
+		"id": "artefact09_description",
+		"text": ""
+	},
+	{
+		"id": "artefact09_name",
+		"text": ""
+	},
+	{
+		"id": "artefact10_description",
+		"text": ""
+	},
+	{
+		"id": "artefact10_name",
+		"text": ""
+	},
+	{
+		"id": "artefact11_description",
+		"text": ""
+	},
+	{
+		"id": "artefact11_name",
+		"text": ""
+	},
+	{
+		"id": "artefact12_description",
+		"text": ""
+	},
+	{
+		"id": "artefact12_name",
+		"text": ""
+	},
+	{
+		"id": "artefact13_description",
+		"text": ""
+	},
+	{
+		"id": "artefact13_name",
+		"text": ""
+	},
+	{
+		"id": "artefact14_description",
+		"text": ""
+	},
+	{
+		"id": "artefact14_name",
+		"text": ""
+	},
+	{
+		"id": "artefact15_description",
+		"text": ""
+	},
+	{
+		"id": "artefact15_name",
+		"text": ""
+	},
+	{
+		"id": "artefact16_description",
+		"text": ""
+	},
+	{
+		"id": "artefact16_name",
+		"text": ""
+	},
+	{
+		"id": "artefact17_description",
+		"text": ""
+	},
+	{
+		"id": "artefact17_name",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_0_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_0_name",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_1_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_1_name",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_2_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_2_name",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_3_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_3_name",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_4_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_4_name",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_5_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_5_name",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_6_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_6_name",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_7_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_7_name",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_8_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_8_name",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_9_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_9_name",
+		"text": ""
+	},
+	{
+		"id": "rock01_description",
+		"text": ""
+	},
+	{
+		"id": "rock01_name",
+		"text": ""
+	},
+	{
+		"id": "donut_teeth_name",
+		"text": ""
+	},
+	{
+		"id": "donut_teeth_description",
+		"text": ""
+	},
+	{
+		"id": "fenris_teeth_name",
+		"text": ""
+	},
+	{
+		"id": "fenris_teeth_description",
+		"text": ""
+	},
+	{
+		"id": "donut_armor_name",
+		"text": ""
+	},
+	{
+		"id": "donut_armor_description",
+		"text": ""
+	},
+	{
+		"id": "fenris_armor_name",
+		"text": ""
+	},
+	{
+		"id": "fenris_armor_description",
+		"text": ""
+	},
+	{
+		"id": "shinyBiscuit_0_name",
+		"text": ""
+	},
+	{
+		"id": "shinyBiscuit_0_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_0_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_0a_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_0b_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_0c_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_1_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_1a_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_1b_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_1c_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_2_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_2a_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_2b_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_2c_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_3_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_3a_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_3b_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_3c_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_4_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_4a_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_4b_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_4c_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_5_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_5a_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_5b_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_5c_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_6_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_6a_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_6b_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_6c_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_7_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_7a_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_7b_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_7c_name",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_0_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_0a_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_0b_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_0c_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_1_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_1a_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_1b_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_1c_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_2_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_2a_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_2b_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_2c_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_3_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_3a_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_3b_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_3c_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_4_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_4a_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_4b_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_4c_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_5_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_5a_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_5b_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_5c_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_6_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_6a_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_6b_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_6c_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_7_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_7a_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_7b_description",
+		"text": ""
+	},
+	{
+		"id": "disintegrator_7c_description",
+		"text": ""
+	},
+	{
+		"id": "knife_0_name",
+		"text": ""
+	},
+	{
+		"id": "knife_0a_name",
+		"text": ""
+	},
+	{
+		"id": "knife_0b_name",
+		"text": ""
+	},
+	{
+		"id": "knife_0c_name",
+		"text": ""
+	},
+	{
+		"id": "knife_1_name",
+		"text": ""
+	},
+	{
+		"id": "knife_1a_name",
+		"text": ""
+	},
+	{
+		"id": "knife_1b_name",
+		"text": ""
+	},
+	{
+		"id": "knife_1c_name",
+		"text": ""
+	},
+	{
+		"id": "knife_2_name",
+		"text": ""
+	},
+	{
+		"id": "knife_2a_name",
+		"text": ""
+	},
+	{
+		"id": "knife_2b_name",
+		"text": ""
+	},
+	{
+		"id": "knife_2c_name",
+		"text": ""
+	},
+	{
+		"id": "knife_3_name",
+		"text": ""
+	},
+	{
+		"id": "knife_3a_name",
+		"text": ""
+	},
+	{
+		"id": "knife_3b_name",
+		"text": ""
+	},
+	{
+		"id": "knife_3c_name",
+		"text": ""
+	},
+	{
+		"id": "knife_4_name",
+		"text": ""
+	},
+	{
+		"id": "knife_4a_name",
+		"text": ""
+	},
+	{
+		"id": "knife_4b_name",
+		"text": ""
+	},
+	{
+		"id": "knife_4c_name",
+		"text": ""
+	},
+	{
+		"id": "knife_5_name",
+		"text": ""
+	},
+	{
+		"id": "knife_5a_name",
+		"text": ""
+	},
+	{
+		"id": "knife_5b_name",
+		"text": ""
+	},
+	{
+		"id": "knife_5c_name",
+		"text": ""
+	},
+	{
+		"id": "knife_6_name",
+		"text": ""
+	},
+	{
+		"id": "knife_6a_name",
+		"text": ""
+	},
+	{
+		"id": "knife_6b_name",
+		"text": ""
+	},
+	{
+		"id": "knife_6c_name",
+		"text": ""
+	},
+	{
+		"id": "knife_7_name",
+		"text": ""
+	},
+	{
+		"id": "knife_7a_name",
+		"text": ""
+	},
+	{
+		"id": "knife_7b_name",
+		"text": ""
+	},
+	{
+		"id": "knife_7c_name",
+		"text": ""
+	},
+	{
+		"id": "knife_0_description",
+		"text": ""
+	},
+	{
+		"id": "knife_0a_description",
+		"text": ""
+	},
+	{
+		"id": "knife_0b_description",
+		"text": ""
+	},
+	{
+		"id": "knife_0c_description",
+		"text": ""
+	},
+	{
+		"id": "knife_1_description",
+		"text": ""
+	},
+	{
+		"id": "knife_1a_description",
+		"text": ""
+	},
+	{
+		"id": "knife_1b_description",
+		"text": ""
+	},
+	{
+		"id": "knife_1c_description",
+		"text": ""
+	},
+	{
+		"id": "knife_2_description",
+		"text": ""
+	},
+	{
+		"id": "knife_2a_description",
+		"text": ""
+	},
+	{
+		"id": "knife_2b_description",
+		"text": ""
+	},
+	{
+		"id": "knife_2c_description",
+		"text": ""
+	},
+	{
+		"id": "knife_3_description",
+		"text": ""
+	},
+	{
+		"id": "knife_3a_description",
+		"text": ""
+	},
+	{
+		"id": "knife_3b_description",
+		"text": ""
+	},
+	{
+		"id": "knife_3c_description",
+		"text": ""
+	},
+	{
+		"id": "knife_4_description",
+		"text": ""
+	},
+	{
+		"id": "knife_4a_description",
+		"text": ""
+	},
+	{
+		"id": "knife_4b_description",
+		"text": ""
+	},
+	{
+		"id": "knife_4c_description",
+		"text": ""
+	},
+	{
+		"id": "knife_5_description",
+		"text": ""
+	},
+	{
+		"id": "knife_5a_description",
+		"text": ""
+	},
+	{
+		"id": "knife_5b_description",
+		"text": ""
+	},
+	{
+		"id": "knife_5c_description",
+		"text": ""
+	},
+	{
+		"id": "knife_6_description",
+		"text": ""
+	},
+	{
+		"id": "knife_6a_description",
+		"text": ""
+	},
+	{
+		"id": "knife_6b_description",
+		"text": ""
+	},
+	{
+		"id": "knife_6c_description",
+		"text": ""
+	},
+	{
+		"id": "knife_7_description",
+		"text": ""
+	},
+	{
+		"id": "knife_7a_description",
+		"text": ""
+	},
+	{
+		"id": "knife_7b_description",
+		"text": ""
+	},
+	{
+		"id": "knife_7c_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_0_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_0a_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_0b_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_0c_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_1_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_1a_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_1b_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_1c_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_2_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_2a_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_2b_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_2c_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_3_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_3a_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_3b_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_3c_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_4_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_4a_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_4b_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_4c_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_5_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_5a_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_5b_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_5c_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_6_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_6a_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_6b_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_6c_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_7_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_7a_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_7b_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_7c_name",
+		"text": ""
+	},
+	{
+		"id": "pistol_0_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_0a_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_0b_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_0c_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_1_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_1a_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_1b_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_1c_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_2_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_2a_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_2b_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_2c_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_3_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_3a_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_3b_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_3c_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_4_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_4a_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_4b_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_4c_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_5_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_5a_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_5b_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_5c_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_6_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_6a_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_6b_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_6c_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_7_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_7a_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_7b_description",
+		"text": ""
+	},
+	{
+		"id": "pistol_7c_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_0_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_0a_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_0b_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_0c_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_1_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_1a_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_1b_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_1c_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_2_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_2a_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_2b_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_2c_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_3_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_3a_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_3b_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_3c_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_4_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_4a_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_4b_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_4c_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_5_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_5a_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_5b_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_5c_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_6_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_6a_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_6b_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_6c_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_7_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_7a_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_7b_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_7c_name",
+		"text": ""
+	},
+	{
+		"id": "rifle_0_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_0a_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_0b_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_0c_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_1_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_1a_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_1b_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_1c_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_2_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_2a_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_2b_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_2c_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_3_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_3a_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_3b_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_3c_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_4_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_4a_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_4b_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_4c_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_5_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_5a_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_5b_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_5c_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_6_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_6a_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_6b_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_6c_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_7_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_7a_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_7b_description",
+		"text": ""
+	},
+	{
+		"id": "rifle_7c_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_0_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_0a_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_0b_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_0c_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_1_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_1a_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_1b_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_1c_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_2_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_2a_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_2b_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_2c_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_3_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_3a_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_3b_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_3c_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_4_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_4a_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_4b_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_4c_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_5_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_5a_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_5b_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_5c_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_6_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_6a_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_6b_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_6c_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_7_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_7a_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_7b_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_7c_name",
+		"text": ""
+	},
+	{
+		"id": "shotgun_0_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_0a_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_0b_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_0c_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_1_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_1a_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_1b_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_1c_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_2_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_2a_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_2b_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_2c_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_3_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_3a_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_3b_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_3c_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_4_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_4a_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_4b_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_4c_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_5_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_5a_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_5b_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_5c_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_6_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_6a_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_6b_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_6c_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_7_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_7a_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_7b_description",
+		"text": ""
+	},
+	{
+		"id": "shotgun_7c_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_0_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_0a_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_0b_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_0c_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_1_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_1a_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_1b_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_1c_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_2_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_2a_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_2b_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_2c_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_3_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_3a_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_3b_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_3c_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_4_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_4a_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_4b_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_4c_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_5_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_5a_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_5b_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_5c_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_6_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_6a_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_6b_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_6c_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_7_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_7a_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_7b_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_7c_name",
+		"text": ""
+	},
+	{
+		"id": "sniper_0_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_0a_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_0b_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_0c_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_1_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_1a_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_1b_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_1c_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_2_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_2a_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_2b_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_2c_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_3_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_3a_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_3b_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_3c_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_4_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_4a_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_4b_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_4c_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_5_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_5a_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_5b_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_5c_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_6_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_6a_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_6b_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_6c_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_7_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_7a_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_7b_description",
+		"text": ""
+	},
+	{
+		"id": "sniper_7c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0a_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0b_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0c_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1a_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1b_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1c_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2a_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2b_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2c_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3a_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3b_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3c_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_4_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_4a_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_4b_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_4c_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_5_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_5a_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_5b_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_5c_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6a_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6b_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6c_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7a_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7b_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7c_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_4_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_4a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_4b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_4c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_5_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_5a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_5b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_5c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0a_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0b_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0c_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1a_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1b_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1c_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2a_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2b_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2c_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3a_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3b_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3c_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4a_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4b_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4c_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5a_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5b_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5c_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6a_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6b_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6c_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7a_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7b_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7c_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0a_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0b_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0c_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1a_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1b_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1c_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2a_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2b_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2c_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3a_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3b_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3c_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4a_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4b_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4c_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5a_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5b_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5c_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6a_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6b_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6c_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7a_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7b_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7c_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7c_description",
+		"text": ""
+	},
+	{
+		"id": "RU_item_test_desc",
+		"text": ""
 	}
 ]
 }

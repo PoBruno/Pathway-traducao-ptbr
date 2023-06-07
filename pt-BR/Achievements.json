@@ -2,16 +2,12 @@
 "id": "Achievements",
 "rows": [
 	{
-		"id": "adventure01Clue01_desc",
-		"text": "What on earth are the Nazis up to?"
-	},
-	{
-		"id": "adventure01Clue01_title",
-		"text": "The Armenian Trail"
+		"id": "hardcoreModeFinished_desc",
+		"text": ""
 	},
 	{
 		"id": "hardcoreModeFinished_title",
-		"text": "Hardcore Mode Survivor"
+		"text": ""
 	}
 ]
 }
