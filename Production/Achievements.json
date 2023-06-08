@@ -1,0 +1,13 @@
+{
+"id": "Achievements",
+"rows": [
+	{
+		"id": "hardcoreModeFinished_desc",
+		"text": "Termine o jogo no modo Hardcore."
+	},
+	{
+		"id": "hardcoreModeFinished_title",
+		"text": "Sobrevivente do modo Hardcore"
+	}
+]
+}

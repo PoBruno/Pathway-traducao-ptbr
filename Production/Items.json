@@ -3,7 +3,7 @@
 "rows": [
 	{
 		"id": "grenade_0_description",
-		"text": "As forças britânicas têm usado o nao. 23 como sua granada padrao desde 1902."
+		"text": "As forças britânicas têm usado o não. 23 como sua granada padrão desde 1902."
 	},
 	{
 		"id": "grenade_0_name",
@@ -11,7 +11,7 @@
 	},
 	{
 		"id": "grenade_1_description",
-		"text": "O rearmamento do exército alemao também se baseia nesse impressionante novo desenvolvimento da fábrica de Steiner."
+		"text": "O rearmamento do exército alemão também se baseia nesse impressionante novo desenvolvimento da fábrica de Steiner."
 	},
 	{
 		"id": "grenade_1_name",
@@ -19,7 +19,7 @@
 	},
 	{
 		"id": "grenade_2_description",
-		"text": "Quando se trata de poder explosivo, essa granada de fragmentaçao americana ultra-moderna está muito à frente da competiçao."
+		"text": "Quando se trata de poder explosivo, essa granada de fragmentação americana ultra-moderna está muito à frente da competição."
 	},
 	{
 		"id": "grenade_2_name",
@@ -35,7 +35,7 @@
 	},
 	{
 		"id": "grenade_4_description",
-		"text": "Uma nova granada de bastao do Exército Vermelho - provavelmente contrabandeado para a regiao através do Cáucaso."
+		"text": "Uma nova granada de bastão do Exército Vermelho - provavelmente contrabandeado para a região através do Cáucaso."
 	},
 	{
 		"id": "grenade_4_name",
@@ -43,7 +43,7 @@
 	},
 	{
 		"id": "grenade_5_description",
-		"text": "Explosivo alto - quando a linguagem forte nao é suficiente ..."
+		"text": "Explosivo alto - quando a linguagem forte não é suficiente ..."
 	},
 	{
 		"id": "grenade_5_name",
@@ -167,7 +167,7 @@
 	},
 	{
 		"id": "trashSoldier_4_name",
-		"text": "Botao de cobre manchado"
+		"text": "Botão de cobre manchado"
 	},
 	{
 		"id": "trashSoldier_5_description",
@@ -199,7 +199,7 @@
 	},
 	{
 		"id": "trashSoldier_8_name",
-		"text": "Raçao de campo mimada"
+		"text": "Ração de campo mimada"
 	},
 	{
 		"id": "trashSoldier_9_description",
@@ -739,7 +739,7 @@
 	},
 	{
 		"id": "valkyriumCrystal_description",
-		"text": "Um estranho cristal verde de origem desconhecida. Conhecido pelos antigos egípcios como Ka, o místico-giver da vida. Supostamente usado pelos cientistas alemaes para liberar os poderes dos artefatos antigos."
+		"text": "Um estranho cristal verde de origem desconhecida. Conhecido pelos antigos egípcios como Ka, o místico-giver da vida. Supostamente usado pelos cientistas alemães para liberar os poderes dos artefatos antigos."
 	},
 	{
 		"id": "valkyriumCrystal_name",
@@ -747,11 +747,11 @@
 	},
 	{
 		"id": "ammo_large_description",
-		"text": "Esta muniçao vai durar um pouco."
+		"text": "Esta munição vai durar um pouco."
 	},
 	{
 		"id": "ammo_large_name",
-		"text": "Caixa de muniçao grande"
+		"text": "Caixa de munição grande"
 	},
 	{
 		"id": "ammo_medium_description",
@@ -759,7 +759,7 @@
 	},
 	{
 		"id": "ammo_medium_name",
-		"text": "Caixa de muniçao média"
+		"text": "Caixa de munição média"
 	},
 	{
 		"id": "ammo_small_description",
@@ -767,11 +767,11 @@
 	},
 	{
 		"id": "ammo_small_name",
-		"text": "Pequena caixa de muniçao"
+		"text": "Pequena caixa de munição"
 	},
 	{
 		"id": "ammo_antique_small_description",
-		"text": "Tenho certeza de que funcionará tao confiável quanto a muniçao."
+		"text": "Tenho certeza de que funcionará tão confiável quanto a munição."
 	},
 	{
 		"id": "ammo_antique_small_name",
@@ -783,11 +783,11 @@
 	},
 	{
 		"id": "medkit_0_name",
-		"text": "Curativo de compressao"
+		"text": "Curativo de compressão"
 	},
 	{
 		"id": "medkit_1_description",
-		"text": "Também ajuda com dores de cabeça em tensao."
+		"text": "Também ajuda com dores de cabeça em tensão."
 	},
 	{
 		"id": "medkit_1_name",
@@ -795,7 +795,7 @@
 	},
 	{
 		"id": "medkit_2_description",
-		"text": "Nao dê uma chance a Gangrene!"
+		"text": "Não dê uma chance a Gangrene!"
 	},
 	{
 		"id": "medkit_2_name",
@@ -815,15 +815,15 @@
 	},
 	{
 		"id": "medkit_4_name",
-		"text": "Menor poçao de serque"
+		"text": "Menor poção de serque"
 	},
 	{
 		"id": "medkit_5_description",
-		"text": "Santo Hathor, Deusa Mae! Você sozinho concede consolo aos miseráveis."
+		"text": "Santo Hathor, Deusa Mãe! Você sozinho concede consolo aos miseráveis."
 	},
 	{
 		"id": "medkit_5_name",
-		"text": "Poçao arcana de hathor"
+		"text": "Poção arcana de hathor"
 	},
 	{
 		"id": "medkit_6_description",
@@ -831,7 +831,7 @@
 	},
 	{
 		"id": "medkit_6_name",
-		"text": "Santa Poçao de Khuttoora"
+		"text": "Santa Poção de Khuttoora"
 	},
 	{
 		"id": "repairkit_0_description",
@@ -843,7 +843,7 @@
 	},
 	{
 		"id": "repairkit_1_description",
-		"text": "Quando a agulha e a linha nao sao suficientes!"
+		"text": "Quando a agulha e a linha não são suficientes!"
 	},
 	{
 		"id": "repairkit_1_name",
@@ -859,7 +859,7 @@
 	},
 	{
 		"id": "repairkit_3_description",
-		"text": "O Priest Nerkut-Nir do Alto Hawk foi encarregado da preservaçao eterna dos artefatos sagrados do culto."
+		"text": "O Priest Nerkut-Nir do Alto Hawk foi encarregado da preservação eterna dos artefatos sagrados do culto."
 	},
 	{
 		"id": "repairkit_3_name",
@@ -867,7 +867,7 @@
 	},
 	{
 		"id": "repairkit_4_description",
-		"text": "Nefri-ka-Hor foi o fundador de uma tradiçao alquímica dedicada à preservaçao da matéria."
+		"text": "Nefri-ka-Hor foi o fundador de uma tradição alquímica dedicada à preservação da matéria."
 	},
 	{
 		"id": "repairkit_4_name",
@@ -887,7 +887,7 @@
 	},
 	{
 		"id": "artefact01_name",
-		"text": "A revelaçao secreta para Moisés"
+		"text": "A revelação secreta para Moisés"
 	},
 	{
 		"id": "artefact02_description",
@@ -899,7 +899,7 @@
 	},
 	{
 		"id": "artefact03_description",
-		"text": "Essa figura de pedra bruta com suas características faciais estranhamente alongadas nao parece pertencer a qualquer cultura humana conhecida."
+		"text": "Essa figura de pedra bruta com suas características faciais estranhamente alongadas não parece pertencer a qualquer cultura humana conhecida."
 	},
 	{
 		"id": "artefact03_name",
@@ -947,7 +947,7 @@
 	},
 	{
 		"id": "artefact09_description",
-		"text": "De acordo com sua inscriçao, esta é a máscara da morte de Alexandre, o Grande, um dos maiores conquistadores da história humana."
+		"text": "De acordo com sua inscrição, esta é a máscara da morte de Alexandre, o Grande, um dos maiores conquistadores da história humana."
 	},
 	{
 		"id": "artefact09_name",
@@ -963,7 +963,7 @@
 	},
 	{
 		"id": "artefact11_description",
-		"text": "O Livro dos Tesouros é uma coleçao antiga de mitos. Ele contém passagens perspicazes sobre os tesouros perdidos da Península Arábica."
+		"text": "O Livro dos Tesouros é uma coleção antiga de mitos. Ele contém passagens perspicazes sobre os tesouros perdidos da Península Arábica."
 	},
 	{
 		"id": "artefact11_name",
@@ -979,7 +979,7 @@
 	},
 	{
 		"id": "artefact13_description",
-		"text": "A bengala do rabino iluminado Isaac Luria. A cabeça do leao de marfim esculpida pode ser desaparafusado. Uma pequena cavidade contém um pedaço de papel cuidadosamente dobrado com um quebra -cabeça de números de cabalística."
+		"text": "A bengala do rabino iluminado Isaac Luria. A cabeça do leão de marfim esculpida pode ser desaparafusado. Uma pequena cavidade contém um pedaço de papel cuidadosamente dobrado com um quebra -cabeça de números de cabalística."
 	},
 	{
 		"id": "artefact13_name",
@@ -987,7 +987,7 @@
 	},
 	{
 		"id": "artefact14_description",
-		"text": "Parece ser sobre os planos de implantaçao para o Batalhao de Pesquisa Sul."
+		"text": "Parece ser sobre os planos de implantação para o Batalhão de Pesquisa Sul."
 	},
 	{
 		"id": "artefact14_name",
@@ -1027,7 +1027,7 @@
 	},
 	{
 		"id": "trashUndead_1_description",
-		"text": "Sao essas ... pontas dos dedos?!"
+		"text": "São essas ... pontas dos dedos?!"
 	},
 	{
 		"id": "trashUndead_1_name",
@@ -1035,7 +1035,7 @@
 	},
 	{
 		"id": "trashUndead_2_description",
-		"text": "Entao pegue um homem; onda -o."
+		"text": "Então pegue um homem; onda -o."
 	},
 	{
 		"id": "trashUndead_2_name",
@@ -1091,7 +1091,7 @@
 	},
 	{
 		"id": "trashUndead_9_description",
-		"text": "Dois rubis vermelhos de sangue sao costurados nos buracos dos olhos afundados!"
+		"text": "Dois rubis vermelhos de sangue são costurados nos buracos dos olhos afundados!"
 	},
 	{
 		"id": "trashUndead_9_name",
@@ -1275,7 +1275,7 @@
 	},
 	{
 		"id": "disintegrator_0_description",
-		"text": "Você nao acha que esses fios devem estar saindo da aba lateral."
+		"text": "Você não acha que esses fios devem estar saindo da aba lateral."
 	},
 	{
 		"id": "disintegrator_0a_description",
@@ -1295,11 +1295,11 @@
 	},
 	{
 		"id": "disintegrator_1a_description",
-		"text": "Esse design é obviamente um trabalho em andamento. Aqueles alemaes loucos e seus protótipos misteriosos!"
+		"text": "Esse design é obviamente um trabalho em andamento. Aqueles alemães loucos e seus protótipos misteriosos!"
 	},
 	{
 		"id": "disintegrator_1b_description",
-		"text": "Esse design é obviamente um trabalho em andamento. Aqueles alemaes loucos e seus protótipos misteriosos!"
+		"text": "Esse design é obviamente um trabalho em andamento. Aqueles alemães loucos e seus protótipos misteriosos!"
 	},
 	{
 		"id": "disintegrator_1c_description",
@@ -1343,15 +1343,15 @@
 	},
 	{
 		"id": "disintegrator_4a_description",
-		"text": "Previsivelmente excelente engenharia alema da enigmática fundiçao de armas em Xanten."
+		"text": "Previsivelmente excelente engenharia alemã da enigmática fundição de armas em Xanten."
 	},
 	{
 		"id": "disintegrator_4b_description",
-		"text": "Previsivelmente excelente engenharia alema da enigmática fundiçao de armas em Xanten."
+		"text": "Previsivelmente excelente engenharia alemã da enigmática fundição de armas em Xanten."
 	},
 	{
 		"id": "disintegrator_4c_description",
-		"text": "Diretamente da linha de produçao!"
+		"text": "Diretamente da linha de produção!"
 	},
 	{
 		"id": "disintegrator_5_description",
@@ -1375,15 +1375,15 @@
 	},
 	{
 		"id": "disintegrator_6a_description",
-		"text": "The Beam Rifle SG35 - A mais recente tecnologia dos teslaborgs mortais do Reich alemao!"
+		"text": "The Beam Rifle SG35 - A mais recente tecnologia dos teslaborgs mortais do Reich alemão!"
 	},
 	{
 		"id": "disintegrator_6b_description",
-		"text": "The Beam Rifle SG35 - A mais recente tecnologia dos teslaborgs mortais do Reich alemao!"
+		"text": "The Beam Rifle SG35 - A mais recente tecnologia dos teslaborgs mortais do Reich alemão!"
 	},
 	{
 		"id": "disintegrator_6c_description",
-		"text": "A arma fica muito confortavelmente na sua mao!"
+		"text": "A arma fica muito confortavelmente na sua mão!"
 	},
 	{
 		"id": "disintegrator_7_description",
@@ -1451,15 +1451,15 @@
 	},
 	{
 		"id": "knife_3_name",
-		"text": "Facao manchado"
+		"text": "Facão manchado"
 	},
 	{
 		"id": "knife_3a_name",
-		"text": "Novo facao"
+		"text": "Novo facão"
 	},
 	{
 		"id": "knife_3b_name",
-		"text": "Facao nítido"
+		"text": "Facão nítido"
 	},
 	{
 		"id": "knife_3c_name",
@@ -1559,7 +1559,7 @@
 	},
 	{
 		"id": "knife_1c_description",
-		"text": "É tao afiado quanto uma navalha!"
+		"text": "É tão afiado quanto uma navalha!"
 	},
 	{
 		"id": "knife_2_description",
@@ -1583,11 +1583,11 @@
 	},
 	{
 		"id": "knife_3a_description",
-		"text": "Um pouco pesado, mas se encaixa bem na sua mao."
+		"text": "Um pouco pesado, mas se encaixa bem na sua mão."
 	},
 	{
 		"id": "knife_3b_description",
-		"text": "Um pouco pesado, mas se encaixa bem na sua mao."
+		"text": "Um pouco pesado, mas se encaixa bem na sua mão."
 	},
 	{
 		"id": "knife_3c_description",
@@ -1615,11 +1615,11 @@
 	},
 	{
 		"id": "knife_5a_description",
-		"text": "A arma padrao dos temidos guerreiros de Ghurka: ágil e mortal."
+		"text": "A arma padrão dos temidos guerreiros de Ghurka: ágil e mortal."
 	},
 	{
 		"id": "knife_5b_description",
-		"text": "A arma padrao dos temidos guerreiros de Ghurka: ágil e mortal."
+		"text": "A arma padrão dos temidos guerreiros de Ghurka: ágil e mortal."
 	},
 	{
 		"id": "knife_5c_description",
@@ -1755,19 +1755,19 @@
 	},
 	{
 		"id": "pistol_6_name",
-		"text": "Açao Blake Bolt manchada"
+		"text": "Ação Blake Bolt manchada"
 	},
 	{
 		"id": "pistol_6a_name",
-		"text": "Nova açao de Blake Bolt"
+		"text": "Nova ação de Blake Bolt"
 	},
 	{
 		"id": "pistol_6b_name",
-		"text": "Açao aprimorada do Blake Bolt"
+		"text": "Ação aprimorada do Blake Bolt"
 	},
 	{
 		"id": "pistol_6c_name",
-		"text": "Açao esplêndida do Blake Bolt"
+		"text": "Ação esplêndida do Blake Bolt"
 	},
 	{
 		"id": "pistol_7_name",
@@ -1791,11 +1791,11 @@
 	},
 	{
 		"id": "pistol_0a_description",
-		"text": "Esta tem sido a arma padrao dos médicos de campo britânico desde 1915."
+		"text": "Esta tem sido a arma padrão dos médicos de campo britânico desde 1915."
 	},
 	{
 		"id": "pistol_0b_description",
-		"text": "Esta tem sido a arma padrao dos médicos de campo britânico desde 1915."
+		"text": "Esta tem sido a arma padrão dos médicos de campo britânico desde 1915."
 	},
 	{
 		"id": "pistol_0c_description",
@@ -1807,11 +1807,11 @@
 	},
 	{
 		"id": "pistol_1a_description",
-		"text": "Um clássico alemao, comprovado mil vezes nas trincheiras da Flandres."
+		"text": "Um clássico alemão, comprovado mil vezes nas trincheiras da Flandres."
 	},
 	{
 		"id": "pistol_1b_description",
-		"text": "Um clássico alemao, comprovado mil vezes nas trincheiras da Flandres."
+		"text": "Um clássico alemão, comprovado mil vezes nas trincheiras da Flandres."
 	},
 	{
 		"id": "pistol_1c_description",
@@ -1823,11 +1823,11 @@
 	},
 	{
 		"id": "pistol_2a_description",
-		"text": "O Corpo de Oficiais Alemao está atualmente sendo equipado com essa arma de última geraçao."
+		"text": "O Corpo de Oficiais Alemão está atualmente sendo equipado com essa arma de última geração."
 	},
 	{
 		"id": "pistol_2b_description",
-		"text": "O Corpo de Oficiais Alemao está atualmente sendo equipado com essa arma de última geraçao."
+		"text": "O Corpo de Oficiais Alemão está atualmente sendo equipado com essa arma de última geração."
 	},
 	{
 		"id": "pistol_2c_description",
@@ -1835,7 +1835,7 @@
 	},
 	{
 		"id": "pistol_3_description",
-		"text": "Nao envelheceu bem ..."
+		"text": "Não envelheceu bem ..."
 	},
 	{
 		"id": "pistol_3a_description",
@@ -1851,7 +1851,7 @@
 	},
 	{
 		"id": "pistol_4_description",
-		"text": "Areia flexoes na câmara."
+		"text": "Areia flexões na câmara."
 	},
 	{
 		"id": "pistol_4a_description",
@@ -1867,7 +1867,7 @@
 	},
 	{
 		"id": "pistol_5_description",
-		"text": "Infelizmente, nao está mais em muito boa forma."
+		"text": "Infelizmente, não está mais em muito boa forma."
 	},
 	{
 		"id": "pistol_5a_description",
@@ -1899,7 +1899,7 @@
 	},
 	{
 		"id": "pistol_7_description",
-		"text": "Algo está errado com a visao frontal ..."
+		"text": "Algo está errado com a visão frontal ..."
 	},
 	{
 		"id": "pistol_7a_description",
@@ -2063,11 +2063,11 @@
 	},
 	{
 		"id": "rifle_1a_description",
-		"text": "Surpreendentemente leve para esse calibre. Outro exemplo de engenharia alema. Um prenúncio perturbador do futuro da guerra."
+		"text": "Surpreendentemente leve para esse calibre. Outro exemplo de engenharia alemã. Um prenúncio perturbador do futuro da guerra."
 	},
 	{
 		"id": "rifle_1b_description",
-		"text": "Surpreendentemente leve para esse calibre. Outro exemplo de engenharia alema. Um prenúncio perturbador do futuro da guerra."
+		"text": "Surpreendentemente leve para esse calibre. Outro exemplo de engenharia alemã. Um prenúncio perturbador do futuro da guerra."
 	},
 	{
 		"id": "rifle_1c_description",
@@ -2079,11 +2079,11 @@
 	},
 	{
 		"id": "rifle_2a_description",
-		"text": "Um desenvolvimento alemao tardio da Grande Guerra. Mobilidade máxima no combate de trincheiras graças a um barril radicalmente encurtado."
+		"text": "Um desenvolvimento alemão tardio da Grande Guerra. Mobilidade máxima no combate de trincheiras graças a um barril radicalmente encurtado."
 	},
 	{
 		"id": "rifle_2b_description",
-		"text": "Um desenvolvimento alemao tardio da Grande Guerra. Mobilidade máxima no combate de trincheiras graças a um barril radicalmente encurtado."
+		"text": "Um desenvolvimento alemão tardio da Grande Guerra. Mobilidade máxima no combate de trincheiras graças a um barril radicalmente encurtado."
 	},
 	{
 		"id": "rifle_2c_description",
@@ -2111,15 +2111,15 @@
 	},
 	{
 		"id": "rifle_4a_description",
-		"text": "O Charleston M1 agora é considerado a arma padrao da Polícia Federal dos EUA em sua batalha contra contrabandistas fortemente armados e a Máfia."
+		"text": "O Charleston M1 agora é considerado a arma padrão da Polícia Federal dos EUA em sua batalha contra contrabandistas fortemente armados e a Máfia."
 	},
 	{
 		"id": "rifle_4b_description",
-		"text": "O Charleston M1 agora é considerado a arma padrao da Polícia Federal dos EUA em sua batalha contra contrabandistas fortemente armados e a Máfia."
+		"text": "O Charleston M1 agora é considerado a arma padrão da Polícia Federal dos EUA em sua batalha contra contrabandistas fortemente armados e a Máfia."
 	},
 	{
 		"id": "rifle_4c_description",
-		"text": "É tao bom quanto novo."
+		"text": "É tão bom quanto novo."
 	},
 	{
 		"id": "rifle_5_description",
@@ -2135,7 +2135,7 @@
 	},
 	{
 		"id": "rifle_5c_description",
-		"text": "Presumivelmente, um modelo pós-guerra que nunca viu açao na linha de frente."
+		"text": "Presumivelmente, um modelo pós-guerra que nunca viu ação na linha de frente."
 	},
 	{
 		"id": "rifle_6_description",
@@ -2143,15 +2143,15 @@
 	},
 	{
 		"id": "rifle_6a_description",
-		"text": "O SF-31D é uma evoluçao mais compacta das tecnologias de armas existentes."
+		"text": "O SF-31D é uma evolução mais compacta das tecnologias de armas existentes."
 	},
 	{
 		"id": "rifle_6b_description",
-		"text": "O SF-31D é uma evoluçao mais compacta das tecnologias de armas existentes."
+		"text": "O SF-31D é uma evolução mais compacta das tecnologias de armas existentes."
 	},
 	{
 		"id": "rifle_6c_description",
-		"text": "Você acha que essa arma pertencia a um oficial alemao."
+		"text": "Você acha que essa arma pertencia a um oficial alemão."
 	},
 	{
 		"id": "rifle_7_description",
@@ -2191,15 +2191,15 @@
 	},
 	{
 		"id": "shotgun_1a_name",
-		"text": "Açao de New Morley-Burke Break"
+		"text": "Ação de New Morley-Burke Break"
 	},
 	{
 		"id": "shotgun_1b_name",
-		"text": "Morley-Burke Break Açao aprimorada"
+		"text": "Morley-Burke Break Ação aprimorada"
 	},
 	{
 		"id": "shotgun_1c_name",
-		"text": "Açao esplêndida de quebra de Morley-Burke"
+		"text": "Ação esplêndida de quebra de Morley-Burke"
 	},
 	{
 		"id": "shotgun_2_name",
@@ -2311,7 +2311,7 @@
 	},
 	{
 		"id": "shotgun_0c_description",
-		"text": "Esta espingarda está em perfeitas condiçoes."
+		"text": "Esta espingarda está em perfeitas condições."
 	},
 	{
 		"id": "shotgun_1_description",
@@ -2319,11 +2319,11 @@
 	},
 	{
 		"id": "shotgun_1a_description",
-		"text": "Com o modelo de açao de quebra, este é a espingarda de caça de Burley-Burke."
+		"text": "Com o modelo de ação de quebra, este é a espingarda de caça de Burley-Burke."
 	},
 	{
 		"id": "shotgun_1b_description",
-		"text": "Com o modelo de açao de quebra, este é a espingarda de caça de Burley-Burke."
+		"text": "Com o modelo de ação de quebra, este é a espingarda de caça de Burley-Burke."
 	},
 	{
 		"id": "shotgun_1c_description",
@@ -2367,27 +2367,27 @@
 	},
 	{
 		"id": "shotgun_4a_description",
-		"text": "Robusto e eficiente, o Klugenstein HS é ideal para perseguiçao e outras atividades."
+		"text": "Robusto e eficiente, o Klugenstein HS é ideal para perseguição e outras atividades."
 	},
 	{
 		"id": "shotgun_4b_description",
-		"text": "Robusto e eficiente, o Klugenstein HS é ideal para perseguiçao e outras atividades."
+		"text": "Robusto e eficiente, o Klugenstein HS é ideal para perseguição e outras atividades."
 	},
 	{
 		"id": "shotgun_4c_description",
-		"text": "Ele se encaixa bem na mao, como uma extensao natural do seu braço ..."
+		"text": "Ele se encaixa bem na mão, como uma extensão natural do seu braço ..."
 	},
 	{
 		"id": "shotgun_5_description",
-		"text": "Esta arma está em uma condiçao sombria!"
+		"text": "Esta arma está em uma condição sombria!"
 	},
 	{
 		"id": "shotgun_5a_description",
-		"text": "Tradiçao de caça escocesa desde 1721 - A empresa familiar de Willoughby garante qualidade e desempenho."
+		"text": "Tradição de caça escocesa desde 1721 - A empresa familiar de Willoughby garante qualidade e desempenho."
 	},
 	{
 		"id": "shotgun_5b_description",
-		"text": "Tradiçao de caça escocesa desde 1721 - A empresa familiar de Willoughby garante qualidade e desempenho."
+		"text": "Tradição de caça escocesa desde 1721 - A empresa familiar de Willoughby garante qualidade e desempenho."
 	},
 	{
 		"id": "shotgun_5c_description",
@@ -2399,11 +2399,11 @@
 	},
 	{
 		"id": "shotgun_6a_description",
-		"text": "Originalmente desenvolvido para a caça ao lobo, o Lupara inflige lesoes devastadoras a curto alcance."
+		"text": "Originalmente desenvolvido para a caça ao lobo, o Lupara inflige lesões devastadoras a curto alcance."
 	},
 	{
 		"id": "shotgun_6b_description",
-		"text": "Originalmente desenvolvido para a caça ao lobo, o Lupara inflige lesoes devastadoras a curto alcance."
+		"text": "Originalmente desenvolvido para a caça ao lobo, o Lupara inflige lesões devastadoras a curto alcance."
 	},
 	{
 		"id": "shotgun_6c_description",
@@ -2575,11 +2575,11 @@
 	},
 	{
 		"id": "sniper_1a_description",
-		"text": "A arma padrao de atiradores britânicos na Grande Guerra."
+		"text": "A arma padrão de atiradores britânicos na Grande Guerra."
 	},
 	{
 		"id": "sniper_1b_description",
-		"text": "A arma padrao de atiradores britânicos na Grande Guerra."
+		"text": "A arma padrão de atiradores britânicos na Grande Guerra."
 	},
 	{
 		"id": "sniper_1c_description",
@@ -2587,7 +2587,7 @@
 	},
 	{
 		"id": "sniper_2_description",
-		"text": "A areia do deserto nao foi gentil com o mecanismo desse rifle."
+		"text": "A areia do deserto não foi gentil com o mecanismo desse rifle."
 	},
 	{
 		"id": "sniper_2a_description",
@@ -2603,15 +2603,15 @@
 	},
 	{
 		"id": "sniper_3_description",
-		"text": "Infelizmente, nao é muito bem preservado."
+		"text": "Infelizmente, não é muito bem preservado."
 	},
 	{
 		"id": "sniper_3a_description",
-		"text": "Um desenvolvimento de última geraçao do fornecedor do Exército britânico Hastings, que equilibra o calibre e o recuo."
+		"text": "Um desenvolvimento de última geração do fornecedor do Exército britânico Hastings, que equilibra o calibre e o recuo."
 	},
 	{
 		"id": "sniper_3b_description",
-		"text": "Um desenvolvimento de última geraçao do fornecedor do Exército britânico Hastings, que equilibra o calibre e o recuo."
+		"text": "Um desenvolvimento de última geração do fornecedor do Exército britânico Hastings, que equilibra o calibre e o recuo."
 	},
 	{
 		"id": "sniper_3c_description",
@@ -2623,11 +2623,11 @@
 	},
 	{
 		"id": "sniper_4a_description",
-		"text": "Os engenheiros americanos desenvolveram o Clark-Richfield nos últimos meses da Grande Guerra para combater os atiradores alemaes. No entanto, era tarde demais para ver açao na frente."
+		"text": "Os engenheiros americanos desenvolveram o Clark-Richfield nos últimos meses da Grande Guerra para combater os atiradores alemães. No entanto, era tarde demais para ver ação na frente."
 	},
 	{
 		"id": "sniper_4b_description",
-		"text": "Os engenheiros americanos desenvolveram o Clark-Richfield nos últimos meses da Grande Guerra para combater os atiradores alemaes. No entanto, era tarde demais para ver açao na frente."
+		"text": "Os engenheiros americanos desenvolveram o Clark-Richfield nos últimos meses da Grande Guerra para combater os atiradores alemães. No entanto, era tarde demais para ver ação na frente."
 	},
 	{
 		"id": "sniper_4c_description",
@@ -2639,11 +2639,11 @@
 	},
 	{
 		"id": "sniper_5a_description",
-		"text": "A lendária arma dos atiradores alemaes sobre os campos de morte da Grande Guerra de 1914 - 1918."
+		"text": "A lendária arma dos atiradores alemães sobre os campos de morte da Grande Guerra de 1914 - 1918."
 	},
 	{
 		"id": "sniper_5b_description",
-		"text": "A lendária arma dos atiradores alemaes sobre os campos de morte da Grande Guerra de 1914 - 1918."
+		"text": "A lendária arma dos atiradores alemães sobre os campos de morte da Grande Guerra de 1914 - 1918."
 	},
 	{
 		"id": "sniper_5c_description",
@@ -2655,11 +2655,11 @@
 	},
 	{
 		"id": "sniper_6a_description",
-		"text": "O Hericault Lunette é o rifle de Sniper da Legiao Estrangeira Francesa."
+		"text": "O Hericault Lunette é o rifle de Sniper da Legião Estrangeira Francesa."
 	},
 	{
 		"id": "sniper_6b_description",
-		"text": "O Hericault Lunette é o rifle de Sniper da Legiao Estrangeira Francesa."
+		"text": "O Hericault Lunette é o rifle de Sniper da Legião Estrangeira Francesa."
 	},
 	{
 		"id": "sniper_6c_description",
@@ -2879,11 +2879,11 @@
 	},
 	{
 		"id": "heavyArmor_4a_description",
-		"text": "Você nao pode acreditar que essa tecnologia avançada realmente existe ..."
+		"text": "Você não pode acreditar que essa tecnologia avançada realmente existe ..."
 	},
 	{
 		"id": "heavyArmor_4b_description",
-		"text": "Você nao pode acreditar que essa tecnologia avançada realmente existe ..."
+		"text": "Você não pode acreditar que essa tecnologia avançada realmente existe ..."
 	},
 	{
 		"id": "heavyArmor_4c_description",
@@ -2891,15 +2891,15 @@
 	},
 	{
 		"id": "heavyArmor_5_description",
-		"text": "O petróleo vazou nas articulaçoes dos ombros."
+		"text": "O petróleo vazou nas articulações dos ombros."
 	},
 	{
 		"id": "heavyArmor_5a_description",
-		"text": "Massivo e inspirador - um verdadeiro tita do campo de batalha!"
+		"text": "Massivo e inspirador - um verdadeiro titã do campo de batalha!"
 	},
 	{
 		"id": "heavyArmor_5b_description",
-		"text": "Massivo e inspirador - um verdadeiro tita do campo de batalha!"
+		"text": "Massivo e inspirador - um verdadeiro titã do campo de batalha!"
 	},
 	{
 		"id": "heavyArmor_5c_description",

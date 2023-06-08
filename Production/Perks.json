@@ -59,7 +59,7 @@
 	},
 	{
 		"id": "EventAdjustmentType_Intimidate",
-		"text": "Intimidaçao"
+		"text": "Intimidação"
 	},
 	{
 		"id": "EventAdjustmentType_Languages",
@@ -103,11 +103,11 @@
 	},
 	{
 		"id": "GrenadeAdjustmentType_Shredding",
-		"text": "Trituraçao de armadura"
+		"text": "Trituração de armadura"
 	},
 	{
 		"id": "HealthKitAdjustmentType_Strength",
-		"text": "Quantidade de cicatrizaçao"
+		"text": "Quantidade de cicatrização"
 	},
 	{
 		"id": "HealthKitAdjustmentType_Range",
@@ -135,7 +135,7 @@
 	},
 	{
 		"id": "ItemType_Ammo",
-		"text": "Muniçao"
+		"text": "Munição"
 	},
 	{
 		"id": "ItemType_Medkit",
@@ -195,7 +195,7 @@
 	},
 	{
 		"id": "MapAdjustmentType_AmmoIncrease",
-		"text": "Encontra mais muniçao"
+		"text": "Encontra mais munição"
 	},
 	{
 		"id": "MapAdjustmentType_MoneyIncrease",
@@ -207,7 +207,7 @@
 	},
 	{
 		"id": "PlayerAttribute_Ammo",
-		"text": "Muniçao"
+		"text": "Munição"
 	},
 	{
 		"id": "PlayerAttribute_Fuel",
@@ -295,7 +295,7 @@
 	},
 	{
 		"id": "WeaponType_SniperRifle_Plural",
-		"text": "Rifles de precisao"
+		"text": "Rifles de precisão"
 	},
 	{
 		"id": "WeaponType_Pistol_Plural",
@@ -335,7 +335,7 @@
 	},
 	{
 		"id": "WeaponAdjustmentType_AimModifier",
-		"text": "Precisao"
+		"text": "Precisão"
 	},
 	{
 		"id": "WeaponAdjustmentType_MagSize",
@@ -343,7 +343,7 @@
 	},
 	{
 		"id": "WeaponAdjustmentType_Shredding",
-		"text": "Trituraçao de armadura"
+		"text": "Trituração de armadura"
 	},
 	{
 		"id": "WeaponAdjustmentType_Damage_Amount",
@@ -427,7 +427,7 @@
 	},
 	{
 		"id": "creepyHutArtefact01_name",
-		"text": "Amuleto de proteçao"
+		"text": "Amuleto de proteção"
 	},
 	{
 		"id": "fightAtTheOasis01_name",
@@ -451,7 +451,7 @@
 	},
 	{
 		"id": "healthBonus01_name",
-		"text": "Bênçao divina"
+		"text": "Bênção divina"
 	},
 	{
 		"id": "healthBonus02_name",
@@ -495,7 +495,7 @@
 	},
 	{
 		"id": "agiMalus03_name",
-		"text": "Lesao na perna"
+		"text": "Lesão na perna"
 	},
 	{
 		"id": "aimBonus01_name",
@@ -511,7 +511,7 @@
 	},
 	{
 		"id": "aimMalus03_name",
-		"text": "Caibra do estômago"
+		"text": "Cãibra do estômago"
 	},
 	{
 		"id": "aimMalus04_name",
@@ -527,7 +527,7 @@
 	},
 	{
 		"id": "aimMalus07_name",
-		"text": "Maos enfaixadas"
+		"text": "Mãos enfaixadas"
 	},
 	{
 		"id": "aimMalusEvadeBonus01_name",
@@ -535,7 +535,7 @@
 	},
 	{
 		"id": "evadeBonus01_name",
-		"text": "A bênçao do djinni"
+		"text": "A bênção do djinni"
 	},
 	{
 		"id": "evadeMalus01_name",
@@ -543,7 +543,7 @@
 	},
 	{
 		"id": "evadeMalus02_name",
-		"text": "Maldiçao antiga"
+		"text": "Maldição antiga"
 	},
 	{
 		"id": "evadeMalus03_name",
@@ -599,7 +599,7 @@
 	},
 	{
 		"id": "characterPerkBaron_name",
-		"text": "Impostor de cavalheiro alemao"
+		"text": "Impostor de cavalheiro alemão"
 	},
 	{
 		"id": "characterPerkRose_name",
@@ -651,7 +651,7 @@
 	},
 	{
 		"id": "intimidateStarter_name",
-		"text": "Intimidaçao"
+		"text": "Intimidação"
 	},
 	{
 		"id": "languagesStarter_name",
@@ -679,7 +679,7 @@
 	},
 	{
 		"id": "naziDamagePenalty_name",
-		"text": "Declaraçao"
+		"text": "Declaração"
 	},
 	{
 		"id": "animalDamageBoost_name",
@@ -723,7 +723,7 @@
 	},
 	{
 		"id": "merchantView_name",
-		"text": "Conexoes comerciais"
+		"text": "Conexões comerciais"
 	},
 	{
 		"id": "recruiterView_name",
@@ -767,11 +767,11 @@
 	},
 	{
 		"id": "pistolBasics_name",
-		"text": "Noçoes básicas de pistola"
+		"text": "Noções básicas de pistola"
 	},
 	{
 		"id": "shotgunBasics_name",
-		"text": "Noçoes básicas de espingarda"
+		"text": "Noções básicas de espingarda"
 	},
 	{
 		"id": "assaultRifleBasics_name",
@@ -783,7 +783,7 @@
 	},
 	{
 		"id": "disintegratorBasics_name",
-		"text": "Noçoes básicas sobre armas de desintegrador"
+		"text": "Noções básicas sobre armas de desintegrador"
 	},
 	{
 		"id": "grenadeBasics_name",
@@ -795,7 +795,7 @@
 	},
 	{
 		"id": "medkitBasics_name",
-		"text": "Noçoes básicas de kit de primeiros socorros"
+		"text": "Noções básicas de kit de primeiros socorros"
 	},
 	{
 		"id": "endurance01_name",
@@ -831,7 +831,7 @@
 	},
 	{
 		"id": "pistolAim01_name",
-		"text": "Precisao da pistola"
+		"text": "Precisão da pistola"
 	},
 	{
 		"id": "pistolRange01_name",
@@ -867,7 +867,7 @@
 	},
 	{
 		"id": "knifeShredding01_name",
-		"text": "Destruiçao de Armadura de Faca"
+		"text": "Destruição de Armadura de Faca"
 	},
 	{
 		"id": "fangsDamage01_name",
@@ -903,7 +903,7 @@
 	},
 	{
 		"id": "rifleAim01_name",
-		"text": "Precisao do rifle de assalto"
+		"text": "Precisão do rifle de assalto"
 	},
 	{
 		"id": "rifleShredding01_name",
@@ -915,7 +915,7 @@
 	},
 	{
 		"id": "sniperRifleAim01_name",
-		"text": "Precisao do rifle de atirador de elite"
+		"text": "Precisão do rifle de atirador de elite"
 	},
 	{
 		"id": "sniperRifleRange01_name",
@@ -951,7 +951,7 @@
 	},
 	{
 		"id": "shotgunAim01_name",
-		"text": "Precisao da espingarda"
+		"text": "Precisão da espingarda"
 	},
 	{
 		"id": "shotgunCritChance01_name",
@@ -967,7 +967,7 @@
 	},
 	{
 		"id": "shotgunShredding01_name",
-		"text": "Armadura de espingarda trituraçao"
+		"text": "Armadura de espingarda trituração"
 	},
 	{
 		"id": "disintegratorRange01_name",
@@ -991,7 +991,7 @@
 	},
 	{
 		"id": "disintegratorAim01_name",
-		"text": "Precisao do desintegrador"
+		"text": "Precisão do desintegrador"
 	},
 	{
 		"id": "disintegratorShredding01_name",
@@ -1183,7 +1183,7 @@
 	},
 	{
 		"id": "miscSkillReactionShot_name",
-		"text": "Tiro de Reaçao"
+		"text": "Tiro de Reação"
 	},
 	{
 		"id": "miscSkillParry_name",

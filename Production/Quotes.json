@@ -11,7 +11,7 @@
 	},
 	{
 		"id": "natalya_CriticalStrike_0",
-		"text": "Uma execuçao perfeita."
+		"text": "Uma execução perfeita."
 	},
 	{
 		"id": "natalya_Killshot_0",
@@ -35,7 +35,7 @@
 	},
 	{
 		"id": "natalya_NeedAmmo_0",
-		"text": "Nossos suprimentos de muniçao sao baixos."
+		"text": "Nossos suprimentos de munição são baixos."
 	},
 	{
 		"id": "natalya_ItemUpgrade_0",
@@ -71,7 +71,7 @@
 	},
 	{
 		"id": "natalya_Killshot_1",
-		"text": "Nao aceite o caminho errado!"
+		"text": "Não aceite o caminho errado!"
 	},
 	{
 		"id": "natalya_Evade_1",
@@ -79,19 +79,19 @@
 	},
 	{
 		"id": "natalya_Idle_1",
-		"text": "Nao quero reclamar, mas estou começando a ficar entediado aqui."
+		"text": "Não quero reclamar, mas estou começando a ficar entediado aqui."
 	},
 	{
 		"id": "natalya_Flanked_1",
-		"text": "Eles estao por toda parte!"
+		"text": "Eles estão por toda parte!"
 	},
 	{
 		"id": "natalya_NeedFuel_1",
-		"text": "Nao vamos chegar longe com o combustível restante."
+		"text": "Não vamos chegar longe com o combustível restante."
 	},
 	{
 		"id": "natalya_NeedAmmo_1",
-		"text": "O que faremos quando ficarmos sem muniçao?"
+		"text": "O que faremos quando ficarmos sem munição?"
 	},
 	{
 		"id": "natalya_ItemUpgrade_1",
@@ -99,11 +99,11 @@
 	},
 	{
 		"id": "natalya_ItemDowngrade_1",
-		"text": "Nao é um fa."
+		"text": "Não é um fã."
 	},
 	{
 		"id": "natalya_Recruited_1",
-		"text": "Estou tao animado!"
+		"text": "Estou tão animado!"
 	},
 	{
 		"id": "natalya_LevelUp_1",
@@ -143,11 +143,11 @@
 	},
 	{
 		"id": "leonora_NeedFuel_0",
-		"text": "Nossos suprimentos de combustível nao se reabastecem."
+		"text": "Nossos suprimentos de combustível não se reabastecem."
 	},
 	{
 		"id": "leonora_NeedAmmo_0",
-		"text": "Podemos querer prestar atençao ao nosso suprimento de muniçao."
+		"text": "Podemos querer prestar atenção ao nosso suprimento de munição."
 	},
 	{
 		"id": "leonora_ItemUpgrade_0",
@@ -155,11 +155,11 @@
 	},
 	{
 		"id": "leonora_ItemDowngrade_0",
-		"text": "Nao é minha xícara de chá."
+		"text": "Não é minha xícara de chá."
 	},
 	{
 		"id": "leonora_Recruited_0",
-		"text": "Deixe -me verificar minha programaçao ...\n Sim, tudo bem."
+		"text": "Deixe -me verificar minha programação ...\n Sim, tudo bem."
 	},
 	{
 		"id": "leonora_LevelUp_0",
@@ -183,7 +183,7 @@
 	},
 	{
 		"id": "leonora_Killshot_1",
-		"text": "Este nao nos machucará mais."
+		"text": "Este não nos machucará mais."
 	},
 	{
 		"id": "leonora_Evade_1",
@@ -203,7 +203,7 @@
 	},
 	{
 		"id": "leonora_NeedAmmo_1",
-		"text": "Isso é toda a nossa muniçao?"
+		"text": "Isso é toda a nossa munição?"
 	},
 	{
 		"id": "leonora_ItemUpgrade_1",
@@ -231,11 +231,11 @@
 	},
 	{
 		"id": "veduti_NeedHealing_0",
-		"text": "Minhas feridas precisam de atençao."
+		"text": "Minhas feridas precisam de atenção."
 	},
 	{
 		"id": "veduti_CriticalStrike_0",
-		"text": "Eu nao aprendi isso no Seminário."
+		"text": "Eu não aprendi isso no Seminário."
 	},
 	{
 		"id": "veduti_Killshot_0",
@@ -255,11 +255,11 @@
 	},
 	{
 		"id": "veduti_NeedFuel_0",
-		"text": "Nossos suprimentos de combustível estao funcionando baixos."
+		"text": "Nossos suprimentos de combustível estão funcionando baixos."
 	},
 	{
 		"id": "veduti_NeedAmmo_0",
-		"text": "Temos que encontrar mais muniçao."
+		"text": "Temos que encontrar mais munição."
 	},
 	{
 		"id": "veduti_ItemUpgrade_0",
@@ -267,7 +267,7 @@
 	},
 	{
 		"id": "veduti_ItemDowngrade_0",
-		"text": "Eu nao gosto disso."
+		"text": "Eu não gosto disso."
 	},
 	{
 		"id": "veduti_Recruited_0",
@@ -287,7 +287,7 @@
 	},
 	{
 		"id": "veduti_NeedHealing_1",
-		"text": "Eu vejo ... uma luz brilhante ... na escuridao."
+		"text": "Eu vejo ... uma luz brilhante ... na escuridão."
 	},
 	{
 		"id": "veduti_CriticalStrike_1",
@@ -299,23 +299,23 @@
 	},
 	{
 		"id": "veduti_Evade_1",
-		"text": "Meu tempo ainda nao chegou."
+		"text": "Meu tempo ainda não chegou."
 	},
 	{
 		"id": "veduti_Idle_1",
-		"text": "Se alguém precisar de uma confissao - parece que tenho um pouco de tempo."
+		"text": "Se alguém precisar de uma confissão - parece que tenho um pouco de tempo."
 	},
 	{
 		"id": "veduti_Flanked_1",
-		"text": "Nao vou cobrir com medo."
+		"text": "Não vou cobrir com medo."
 	},
 	{
 		"id": "veduti_NeedFuel_1",
-		"text": "Estaremos rezando nossas últimas oraçoes em breve se nao encontrarmos combustível rapidamente ..."
+		"text": "Estaremos rezando nossas últimas orações em breve se não encontrarmos combustível rapidamente ..."
 	},
 	{
 		"id": "veduti_NeedAmmo_1",
-		"text": "Sem muniçao? Senhor, ajude a todos nós."
+		"text": "Sem munição? Senhor, ajude a todos nós."
 	},
 	{
 		"id": "veduti_ItemUpgrade_1",
@@ -335,7 +335,7 @@
 	},
 	{
 		"id": "veduti_EnemySpotted_1",
-		"text": "Você achou que eu nao podia te ver?"
+		"text": "Você achou que eu não podia te ver?"
 	},
 	{
 		"id": "brunhilda_NeedReloading_0",
@@ -371,7 +371,7 @@
 	},
 	{
 		"id": "brunhilda_NeedAmmo_0",
-		"text": "Nossos suprimentos de muniçao estao quase vazios."
+		"text": "Nossos suprimentos de munição estão quase vazios."
 	},
 	{
 		"id": "brunhilda_ItemUpgrade_0",
@@ -427,7 +427,7 @@
 	},
 	{
 		"id": "brunhilda_NeedAmmo_1",
-		"text": "Nenhuma muniçao foi embora? Deixe nossos punhos falarem."
+		"text": "Nenhuma munição foi embora? Deixe nossos punhos falarem."
 	},
 	{
 		"id": "brunhilda_ItemUpgrade_1",
@@ -483,7 +483,7 @@
 	},
 	{
 		"id": "pereira_NeedAmmo_0",
-		"text": "Quase nenhuma muniçao foi embora do que posso ver aqui."
+		"text": "Quase nenhuma munição foi embora do que posso ver aqui."
 	},
 	{
 		"id": "pereira_ItemUpgrade_0",
@@ -491,7 +491,7 @@
 	},
 	{
 		"id": "pereira_ItemDowngrade_0",
-		"text": "Por favor nao."
+		"text": "Por favor não."
 	},
 	{
 		"id": "pereira_Recruited_0",
@@ -519,7 +519,7 @@
 	},
 	{
 		"id": "pereira_Killshot_1",
-		"text": "Esses proprietários nao conseguem lidar com nada."
+		"text": "Esses proprietários não conseguem lidar com nada."
 	},
 	{
 		"id": "pereira_Evade_1",
@@ -531,7 +531,7 @@
 	},
 	{
 		"id": "pereira_Flanked_1",
-		"text": "Eles estao começando a me dar nos nervos!"
+		"text": "Eles estão começando a me dar nos nervos!"
 	},
 	{
 		"id": "pereira_NeedFuel_1",
@@ -539,7 +539,7 @@
 	},
 	{
 		"id": "pereira_NeedAmmo_1",
-		"text": "Estamos ficando um pouco baixos em muniçao."
+		"text": "Estamos ficando um pouco baixos em munição."
 	},
 	{
 		"id": "pereira_ItemUpgrade_1",
@@ -595,7 +595,7 @@
 	},
 	{
 		"id": "jackson_NeedAmmo_0",
-		"text": "Se ficarmos sem muniçao, entao nos ajude a Deus."
+		"text": "Se ficarmos sem munição, então nos ajude a Deus."
 	},
 	{
 		"id": "jackson_ItemUpgrade_0",
@@ -623,7 +623,7 @@
 	},
 	{
 		"id": "jackson_NeedHealing_1",
-		"text": "Nao vou desistir tao facilmente!"
+		"text": "Não vou desistir tão facilmente!"
 	},
 	{
 		"id": "jackson_CriticalStrike_1",
@@ -639,19 +639,19 @@
 	},
 	{
 		"id": "jackson_Idle_1",
-		"text": "Suponho que o sultao de Zanzibar ainda nao está falando comigo ..."
+		"text": "Suponho que o sultão de Zanzibar ainda não está falando comigo ..."
 	},
 	{
 		"id": "jackson_Flanked_1",
-		"text": "Isso nao parece bom ..."
+		"text": "Isso não parece bom ..."
 	},
 	{
 		"id": "jackson_NeedFuel_1",
-		"text": "O que você quer dizer, nao há mais gás?"
+		"text": "O que você quer dizer, não há mais gás?"
 	},
 	{
 		"id": "jackson_NeedAmmo_1",
-		"text": "Se nao conseguirmos mais muniçao em breve, teremos que começar a improvisar!"
+		"text": "Se não conseguirmos mais munição em breve, teremos que começar a improvisar!"
 	},
 	{
 		"id": "jackson_ItemUpgrade_1",
@@ -687,7 +687,7 @@
 	},
 	{
 		"id": "georgette_Killshot_0",
-		"text": "Nao há mais necessidade de se preocupar com este."
+		"text": "Não há mais necessidade de se preocupar com este."
 	},
 	{
 		"id": "georgette_Evade_0",
@@ -707,7 +707,7 @@
 	},
 	{
 		"id": "georgette_NeedAmmo_0",
-		"text": "Nossas reservas de muniçao sao baixas."
+		"text": "Nossas reservas de munição são baixas."
 	},
 	{
 		"id": "georgette_ItemUpgrade_0",
@@ -715,11 +715,11 @@
 	},
 	{
 		"id": "georgette_ItemDowngrade_0",
-		"text": "Isso nao vai servir."
+		"text": "Isso não vai servir."
 	},
 	{
 		"id": "georgette_Recruited_0",
-		"text": "Nao vou decepcionar."
+		"text": "Não vou decepcionar."
 	},
 	{
 		"id": "georgette_LevelUp_0",
@@ -731,7 +731,7 @@
 	},
 	{
 		"id": "georgette_NeedReloading_1",
-		"text": "Minha arma nao é muito boa sem muniçao!"
+		"text": "Minha arma não é muito boa sem munição!"
 	},
 	{
 		"id": "georgette_NeedHealing_1",
@@ -743,7 +743,7 @@
 	},
 	{
 		"id": "georgette_Killshot_1",
-		"text": "Missao cumprida."
+		"text": "Missão cumprida."
 	},
 	{
 		"id": "georgette_Evade_1",
@@ -755,7 +755,7 @@
 	},
 	{
 		"id": "georgette_Flanked_1",
-		"text": "Nao perca sua coragem agora."
+		"text": "Não perca sua coragem agora."
 	},
 	{
 		"id": "georgette_NeedFuel_1",
@@ -763,7 +763,7 @@
 	},
 	{
 		"id": "georgette_NeedAmmo_1",
-		"text": "Alguém conhece um revendedor de muniçao por aqui?"
+		"text": "Alguém conhece um revendedor de munição por aqui?"
 	},
 	{
 		"id": "georgette_ItemUpgrade_1",
@@ -783,11 +783,11 @@
 	},
 	{
 		"id": "georgette_EnemySpotted_1",
-		"text": "Você achou que eu nao podia te ver?"
+		"text": "Você achou que eu não podia te ver?"
 	},
 	{
 		"id": "professor_NeedReloading_0",
-		"text": "A falta de muniçao aqui."
+		"text": "A falta de munição aqui."
 	},
 	{
 		"id": "professor_NeedHealing_0",
@@ -807,7 +807,7 @@
 	},
 	{
 		"id": "professor_Idle_0",
-		"text": "Eu preferiria se voltassemos à nossa tarefa em maos."
+		"text": "Eu preferiria se voltassemos à nossa tarefa em mãos."
 	},
 	{
 		"id": "professor_Flanked_0",
@@ -819,7 +819,7 @@
 	},
 	{
 		"id": "professor_NeedAmmo_0",
-		"text": "Temos reservas mínimas de muniçao restantes."
+		"text": "Temos reservas mínimas de munição restantes."
 	},
 	{
 		"id": "professor_ItemUpgrade_0",
@@ -847,7 +847,7 @@
 	},
 	{
 		"id": "professor_NeedHealing_1",
-		"text": "Nao sinto mais minhas pernas!"
+		"text": "Não sinto mais minhas pernas!"
 	},
 	{
 		"id": "professor_CriticalStrike_1",
@@ -863,7 +863,7 @@
 	},
 	{
 		"id": "professor_Idle_1",
-		"text": "Sem um ionizador, a tensao é muito alta, é claro. Você teria que interpor um indutor de Pittsburgh ..."
+		"text": "Sem um ionizador, a tensão é muito alta, é claro. Você teria que interpor um indutor de Pittsburgh ..."
 	},
 	{
 		"id": "professor_Flanked_1",
@@ -871,11 +871,11 @@
 	},
 	{
 		"id": "professor_NeedFuel_1",
-		"text": "O medidor de combustível está quebrado? Nao? Entao temos um problema ..."
+		"text": "O medidor de combustível está quebrado? Não? Então temos um problema ..."
 	},
 	{
 		"id": "professor_NeedAmmo_1",
-		"text": "Sem muniçao, temos um problema ..."
+		"text": "Sem munição, temos um problema ..."
 	},
 	{
 		"id": "professor_ItemUpgrade_1",
@@ -883,7 +883,7 @@
 	},
 	{
 		"id": "professor_ItemDowngrade_1",
-		"text": "Isso pertence ao lixo, nao nas minhas maos!"
+		"text": "Isso pertence ao lixo, não nas minhas mãos!"
 	},
 	{
 		"id": "professor_Recruited_1",
@@ -899,7 +899,7 @@
 	},
 	{
 		"id": "drChandra_NeedReloading_0",
-		"text": "Oh - parece que estou sem muniçao."
+		"text": "Oh - parece que estou sem munição."
 	},
 	{
 		"id": "drChandra_NeedHealing_0",
@@ -907,7 +907,7 @@
 	},
 	{
 		"id": "drChandra_CriticalStrike_0",
-		"text": "Nao gosto de infligir dor."
+		"text": "Não gosto de infligir dor."
 	},
 	{
 		"id": "drChandra_Killshot_0",
@@ -931,7 +931,7 @@
 	},
 	{
 		"id": "drChandra_NeedAmmo_0",
-		"text": "Oh nao! Nossa muniçao está quase toda."
+		"text": "Oh não! Nossa munição está quase toda."
 	},
 	{
 		"id": "drChandra_ItemUpgrade_0",
@@ -939,11 +939,11 @@
 	},
 	{
 		"id": "drChandra_ItemDowngrade_0",
-		"text": "Eu nao pretendo ser rude, mas você tem certeza?"
+		"text": "Eu não pretendo ser rude, mas você tem certeza?"
 	},
 	{
 		"id": "drChandra_Recruited_0",
-		"text": "Estou esperando ansiosamente para participar desta expediçao!"
+		"text": "Estou esperando ansiosamente para participar desta expedição!"
 	},
 	{
 		"id": "drChandra_LevelUp_0",
@@ -967,7 +967,7 @@
 	},
 	{
 		"id": "drChandra_Killshot_1",
-		"text": "Tao inútil ..."
+		"text": "Tão inútil ..."
 	},
 	{
 		"id": "drChandra_Evade_1",
@@ -979,7 +979,7 @@
 	},
 	{
 		"id": "drChandra_Flanked_1",
-		"text": "Parece que eles estao tentando nos cercar."
+		"text": "Parece que eles estão tentando nos cercar."
 	},
 	{
 		"id": "drChandra_NeedFuel_1",
@@ -1003,7 +1003,7 @@
 	},
 	{
 		"id": "drChandra_LevelUp_1",
-		"text": "A iluminaçao chega até você, nao o contrário."
+		"text": "A iluminação chega até você, não o contrário."
 	},
 	{
 		"id": "drChandra_EnemySpotted_1",
@@ -1027,7 +1027,7 @@
 	},
 	{
 		"id": "shaneeka_Evade_0",
-		"text": "Meus instintos sao excelentes."
+		"text": "Meus instintos são excelentes."
 	},
 	{
 		"id": "shaneeka_Idle_0",
@@ -1043,7 +1043,7 @@
 	},
 	{
 		"id": "shaneeka_NeedAmmo_0",
-		"text": "Muniçao é baixa."
+		"text": "Munição é baixa."
 	},
 	{
 		"id": "shaneeka_ItemUpgrade_0",
@@ -1051,11 +1051,11 @@
 	},
 	{
 		"id": "shaneeka_ItemDowngrade_0",
-		"text": "Isso nao é do meu gosto."
+		"text": "Isso não é do meu gosto."
 	},
 	{
 		"id": "shaneeka_Recruited_0",
-		"text": "Nossos inimigos ficarao impressionados com o medo."
+		"text": "Nossos inimigos ficarão impressionados com o medo."
 	},
 	{
 		"id": "shaneeka_LevelUp_0",
@@ -1071,7 +1071,7 @@
 	},
 	{
 		"id": "shaneeka_NeedHealing_1",
-		"text": "Nao se preocupe comigo, eu ficarei bem."
+		"text": "Não se preocupe comigo, eu ficarei bem."
 	},
 	{
 		"id": "shaneeka_CriticalStrike_1",
@@ -1103,7 +1103,7 @@
 	},
 	{
 		"id": "shaneeka_ItemUpgrade_1",
-		"text": "A alegria enche meu coraçao."
+		"text": "A alegria enche meu coração."
 	},
 	{
 		"id": "shaneeka_ItemDowngrade_1",
@@ -1111,7 +1111,7 @@
 	},
 	{
 		"id": "shaneeka_Recruited_1",
-		"text": "Minha lâmina e minha honra sao suas."
+		"text": "Minha lâmina e minha honra são suas."
 	},
 	{
 		"id": "shaneeka_LevelUp_1",
@@ -1127,11 +1127,11 @@
 	},
 	{
 		"id": "baron_NeedHealing_0",
-		"text": "Eu nao sinto o meu melhor."
+		"text": "Eu não sinto o meu melhor."
 	},
 	{
 		"id": "baron_CriticalStrike_0",
-		"text": "Nao sorte, mas habilidade."
+		"text": "Não sorte, mas habilidade."
 	},
 	{
 		"id": "baron_Killshot_0",
@@ -1155,7 +1155,7 @@
 	},
 	{
 		"id": "baron_NeedAmmo_0",
-		"text": "Temos pequena muniçao restante."
+		"text": "Temos pequena munição restante."
 	},
 	{
 		"id": "baron_ItemUpgrade_0",
@@ -1187,7 +1187,7 @@
 	},
 	{
 		"id": "baron_CriticalStrike_1",
-		"text": "Você nao esperava isso, nao é?"
+		"text": "Você não esperava isso, não é?"
 	},
 	{
 		"id": "baron_Killshot_1",
@@ -1195,11 +1195,11 @@
 	},
 	{
 		"id": "baron_Evade_1",
-		"text": "Nao é muito impressionante."
+		"text": "Não é muito impressionante."
 	},
 	{
 		"id": "baron_Idle_1",
-		"text": "Entao eu disse: MS Sturmbannführer, nao é isso que parece!"
+		"text": "Então eu disse: MS Sturmbannführer, não é isso que parece!"
 	},
 	{
 		"id": "baron_Flanked_1",
@@ -1211,7 +1211,7 @@
 	},
 	{
 		"id": "baron_NeedAmmo_1",
-		"text": "As más notícias primeiro: estamos quase sem muniçao."
+		"text": "As más notícias primeiro: estamos quase sem munição."
 	},
 	{
 		"id": "baron_ItemUpgrade_1",
@@ -1219,7 +1219,7 @@
 	},
 	{
 		"id": "baron_ItemDowngrade_1",
-		"text": "Eca! Eu nao tocaria com luvas!"
+		"text": "Eca! Eu não tocaria com luvas!"
 	},
 	{
 		"id": "baron_Recruited_1",
@@ -1231,15 +1231,15 @@
 	},
 	{
 		"id": "baron_EnemySpotted_1",
-		"text": "Você achou que eu nao podia te ver?"
+		"text": "Você achou que eu não podia te ver?"
 	},
 	{
 		"id": "Rose_NeedReloading_0",
-		"text": "Uma arma vazia nao ajudará ninguém."
+		"text": "Uma arma vazia não ajudará ninguém."
 	},
 	{
 		"id": "Rose_NeedHealing_0",
-		"text": "Esta ferida precisa de atençao."
+		"text": "Esta ferida precisa de atenção."
 	},
 	{
 		"id": "Rose_CriticalStrike_0",
@@ -1255,7 +1255,7 @@
 	},
 	{
 		"id": "Rose_Idle_0",
-		"text": "Por que nao estamos nos movendo?"
+		"text": "Por que não estamos nos movendo?"
 	},
 	{
 		"id": "Rose_Flanked_0",
@@ -1263,11 +1263,11 @@
 	},
 	{
 		"id": "Rose_NeedFuel_0",
-		"text": "Se nao encontrarmos combustível em breve, estamos com problemas."
+		"text": "Se não encontrarmos combustível em breve, estamos com problemas."
 	},
 	{
 		"id": "Rose_NeedAmmo_0",
-		"text": "Nao podemos ficar sem muniçao."
+		"text": "Não podemos ficar sem munição."
 	},
 	{
 		"id": "Rose_ItemUpgrade_0",
@@ -1275,7 +1275,7 @@
 	},
 	{
 		"id": "Rose_ItemDowngrade_0",
-		"text": "Nao, isso é ruim."
+		"text": "Não, isso é ruim."
 	},
 	{
 		"id": "Rose_Recruited_0",
@@ -1295,7 +1295,7 @@
 	},
 	{
 		"id": "Rose_NeedHealing_1",
-		"text": "Eu nao me sinto muito bem."
+		"text": "Eu não me sinto muito bem."
 	},
 	{
 		"id": "Rose_CriticalStrike_1",
@@ -1311,7 +1311,7 @@
 	},
 	{
 		"id": "Rose_Idle_1",
-		"text": "Você ouve passos? Nao, provavelmente sao apenas meus nervos."
+		"text": "Você ouve passos? Não, provavelmente são apenas meus nervos."
 	},
 	{
 		"id": "Rose_Flanked_1",
@@ -1319,11 +1319,11 @@
 	},
 	{
 		"id": "Rose_NeedFuel_1",
-		"text": "O que você quer dizer, nao há mais gás?"
+		"text": "O que você quer dizer, não há mais gás?"
 	},
 	{
 		"id": "Rose_NeedAmmo_1",
-		"text": "Estamos ficando sem muniçao."
+		"text": "Estamos ficando sem munição."
 	},
 	{
 		"id": "Rose_ItemUpgrade_1",
@@ -1331,7 +1331,7 @@
 	},
 	{
 		"id": "Rose_ItemDowngrade_1",
-		"text": "Você quer minha opiniao? Nao é ótimo."
+		"text": "Você quer minha opinião? Não é ótimo."
 	},
 	{
 		"id": "Rose_Recruited_1",
@@ -1339,7 +1339,7 @@
 	},
 	{
 		"id": "Rose_LevelUp_1",
-		"text": "Estes sao algumas novas idéias interessantes ..."
+		"text": "Estes são algumas novas idéias interessantes ..."
 	},
 	{
 		"id": "Rose_EnemySpotted_1",
@@ -1347,7 +1347,7 @@
 	},
 	{
 		"id": "caballero_NeedReloading_0",
-		"text": "Eu nao tenho balas restantes."
+		"text": "Eu não tenho balas restantes."
 	},
 	{
 		"id": "caballero_NeedHealing_0",
@@ -1363,11 +1363,11 @@
 	},
 	{
 		"id": "caballero_Evade_0",
-		"text": "Eles nao podem me pegar."
+		"text": "Eles não podem me pegar."
 	},
 	{
 		"id": "caballero_Idle_0",
-		"text": "Se eu estivesse no comando, nao estaríamos perdendo tempo."
+		"text": "Se eu estivesse no comando, não estaríamos perdendo tempo."
 	},
 	{
 		"id": "caballero_Flanked_0",
@@ -1379,7 +1379,7 @@
 	},
 	{
 		"id": "caballero_NeedAmmo_0",
-		"text": "Temos armas, mas pequena muniçao."
+		"text": "Temos armas, mas pequena munição."
 	},
 	{
 		"id": "caballero_ItemUpgrade_0",
@@ -1391,7 +1391,7 @@
 	},
 	{
 		"id": "caballero_Recruited_0",
-		"text": "Mal posso esperar para obter uma açao real!"
+		"text": "Mal posso esperar para obter uma ação real!"
 	},
 	{
 		"id": "caballero_LevelUp_0",
@@ -1411,7 +1411,7 @@
 	},
 	{
 		"id": "caballero_CriticalStrike_1",
-		"text": "Maos firmes."
+		"text": "Mãos firmes."
 	},
 	{
 		"id": "caballero_Killshot_1",
@@ -1427,11 +1427,11 @@
 	},
 	{
 		"id": "caballero_Flanked_1",
-		"text": "Eles estao por toda parte!"
+		"text": "Eles estão por toda parte!"
 	},
 	{
 		"id": "caballero_NeedFuel_1",
-		"text": "Se nao encontrarmos gasolina em breve, é isso ..."
+		"text": "Se não encontrarmos gasolina em breve, é isso ..."
 	},
 	{
 		"id": "caballero_NeedAmmo_1",
@@ -1447,7 +1447,7 @@
 	},
 	{
 		"id": "caballero_Recruited_1",
-		"text": "Como eu poderia dizer nao a tal empreendimento?"
+		"text": "Como eu poderia dizer não a tal empreendimento?"
 	},
 	{
 		"id": "caballero_LevelUp_1",
@@ -1479,7 +1479,7 @@
 	},
 	{
 		"id": "omar_Idle_0",
-		"text": "Nao faz sentido sentar."
+		"text": "Não faz sentido sentar."
 	},
 	{
 		"id": "omar_Flanked_0",
@@ -1491,7 +1491,7 @@
 	},
 	{
 		"id": "omar_NeedAmmo_0",
-		"text": "Vamos encontrar uma muniçao."
+		"text": "Vamos encontrar uma munição."
 	},
 	{
 		"id": "omar_ItemUpgrade_0",
@@ -1507,7 +1507,7 @@
 	},
 	{
 		"id": "omar_LevelUp_0",
-		"text": "Uma liçao dura e aprendida."
+		"text": "Uma lição dura e aprendida."
 	},
 	{
 		"id": "omar_EnemySpotted_0",
@@ -1519,7 +1519,7 @@
 	},
 	{
 		"id": "omar_NeedHealing_1",
-		"text": "Amigos, eu nao estou me sentindo bem!"
+		"text": "Amigos, eu não estou me sentindo bem!"
 	},
 	{
 		"id": "omar_CriticalStrike_1",
@@ -1547,7 +1547,7 @@
 	},
 	{
 		"id": "omar_NeedAmmo_1",
-		"text": "Alguém tem alguma muniçao?"
+		"text": "Alguém tem alguma munição?"
 	},
 	{
 		"id": "omar_ItemUpgrade_1",
@@ -1571,7 +1571,7 @@
 	},
 	{
 		"id": "anabelle_NeedReloading_0",
-		"text": "Muniçao, por favor."
+		"text": "Munição, por favor."
 	},
 	{
 		"id": "anabelle_NeedHealing_0",
@@ -1603,7 +1603,7 @@
 	},
 	{
 		"id": "anabelle_NeedAmmo_0",
-		"text": "Muniçao insuficiente em nossas reservas."
+		"text": "Munição insuficiente em nossas reservas."
 	},
 	{
 		"id": "anabelle_ItemUpgrade_0",
@@ -1611,11 +1611,11 @@
 	},
 	{
 		"id": "anabelle_ItemDowngrade_0",
-		"text": "Nao, absolutamente nao."
+		"text": "Não, absolutamente não."
 	},
 	{
 		"id": "anabelle_Recruited_0",
-		"text": "É claro que farei desta expediçao um sucesso."
+		"text": "É claro que farei desta expedição um sucesso."
 	},
 	{
 		"id": "anabelle_LevelUp_0",
@@ -1627,7 +1627,7 @@
 	},
 	{
 		"id": "anabelle_NeedReloading_1",
-		"text": "Alguém viu minha bolsa de muniçao?"
+		"text": "Alguém viu minha bolsa de munição?"
 	},
 	{
 		"id": "anabelle_NeedHealing_1",
@@ -1647,11 +1647,11 @@
 	},
 	{
 		"id": "anabelle_Idle_1",
-		"text": "Eu deveria ver meu aviao algum dia."
+		"text": "Eu deveria ver meu avião algum dia."
 	},
 	{
 		"id": "anabelle_Flanked_1",
-		"text": "Ei, isso nao é justo!"
+		"text": "Ei, isso não é justo!"
 	},
 	{
 		"id": "anabelle_NeedFuel_1",
@@ -1659,7 +1659,7 @@
 	},
 	{
 		"id": "anabelle_NeedAmmo_1",
-		"text": "Quem usou toda a muniçao?!"
+		"text": "Quem usou toda a munição?!"
 	},
 	{
 		"id": "anabelle_ItemUpgrade_1",
@@ -1679,7 +1679,7 @@
 	},
 	{
 		"id": "anabelle_EnemySpotted_1",
-		"text": "Você achou que eu nao podia te ver?"
+		"text": "Você achou que eu não podia te ver?"
 	},
 	{
 		"id": "leFantome_NeedReloading_0",
@@ -1691,7 +1691,7 @@
 	},
 	{
 		"id": "leFantome_CriticalStrike_0",
-		"text": "Nao sinto muito por isso."
+		"text": "Não sinto muito por isso."
 	},
 	{
 		"id": "leFantome_Killshot_0",
@@ -1715,7 +1715,7 @@
 	},
 	{
 		"id": "leFantome_NeedAmmo_0",
-		"text": "Precisa que eu encontre uma muniçao?"
+		"text": "Precisa que eu encontre uma munição?"
 	},
 	{
 		"id": "leFantome_ItemUpgrade_0",
@@ -1723,7 +1723,7 @@
 	},
 	{
 		"id": "leFantome_ItemDowngrade_0",
-		"text": "Nao nao nao."
+		"text": "Não não não."
 	},
 	{
 		"id": "leFantome_Recruited_0",
@@ -1759,7 +1759,7 @@
 	},
 	{
 		"id": "leFantome_Idle_1",
-		"text": "Eles nunca provaram que fui eu quem invadiu a embaixada alema em Paris."
+		"text": "Eles nunca provaram que fui eu quem invadiu a embaixada alemã em Paris."
 	},
 	{
 		"id": "leFantome_Flanked_1",
@@ -1771,7 +1771,7 @@
 	},
 	{
 		"id": "leFantome_NeedAmmo_1",
-		"text": "Nao há mais muniçao? Nao fui eu!"
+		"text": "Não há mais munição? Não fui eu!"
 	},
 	{
 		"id": "leFantome_ItemUpgrade_1",

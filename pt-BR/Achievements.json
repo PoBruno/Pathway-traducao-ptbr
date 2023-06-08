@@ -2,12 +2,604 @@
 "id": "Achievements",
 "rows": [
 	{
+		"id": "adventure01Clue01_desc",
+		"text": "O que diabos os nazistas estao fazendo?"
+	},
+	{
+		"id": "adventure01Clue01_title",
+		"text": "A Trilha Armênia"
+	},
+	{
+		"id": "adventure01Clue03_desc",
+		"text": "Os abutres circulando nos colocam em seu rastro..."
+	},
+	{
+		"id": "adventure01Clue03_title",
+		"text": "Arrogância"
+	},
+	{
+		"id": "adventure02Clue01_desc",
+		"text": "Eles pensaram que poderiam nos pegar desprevenidos!"
+	},
+	{
+		"id": "adventure02Clue01_title",
+		"text": "espada de chamas"
+	},
+	{
+		"id": "adventure02Clue02_desc",
+		"text": "Sua estaçao de rádio solitária estava escondida em um mar de dunas."
+	},
+	{
+		"id": "adventure02Clue02_title",
+		"text": "ponta do iceberg"
+	},
+	{
+		"id": "adventure02Clue03_desc",
+		"text": "Eles foram duros em seus calcanhares..."
+	},
+	{
+		"id": "adventure02Clue03_title",
+		"text": "A próxima guerra"
+	},
+	{
+		"id": "adventure03MapArrival02_desc",
+		"text": "O fedor da morte pairava sobre a alfândega desolada."
+	},
+	{
+		"id": "adventure03MapArrival02_title",
+		"text": "Reino do Tormento"
+	},
+	{
+		"id": "adventure05Clue01_desc",
+		"text": "Era o único poço por milhas!"
+	},
+	{
+		"id": "adventure05Clue01_title",
+		"text": "A fonte da juventude"
+	},
+	{
+		"id": "adventure05Clue02_desc",
+		"text": "As rochas pareciam um punho cerrado."
+	},
+	{
+		"id": "adventure05Clue02_title",
+		"text": "A traiçao dos irmaos"
+	},
+	{
+		"id": "adventure05Clue03_desc",
+		"text": "Um silêncio sinistro pairava sobre as cabanas."
+	},
+	{
+		"id": "adventure05Clue03_title",
+		"text": "Projeto Valhalla"
+	},
+	{
+		"id": "adventure06Clue01_desc",
+		"text": "As ruínas os atraíram como vermes."
+	},
+	{
+		"id": "adventure06Clue01_title",
+		"text": "Uma Nova Faixa"
+	},
+	{
+		"id": "adventureFail01_desc",
+		"text": "Terminar [amount] aventuras."
+	},
+	{
+		"id": "adventureFail01_title",
+		"text": "Um Fim e um Novo Começo I"
+	},
+	{
+		"id": "adventureFail02_desc",
+		"text": "Terminar [amount] aventuras."
+	},
+	{
+		"id": "adventureFail02_title",
+		"text": "Um Fim e um Novo Começo II"
+	},
+	{
+		"id": "adventureFail03_desc",
+		"text": "Terminar [amount] aventuras."
+	},
+	{
+		"id": "adventureFail03_title",
+		"text": "Um Fim e um Novo Começo III"
+	},
+	{
+		"id": "aloneRescue01_desc",
+		"text": "Nunca desista da esperança."
+	},
+	{
+		"id": "aloneRescue01_title",
+		"text": "Perdidos e Achados"
+	},
+	{
+		"id": "armorRestored01_desc",
+		"text": "Restaurar [amount] AR."
+	},
+	{
+		"id": "armorRestored01_title",
+		"text": "Funileiro I"
+	},
+	{
+		"id": "armorRestored02_desc",
+		"text": "Restaurar [amount] AR."
+	},
+	{
+		"id": "armorRestored02_title",
+		"text": "Funileiro II"
+	},
+	{
+		"id": "armorRestored03_desc",
+		"text": "Restaurar [amount] AR."
+	},
+	{
+		"id": "armorRestored03_title",
+		"text": "Funileiro III"
+	},
+	{
+		"id": "deadNaziCourier01_desc",
+		"text": "Quem sabe o que realmente matou o mensageiro?"
+	},
+	{
+		"id": "deadNaziCourier01_title",
+		"text": "viciado em drogas"
+	},
+	{
+		"id": "disintegratorKills01_desc",
+		"text": "Matar [amount] inimigos com um desintegrador."
+	},
+	{
+		"id": "disintegratorKills01_title",
+		"text": "Progresso Implacável"
+	},
+	{
+		"id": "donutFound01_desc",
+		"text": "Às vezes a salvaçao vem quando você menos espera..."
+	},
+	{
+		"id": "donutFound01_title",
+		"text": "Um companheiro leal"
+	},
+	{
+		"id": "fenrisFound01_desc",
+		"text": "Apenas quando você pensa que está tudo acabado..."
+	},
+	{
+		"id": "fenrisFound01_title",
+		"text": "Um amigo e ajudante"
+	},
+	{
+		"id": "firstBlood01_desc",
+		"text": "matar um nazista."
+	},
+	{
+		"id": "firstBlood01_title",
+		"text": "Primeiro sangue"
+	},
+	{
+		"id": "fourKillsInOne01_desc",
+		"text": "Mate 4+ inimigos com um ataque."
+	},
+	{
+		"id": "fourKillsInOne01_title",
+		"text": "Assassino III"
+	},
+	{
+		"id": "friendlyBeduins01_desc",
+		"text": "Um jogo entre amigos..."
+	},
+	{
+		"id": "friendlyBeduins01_title",
+		"text": "Uma Raposa Astuta"
+	},
+	{
+		"id": "healthRestored01_desc",
+		"text": "Restaurar [amount] HP."
+	},
+	{
+		"id": "healthRestored01_title",
+		"text": "Curador I"
+	},
+	{
+		"id": "healthRestored02_desc",
+		"text": "Restaurar [amount] HP."
+	},
+	{
+		"id": "healthRestored02_title",
+		"text": "Curador II"
+	},
+	{
+		"id": "healthRestored03_desc",
+		"text": "Restaurar [amount] HP."
+	},
+	{
+		"id": "healthRestored03_title",
+		"text": "Curador III"
+	},
+	{
+		"id": "knifeKills01_desc",
+		"text": "Matar [amount] inimigos com uma faca."
+	},
+	{
+		"id": "knifeKills01_title",
+		"text": "Açougueiro"
+	},
+	{
+		"id": "lostRockTemple01_desc",
+		"text": "A enorme pedra rugiu em nossa direçao..."
+	},
+	{
+		"id": "lostRockTemple01_title",
+		"text": "O poder do desespero"
+	},
+	{
+		"id": "moneyCollected01_desc",
+		"text": "coletar $[amount]."
+	},
+	{
+		"id": "moneyCollected01_title",
+		"text": "Interesse I"
+	},
+	{
+		"id": "moneyCollected02_desc",
+		"text": "coletar $[amount]."
+	},
+	{
+		"id": "moneyCollected02_title",
+		"text": "Interesse II"
+	},
+	{
+		"id": "moneyCollected03_desc",
+		"text": "coletar $[amount]."
+	},
+	{
+		"id": "moneyCollected03_title",
+		"text": "Interesse III"
+	},
+	{
+		"id": "murderousIdol_desc",
+		"text": "Os olhos vazios do ídolo pareciam nos seguir por toda parte..."
+	},
+	{
+		"id": "murderousIdol_title",
+		"text": "Nunca se sabe"
+	},
+	{
+		"id": "naziKills01_desc",
+		"text": "Matar [amount] nazistas."
+	},
+	{
+		"id": "naziKills01_title",
+		"text": "Caçador de Nazistas I"
+	},
+	{
+		"id": "naziKills02_desc",
+		"text": "Matar [amount] nazistas."
+	},
+	{
+		"id": "naziKills02_title",
+		"text": "nazista Caçador II"
+	},
+	{
+		"id": "naziKills03_desc",
+		"text": "Matar [amount] nazistas."
+	},
+	{
+		"id": "naziKills03_title",
+		"text": "Caçador de Nazistas III"
+	},
+	{
+		"id": "pistolKills01_desc",
+		"text": "Matar [amount] inimigos com uma pistola."
+	},
+	{
+		"id": "pistolKills01_title",
+		"text": "pistoleiro"
+	},
+	{
+		"id": "recruit01_desc",
+		"text": "Recrutar [amount] personagens."
+	},
+	{
+		"id": "recruit01_title",
+		"text": "Em bons e maus momentos"
+	},
+	{
+		"id": "restingPlace01_desc",
+		"text": "Descansar [amount] vezes."
+	},
+	{
+		"id": "restingPlace01_title",
+		"text": "contos de fogueira"
+	},
+	{
+		"id": "rifleKills01_desc",
+		"text": "Matar [amount] inimigos com um rifle de assalto."
+	},
+	{
+		"id": "rifleKills01_title",
+		"text": "Atirador"
+	},
+	{
+		"id": "shotgunKills01_desc",
+		"text": "Matar [amount] inimigos com uma espingarda."
+	},
+	{
+		"id": "shotgunKills01_title",
+		"text": "espingarda"
+	},
+	{
+		"id": "sickBeduinCamel01_desc",
+		"text": "Passada a febre, já é tarde demais."
+	},
+	{
+		"id": "sickBeduinCamel01_title",
+		"text": "encantador de camelos"
+	},
+	{
+		"id": "singleShotKills01_desc",
+		"text": "Matar [amount] inimigos com um único tiro."
+	},
+	{
+		"id": "singleShotKills01_title",
+		"text": "assassino de um tiro I"
+	},
+	{
+		"id": "singleShotKills02_desc",
+		"text": "Matar [amount] inimigos com um único tiro."
+	},
+	{
+		"id": "singleShotKills02_title",
+		"text": "assassino de um tiro II"
+	},
+	{
+		"id": "singleShotKills03_desc",
+		"text": "Matar [amount] inimigos com um único tiro."
+	},
+	{
+		"id": "singleShotKills03_title",
+		"text": "assassino de um tiro III"
+	},
+	{
+		"id": "sniperKills01_desc",
+		"text": "Matar [amount] inimigos com um Sniper Rifle."
+	},
+	{
+		"id": "sniperKills01_title",
+		"text": "Atirador de elite"
+	},
+	{
+		"id": "stargateFragment01_desc",
+		"text": "Os fragmentos estao espalhados em um círculo na areia do deserto."
+	},
+	{
+		"id": "stargateFragment01_title",
+		"text": "Beijada Pelas Eras"
+	},
+	{
+		"id": "tankLeak01_desc",
+		"text": "Perder [amount] combustível em um acidente."
+	},
+	{
+		"id": "tankLeak01_title",
+		"text": "Nocivo ao meio ambiente"
+	},
+	{
+		"id": "tarantulaCorpse_desc",
+		"text": "Eles provavelmente estao se aninhando dentro do corpo..."
+	},
+	{
+		"id": "tarantulaCorpse_title",
+		"text": "Aracnofobia"
+	},
+	{
+		"id": "threeKillsInOne01_desc",
+		"text": "Mate 3 inimigos com um ataque."
+	},
+	{
+		"id": "threeKillsInOne01_title",
+		"text": "Assassino II"
+	},
+	{
+		"id": "trashSold01_desc",
+		"text": "coletar [amount] itens de lixo."
+	},
+	{
+		"id": "trashSold01_title",
+		"text": "coletor de lixo"
+	},
+	{
+		"id": "twoKillsInOne01_desc",
+		"text": "Mate 2 inimigos com um ataque."
+	},
+	{
+		"id": "twoKillsInOne01_title",
+		"text": "Assassino I"
+	},
+	{
+		"id": "undeadKills01_desc",
+		"text": "Matar [amount] Undead."
+	},
+	{
+		"id": "undeadKills01_title",
+		"text": "exorcista I"
+	},
+	{
+		"id": "undeadKills02_desc",
+		"text": "Matar [amount] Undead."
+	},
+	{
+		"id": "undeadKills02_title",
+		"text": "exorcista II"
+	},
+	{
+		"id": "undeadKills03_desc",
+		"text": "Matar [amount] Undead."
+	},
+	{
+		"id": "undeadKills03_title",
+		"text": "exorcista III"
+	},
+	{
+		"id": "unholyVault01_desc",
+		"text": "O único guarda nao estava realmente sozinho no templo."
+	},
+	{
+		"id": "unholyVault01_title",
+		"text": "Corra, seus tolos!"
+	},
+	{
+		"id": "unlockAdventure02_desc",
+		"text": "Terminar Aventura I"
+	},
+	{
+		"id": "unlockAdventure02_title",
+		"text": "Aventura II"
+	},
+	{
+		"id": "unlockAdventure03_desc",
+		"text": "Terminar Aventura II"
+	},
+	{
+		"id": "unlockAdventure03_title",
+		"text": "Aventura III"
+	},
+	{
+		"id": "unlockAdventure05_desc",
+		"text": "Terminar Aventura III"
+	},
+	{
+		"id": "unlockAdventure05_title",
+		"text": "Aventura IV"
+	},
+	{
+		"id": "unlockAdventure06_desc",
+		"text": "Terminar Aventura IV"
+	},
+	{
+		"id": "unlockAdventure06_title",
+		"text": "Aventura V"
+	},
+	{
+		"id": "unlockAnnabelle_desc",
+		"text": "Matar [amount] inimigos com Double Shot para desbloquear Annabelle."
+	},
+	{
+		"id": "unlockAnnabelle_title",
+		"text": "Annabelle"
+	},
+	{
+		"id": "unlockBellamy_desc",
+		"text": "Encontre um Desintegrador para desbloquear Bellamy."
+	},
+	{
+		"id": "unlockBellamy_title",
+		"text": "Bellamy"
+	},
+	{
+		"id": "unlockBrunhilda_desc",
+		"text": "Sangrar matar [amount] inimigos para desbloquear Brunhilda."
+	},
+	{
+		"id": "unlockBrunhilda_title",
+		"text": "Brunilda"
+	},
+	{
+		"id": "unlockDrChandra_desc",
+		"text": "Reviver [amount] personagens para desbloquear Dr Chandra."
+	},
+	{
+		"id": "unlockDrChandra_title",
+		"text": "Dr. Chandra"
+	},
+	{
+		"id": "unlockFantome_desc",
+		"text": "fugir [amount] ataques para desbloquear o Fantasma."
+	},
+	{
+		"id": "unlockFantome_title",
+		"text": "Le Fantôme"
+	},
+	{
+		"id": "unlockGeorgette_desc",
+		"text": "Matar [amount] inimigos com capacidade de emboscada para desbloquearGeorgette."
+	},
+	{
+		"id": "unlockGeorgette_title",
+		"text": "Georgette"
+	},
+	{
+		"id": "unlockLeonora_desc",
+		"text": "Matar [amount] Nazistas para desbloquear Leonora."
+	},
+	{
+		"id": "unlockLeonora_title",
+		"text": "Leonora"
+	},
+	{
+		"id": "unlockRose_desc",
+		"text": "Termine qualquer aventura com mulheres apenas para desbloquear Rose."
+	},
+	{
+		"id": "unlockRose_title",
+		"text": "Rose"
+	},
+	{
+		"id": "unlockShani_desc",
+		"text": "Matar [amount] inimigos com ataques corpo a corpo para desbloquear Shani."
+	},
+	{
+		"id": "unlockShani_title",
+		"text": "shani"
+	},
+	{
+		"id": "unlockVeduti_desc",
+		"text": "Matar [amount] undead para desbloquear Monsenhor Veduti."
+	},
+	{
+		"id": "unlockVeduti_title",
+		"text": "Veduti"
+	},
+	{
+		"id": "watchesSold01_desc",
+		"text": "coletar [amount] relógios."
+	},
+	{
+		"id": "watchesSold01_title",
+		"text": "Colecionador de relógios"
+	},
+	{
+		"id": "nodesTravelled01_desc",
+		"text": "Viajar para [amount] Localizaçoes."
+	},
+	{
+		"id": "nodesTravelled01_title",
+		"text": "Viajante I"
+	},
+	{
+		"id": "nodesTravelled02_desc",
+		"text": "Viajar para [amount] Localizaçoes."
+	},
+	{
+		"id": "nodesTravelled02_title",
+		"text": "Viajante II"
+	},
+	{
+		"id": "nodesTravelled03_desc",
+		"text": "Viajar para [amount] Localizaçoes."
+	},
+	{
+		"id": "nodesTravelled03_title",
+		"text": "Viajante III"
+	},
+	{
 		"id": "hardcoreModeFinished_desc",
-		"text": ""
+		"text": "Termine o jogo no modo Hardcore."
 	},
 	{
 		"id": "hardcoreModeFinished_title",
-		"text": ""
+		"text": "Sobrevivente do modo hardcore"
 	}
 ]
 }
