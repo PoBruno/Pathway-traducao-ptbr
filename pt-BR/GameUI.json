@@ -754,23 +754,23 @@
 			"text": "Equipado"
 		},
 		{
-			"id": "Raridade_Comum",
+			"id": "Rarity_Common",
 			"text": "Comum"
 		},
 		{
-			"id": "Raridade_Rara",
+			"id": "Rarity_Rare",
 			"text": "Raro"
 		},
 		{
-			"id": "Raridade_Épica",
+			"id": "Rarity_Epic",
 			"text": "Épico"
 		},
 		{
-			"id": "Raridade_Lendária",
+			"id": "Rarity_Legendary",
 			"text": "Lendário"
 		},
 		{
-			"id": "Raridade_Única",
+			"id": "Rarity_Unique",
 			"text": "Único"
 		},
 		{
