@@ -11,7 +11,7 @@
 		},
 		{
 			"id": "Combat_PlaceCharacter",
-			"text": "Posiçao [entity:name] dentro\nárea verde"
+			"text": "Posiçao [entidade:nome] dentro\nárea verde"
 		},
 		{
 			"id": "Combat_HitChance",
@@ -143,7 +143,7 @@
 		},
 		{
 			"id": "CharacterPanel_Label_JournalNotAvailable",
-			"text": "Team Screen nao está disponivel aqui."
+			"text": "Team Screen nao está disponível aqui."
 		},
 		{
 			"id": "GlobalInventory_Label_Inventory",
@@ -207,7 +207,7 @@
 		},
 		{
 			"id": "CharacterDismiss_Question",
-			"text": "Tem certeza de que deseja descartar [entity:name]?"
+			"text": "Tem certeza de que deseja descartar [entidade:nome]?"
 		},
 		{
 			"id": "CharacterDismiss_Ok",
@@ -231,27 +231,27 @@
 		},
 		{
 			"id": "CharacterStats_Name",
-			"text": "Nome: [entity:name]"
+			"text": "Nome: [entidade:nome]"
 		},
 		{
 			"id": "CharacterStats_XP",
-			"text": "XP: [entity:EXP]"
+			"text": "XP: [entidade:EXP]"
 		},
 		{
 			"id": "CharacterStats_Level",
-			"text": "level: [entity:level]"
+			"text": "Nível: [entidade:nível]"
 		},
 		{
 			"id": "CharacterStats_HP",
-			"text": "Saúde: [entity:CHEA]/[entity:HEA]"
+			"text": "Saúde: [entidade:CHEA]/[entidade:HEA]"
 		},
 		{
 			"id": "CharacterStats_AR",
-			"text": "Armadura: [entity:CARM]/[entity:ARM]"
+			"text": "Armadura: [entidade:CARM]/[entidade:ARM]"
 		},
 		{
 			"id": "CharacterStats_BR",
-			"text": "Bravura: [entity:CBRA]/[entity:BRA]"
+			"text": "Bravura: [entidade:CBRA]/[entidade:BRA]"
 		},
 		{
 			"id": "CharacterStats_Aim",
@@ -259,27 +259,27 @@
 		},
 		{
 			"id": "CharacterStats_Agility",
-			"text": "Agilidade: [entity:AGI:N]"
+			"text": "Agilidade: [entidade:AGI:N]"
 		},
 		{
 			"id": "CharacterStats_Intelligence",
-			"text": "Inteligência: [entity:INT:N]"
+			"text": "Inteligência: [entidade:INT:N]"
 		},
 		{
 			"id": "CharacterStats_Endurance",
-			"text": "Resistência: [entity:END:N]"
+			"text": "Resistência: [entidade:END:N]"
 		},
 		{
 			"id": "CharacterStats_Reflex",
-			"text": "Reflexos: [entity:EVA:N]"
+			"text": "Reflexos: [entidade:EVA:N]"
 		},
 		{
 			"id": "CharacterStats_Vitality",
-			"text": "Vitalidade: [entity:HEA:N]"
+			"text": "Vitalidade: [entidade:HEA:N]"
 		},
 		{
 			"id": "CharacterStats_Will",
-			"text": "Força de vontade: [entity:BRA:N]"
+			"text": "Força de vontade: [entidade:BRA:N]"
 		},
 		{
 			"id": "CharacterStatsShort_Agility",
@@ -379,7 +379,7 @@
 		},
 		{
 			"id": "PerksPane_Label_Name",
-			"text": "[perk:name]"
+			"text": "[vantagem:nome]"
 		},
 		{
 			"id": "PerksPane_TemporaryPerk",
@@ -635,7 +635,7 @@
 		},
 		{
 			"id": "Tooltip_Item_Name",
-			"text": "[item:name]"
+			"text": "[item:nome]"
 		},
 		{
 			"id": "Tooltip_Item_ShortName",
@@ -655,7 +655,7 @@
 		},
 		{
 			"id": "Tooltip_Item_Level",
-			"text": "level:"
+			"text": "Nível:"
 		},
 		{
 			"id": "Tooltip_Item_Stacksize",
@@ -667,19 +667,19 @@
 		},
 		{
 			"id": "Tooltip_Item_ValueAmount",
-			"text": "$[item:value]"
+			"text": "$[item:valor]"
 		},
 		{
 			"id": "Tooltip_Item_FameAmount",
-			"text": "[item:fame]"
+			"text": "[item:fama]"
 		},
 		{
 			"id": "Tooltip_Item_RarityAmount",
-			"text": "[item:rarity]"
+			"text": "[item:raridade]"
 		},
 		{
 			"id": "Tooltip_Item_LevelAmount",
-			"text": "[item:level]"
+			"text": "[item:nível]"
 		},
 		{
 			"id": "Tooltip_Item_StacksizeAmount",
@@ -687,7 +687,7 @@
 		},
 		{
 			"id": "Tooltip_Item_UsesAmount",
-			"text": "x[item:uses]"
+			"text": "x[item:usa]"
 		},
 		{
 			"id": "Tooltip_Entity_Health",
@@ -699,11 +699,11 @@
 		},
 		{
 			"id": "Tooltip_Entity_HealthAmount",
-			"text": "[entity:CHEA]/[entity:HEA]"
+			"text": "[entidade:CHEA]/[entidade:HEA]"
 		},
 		{
 			"id": "Tooltip_Entity_ArmorAmount",
-			"text": "[entity:CARM]/[entity:ARM]"
+			"text": "[entidade:CARM]/[entidade:ARM]"
 		},
 		{
 			"id": "Tooltip_Item_SkillRequirement",
@@ -839,7 +839,7 @@
 		},
 		{
 			"id": "ItemType_Offhand",
-			"text": "Item disponivel"
+			"text": "Item disponível"
 		},
 		{
 			"id": "WeaponType_SniperRifle",
@@ -971,7 +971,7 @@
 		},
 		{
 			"id": "PerkEffect_Attribute_Medkit",
-			"text": "Medkits [perk:attributeType] [perk:attributeAmount]"
+			"text": "Medkits [benefício:attributeType] [benefício:attributeAmount]"
 		},
 		{
 			"id": "PerkEffect_Attribute_ItemSkill",
@@ -987,15 +987,15 @@
 		},
 		{
 			"id": "PerkEffect_Attribute_RepairKit",
-			"text": "Kits de reparo [perk:attributeType] [perk:attributeAmount]"
+			"text": "Kits de reparo [benefício:attributeType] [benefício:attributeAmount]"
 		},
 		{
 			"id": "PerkEffect_Attribute_Stats",
-			"text": "[perk:attributeType] [perk:attributeAmount]"
+			"text": "[benefício:attributeType] [benefício:attributeAmount]"
 		},
 		{
 			"id": "PerkEffect_Attribute_Weapon",
-			"text": "[perk:targetType] [perk:attributeType] [perk:attributeAmount]"
+			"text": "[benefício:targetType] [benefício:attributeType] [benefício:attributeAmount]"
 		},
 		{
 			"id": "PerkEffect_Attribute_WeaponSkill",
@@ -1003,7 +1003,7 @@
 		},
 		{
 			"id": "PerkEffect_Attribute_Armor",
-			"text": "[perk:targetType] [perk:attributeType] [perk:attributeAmount]"
+			"text": "[benefício:targetType] [benefício:attributeType] [benefício:attributeAmount]"
 		},
 		{
 			"id": "PerkEffect_Attribute_EntityTypeDamage",
@@ -1023,7 +1023,7 @@
 		},
 		{
 			"id": "PerkEffect_RndArmorAttributeAdjustment",
-			"text": "[perk:attributeType] [perk:attributeAmount]%"
+			"text": "[benefício:attributeType] [benefício:attributeAmount]%"
 		},
 		{
 			"id": "PerkEffect_AdjustDamageType",
@@ -1319,7 +1319,7 @@
 		},
 		{
 			"id": "ActionDescription_Reload",
-			"text": "Recarregue o carregador da sua arma.\n\nMuniçao disponivel: [0]"
+			"text": "Recarregue o carregador da sua arma.\n\nMuniçao disponível: [0]"
 		},
 		{
 			"id": "ActionDescription_Walk",
@@ -1519,7 +1519,7 @@
 		},
 		{
 			"id": "CharacterStatsDescription_INT",
-			"text": "Determina a quantidade de pontos de experiência que um personagem recebe. Quanto maior a inteligência, mais rápido o personagem subirá de level."
+			"text": "Determina a quantidade de pontos de experiência que um personagem recebe. Quanto maior a inteligência, mais rápido o personagem subirá de nível."
 		},
 		{
 			"id": "CharacterStatsDescription_AGI",
@@ -2491,23 +2491,23 @@
 		},
 		{
 			"id": "AdventureSelect_DifficultyDescription",
-			"text": "Ajuste a força de seus inimigos. Isso também aumenta o level de pilhagem que você pode encontrar.\n\nCada level de dificuldade é reproduzido em um horário diferente do dia.\n\nDificuldade: [str:0]"
+			"text": "Ajuste a força de seus inimigos. Isso também aumenta o nível de pilhagem que você pode encontrar.\n\nCada nível de dificuldade é reproduzido em um horário diferente do dia.\n\nDificuldade: [str:0]"
 		},
 		{
 			"id": "AdventureSelect_DifficultyDescriptionHardcore",
-			"text": "Ajuste a força de seus inimigos. No modo Hardcore, a dificuldade nao ajusta o level de pilhagem que você pode encontrar.\n\nCada level de dificuldade é reproduzido em um horário diferente do dia.\n\nDificuldade: [str: 0]"
+			"text": "Ajuste a força de seus inimigos. No modo Hardcore, a dificuldade nao ajusta o nível de pilhagem que você pode encontrar.\n\nCada nível de dificuldade é reproduzido em um horário diferente do dia.\n\nDificuldade: [str: 0]"
 		},
 		{
 			"id": "AdventureSelect_DifficultyDescriptionDisabled",
-			"text": "Ajuste a força de seus inimigos. Isso também aumenta o level de pilhagem que você pode encontrar.\n\nCada level de dificuldade é reproduzido em um horário diferente do dia.\n\nEsta opçao fica bloqueada até que você conclua esta aventura por a primeira vez."
+			"text": "Ajuste a força de seus inimigos. Isso também aumenta o nível de pilhagem que você pode encontrar.\n\nCada nível de dificuldade é reproduzido em um horário diferente do dia.\n\nEsta opçao fica bloqueada até que você conclua esta aventura por a primeira vez."
 		},
 		{
 			"id": "AdventureSelect_DifficultyDescriptionPositive",
-			"text": "Ajuste a força de seus inimigos. Isso também aumenta o level de pilhagem que você pode encontrar.\n\nCada level de dificuldade é reproduzido em um horário diferente do dia.\n\nDificuldade: [str:0]"
+			"text": "Ajuste a força de seus inimigos. Isso também aumenta o nível de pilhagem que você pode encontrar.\n\nCada nível de dificuldade é reproduzido em um horário diferente do dia.\n\nDificuldade: [str:0]"
 		},
 		{
 			"id": "AdventureSelect_DifficultyDescriptionHardcorePositive",
-			"text": "Ajuste a força de seus inimigos. No modo Hardcore, a dificuldade nao ajusta o level de pilhagem que você pode encontrar.\n\nCada level de dificuldade é reproduzido em um horário diferente do dia.\n\nDificuldade: [str: 0]"
+			"text": "Ajuste a força de seus inimigos. No modo Hardcore, a dificuldade nao ajusta o nível de pilhagem que você pode encontrar.\n\nCada nível de dificuldade é reproduzido em um horário diferente do dia.\n\nDificuldade: [str: 0]"
 		},
 		{
 			"id": "AdventureSelect_DifficultyNormal",
@@ -2703,7 +2703,7 @@
 		},
 		{
 			"id": "Tooltip_Language_Content",
-			"text": "[cs:#FF8080FF]*A alteraçao desta opçao só está disponivel no menu principal.[ce]"
+			"text": "[cs:#FF8080FF]*A alteraçao desta opçao só está disponível no menu principal.[ce]"
 		},
 		{
 			"id": "Tooltip_DefaultAISpeed_Title",
@@ -2719,7 +2719,7 @@
 		},
 		{
 			"id": "Tooltip_DoubleBuffer_Content",
-			"text": "Buffer duplo.\n\n[cs:#FF8080FF]*Esta opçao nao está disponivel no momento no Windows 7.\n\n*Requer que o jogo seja reiniciado para entrar em vigor.[ce]"
+			"text": "Buffer duplo.\n\n[cs:#FF8080FF]*Esta opçao nao está disponível no momento no Windows 7.\n\n*Requer que o jogo seja reiniciado para entrar em vigor.[ce]"
 		},
 		{
 			"id": "Tooltip_VSync_Title",
@@ -2743,7 +2743,7 @@
 		},
 		{
 			"id": "Tooltip_ScaleUI_Content",
-			"text": "Se esta opçao estiver habilitada, a interface do usuário é renderizada em uma resoluçao maior.\n\n[cs:#FF8080FF]*A alteraçao desta opçao só está disponivel no menu principal.[ce]"
+			"text": "Se esta opçao estiver habilitada, a interface do usuário é renderizada em uma resoluçao maior.\n\n[cs:#FF8080FF]*A alteraçao desta opçao só está disponível no menu principal.[ce]"
 		},
 		{
 			"id": "NPC_monk_name",
@@ -3919,11 +3919,11 @@
 		},
 		{
 			"id": "Tutorial_LevelUp_Desc",
-			"text": "Clique com o botao esquerdo na barra na parte inferior da tela: Abra a tela do time. (Alternativamente: Pressione I)\n\nClique com o botao esquerdo no botao Subir level acima do retrato do personagem: Abra a árvore de habilidades"
+			"text": "Clique com o botao esquerdo na barra na parte inferior da tela: Abra a tela do time. (Alternativamente: Pressione I)\n\nClique com o botao esquerdo no botao Subir nível acima do retrato do personagem: Abra a árvore de habilidades"
 		},
 		{
 			"id": "Tutorial_LevelUp_Desc_Controller",
-			"text": "Depois que um personagem ganha pontos de experiência suficientes, você pode optar por aumentar seu level. Isso melhorará suas estatísticas e desbloqueará novas habilidades.\n\nPara aumentar o level de um personagem, abra o Diário e selecione esse personagem da Equipe página. Pressione Level Up para abrir o menu Level Up."
+			"text": "Depois que um personagem ganha pontos de experiência suficientes, você pode optar por aumentar seu nível. Isso melhorará suas estatísticas e desbloqueará novas habilidades.\n\nPara aumentar o nível de um personagem, abra o Diário e selecione esse personagem da Equipe página. Pressione Level Up para abrir o menu Level Up."
 		},
 		{
 			"id": "Tutorial_LevelUpSkills_Title",
@@ -3931,11 +3931,11 @@
 		},
 		{
 			"id": "Tutorial_LevelUpSkills_Desc",
-			"text": "Cada vez que você sobe de level, você pode escolher uma nova vantagem para seu personagem.\n\nNa árvore de habilidades, clique com o botao esquerdo na vantagem desejada e confirme sua escolha."
+			"text": "Cada vez que você sobe de nível, você pode escolher uma nova vantagem para seu personagem.\n\nNa árvore de habilidades, clique com o botao esquerdo na vantagem desejada e confirme sua escolha."
 		},
 		{
 			"id": "Tutorial_LevelUpSkills_Desc_Controller",
-			"text": "Quando os personagens sobem de level, eles podem aprender novas habilidades.\n\nNa árvore de habilidades, use o controle esquerdo para navegar pelas habilidades e pressione A para escolher uma. Selecione Confirmar alteraçoes para finalizar sua escolha."
+			"text": "Quando os personagens sobem de nível, eles podem aprender novas habilidades.\n\nNa árvore de habilidades, use o controle esquerdo para navegar pelas habilidades e pressione A para escolher uma. Selecione Confirmar alteraçoes para finalizar sua escolha."
 		},
 		{
 			"id": "Tutorial_Placement_Title",

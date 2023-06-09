@@ -1,0 +1,165 @@
+{
+"id": "Tutorial",
+"rows": [
+	{
+		"id": "LoadingScreen_Hint_0",
+		"text": "No mapa de exploraçao, você pode gerenciar sua festa pressionando i ou clicando na barra inferior."
+	},
+	{
+		"id": "LoadingScreen_Hint_0_Controller",
+		"text": "Para gerenciar sua equipe enquanto estiver no mapa de exploraçao, pressione Y."
+	},
+	{
+		"id": "LoadingScreen_Hint_1",
+		"text": "Depois de se engajar em uma batalha, você nao pode mudar seu equipamento. Escolha sabiamente!"
+	},
+	{
+		"id": "LoadingScreen_Hint_2",
+		"text": "Cada tipo de arma e armadura tem uma habilidade especial única que pode fazer a diferença entre sucesso e fracasso!"
+	},
+	{
+		"id": "LoadingScreen_Hint_3",
+		"text": "Se um dos membros do seu partido for nocauteado, você poderá trazê -los de volta usando um Medkit neles quando está ao lado deles. Se você esperar muito tempo, eles morrerao!"
+	},
+	{
+		"id": "LoadingScreen_Hint_4",
+		"text": "Você pode usar medkits fora da batalha clicando com o botao direito do mouse na tela da equipe!"
+	},
+	{
+		"id": "LoadingScreen_Hint_4_Controller",
+		"text": "Você pode usar medkits fora da batalha da página da equipe em seu diário!"
+	},
+	{
+		"id": "LoadingScreen_Hint_5",
+		"text": "Venda seus itens nao utilizados no comerciante clicando com o botao direito do mouse. O dinheiro será útil mais tarde!"
+	},
+	{
+		"id": "LoadingScreen_Hint_5_Controller",
+		"text": "Venda seus itens nao utilizados no comerciante pressionando A. O dinheiro será útil mais tarde!"
+	},
+	{
+		"id": "LoadingScreen_Hint_6",
+		"text": "Fique de olho em sua muniçao e contagem de combustíveis. Se você ficar sem qualquer um dos recursos, estará com problemas!"
+	},
+	{
+		"id": "LoadingScreen_Hint_7",
+		"text": "Todo membro do seu partido pode executar duas açoes em um turno. Existem três tipos de açoes: ataque, movimento e neutro. Ataque e movimento só podem ser feitos uma vez por turno, neutro até dois."
+	},
+	{
+		"id": "LoadingScreen_Hint_8",
+		"text": "A cobertura reduz sua chance de atingir um alvo. Se você pode buscar um alvo sem cobertura, terá uma chance de 100%. Flantar seus inimigos é uma das melhores estratégias!"
+	},
+	{
+		"id": "LoadingScreen_Hint_9",
+		"text": "Use paredes e objetos grandes para sua vantagem, à medida que quebram a linha de visao."
+	},
+	{
+		"id": "LoadingScreen_Hint_10",
+		"text": "A armadura sempre absorve os danos primeiro. É especialmente eficaz contra armas de dano por lascas como espingardas!"
+	},
+	{
+		"id": "LoadingScreen_Hint_11",
+		"text": "Há uma pequena chance de você fugir de um ataque independente da probabilidade de acerto."
+	},
+	{
+		"id": "LoadingScreen_Hint_12",
+		"text": "Cada personagem pode transportar três itens de uma só vez: uma arma, um item auxiliar e uma armadura. Escolher o equipamento certo determina amplamente sua estratégia."
+	},
+	{
+		"id": "LoadingScreen_Hint_13",
+		"text": "Um personagem começa com um conjunto único de habilidades. À medida que ganham experiência e subindo, serao capazes de desbloquear novas vantagens e habilidades."
+	},
+	{
+		"id": "LoadingScreen_Hint_14",
+		"text": "Para equipar uma arma, um personagem deve ter a habilidade apropriada."
+	},
+	{
+		"id": "LoadingScreen_Hint_15",
+		"text": "Algumas vantagens abrirao novas opçoes durante os eventos. Essas opçoes exclusivas sao marcadas com uma borda extra."
+	},
+	{
+		"id": "LoadingScreen_Hint_16",
+		"text": "As pistolas têm a habilidade especial dupla. Isso realiza um arremesso de quadril em dois inimigos diferentes em rápida sucessao!"
+	},
+	{
+		"id": "LoadingScreen_Hint_17",
+		"text": "Os rifles de Sniper podem ser usados ​​para definir uma emboscada. Um inimigo que se move ou planejando atacar dentro da área de emboscada será atacado!"
+	},
+	{
+		"id": "LoadingScreen_Hint_18",
+		"text": "Os rifles permitem que você explodisse ataque. Uma explosao se espalhou por vários ladrilhos em uma linha e danificará todas as unidades dentro."
+	},
+	{
+		"id": "LoadingScreen_Hint_19",
+		"text": "As espingardas podem realizar um poderoso ataque de explosao, danificando todas as unidades em um cone reto à sua frente."
+	},
+	{
+		"id": "LoadingScreen_Hint_20",
+		"text": "As facas têm uma habilidade especial chamada sangramento, o que, como o nome indica, fará com que os inimigos sangrassem em algumas voltas."
+	},
+	{
+		"id": "LoadingScreen_Hint_21",
+		"text": "Todas as habilidades especiais custam pontos de bravura. Você pode ganhar pontos de bravura atacando com sucesso, evitando ataques inimigos, curando suas unidades e reparando suas armaduras."
+	},
+	{
+		"id": "LoadingScreen_Hint_22",
+		"text": "As facas têm o maior potencial de dano no jogo. No entanto, você deve se expor ao se aproximar!"
+	},
+	{
+		"id": "LoadingScreen_Hint_23",
+		"text": "Os rifles de Sniper podem cobrir grandes áreas com seu alto alcance."
+	},
+	{
+		"id": "LoadingScreen_Hint_24",
+		"text": "Alguns locais de batalha contêm barris explosivos. Atire neles e eles explodirao causando danos aos inimigos vizinhos!"
+	},
+	{
+		"id": "LoadingScreen_Hint_25",
+		"text": "Os medkits restauram a saúde e revivem personagens inconscientes. Reparos restauram a armadura."
+	},
+	{
+		"id": "LoadingScreen_Hint_26",
+		"text": "Você pode executar suas açoes durante a batalha em qualquer ordem!"
+	},
+	{
+		"id": "LoadingScreen_Hint_27",
+		"text": "Nao se esqueça de levar seu saque com você após uma batalha bem -sucedida!"
+	},
+	{
+		"id": "LoadingScreen_Hint_28",
+		"text": "As facas sao uma ótima opçao de backup para quando você fica sem muniçao!"
+	},
+	{
+		"id": "LoadingScreen_Hint_29",
+		"text": "As armaduras leves permitem que seu personagem use a habilidade Sprint, permitindo que eles cubram uma distância muito mais longa em um movimento."
+	},
+	{
+		"id": "LoadingScreen_Hint_30",
+		"text": "Armaduras médias dao ao seu personagem a capacidade de baixo perfil. Quando ativado, o personagem recebe um impulso temporário de fuga."
+	},
+	{
+		"id": "LoadingScreen_Hint_31",
+		"text": "Armaduras pesadas permitem que seu personagem se agache. Reduz temporariamente todos os danos causados!"
+	},
+	{
+		"id": "LoadingScreen_Hint_32",
+		"text": "Quando seu personagem estiver sem movimentos, um carrinho aparecerá ao lado de seus sinais vitais logo acima da cabeça."
+	},
+	{
+		"id": "LoadingScreen_Hint_33",
+		"text": "Você pode ver o seu personagem e os vitais básicos do seu inimigo pairando acima da cabeça deles."
+	},
+	{
+		"id": "LoadingScreen_Hint_34",
+		"text": "Passar um local no mapa de exploraçao revelará algumas informaçoes básicas sobre esse local."
+	},
+	{
+		"id": "LoadingScreen_Hint_36",
+		"text": "Lugares de descanso, comerciantes e eventos de recrutamento podem ser revisados."
+	},
+	{
+		"id": "LoadingScreen_Hint_37",
+		"text": "Se você estiver em um local que possa ser revisitado (como um comerciante), basta clicar nele novamente para revisitar."
+	}
+]
+}
