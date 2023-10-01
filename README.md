@@ -1,8 +1,6 @@
+<img  src="https://img.shields.io/steam/views/2986364384"/> <img  src="https://img.shields.io/steam/downloads/2986364384"/> <img  src="https://img.shields.io/steam/favorites/2986364384"/> <img  src="https://img.shields.io/steam/subscriptions/2986364384"/>
 
-<img  src="https://img.shields.io/steam/views/2986364384"/>
-<img  src="https://img.shields.io/steam/downloads/2986364384"/>
-<img  src="https://img.shields.io/steam/favorites/2986364384"/>
-<img  src="https://img.shields.io/steam/subscriptions/2986364384"/>
+---
 
 # Pathway Traducao Português (Brasil)
 [![Pathway](https://raw.githubusercontent.com/pobruno/Pathway-traducao-ptbr/main/Production/pt-BR_preview.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2986364384)
