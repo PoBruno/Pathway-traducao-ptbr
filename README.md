@@ -1,3 +1,6 @@
+[![Steam Badge](https://img.shields.io/badge/Steam-Profile-blue)](https://steamcommunity.com/id/lorthe)
+<img  src="https://img.shields.io/steam/views/2986364384"/>
+
 # Pathway Traducao Português (Brasil)
 [![Pathway](https://raw.githubusercontent.com/pobruno/Pathway-traducao-ptbr/main/Production/pt-BR_preview.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2986364384)
 
