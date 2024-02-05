@@ -1,0 +1,1225 @@
+{
+"id": "Perks",
+"rows": [
+	{
+		"id": "Attribute_Dummy",
+		"text": "Esta vantagem tem um efeito"
+	},
+	{
+		"id": "ArmorType_Light",
+		"text": "Luz"
+	},
+	{
+		"id": "ArmorType_Medium",
+		"text": "Médio"
+	},
+	{
+		"id": "ArmorType_Heavy",
+		"text": "Pesado"
+	},
+	{
+		"id": "ArmorType_Light_Plural",
+		"text": "Armaduras leves"
+	},
+	{
+		"id": "ArmorType_Medium_Plural",
+		"text": "Armaduras médias"
+	},
+	{
+		"id": "ArmorType_Heavy_Plural",
+		"text": "Armaduras pesadas"
+	},
+	{
+		"id": "EventAdjustmentType_Daredevil",
+		"text": "Temerário"
+	},
+	{
+		"id": "EventAdjustmentType_RawStrength",
+		"text": "Bruto"
+	},
+	{
+		"id": "EventAdjustmentType_Stealth",
+		"text": "Sombra"
+	},
+	{
+		"id": "EventAdjustmentType_Medical",
+		"text": "Especialista médico"
+	},
+	{
+		"id": "EventAdjustmentType_Technical",
+		"text": "Engenheiro"
+	},
+	{
+		"id": "EventAdjustmentType_TrickNPC",
+		"text": "Trapaceiro"
+	},
+	{
+		"id": "EventAdjustmentType_Detection",
+		"text": "Sexto sentido"
+	},
+	{
+		"id": "EventAdjustmentType_Intimidate",
+		"text": "Intimidaçao"
+	},
+	{
+		"id": "EventAdjustmentType_Languages",
+		"text": "Idiomas antigos"
+	},
+	{
+		"id": "EventAdjustmentType_Survival",
+		"text": "Sobrevivência"
+	},
+	{
+		"id": "EventAdjustmentType_Occult",
+		"text": "Lore proibido"
+	},
+	{
+		"id": "GrenadeAdjustmentType_Damage",
+		"text": "Dano"
+	},
+	{
+		"id": "GrenadeAdjustmentType_DamageRadius",
+		"text": "Raio de dano"
+	},
+	{
+		"id": "GrenadeAdjustmentType_ThrowDistance",
+		"text": "Faixa de arremesso"
+	},
+	{
+		"id": "GrenadeAdjustmentType_Damage_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "GrenadeAdjustmentType_DamageRadius_Amount",
+		"text": "[adjustment:amount] tile(s)"
+	},
+	{
+		"id": "GrenadeAdjustmentType_ThrowDistance_Amount",
+		"text": "[adjustment:amount] tile(s)"
+	},
+	{
+		"id": "GrenadeAdjustmentType_Shredding_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "GrenadeAdjustmentType_Shredding",
+		"text": "Trituraçao de armadura"
+	},
+	{
+		"id": "HealthKitAdjustmentType_Strength",
+		"text": "Quantidade de cicatrizaçao"
+	},
+	{
+		"id": "HealthKitAdjustmentType_Range",
+		"text": "Faixa"
+	},
+	{
+		"id": "HealthKitAdjustmentType_Strength_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "HealthKitAdjustmentType_Range_Amount",
+		"text": "[adjustment:amount] tile(s)"
+	},
+	{
+		"id": "ItemType_Weapon",
+		"text": "Arma"
+	},
+	{
+		"id": "ItemType_Armor",
+		"text": "armaduras"
+	},
+	{
+		"id": "ItemType_Grenade",
+		"text": "Granadas"
+	},
+	{
+		"id": "ItemType_Ammo",
+		"text": "Muniçao"
+	},
+	{
+		"id": "ItemType_Medkit",
+		"text": "First-Aid Kits"
+	},
+	{
+		"id": "ItemType_Repairkit",
+		"text": "Kits de reparo"
+	},
+	{
+		"id": "ItemType_Misc",
+		"text": "Misc"
+	},
+	{
+		"id": "ItemType_Artefact",
+		"text": "Artefato"
+	},
+	{
+		"id": "ItemType_Fuel",
+		"text": "Combustível"
+	},
+	{
+		"id": "ItemType_Cash",
+		"text": "Dinheiro"
+	},
+	{
+		"id": "ItemType_Grenade_Plural",
+		"text": "Granadas"
+	},
+	{
+		"id": "ItemType_Medkit_Plural",
+		"text": "Medkits"
+	},
+	{
+		"id": "ItemType_Repairkit_Plural",
+		"text": "Reparos"
+	},
+	{
+		"id": "MapAdjustmentType_BattleView",
+		"text": "Pontos todos os inimigos no mapa"
+	},
+	{
+		"id": "MapAdjustmentType_MerchantView",
+		"text": "Pontos todos os comerciantes no mapa"
+	},
+	{
+		"id": "MapAdjustmentType_RecruiterView",
+		"text": "Pontos todos os personagens no mapa"
+	},
+	{
+		"id": "MapAdjustmentType_RestingPlaceView",
+		"text": "Pontos todos os lugares de descanso no mapa"
+	},
+	{
+		"id": "MapAdjustmentType_FuelIncrease",
+		"text": "Encontra mais combustível"
+	},
+	{
+		"id": "MapAdjustmentType_AmmoIncrease",
+		"text": "Encontra mais muniçao"
+	},
+	{
+		"id": "MapAdjustmentType_MoneyIncrease",
+		"text": "Encontra mais dinheiro"
+	},
+	{
+		"id": "PlayerAttribute_Cash",
+		"text": "Dinheiro"
+	},
+	{
+		"id": "PlayerAttribute_Ammo",
+		"text": "Muniçao"
+	},
+	{
+		"id": "PlayerAttribute_Fuel",
+		"text": "Combustível"
+	},
+	{
+		"id": "PlayerAttribute_Valkyrium",
+		"text": "Valkyrium"
+	},
+	{
+		"id": "RepairKitAdjustmentType_Strength",
+		"text": "Valor do reparo"
+	},
+	{
+		"id": "RepairKitAdjustmentType_Range",
+		"text": "Alcance"
+	},
+	{
+		"id": "RepairKitAdjustmentType_Strength_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "RepairKitAdjustmentType_Range_Amount",
+		"text": "[adjustment:amount] tile(s)"
+	},
+	{
+		"id": "StatsAdjustmentType_Health",
+		"text": "Vitalidade"
+	},
+	{
+		"id": "StatsAdjustmentType_Agility",
+		"text": "Agilidade"
+	},
+	{
+		"id": "StatsAdjustmentType_Aim",
+		"text": "Destreza"
+	},
+	{
+		"id": "StatsAdjustmentType_Evade",
+		"text": "Reflexos"
+	},
+	{
+		"id": "StatsAdjustmentType_Bravery",
+		"text": "Força de vontade"
+	},
+	{
+		"id": "StatsAdjustmentType_Intelligence",
+		"text": "Inteligência"
+	},
+	{
+		"id": "StatsAdjustmentType_Endurance",
+		"text": "Resistência"
+	},
+	{
+		"id": "WeaponType_Pistol",
+		"text": "Pistola"
+	},
+	{
+		"id": "WeaponType_AssaultRifle",
+		"text": "Rifle de assalto"
+	},
+	{
+		"id": "WeaponType_SniperRifle",
+		"text": "Rifle de Sniper"
+	},
+	{
+		"id": "WeaponType_Shotgun",
+		"text": "Espingarda"
+	},
+	{
+		"id": "WeaponType_Flamethrower",
+		"text": "Lança -chamas"
+	},
+	{
+		"id": "WeaponType_Disintegrator",
+		"text": "Desintegrador"
+	},
+	{
+		"id": "WeaponType_Lightning",
+		"text": "Pistola Lightning"
+	},
+	{
+		"id": "WeaponType_CloseCombat",
+		"text": "Faca"
+	},
+	{
+		"id": "WeaponType_SniperRifle_Plural",
+		"text": "Rifles de precisao"
+	},
+	{
+		"id": "WeaponType_Pistol_Plural",
+		"text": "Pistolas"
+	},
+	{
+		"id": "WeaponType_CloseCombat_Plural",
+		"text": "Facas"
+	},
+	{
+		"id": "WeaponType_AssaultRifle_Plural",
+		"text": "Rifles de assalto"
+	},
+	{
+		"id": "WeaponType_Shotgun_Plural",
+		"text": "Espingardas"
+	},
+	{
+		"id": "WeaponType_Disintegrator_Plural",
+		"text": "Desintegradores"
+	},
+	{
+		"id": "WeaponAdjustmentType_Damage",
+		"text": "Dano"
+	},
+	{
+		"id": "WeaponAdjustmentType_Range",
+		"text": "Faixa"
+	},
+	{
+		"id": "WeaponAdjustmentType_CritChance",
+		"text": "Chance Chance"
+	},
+	{
+		"id": "WeaponAdjustmentType_CritStrength",
+		"text": "Força de crítica"
+	},
+	{
+		"id": "WeaponAdjustmentType_AimModifier",
+		"text": "Precisao"
+	},
+	{
+		"id": "WeaponAdjustmentType_MagSize",
+		"text": "Tamanho da revista"
+	},
+	{
+		"id": "WeaponAdjustmentType_Shredding",
+		"text": "Trituraçao de armadura"
+	},
+	{
+		"id": "WeaponAdjustmentType_Damage_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "WeaponAdjustmentType_Range_Amount",
+		"text": "[adjustment:amount] tile(s)"
+	},
+	{
+		"id": "WeaponAdjustmentType_CritChance_Amount",
+		"text": "[adjustment:amount]%"
+	},
+	{
+		"id": "WeaponAdjustmentType_CritStrength_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "WeaponAdjustmentType_AimModifier_Amount",
+		"text": "[adjustment:amount]%"
+	},
+	{
+		"id": "WeaponAdjustmentType_MagSize_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "WeaponAdjustmentType_Shredding_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "ArmorAdjustmentType_ArmorAmount",
+		"text": "Quantidade de armadura"
+	},
+	{
+		"id": "ArmorAdjustmentType_ArmorAmount_Amount",
+		"text": "[adjustment:amount]"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Explorer",
+		"text": "Explorador"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Nazi",
+		"text": "Nazista"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Animal",
+		"text": "Animal"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Machine",
+		"text": "Máquina"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Undead",
+		"text": "Undead"
+	},
+	{
+		"id": "EntityTypeDamageAdjustment_Cultist",
+		"text": "Cultista"
+	},
+	{
+		"id": "DamageAdjustment_Any",
+		"text": "Qualquer"
+	},
+	{
+		"id": "healthBonus03_name",
+		"text": "Diadema sagrado"
+	},
+	{
+		"id": "obsidianStela01_name",
+		"text": "Fecho de vestido simples"
+	},
+	{
+		"id": "aimBonus02_name",
+		"text": "A pulseira da sacerdotisa"
+	},
+	{
+		"id": "desertedShrineRing01_name",
+		"text": "O broche dos deuses"
+	},
+	{
+		"id": "creepyHutArtefact01_name",
+		"text": "Amuleto de proteçao"
+	},
+	{
+		"id": "fightAtTheOasis01_name",
+		"text": "Fortalecimento do ritual"
+	},
+	{
+		"id": "monsterAssaultArtefact01_name",
+		"text": "Amuleto brilhante"
+	},
+	{
+		"id": "electricObeliskArtefact01_name",
+		"text": "Anel desarratado"
+	},
+	{
+		"id": "electricObeliskArtefact02_name",
+		"text": "Anel indefinido"
+	},
+	{
+		"id": "electricObeliskArtefact03_name",
+		"text": "Anel inornado"
+	},
+	{
+		"id": "healthBonus01_name",
+		"text": "Bênçao divina"
+	},
+	{
+		"id": "healthBonus02_name",
+		"text": "Beijado pelos eons"
+	},
+	{
+		"id": "healthEvadeBonus01_name",
+		"text": "Amuleto da sorte"
+	},
+	{
+		"id": "healthEvadeBonus02_name",
+		"text": "Amuleto pulsante"
+	},
+	{
+		"id": "healthMalus01_name",
+		"text": "Ferida de facada"
+	},
+	{
+		"id": "healthMalus02_name",
+		"text": "Queimaduras graves"
+	},
+	{
+		"id": "healthMalus03_name",
+		"text": "Dor abdominal"
+	},
+	{
+		"id": "healthMalus04_name",
+		"text": "Tosse ensanguentada"
+	},
+	{
+		"id": "agiBonus01_name",
+		"text": "RESERVADO"
+	},
+	{
+		"id": "agiMalus01_name",
+		"text": "Tornozelo torcido"
+	},
+	{
+		"id": "agiMalus02_name",
+		"text": "Perna machucada"
+	},
+	{
+		"id": "agiMalus03_name",
+		"text": "Lesao na perna"
+	},
+	{
+		"id": "aimBonus01_name",
+		"text": "RESERVADO"
+	},
+	{
+		"id": "aimMalus01_name",
+		"text": "Ombro deslocado"
+	},
+	{
+		"id": "aimMalus02_name",
+		"text": "Mordida de cobra"
+	},
+	{
+		"id": "aimMalus03_name",
+		"text": "Caibra do estômago"
+	},
+	{
+		"id": "aimMalus04_name",
+		"text": "Cego"
+	},
+	{
+		"id": "aimMalus05_name",
+		"text": "Dicas de dedos sangrando"
+	},
+	{
+		"id": "aimMalus06_name",
+		"text": "Tosse ameaçadora"
+	},
+	{
+		"id": "aimMalus07_name",
+		"text": "Maos enfaixadas"
+	},
+	{
+		"id": "aimMalusEvadeBonus01_name",
+		"text": "Estranhamente emocionado"
+	},
+	{
+		"id": "evadeBonus01_name",
+		"text": "A bênçao do djinni"
+	},
+	{
+		"id": "evadeMalus01_name",
+		"text": "Mordida de tarântula"
+	},
+	{
+		"id": "evadeMalus02_name",
+		"text": "Maldiçao antiga"
+	},
+	{
+		"id": "evadeMalus03_name",
+		"text": "Lumbago"
+	},
+	{
+		"id": "evadeMalus04_name",
+		"text": "Pé queimado"
+	},
+	{
+		"id": "evadeMalus05_name",
+		"text": "Vozes de além"
+	},
+	{
+		"id": "characterPerkNatalya_name",
+		"text": "Cientista russo"
+	},
+	{
+		"id": "characterPerkLeonora_name",
+		"text": "Arqueólogo amador britânico"
+	},
+	{
+		"id": "characterPerkVeduti_name",
+		"text": "Legado do Vaticano italiano"
+	},
+	{
+		"id": "characterPerkBrunhilda_name",
+		"text": "Lutador de feiras islandesas"
+	},
+	{
+		"id": "characterPerkPereira_name",
+		"text": "Contrabador de barco a vapor brasileiro"
+	},
+	{
+		"id": "characterPerkJackson_name",
+		"text": "American Globetrotter"
+	},
+	{
+		"id": "characterPerkGeorgette_name",
+		"text": "Agente secreto belga"
+	},
+	{
+		"id": "characterPerkProfessor_name",
+		"text": "Inventor americano"
+	},
+	{
+		"id": "characterPerkDrChandra_name",
+		"text": "Antiquário anglo-indiano"
+	},
+	{
+		"id": "characterPerkShaneeka_name",
+		"text": "Huntress africana"
+	},
+	{
+		"id": "characterPerkBaron_name",
+		"text": "Impostor de cavalheiro alemao"
+	},
+	{
+		"id": "characterPerkRose_name",
+		"text": "Aventureira americana e mística"
+	},
+	{
+		"id": "characterPerkCaballero_name",
+		"text": "Poeta da Guerra Civil Espanhola"
+	},
+	{
+		"id": "characterPerkOmar_name",
+		"text": "Colecionador de arte árabe"
+	},
+	{
+		"id": "characterPerkAnabelle_name",
+		"text": "Caribe Freelance AviaTrix"
+	},
+	{
+		"id": "characterPerkLeFantome_name",
+		"text": "Lenda do roubo francês"
+	},
+	{
+		"id": "characterPerkSnowWhite_name",
+		"text": "Boa garota"
+	},
+	{
+		"id": "characterPerkFenris_name",
+		"text": "Bom gatoro"
+	},
+	{
+		"id": "rawStrengthStarter_name",
+		"text": "Bruto"
+	},
+	{
+		"id": "technicalStarter_name",
+		"text": "Engenheiro"
+	},
+	{
+		"id": "occultStarter_name",
+		"text": "Conhecimento Proibido"
+	},
+	{
+		"id": "survivalStarter_name",
+		"text": "Sobrevivência"
+	},
+	{
+		"id": "trickNPCStarter_name",
+		"text": "Trapaceiro"
+	},
+	{
+		"id": "intimidateStarter_name",
+		"text": "Intimidaçao"
+	},
+	{
+		"id": "languagesStarter_name",
+		"text": "Idiomas antigos"
+	},
+	{
+		"id": "stealthStarter_name",
+		"text": "Sombra"
+	},
+	{
+		"id": "medicalStarter_name",
+		"text": "Especialista médico"
+	},
+	{
+		"id": "daredevilStarter_name",
+		"text": "Temerário"
+	},
+	{
+		"id": "detectionStarter_name",
+		"text": "Sexto sentido"
+	},
+	{
+		"id": "naziDamageBoost_name",
+		"text": "Anti-fascista"
+	},
+	{
+		"id": "naziDamagePenalty_name",
+		"text": "Declaraçao"
+	},
+	{
+		"id": "animalDamageBoost_name",
+		"text": "Big Game Hunter"
+	},
+	{
+		"id": "animalDamagePenalty_name",
+		"text": "Amante dos animais"
+	},
+	{
+		"id": "undeadDamageBoost_name",
+		"text": "exorcista"
+	},
+	{
+		"id": "undeadDamagePenalty_name",
+		"text": "Supersticioso"
+	},
+	{
+		"id": "undeadDamageBoostWeak_name",
+		"text": "Espíritos ancestrais"
+	},
+	{
+		"id": "undeadDamageBoostLarge_name",
+		"text": "Espíritos ancestrais"
+	},
+	{
+		"id": "allDamageBoost_name",
+		"text": "Mortal"
+	},
+	{
+		"id": "allDamagePenalty_name",
+		"text": "Pacifista"
+	},
+	{
+		"id": "damageReceivedBonus_name",
+		"text": "Resiliente"
+	},
+	{
+		"id": "damageReceivedPenalty_name",
+		"text": "Delgado"
+	},
+	{
+		"id": "merchantView_name",
+		"text": "Conexoes comerciais"
+	},
+	{
+		"id": "recruiterView_name",
+		"text": "Sociável"
+	},
+	{
+		"id": "restingPlaceView_name",
+		"text": "Viajante experiente"
+	},
+	{
+		"id": "battleView_name",
+		"text": "Vigilância"
+	},
+	{
+		"id": "fuelBoost_name",
+		"text": "Entusiasta do carro"
+	},
+	{
+		"id": "ammoBoost_name",
+		"text": "Cauteloso"
+	},
+	{
+		"id": "moneyBoost_name",
+		"text": "Ambicioso"
+	},
+	{
+		"id": "lightArmorBasics_name",
+		"text": "Básico das armaduras leves"
+	},
+	{
+		"id": "mediumArmorBasics_name",
+		"text": "Básico de armaduras médias"
+	},
+	{
+		"id": "heavyArmorBasics_name",
+		"text": "Básico de armadura pesada"
+	},
+	{
+		"id": "knifeBasics_name",
+		"text": "Facas básicas"
+	},
+	{
+		"id": "pistolBasics_name",
+		"text": "Noçoes básicas de pistola"
+	},
+	{
+		"id": "shotgunBasics_name",
+		"text": "Noçoes básicas de espingarda"
+	},
+	{
+		"id": "assaultRifleBasics_name",
+		"text": "Assault Rifle Basics"
+	},
+	{
+		"id": "sniperRifleBasics_name",
+		"text": "Básico do rifle de atirador"
+	},
+	{
+		"id": "disintegratorBasics_name",
+		"text": "Noçoes básicas sobre armas de desintegrador"
+	},
+	{
+		"id": "grenadeBasics_name",
+		"text": "Grenade Basics"
+	},
+	{
+		"id": "repairkitBasics_name",
+		"text": "Kit de reparo básico"
+	},
+	{
+		"id": "medkitBasics_name",
+		"text": "Noçoes básicas de kit de primeiros socorros"
+	},
+	{
+		"id": "endurance01_name",
+		"text": "Boost de resistência"
+	},
+	{
+		"id": "vitality01_name",
+		"text": "Aumento de vitalidade"
+	},
+	{
+		"id": "dexterity01_name",
+		"text": "Impulso de destreza"
+	},
+	{
+		"id": "reflexes01_name",
+		"text": "Reflexos aumentam"
+	},
+	{
+		"id": "intelligence01_name",
+		"text": "Aumento de inteligência"
+	},
+	{
+		"id": "bravery01_name",
+		"text": "Bravura Boost"
+	},
+	{
+		"id": "agility01_name",
+		"text": "Aumento de agilidade"
+	},
+	{
+		"id": "pistolDamage01_name",
+		"text": "Dano da pistola"
+	},
+	{
+		"id": "pistolAim01_name",
+		"text": "Precisao da pistola"
+	},
+	{
+		"id": "pistolRange01_name",
+		"text": "Faixa de pistola"
+	},
+	{
+		"id": "pistolCritStrength01_name",
+		"text": "Força de Crit Pistol"
+	},
+	{
+		"id": "pistolCritChance01_name",
+		"text": "Chance de crítica de pistola"
+	},
+	{
+		"id": "pistolMagSize01_name",
+		"text": "Tamanho da revista de pistola"
+	},
+	{
+		"id": "pistolShredding01_name",
+		"text": "Pistola Armadura Ressuando"
+	},
+	{
+		"id": "knifeDamage01_name",
+		"text": "Dano da faca"
+	},
+	{
+		"id": "knifeCritChance01_name",
+		"text": "Chance de crítica de faca"
+	},
+	{
+		"id": "knifeCritStrength01_name",
+		"text": "Força de crítica de faca"
+	},
+	{
+		"id": "knifeShredding01_name",
+		"text": "Destruiçao de Armadura de Faca"
+	},
+	{
+		"id": "fangsDamage01_name",
+		"text": "Danos de presas"
+	},
+	{
+		"id": "fangsCritChance01_name",
+		"text": "Fangs Crit Chance"
+	},
+	{
+		"id": "fangsCritStrength01_name",
+		"text": "Fangs Crit Strength"
+	},
+	{
+		"id": "rifleDamage01_name",
+		"text": "Dano de rifle de assalto"
+	},
+	{
+		"id": "rifleRange01_name",
+		"text": "Faixa de rifle de assalto"
+	},
+	{
+		"id": "rifleMagSize01_name",
+		"text": "Tamanho da revista de rifle de assalto"
+	},
+	{
+		"id": "rifleCritChance01_name",
+		"text": "Chance de crítica de rifle de assalto"
+	},
+	{
+		"id": "rifleCritStrength01_name",
+		"text": "Força de crítica de rifle de assalto"
+	},
+	{
+		"id": "rifleAim01_name",
+		"text": "Precisao do rifle de assalto"
+	},
+	{
+		"id": "rifleShredding01_name",
+		"text": "Assault Rifle Armour Shredding"
+	},
+	{
+		"id": "sniperRifleDamage01_name",
+		"text": "Dano de Rifle Sniper"
+	},
+	{
+		"id": "sniperRifleAim01_name",
+		"text": "Precisao do rifle de atirador de elite"
+	},
+	{
+		"id": "sniperRifleRange01_name",
+		"text": "Faixa de rifle de atirador de elite"
+	},
+	{
+		"id": "sniperRifleRange02_name",
+		"text": "Faixa de rifle de atirador de elite"
+	},
+	{
+		"id": "sniperRifleCritChance01_name",
+		"text": "Chance de Sniper Rifle Crit Chance"
+	},
+	{
+		"id": "sniperRifleCritStrength01_name",
+		"text": "Sniper Rifle Crit Strength"
+	},
+	{
+		"id": "sniperRifleMagSize01_name",
+		"text": "Tamanho da revista de rifle de atirador"
+	},
+	{
+		"id": "sniperRifleShredding01_name",
+		"text": "Sniper Rifle Armour Shredding"
+	},
+	{
+		"id": "shotgunDamage01_name",
+		"text": "Dano de espingarda"
+	},
+	{
+		"id": "shotgunMagSize01_name",
+		"text": "Tamanho da revista de espingarda"
+	},
+	{
+		"id": "shotgunAim01_name",
+		"text": "Precisao da espingarda"
+	},
+	{
+		"id": "shotgunCritChance01_name",
+		"text": "Chance de crítica de espingarda"
+	},
+	{
+		"id": "shotgunCritStrength01_name",
+		"text": "Força de Shotgun Crit"
+	},
+	{
+		"id": "shotgunRange01_name",
+		"text": "Faixa de espingarda"
+	},
+	{
+		"id": "shotgunShredding01_name",
+		"text": "Armadura de espingarda trituraçao"
+	},
+	{
+		"id": "disintegratorRange01_name",
+		"text": "Faixa de desintegradores"
+	},
+	{
+		"id": "disintegratorDamage01_name",
+		"text": "Dano para desintegrador"
+	},
+	{
+		"id": "disintegratorMagSize01_name",
+		"text": "Desintegrador Tamanho da revista"
+	},
+	{
+		"id": "disintegratorCritStrength01_name",
+		"text": "Disintegrator Crit Strength"
+	},
+	{
+		"id": "disintegratorCritChance01_name",
+		"text": "Desintegrador Crit Chance"
+	},
+	{
+		"id": "disintegratorAim01_name",
+		"text": "Precisao do desintegrador"
+	},
+	{
+		"id": "disintegratorShredding01_name",
+		"text": "Desintegrador Armadura Ressando"
+	},
+	{
+		"id": "medkitStrength01_name",
+		"text": "Força do Medkit"
+	},
+	{
+		"id": "medkitRange01_name",
+		"text": "Faixa Medkit"
+	},
+	{
+		"id": "repairkitStrength01_name",
+		"text": "Força do kit de reparo"
+	},
+	{
+		"id": "repairkitRange01_name",
+		"text": "Faixa de reparos"
+	},
+	{
+		"id": "lightArmorAmount01_name",
+		"text": "Força de armadura leve"
+	},
+	{
+		"id": "mediumArmorAmount01_name",
+		"text": "Força média da armadura"
+	},
+	{
+		"id": "heavyArmorAmount01_name",
+		"text": "Força pesada da armadura"
+	},
+	{
+		"id": "grenadeDamage01_name",
+		"text": "Dano de granada"
+	},
+	{
+		"id": "grenadeThrowRange01_name",
+		"text": "Faixa de lançamento de granada"
+	},
+	{
+		"id": "grenadeShredding01_name",
+		"text": "Grenada Armadura Ressando"
+	},
+	{
+		"id": "MapAdjustmentType_SpotThreat",
+		"text": "Pontos inimigos no mapa"
+	},
+	{
+		"id": "MapAdjustmentType_MerchantViewRange",
+		"text": "Pontos de manchas de comerciantes no mapa"
+	},
+	{
+		"id": "MapAdjustmentType_RecruiterViewRange",
+		"text": "Visita caracteres no mapa"
+	},
+	{
+		"id": "MapAdjustmentType_RestingPlaceViewRange",
+		"text": "Locais de descanso de manchas no mapa"
+	},
+	{
+		"id": "MapAdjustmentType_HealthRegeneration",
+		"text": "Regenera a saúde no mapa"
+	},
+	{
+		"id": "MapAdjustmentType_ArmorRegeneration",
+		"text": "Regenera a armadura no mapa"
+	},
+	{
+		"id": "merchantViewRange_name",
+		"text": "Propenso aos negócios"
+	},
+	{
+		"id": "recruiterViewRange_name",
+		"text": "Sociável"
+	},
+	{
+		"id": "restingPlaceViewRange_name",
+		"text": "Viajante experiente"
+	},
+	{
+		"id": "healthRegeneration_name",
+		"text": "Robusto"
+	},
+	{
+		"id": "armorRegeneration_name",
+		"text": "Funileiro"
+	},
+	{
+		"id": "IconCaption_ExpAgi",
+		"text": "AGI"
+	},
+	{
+		"id": "IconCaption_ExpDex",
+		"text": "DEX"
+	},
+	{
+		"id": "IconCaption_ExpEnd",
+		"text": "END"
+	},
+	{
+		"id": "IconCaption_ExpInt",
+		"text": "INT"
+	},
+	{
+		"id": "IconCaption_ExpRfx",
+		"text": "RFX"
+	},
+	{
+		"id": "IconCaption_ExpVit",
+		"text": "VIT"
+	},
+	{
+		"id": "IconCaption_ExpWil",
+		"text": "WIL"
+	},
+	{
+		"id": "IconCaption_SpecDmg",
+		"text": "DMG"
+	},
+	{
+		"id": "IconCaption_SpecCritPlus",
+		"text": "CRT+"
+	},
+	{
+		"id": "IconCaption_SpecCritChance",
+		"text": "CRT%"
+	},
+	{
+		"id": "IconCaption_SpecAcc",
+		"text": "ACC"
+	},
+	{
+		"id": "IconCaption_SpecRng",
+		"text": "RNG"
+	},
+	{
+		"id": "IconCaption_SpecMag",
+		"text": "MAG"
+	},
+	{
+		"id": "IconCaption_SpecRec",
+		"text": "MED"
+	},
+	{
+		"id": "IconCaption_SpecRep",
+		"text": "REP"
+	},
+	{
+		"id": "IconCaption_SpecArm",
+		"text": "ARM"
+	},
+	{
+		"id": "IconCaption_SpecShredding",
+		"text": "SHR"
+	},
+	{
+		"id": "miscSkillMeditate_name",
+		"text": "Concentrado"
+	},
+	{
+		"id": "miscSkillHealingShot_name",
+		"text": "Tiro de Cura"
+	},
+	{
+		"id": "miscSkillShreddingShot_name",
+		"text": "Tiro Destruidor"
+	},
+	{
+		"id": "miscSkillMoraleBoost_name",
+		"text": "Aumento de moral"
+	},
+	{
+		"id": "miscSkillCripplingShot_name",
+		"text": "Tiro Incapacitante"
+	},
+	{
+		"id": "miscSkillQuantumLeech_name",
+		"text": "Sanguessuga quântica"
+	},
+	{
+		"id": "miscSkillRevive_name",
+		"text": "Ressuscitar"
+	},
+	{
+		"id": "miscSkillFirstAid_name",
+		"text": "Primeiro socorro"
+	},
+	{
+		"id": "miscSkillReactionShot_name",
+		"text": "Tiro de Reaçao"
+	},
+	{
+		"id": "miscSkillParry_name",
+		"text": "Ataque Repentino"
+	},
+	{
+		"id": "miscSkillDash_name",
+		"text": "Traço"
+	},
+	{
+		"id": "miscSkillStrike_name",
+		"text": "Caltela"
+	},
+	{
+		"id": "miscSkillHeadshot_name",
+		"text": "Tiros na Cabeça"
+	},
+	{
+		"id": "miscSkillWarningShot_name",
+		"text": "Tiros de Aviso"
+	},
+	{
+		"id": "miscSkillPsychicControl_name",
+		"text": "Controle Psíquico"
+	},
+	{
+		"id": "miscSkillSuckerPunch_name",
+		"text": "Golaço"
+	},
+	{
+		"id": "miscSkillVanish_name",
+		"text": "Desaparecer"
+	},
+	{
+		"id": "miscSkillBait_name",
+		"text": "Armadilha"
+	}
+]
+}

@@ -1,0 +1,3457 @@
+{
+"id": "Items",
+"rows": [
+	{
+		"id": "grenade_0_description",
+		"text": "As forças britânicas têm usado o nao. 23 como sua granada padrao desde 1902."
+	},
+	{
+		"id": "grenade_0_name",
+		"text": "Hastings Bomb No. 23"
+	},
+	{
+		"id": "grenade_1_description",
+		"text": "O rearmamento do exército alemao também se baseia nesse impressionante novo desenvolvimento da fábrica de Steiner."
+	},
+	{
+		"id": "grenade_1_name",
+		"text": "Steiner Granato 1924"
+	},
+	{
+		"id": "grenade_2_description",
+		"text": "Quando se trata de poder explosivo, essa granada de fragmentaçao americana ultra-moderna está muito à frente da competiçao."
+	},
+	{
+		"id": "grenade_2_name",
+		"text": "Preston Grape Granada"
+	},
+	{
+		"id": "grenade_3_description",
+		"text": "Antigo - e instável ..."
+	},
+	{
+		"id": "grenade_3_name",
+		"text": "Pote de enxofre"
+	},
+	{
+		"id": "grenade_4_description",
+		"text": "Uma nova granada de bastao do Exército Vermelho - provavelmente contrabandeado para a regiao através do Cáucaso."
+	},
+	{
+		"id": "grenade_4_name",
+		"text": "RFB-34 Granada"
+	},
+	{
+		"id": "grenade_5_description",
+		"text": "Explosivo alto - quando a linguagem forte nao é suficiente ..."
+	},
+	{
+		"id": "grenade_5_name",
+		"text": "Neuvelle T3 Dynamite"
+	},
+	{
+		"id": "trashAncient_0_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_0_name",
+		"text": "Brates de linho encharcados de natroron"
+	},
+	{
+		"id": "trashAncient_1_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_1_name",
+		"text": "Cowrie Shell"
+	},
+	{
+		"id": "trashAncient_2_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_2_name",
+		"text": "Pequena Arrowhead Obsidian"
+	},
+	{
+		"id": "trashAncient_3_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_3_name",
+		"text": "Estatueta funerária agredida"
+	},
+	{
+		"id": "trashAncient_4_description",
+		"text": "Divida, adicione, multiplique e entenda"
+	},
+	{
+		"id": "trashAncient_4_name",
+		"text": "Fragmento de papiro sujo"
+	},
+	{
+		"id": "trashAncient_5_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_5_name",
+		"text": "Fecho de cobre manchado"
+	},
+	{
+		"id": "trashAncient_6_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_6_name",
+		"text": "Ídolo de argila agredida"
+	},
+	{
+		"id": "trashAncient_7_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_7_name",
+		"text": "Jarra de calcário agredido"
+	},
+	{
+		"id": "trashAncient_8_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_8_name",
+		"text": "Comprimido de pedra agredida"
+	},
+	{
+		"id": "trashAncient_9_description",
+		"text": ""
+	},
+	{
+		"id": "trashAncient_9_name",
+		"text": "Moeda elétrica manchada"
+	},
+	{
+		"id": "trashSoldier_0_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_0_name",
+		"text": "Biscoito de cachorro mole"
+	},
+	{
+		"id": "trashSoldier_1_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_1_name",
+		"text": "Suspender de meias gastas"
+	},
+	{
+		"id": "trashSoldier_2_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_2_name",
+		"text": "Brush de barbear usado"
+	},
+	{
+		"id": "trashSoldier_3_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_3_name",
+		"text": "Escova de dentes velha"
+	},
+	{
+		"id": "trashSoldier_4_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_4_name",
+		"text": "Botao de cobre manchado"
+	},
+	{
+		"id": "trashSoldier_5_description",
+		"text": "Reviva seu ânimo com uma pitada de Sapristi Snuff!"
+	},
+	{
+		"id": "trashSoldier_5_name",
+		"text": "Caixa de rapé vazia"
+	},
+	{
+		"id": "trashSoldier_6_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_6_name",
+		"text": "Abridor de lata enferrujada"
+	},
+	{
+		"id": "trashSoldier_7_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_7_name",
+		"text": "Frasco de quadril amassado"
+	},
+	{
+		"id": "trashSoldier_8_description",
+		"text": ""
+	},
+	{
+		"id": "trashSoldier_8_name",
+		"text": "Raçao de campo mimada"
+	},
+	{
+		"id": "trashSoldier_9_description",
+		"text": "Para meu amado Albert, seu eternamente, Magda"
+	},
+	{
+		"id": "trashSoldier_9_name",
+		"text": "Fotografia atrevida"
+	},
+	{
+		"id": "valuableAncient_0_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_0_a_name",
+		"text": "Casário de cedro danificado"
+	},
+	{
+		"id": "valuableAncient_0_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_0_b_name",
+		"text": "Casário de cedro ornamentado"
+	},
+	{
+		"id": "valuableAncient_0_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_0_name",
+		"text": "Casário de cedro"
+	},
+	{
+		"id": "valuableAncient_1_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_1_a_name",
+		"text": "Colar de contas de fayence maltratado"
+	},
+	{
+		"id": "valuableAncient_1_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_1_b_name",
+		"text": "Colar de contas requintado Fayence"
+	},
+	{
+		"id": "valuableAncient_1_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_1_name",
+		"text": "Colar de contas de fayence"
+	},
+	{
+		"id": "valuableAncient_2_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_2_a_name",
+		"text": "Tigela de sacrifício de bronze manchada"
+	},
+	{
+		"id": "valuableAncient_2_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_2_b_name",
+		"text": "Tigela de sacrifício de bronze ornamentada"
+	},
+	{
+		"id": "valuableAncient_2_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_2_name",
+		"text": "Tigela de sacrifício de bronze"
+	},
+	{
+		"id": "valuableAncient_3_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_3_a_name",
+		"text": "Estatueta de marfim agredida"
+	},
+	{
+		"id": "valuableAncient_3_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_3_b_name",
+		"text": "Estatueta de marfim requintada"
+	},
+	{
+		"id": "valuableAncient_3_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_3_name",
+		"text": "Estatueta de marfim"
+	},
+	{
+		"id": "valuableAncient_4_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_4_a_name",
+		"text": "Anel de Onyx manchado"
+	},
+	{
+		"id": "valuableAncient_4_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_4_b_name",
+		"text": "Anel de Onyx requintado"
+	},
+	{
+		"id": "valuableAncient_4_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_4_name",
+		"text": "Anel de onyx"
+	},
+	{
+		"id": "valuableAncient_5_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_5_a_name",
+		"text": "Cartela de porfírio danificada"
+	},
+	{
+		"id": "valuableAncient_5_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_5_b_name",
+		"text": "Cartela de porfíia ornamentada"
+	},
+	{
+		"id": "valuableAncient_5_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_5_name",
+		"text": "Cartela de Porfírio"
+	},
+	{
+		"id": "valuableAncient_6_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_6_a_name",
+		"text": "Anel de sinete de hematita manchada"
+	},
+	{
+		"id": "valuableAncient_6_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_6_b_name",
+		"text": "Anel de sinete de hematita requintado"
+	},
+	{
+		"id": "valuableAncient_6_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_6_name",
+		"text": "Anel de sinete de hematita"
+	},
+	{
+		"id": "valuableAncient_7_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_7_a_name",
+		"text": "Amuleto Carneliano manchado"
+	},
+	{
+		"id": "valuableAncient_7_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_7_b_name",
+		"text": "Amuleto carneliano requintado"
+	},
+	{
+		"id": "valuableAncient_7_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_7_name",
+		"text": "Amuleto carneliano"
+	},
+	{
+		"id": "valuableAncient_8_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_8_a_name",
+		"text": "Máscara de prata manchada"
+	},
+	{
+		"id": "valuableAncient_8_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_8_b_name",
+		"text": "Máscara de prata ornamentada"
+	},
+	{
+		"id": "valuableAncient_8_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_8_name",
+		"text": "Máscara de prata"
+	},
+	{
+		"id": "valuableAncient_9_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_9_a_name",
+		"text": "Coroa cerimonial azul agredida"
+	},
+	{
+		"id": "valuableAncient_9_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_9_b_name",
+		"text": "Coroa cerimonial azul ornamentada"
+	},
+	{
+		"id": "valuableAncient_9_description",
+		"text": ""
+	},
+	{
+		"id": "valuableAncient_9_name",
+		"text": "Coroa cerimonial azul"
+	},
+	{
+		"id": "valuableSoldier_0_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_0_a_name",
+		"text": "Luvas de couro do oficial gasto"
+	},
+	{
+		"id": "valuableSoldier_0_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_0_b_name",
+		"text": "Luvas de couro do oficial requintado"
+	},
+	{
+		"id": "valuableSoldier_0_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_0_name",
+		"text": "Luvas de couro do oficial"
+	},
+	{
+		"id": "valuableSoldier_1_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_1_a_name",
+		"text": "Lenço de seda gasto"
+	},
+	{
+		"id": "valuableSoldier_1_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_1_b_name",
+		"text": "Lenço de seda requintado"
+	},
+	{
+		"id": "valuableSoldier_1_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_1_name",
+		"text": "Lenço de seda"
+	},
+	{
+		"id": "valuableSoldier_2_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_2_a_name",
+		"text": "Carteira de couro desgastada"
+	},
+	{
+		"id": "valuableSoldier_2_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_2_b_name",
+		"text": "Carteira de couro enorme"
+	},
+	{
+		"id": "valuableSoldier_2_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_2_name",
+		"text": "Carteira de couro"
+	},
+	{
+		"id": "valuableSoldier_3_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_3_a_name",
+		"text": "Monóculo gasto"
+	},
+	{
+		"id": "valuableSoldier_3_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_3_b_name",
+		"text": "Monóculo novo"
+	},
+	{
+		"id": "valuableSoldier_3_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_3_name",
+		"text": "Monóculo"
+	},
+	{
+		"id": "valuableSoldier_4_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_4_a_name",
+		"text": "Suporte de cigarro de tartaruga de tartaruga agredido"
+	},
+	{
+		"id": "valuableSoldier_4_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_4_b_name",
+		"text": "Suporte de cigarro requintado da tartaruga"
+	},
+	{
+		"id": "valuableSoldier_4_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_4_name",
+		"text": "Suporte de cigarro de tartaruga"
+	},
+	{
+		"id": "valuableSoldier_5_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_5_a_name",
+		"text": "Caneta de fonte prateada manchada"
+	},
+	{
+		"id": "valuableSoldier_5_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_5_b_name",
+		"text": "Caneta de fonte prateada requintada"
+	},
+	{
+		"id": "valuableSoldier_5_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_5_name",
+		"text": "Caneta de fonte de prata"
+	},
+	{
+		"id": "valuableSoldier_6_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_6_a_name",
+		"text": "Cruz de ferro manchado"
+	},
+	{
+		"id": "valuableSoldier_6_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_6_b_name",
+		"text": "Cruz de ferro brilhante"
+	},
+	{
+		"id": "valuableSoldier_6_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_6_name",
+		"text": "Cruz de Ferro"
+	},
+	{
+		"id": "valuableSoldier_7_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_7_a_name",
+		"text": "Cigarro de pele de jacaré maltratado"
+	},
+	{
+		"id": "valuableSoldier_7_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_7_b_name",
+		"text": "Cigarro de pele de jacaré requintado"
+	},
+	{
+		"id": "valuableSoldier_7_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_7_name",
+		"text": "Cigarro de pele de jacaré"
+	},
+	{
+		"id": "valuableSoldier_8_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_8_a_name",
+		"text": "Câmera Rangefinder danificada"
+	},
+	{
+		"id": "valuableSoldier_8_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_8_b_name",
+		"text": "Câmera de rangefinder nova"
+	},
+	{
+		"id": "valuableSoldier_8_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_8_name",
+		"text": "Câmera Rangefinder"
+	},
+	{
+		"id": "valuableSoldier_9_a_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_9_a_name",
+		"text": "Relógio de bolso dourado manchado"
+	},
+	{
+		"id": "valuableSoldier_9_b_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_9_b_name",
+		"text": "Relógio de bolso dourado novo"
+	},
+	{
+		"id": "valuableSoldier_9_description",
+		"text": ""
+	},
+	{
+		"id": "valuableSoldier_9_name",
+		"text": "Relógio de bolso dourado"
+	},
+	{
+		"id": "money_description",
+		"text": "Um pacote elegante de folhas de papel. Usado como moeda em todo o mundo."
+	},
+	{
+		"id": "money_name",
+		"text": "Dinheiro"
+	},
+	{
+		"id": "money_antique_description",
+		"text": "Uma pilha de moedas valiosas."
+	},
+	{
+		"id": "money_antique_name",
+		"text": "Moedas antigas"
+	},
+	{
+		"id": "carFuel_antique_description",
+		"text": "Pode ser usado como combustível de carro. Aparentemente."
+	},
+	{
+		"id": "carFuel_antique_name",
+		"text": "Petróleo"
+	},
+	{
+		"id": "carFuel_description",
+		"text": "Use -o para encher o tanque do seu jipe!"
+	},
+	{
+		"id": "carFuel_name",
+		"text": "Combustível de carro"
+	},
+	{
+		"id": "supplies_name",
+		"text": "Suprimentos"
+	},
+	{
+		"id": "supplies_description",
+		"text": "Um estoque aleatório dos suprimentos de aventureiro. Necessário para usar medkits, reparos e granadas."
+	},
+	{
+		"id": "supplies_antique_name",
+		"text": "Suprimentos antigos"
+	},
+	{
+		"id": "supplies_antique_description",
+		"text": "Um estoque aleatório dos suprimentos de aventureiro. Necessário para usar medkits, reparos e granadas."
+	},
+	{
+		"id": "valkyriumCrystal_description",
+		"text": "Um estranho cristal verde de origem desconhecida. Conhecido pelos antigos egípcios como Ka, o místico-giver da vida. Supostamente usado pelos cientistas alemaes para liberar os poderes dos artefatos antigos."
+	},
+	{
+		"id": "valkyriumCrystal_name",
+		"text": "Cristal de Valkyrium"
+	},
+	{
+		"id": "ammo_large_description",
+		"text": "Esta muniçao vai durar um pouco."
+	},
+	{
+		"id": "ammo_large_name",
+		"text": "Caixa de muniçao grande"
+	},
+	{
+		"id": "ammo_medium_description",
+		"text": "Uma grande quantidade de balas."
+	},
+	{
+		"id": "ammo_medium_name",
+		"text": "Caixa de muniçao média"
+	},
+	{
+		"id": "ammo_small_description",
+		"text": "O suficiente para recarregar sua revista média."
+	},
+	{
+		"id": "ammo_small_name",
+		"text": "Pequena caixa de muniçao"
+	},
+	{
+		"id": "ammo_antique_small_description",
+		"text": "Tenho certeza de que funcionará tao confiável quanto a muniçao."
+	},
+	{
+		"id": "ammo_antique_small_name",
+		"text": "Pólvora"
+	},
+	{
+		"id": "medkit_0_description",
+		"text": "Medidas de emergência para quando cada segundo contagem."
+	},
+	{
+		"id": "medkit_0_name",
+		"text": "Curativo de compressao"
+	},
+	{
+		"id": "medkit_1_description",
+		"text": "Também ajuda com dores de cabeça em tensao."
+	},
+	{
+		"id": "medkit_1_name",
+		"text": "Analgésico"
+	},
+	{
+		"id": "medkit_2_description",
+		"text": "Nao dê uma chance a Gangrene!"
+	},
+	{
+		"id": "medkit_2_name",
+		"text": "Seringa de penicilina"
+	},
+	{
+		"id": "medkit_3_description",
+		"text": "Um verdadeiro salva -vidas."
+	},
+	{
+		"id": "medkit_3_name",
+		"text": "Kit de primeiros socorros"
+	},
+	{
+		"id": "medkit_4_description",
+		"text": "Tradicionalmente, Serqet era a deusa da padroeira dos curandeiros."
+	},
+	{
+		"id": "medkit_4_name",
+		"text": "Menor poçao de serque"
+	},
+	{
+		"id": "medkit_5_description",
+		"text": "Santo Hathor, Deusa Mae! Você sozinho concede consolo aos miseráveis."
+	},
+	{
+		"id": "medkit_5_name",
+		"text": "Poçao arcana de hathor"
+	},
+	{
+		"id": "medkit_6_description",
+		"text": "O culto de Khuttoora era conhecido na antiguidade pelos milagres feitos por suas sacerdotisas errantes."
+	},
+	{
+		"id": "medkit_6_name",
+		"text": "Santa Poçao de Khuttoora"
+	},
+	{
+		"id": "repairkit_0_description",
+		"text": "Você tem que improvisar para ter sucesso na vida."
+	},
+	{
+		"id": "repairkit_0_name",
+		"text": "Agulha e linha"
+	},
+	{
+		"id": "repairkit_1_description",
+		"text": "Quando a agulha e a linha nao sao suficientes!"
+	},
+	{
+		"id": "repairkit_1_name",
+		"text": "Awl e remendo de couro"
+	},
+	{
+		"id": "repairkit_2_description",
+		"text": "Suaviza até os danos mais graves."
+	},
+	{
+		"id": "repairkit_2_name",
+		"text": "Martelo e alicate"
+	},
+	{
+		"id": "repairkit_3_description",
+		"text": "O Priest Nerkut-Nir do Alto Hawk foi encarregado da preservaçao eterna dos artefatos sagrados do culto."
+	},
+	{
+		"id": "repairkit_3_name",
+		"text": "Bálsamo menor de Nerkut-Nir"
+	},
+	{
+		"id": "repairkit_4_description",
+		"text": "Nefri-ka-Hor foi o fundador de uma tradiçao alquímica dedicada à preservaçao da matéria."
+	},
+	{
+		"id": "repairkit_4_name",
+		"text": "Bálsamo arcano de nefri-ka-hor"
+	},
+	{
+		"id": "repairkit_5_description",
+		"text": "Os nômades locais contam histórias incríveis sobre os efeitos milagrosos desse bálsamo de cheiro resinoso."
+	},
+	{
+		"id": "repairkit_5_name",
+		"text": "Santo bálsamo de qum‘rash"
+	},
+	{
+		"id": "artefact01_description",
+		"text": "Um tomo antigo cheio de gráficos e símbolos de cabalísticos."
+	},
+	{
+		"id": "artefact01_name",
+		"text": "A revelaçao secreta para Moisés"
+	},
+	{
+		"id": "artefact02_description",
+		"text": "Um antigo escudo redondo com uma superfície de cobre polido."
+	},
+	{
+		"id": "artefact02_name",
+		"text": "O escudo de Perseus"
+	},
+	{
+		"id": "artefact03_description",
+		"text": "Essa figura de pedra bruta com suas características faciais estranhamente alongadas nao parece pertencer a qualquer cultura humana conhecida."
+	},
+	{
+		"id": "artefact03_name",
+		"text": "Uma estatueta arcaica"
+	},
+	{
+		"id": "artefact04_description",
+		"text": "Sete rolos de papiro, quase deteriorados e pintados com hieróglifos desbotados."
+	},
+	{
+		"id": "artefact04_name",
+		"text": "O livro dos mortos"
+	},
+	{
+		"id": "artefact05_description",
+		"text": "Um dispositivo enigmático, com aproximadamente um pé de comprimento e feito de uma liga de aço estranhamente brilhante."
+	},
+	{
+		"id": "artefact05_name",
+		"text": "A espada dos querubins"
+	},
+	{
+		"id": "artefact06_description",
+		"text": "Uma pedra de pedras preciosas e pulsante, preto e polido."
+	},
+	{
+		"id": "artefact06_name",
+		"text": "A pedra de Zerzura"
+	},
+	{
+		"id": "artefact07_description",
+		"text": "A lendária coroa votiva dos infelizes reis de Kush."
+	},
+	{
+		"id": "artefact07_name",
+		"text": "Coroa sagrada antiga"
+	},
+	{
+		"id": "artefact08_description",
+		"text": "Um dos onze fabulosos escaravelhos esmeraldos da cidade deserta de Kharga Serabit."
+	},
+	{
+		"id": "artefact08_name",
+		"text": "Escane de Emerald"
+	},
+	{
+		"id": "artefact09_description",
+		"text": "De acordo com sua inscriçao, esta é a máscara da morte de Alexandre, o Grande, um dos maiores conquistadores da história humana."
+	},
+	{
+		"id": "artefact09_name",
+		"text": "Máscara de morte de prata"
+	},
+	{
+		"id": "artefact10_description",
+		"text": "O explorador grego Heródoto gravou suas viagens no Oriente Médio neste diário de viagem esquecido."
+	},
+	{
+		"id": "artefact10_name",
+		"text": "Pergaminho antigo"
+	},
+	{
+		"id": "artefact11_description",
+		"text": "O Livro dos Tesouros é uma coleçao antiga de mitos. Ele contém passagens perspicazes sobre os tesouros perdidos da Península Arábica."
+	},
+	{
+		"id": "artefact11_name",
+		"text": "O Kitab al-Kanuz"
+	},
+	{
+		"id": "artefact12_description",
+		"text": "Segundo a lenda, essa é a espada que Genghis Khan costumava executar os governantes dos povos que ele conquistou."
+	},
+	{
+		"id": "artefact12_name",
+		"text": "Enorme cimitarra"
+	},
+	{
+		"id": "artefact13_description",
+		"text": "A bengala do rabino iluminado Isaac Luria. A cabeça do leao de marfim esculpida pode ser desaparafusado. Uma pequena cavidade contém um pedaço de papel cuidadosamente dobrado com um quebra -cabeça de números de cabalística."
+	},
+	{
+		"id": "artefact13_name",
+		"text": "Lionhead Cane"
+	},
+	{
+		"id": "artefact14_description",
+		"text": "Parece ser sobre os planos de implantaçao para o Batalhao de Pesquisa Sul."
+	},
+	{
+		"id": "artefact14_name",
+		"text": "Um telegrama criptografado"
+	},
+	{
+		"id": "artefact15_description",
+		"text": "O conteúdo parece ser um design especulativo de um cérebro do capacitor."
+	},
+	{
+		"id": "artefact15_name",
+		"text": "Uma pasta selada"
+	},
+	{
+		"id": "artefact16_description",
+		"text": "Esse poderia ser o projeto de protótipo de uma máquina de Valkyrium?"
+	},
+	{
+		"id": "artefact16_name",
+		"text": "Um plano confuso"
+	},
+	{
+		"id": "artefact17_description",
+		"text": "Simplesmente segurando este amuleto da deusa protetora parece aumentar seus sentidos"
+	},
+	{
+		"id": "artefact17_name",
+		"text": "Amuleto de Bastet"
+	},
+	{
+		"id": "trashUndead_0_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_0_name",
+		"text": "Couro cabeludo sangrento"
+	},
+	{
+		"id": "trashUndead_1_description",
+		"text": "Sao essas ... pontas dos dedos?!"
+	},
+	{
+		"id": "trashUndead_1_name",
+		"text": "Pulseira estranha"
+	},
+	{
+		"id": "trashUndead_2_description",
+		"text": "Entao pegue um homem; onda -o."
+	},
+	{
+		"id": "trashUndead_2_name",
+		"text": "Diário manchado"
+	},
+	{
+		"id": "trashUndead_3_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_3_name",
+		"text": "Broca de crânio"
+	},
+	{
+		"id": "trashUndead_4_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_4_name",
+		"text": "Saco de incenso"
+	},
+	{
+		"id": "trashUndead_5_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_5_name",
+		"text": "Cavaleiro de barbear curvo"
+	},
+	{
+		"id": "trashUndead_6_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_6_name",
+		"text": "Boneca de cera"
+	},
+	{
+		"id": "trashUndead_7_description",
+		"text": ""
+	},
+	{
+		"id": "trashUndead_7_name",
+		"text": "Adaga ritual"
+	},
+	{
+		"id": "trashUndead_8_description",
+		"text": "O anel emite uma aura de profundo mal."
+	},
+	{
+		"id": "trashUndead_8_name",
+		"text": "Anel de sinete misterioso"
+	},
+	{
+		"id": "trashUndead_9_description",
+		"text": "Dois rubis vermelhos de sangue sao costurados nos buracos dos olhos afundados!"
+	},
+	{
+		"id": "trashUndead_9_name",
+		"text": "Cabeça encolhida"
+	},
+	{
+		"id": "rock01_description",
+		"text": "Uma pedra"
+	},
+	{
+		"id": "rock01_name",
+		"text": "Uma pedra"
+	},
+	{
+		"id": "donut_teeth_name",
+		"text": "Presas afiadas"
+	},
+	{
+		"id": "donut_teeth_description",
+		"text": "Pontudo e impiedoso!"
+	},
+	{
+		"id": "fenris_teeth_name",
+		"text": "Presas pontudas"
+	},
+	{
+		"id": "fenris_teeth_description",
+		"text": "Afiado e desagradável!"
+	},
+	{
+		"id": "donut_armor_name",
+		"text": "Pêlo difuso"
+	},
+	{
+		"id": "donut_armor_description",
+		"text": "Branco como a neve..."
+	},
+	{
+		"id": "fenris_armor_name",
+		"text": "Pêlo fofo"
+	},
+	{
+		"id": "fenris_armor_description",
+		"text": "Preto como a noite ..."
+	},
+	{
+		"id": "shinyBiscuit_0_name",
+		"text": "Biscoito de cachorro brilhante"
+	},
+	{
+		"id": "shinyBiscuit_0_description",
+		"text": "Um biscoito de cachorro misteriosamente valioso."
+	},
+	{
+		"id": "disintegrator_0_name",
+		"text": "Frobisher manchado e cortador de parede Boyd"
+	},
+	{
+		"id": "disintegrator_0a_name",
+		"text": "Novo Frobisher e Cutter de parede Boyd"
+	},
+	{
+		"id": "disintegrator_0b_name",
+		"text": "Frobisher aprimorado e cortador de parede Boyd"
+	},
+	{
+		"id": "disintegrator_0c_name",
+		"text": "Esplêndido Frobisher e Cutter de parede Boyd"
+	},
+	{
+		"id": "disintegrator_1_name",
+		"text": "Protótipo manchado de Adler e Stahlknecht"
+	},
+	{
+		"id": "disintegrator_1a_name",
+		"text": "Novo protótipo Adler e Stahlknecht"
+	},
+	{
+		"id": "disintegrator_1b_name",
+		"text": "Protótipo aprimorado de Adler e Stahlknecht"
+	},
+	{
+		"id": "disintegrator_1c_name",
+		"text": "Protótipo esplêndido Adler e Stahlknecht"
+	},
+	{
+		"id": "disintegrator_2_name",
+		"text": "Gun de Oakfield Gernsback manchada"
+	},
+	{
+		"id": "disintegrator_2a_name",
+		"text": "Nova arma de Oakfield Gernsback"
+	},
+	{
+		"id": "disintegrator_2b_name",
+		"text": "Gun Oakfield Gernsback aprimorada"
+	},
+	{
+		"id": "disintegrator_2c_name",
+		"text": "Pistola de Oakfield Gernsback de Oakfield"
+	},
+	{
+		"id": "disintegrator_3_name",
+		"text": "Burner de Litvak-vertv Vrilado de Litvak"
+	},
+	{
+		"id": "disintegrator_3a_name",
+		"text": "New Litvak-vertov Vril Burner"
+	},
+	{
+		"id": "disintegrator_3b_name",
+		"text": "Melhorado Litvak-vertov VRIL Burner"
+	},
+	{
+		"id": "disintegrator_3c_name",
+		"text": "Splendid Litvak-vertov Vril Burner"
+	},
+	{
+		"id": "disintegrator_4_name",
+		"text": "Pistola de partículas de Rheingold manchada"
+	},
+	{
+		"id": "disintegrator_4a_name",
+		"text": "Nova pistola de partículas Rheingold"
+	},
+	{
+		"id": "disintegrator_4b_name",
+		"text": "Pistola de partícula aprimorada de Rheingold"
+	},
+	{
+		"id": "disintegrator_4c_name",
+		"text": "Pistola de partícula esplêndida de Rheingold"
+	},
+	{
+		"id": "disintegrator_5_name",
+		"text": "Ritterwerck Planckstrahler manchado"
+	},
+	{
+		"id": "disintegrator_5a_name",
+		"text": "Novo Ritterwerck Planckstrahler"
+	},
+	{
+		"id": "disintegrator_5b_name",
+		"text": "Ritterwerck aprimorado Planckstrahler"
+	},
+	{
+		"id": "disintegrator_5c_name",
+		"text": "Splendid Ritterwerck Planckstrahler"
+	},
+	{
+		"id": "disintegrator_6_name",
+		"text": "Rifle de feixe de Klugenstein manchado SG35"
+	},
+	{
+		"id": "disintegrator_6a_name",
+		"text": "Novo rifle Klugenstein Beam SG35"
+	},
+	{
+		"id": "disintegrator_6b_name",
+		"text": "Rifle de feixe Klugenstein aprimorado SG35"
+	},
+	{
+		"id": "disintegrator_6c_name",
+		"text": "Esplendido Klugenstein Beam Rifle SG35"
+	},
+	{
+		"id": "disintegrator_7_name",
+		"text": "Gun de Oakfield Verne manchada"
+	},
+	{
+		"id": "disintegrator_7a_name",
+		"text": "Nova arma de Oakfield Verne"
+	},
+	{
+		"id": "disintegrator_7b_name",
+		"text": "Gun Oakfield Verne aprimorada"
+	},
+	{
+		"id": "disintegrator_7c_name",
+		"text": "Gun de Oakfield Verne esplêndida"
+	},
+	{
+		"id": "disintegrator_0_description",
+		"text": "Você nao acha que esses fios devem estar saindo da aba lateral."
+	},
+	{
+		"id": "disintegrator_0a_description",
+		"text": "O mais recente desenvolvimento do histórico fabricante britânico Frobisher & Boyd. É claramente ainda um trabalho em andamento, mas deve ser seguro de usar - na maioria das vezes, de qualquer maneira ..."
+	},
+	{
+		"id": "disintegrator_0b_description",
+		"text": "O mais recente desenvolvimento do histórico fabricante britânico Frobisher & Boyd. É claramente ainda um trabalho em andamento, mas deve ser seguro de usar - na maioria das vezes, de qualquer maneira ..."
+	},
+	{
+		"id": "disintegrator_0c_description",
+		"text": "Um bom espécime!"
+	},
+	{
+		"id": "disintegrator_1_description",
+		"text": "Essa coisa está fazendo alguns ruídos preocupantes."
+	},
+	{
+		"id": "disintegrator_1a_description",
+		"text": "Esse design é obviamente um trabalho em andamento. Aqueles alemaes loucos e seus protótipos misteriosos!"
+	},
+	{
+		"id": "disintegrator_1b_description",
+		"text": "Esse design é obviamente um trabalho em andamento. Aqueles alemaes loucos e seus protótipos misteriosos!"
+	},
+	{
+		"id": "disintegrator_1c_description",
+		"text": "É um pouco complicado de usar, mas de outra forma perfeito!"
+	},
+	{
+		"id": "disintegrator_2_description",
+		"text": "Alguns dos parafusos se soltaram."
+	},
+	{
+		"id": "disintegrator_2a_description",
+		"text": "Os americanos entraram no mercado de desintegradores altamente competitivos com esse modelo produzido em massa."
+	},
+	{
+		"id": "disintegrator_2b_description",
+		"text": "Os americanos entraram no mercado de desintegradores altamente competitivos com esse modelo produzido em massa."
+	},
+	{
+		"id": "disintegrator_2c_description",
+		"text": "Parece ser um novo modelo."
+	},
+	{
+		"id": "disintegrator_3_description",
+		"text": "Cheira como se tivesse sido embrulhado em trapos fedorentos."
+	},
+	{
+		"id": "disintegrator_3a_description",
+		"text": "Uma nova abordagem dos misteriosos europeus orientais. Você se pergunta o que é Vril e por que precisa queimar."
+	},
+	{
+		"id": "disintegrator_3b_description",
+		"text": "Uma nova abordagem dos misteriosos europeus orientais. Você se pergunta o que é Vril e por que precisa queimar."
+	},
+	{
+		"id": "disintegrator_3c_description",
+		"text": "Um design atraente!"
+	},
+	{
+		"id": "disintegrator_4_description",
+		"text": "Parece ter tomado algumas batidas durante o transporte."
+	},
+	{
+		"id": "disintegrator_4a_description",
+		"text": "Previsivelmente excelente engenharia alema da enigmática fundiçao de armas em Xanten."
+	},
+	{
+		"id": "disintegrator_4b_description",
+		"text": "Previsivelmente excelente engenharia alema da enigmática fundiçao de armas em Xanten."
+	},
+	{
+		"id": "disintegrator_4c_description",
+		"text": "Diretamente da linha de produçao!"
+	},
+	{
+		"id": "disintegrator_5_description",
+		"text": "As luzes piscam e fora aleatoriamente ..."
+	},
+	{
+		"id": "disintegrator_5a_description",
+		"text": "O Ritterwerck Planckstrahler é uma arma verdadeiramente inspiradora."
+	},
+	{
+		"id": "disintegrator_5b_description",
+		"text": "O Ritterwerck Planckstrahler é uma arma verdadeiramente inspiradora."
+	},
+	{
+		"id": "disintegrator_5c_description",
+		"text": "Uma obra-prima!"
+	},
+	{
+		"id": "disintegrator_6_description",
+		"text": "Você pode ouvir algo chocando dentro da arma ..."
+	},
+	{
+		"id": "disintegrator_6a_description",
+		"text": "The Beam Rifle SG35 - A mais recente tecnologia dos teslaborgs mortais do Reich alemao!"
+	},
+	{
+		"id": "disintegrator_6b_description",
+		"text": "The Beam Rifle SG35 - A mais recente tecnologia dos teslaborgs mortais do Reich alemao!"
+	},
+	{
+		"id": "disintegrator_6c_description",
+		"text": "A arma fica muito confortavelmente na sua mao!"
+	},
+	{
+		"id": "disintegrator_7_description",
+		"text": "A arma cheira a ter um curto -circuito."
+	},
+	{
+		"id": "disintegrator_7a_description",
+		"text": "Fácil de usar, robusto e impiedosamente eficiente: a arma verne é uma verdadeira obra -prima dos workshops de Oakfield"
+	},
+	{
+		"id": "disintegrator_7b_description",
+		"text": "Fácil de usar, robusto e impiedosamente eficiente: a arma verne é uma verdadeira obra -prima dos workshops de Oakfield"
+	},
+	{
+		"id": "disintegrator_7c_description",
+		"text": "Provavelmente foi um pedido personalizado."
+	},
+	{
+		"id": "knife_0_name",
+		"text": "Faca de bolso manchado"
+	},
+	{
+		"id": "knife_0a_name",
+		"text": "Nova faca de bolso"
+	},
+	{
+		"id": "knife_0b_name",
+		"text": "Faca de bolso afiado"
+	},
+	{
+		"id": "knife_0c_name",
+		"text": "Esplêndido faca de bolso"
+	},
+	{
+		"id": "knife_1_name",
+		"text": "Stiletto manchado"
+	},
+	{
+		"id": "knife_1a_name",
+		"text": "Novo Stiletto"
+	},
+	{
+		"id": "knife_1b_name",
+		"text": "Estiletto nítido"
+	},
+	{
+		"id": "knife_1c_name",
+		"text": "Esplêndido estiletto"
+	},
+	{
+		"id": "knife_2_name",
+		"text": "Faca de Bowie manchada"
+	},
+	{
+		"id": "knife_2a_name",
+		"text": "Nova faca Bowie"
+	},
+	{
+		"id": "knife_2b_name",
+		"text": "Faca de Bowie Sharp"
+	},
+	{
+		"id": "knife_2c_name",
+		"text": "Esplêndida faca Bowie"
+	},
+	{
+		"id": "knife_3_name",
+		"text": "Facao manchado"
+	},
+	{
+		"id": "knife_3a_name",
+		"text": "Novo facao"
+	},
+	{
+		"id": "knife_3b_name",
+		"text": "Facao nítido"
+	},
+	{
+		"id": "knife_3c_name",
+		"text": "Machonete esplêndido"
+	},
+	{
+		"id": "knife_4_name",
+		"text": "Faca de açougueiro manchada"
+	},
+	{
+		"id": "knife_4a_name",
+		"text": "Faca de novo açougueiro"
+	},
+	{
+		"id": "knife_4b_name",
+		"text": "Faca de açougueiro afiado"
+	},
+	{
+		"id": "knife_4c_name",
+		"text": "Esplêndida faca de açougueiro"
+	},
+	{
+		"id": "knife_5_name",
+		"text": "Kukri manchado"
+	},
+	{
+		"id": "knife_5a_name",
+		"text": "Novo Kukri"
+	},
+	{
+		"id": "knife_5b_name",
+		"text": "Kukri afiado"
+	},
+	{
+		"id": "knife_5c_name",
+		"text": "Esplêndido kukri"
+	},
+	{
+		"id": "knife_6_name",
+		"text": "Faca Bolo manchado"
+	},
+	{
+		"id": "knife_6a_name",
+		"text": "Nova faca Bolo"
+	},
+	{
+		"id": "knife_6b_name",
+		"text": "Faca de bolo afiado"
+	},
+	{
+		"id": "knife_6c_name",
+		"text": "Esplêndida faca bolo"
+	},
+	{
+		"id": "knife_7_name",
+		"text": "Faca de trincheira manchada"
+	},
+	{
+		"id": "knife_7a_name",
+		"text": "Nova faca de trincheira"
+	},
+	{
+		"id": "knife_7b_name",
+		"text": "Faca de trincheira afiada"
+	},
+	{
+		"id": "knife_7c_name",
+		"text": "Esplêndido faca de trincheira"
+	},
+	{
+		"id": "knife_0_description",
+		"text": "A lâmina é quase completamente monótona."
+	},
+	{
+		"id": "knife_0a_description",
+		"text": "Ele nem tem um saca -rolhas."
+	},
+	{
+		"id": "knife_0b_description",
+		"text": "Ele nem tem um saca -rolhas."
+	},
+	{
+		"id": "knife_0c_description",
+		"text": "Ei, até tem um saca -rolhas!"
+	},
+	{
+		"id": "knife_1_description",
+		"text": "É muito enferrujado."
+	},
+	{
+		"id": "knife_1a_description",
+		"text": "Elegante e mortal ..."
+	},
+	{
+		"id": "knife_1b_description",
+		"text": "Elegante e mortal ..."
+	},
+	{
+		"id": "knife_1c_description",
+		"text": "É tao afiado quanto uma navalha!"
+	},
+	{
+		"id": "knife_2_description",
+		"text": "A lâmina está um pouco solta."
+	},
+	{
+		"id": "knife_2a_description",
+		"text": "Agora isso é uma faca ..."
+	},
+	{
+		"id": "knife_2b_description",
+		"text": "Agora isso é uma faca ..."
+	},
+	{
+		"id": "knife_2c_description",
+		"text": "É uma obra de arte!"
+	},
+	{
+		"id": "knife_3_description",
+		"text": "Deve estar por aí há anos."
+	},
+	{
+		"id": "knife_3a_description",
+		"text": "Um pouco pesado, mas se encaixa bem na sua mao."
+	},
+	{
+		"id": "knife_3b_description",
+		"text": "Um pouco pesado, mas se encaixa bem na sua mao."
+	},
+	{
+		"id": "knife_3c_description",
+		"text": "Qualidade máxima!"
+	},
+	{
+		"id": "knife_4_description",
+		"text": "Essa coisa precisa muito de nítido."
+	},
+	{
+		"id": "knife_4a_description",
+		"text": "Corta o osso como manteiga!"
+	},
+	{
+		"id": "knife_4b_description",
+		"text": "Corta o osso como manteiga!"
+	},
+	{
+		"id": "knife_4c_description",
+		"text": "Parece que está fresco da cozinha."
+	},
+	{
+		"id": "knife_5_description",
+		"text": "Esta arma já viu dias melhores."
+	},
+	{
+		"id": "knife_5a_description",
+		"text": "A arma padrao dos temidos guerreiros de Ghurka: ágil e mortal."
+	},
+	{
+		"id": "knife_5b_description",
+		"text": "A arma padrao dos temidos guerreiros de Ghurka: ágil e mortal."
+	},
+	{
+		"id": "knife_5c_description",
+		"text": "Terrivelmente afiado!"
+	},
+	{
+		"id": "knife_6_description",
+		"text": "A lâmina está enferrujada."
+	},
+	{
+		"id": "knife_6a_description",
+		"text": "Uma faca malaia de mato. A arma perfeita para a guerra da selva!"
+	},
+	{
+		"id": "knife_6b_description",
+		"text": "Uma faca malaia de mato. A arma perfeita para a guerra da selva!"
+	},
+	{
+		"id": "knife_6c_description",
+		"text": "A lâmina tem um bom peso."
+	},
+	{
+		"id": "knife_7_description",
+		"text": "Infelizmente, a ponta da lâmina quebrou."
+	},
+	{
+		"id": "knife_7a_description",
+		"text": "Uma relíquia da guerra da trincheira da Grande Guerra."
+	},
+	{
+		"id": "knife_7b_description",
+		"text": "Uma relíquia da guerra da trincheira da Grande Guerra."
+	},
+	{
+		"id": "knife_7c_description",
+		"text": "Esta faca foi mantida com amor!"
+	},
+	{
+		"id": "pistol_0_name",
+		"text": "Pistola de serviço de Hastings manchado"
+	},
+	{
+		"id": "pistol_0a_name",
+		"text": "Pistola de Serviço de New Hastings"
+	},
+	{
+		"id": "pistol_0b_name",
+		"text": "Pistola de serviço aprimorada de Hastings"
+	},
+	{
+		"id": "pistol_0c_name",
+		"text": "Pistola de serviço esplêndida de Hastings"
+	},
+	{
+		"id": "pistol_1_name",
+		"text": "Farnished Preussisch-Moser M1907"
+	},
+	{
+		"id": "pistol_1a_name",
+		"text": "Novo Preussisch-Moser M1907"
+	},
+	{
+		"id": "pistol_1b_name",
+		"text": "Melhorado preussisch-moser m1907"
+	},
+	{
+		"id": "pistol_1c_name",
+		"text": "Esplêndido Preussisch-Moser M1907"
+	},
+	{
+		"id": "pistol_2_name",
+		"text": "Pistole de Steiner manchado 34"
+	},
+	{
+		"id": "pistol_2a_name",
+		"text": "New Steiner Pistole 34"
+	},
+	{
+		"id": "pistol_2b_name",
+		"text": "Pistola Steiner aprimorada 34"
+	},
+	{
+		"id": "pistol_2c_name",
+		"text": "Pistola de Steiner esplêndida 34"
+	},
+	{
+		"id": "pistol_3_name",
+		"text": "Manchado Neuvelle 9mm"
+	},
+	{
+		"id": "pistol_3a_name",
+		"text": "New Neuvelle 9mm"
+	},
+	{
+		"id": "pistol_3b_name",
+		"text": "Neuvelle aprimorado 9mm"
+	},
+	{
+		"id": "pistol_3c_name",
+		"text": "Esplêndido Neuvelle 9mm"
+	},
+	{
+		"id": "pistol_4_name",
+		"text": "Dominic .425 parabelo .425"
+	},
+	{
+		"id": "pistol_4a_name",
+		"text": "NOVO DOMINIC .425 PARABELLUM"
+	},
+	{
+		"id": "pistol_4b_name",
+		"text": "Parabelo Dominic .425 aprimorado"
+	},
+	{
+		"id": "pistol_4c_name",
+		"text": "Parabelo esplêndido Dominic .425"
+	},
+	{
+		"id": "pistol_5_name",
+		"text": "Manchado Morley-Burke Magnum"
+	},
+	{
+		"id": "pistol_5a_name",
+		"text": "Novo Morley-Burke Magnum"
+	},
+	{
+		"id": "pistol_5b_name",
+		"text": "Morley-Burke Magnum aprimorado"
+	},
+	{
+		"id": "pistol_5c_name",
+		"text": "Esplêndido Morley-Burke Magnum"
+	},
+	{
+		"id": "pistol_6_name",
+		"text": "Açao Blake Bolt manchada"
+	},
+	{
+		"id": "pistol_6a_name",
+		"text": "Nova açao de Blake Bolt"
+	},
+	{
+		"id": "pistol_6b_name",
+		"text": "Açao aprimorada do Blake Bolt"
+	},
+	{
+		"id": "pistol_6c_name",
+		"text": "Açao esplêndida do Blake Bolt"
+	},
+	{
+		"id": "pistol_7_name",
+		"text": "Manchado Charleston .357"
+	},
+	{
+		"id": "pistol_7a_name",
+		"text": "New Charleston .357"
+	},
+	{
+		"id": "pistol_7b_name",
+		"text": "Charleston aprimorado .357"
+	},
+	{
+		"id": "pistol_7c_name",
+		"text": "Esplêndido Charleston .357"
+	},
+	{
+		"id": "pistol_0_description",
+		"text": "Esta pistola viveu uma vida longa e agitada."
+	},
+	{
+		"id": "pistol_0a_description",
+		"text": "Esta tem sido a arma padrao dos médicos de campo britânico desde 1915."
+	},
+	{
+		"id": "pistol_0b_description",
+		"text": "Esta tem sido a arma padrao dos médicos de campo britânico desde 1915."
+	},
+	{
+		"id": "pistol_0c_description",
+		"text": "Incomumente bem preservado."
+	},
+	{
+		"id": "pistol_1_description",
+		"text": "Está mal atingido."
+	},
+	{
+		"id": "pistol_1a_description",
+		"text": "Um clássico alemao, comprovado mil vezes nas trincheiras da Flandres."
+	},
+	{
+		"id": "pistol_1b_description",
+		"text": "Um clássico alemao, comprovado mil vezes nas trincheiras da Flandres."
+	},
+	{
+		"id": "pistol_1c_description",
+		"text": "Esta arma foi cuidadosamente mantida por seu proprietário anterior."
+	},
+	{
+		"id": "pistol_2_description",
+		"text": "Esta arma está deitada na areia do deserto."
+	},
+	{
+		"id": "pistol_2a_description",
+		"text": "O Corpo de Oficiais Alemao está atualmente sendo equipado com essa arma de última geraçao."
+	},
+	{
+		"id": "pistol_2b_description",
+		"text": "O Corpo de Oficiais Alemao está atualmente sendo equipado com essa arma de última geraçao."
+	},
+	{
+		"id": "pistol_2c_description",
+		"text": "É como se nunca tivesse sido usado."
+	},
+	{
+		"id": "pistol_3_description",
+		"text": "Nao envelheceu bem ..."
+	},
+	{
+		"id": "pistol_3a_description",
+		"text": "Está um pouco velho, mas ainda em uma classe própria: o Breton Neuvelle 9mm!"
+	},
+	{
+		"id": "pistol_3b_description",
+		"text": "Está um pouco velho, mas ainda em uma classe própria: o Breton Neuvelle 9mm!"
+	},
+	{
+		"id": "pistol_3c_description",
+		"text": "Um bom e velho Neuvelle - indestrutível!"
+	},
+	{
+		"id": "pistol_4_description",
+		"text": "Areia flexoes na câmara."
+	},
+	{
+		"id": "pistol_4a_description",
+		"text": "Esta arma está inscrita com um lema: 'Si Vis Pacem Para Bellum'. Você tem certeza de que significa algo muito inteligente."
+	},
+	{
+		"id": "pistol_4b_description",
+		"text": "Esta arma está inscrita com um lema: 'Si Vis Pacem Para Bellum' Você tem certeza de que significa algo muito inteligente."
+	},
+	{
+		"id": "pistol_4c_description",
+		"text": "Alguém usou um pano oleoso para mantê -lo brilhante e bem conservado."
+	},
+	{
+		"id": "pistol_5_description",
+		"text": "Infelizmente, nao está mais em muito boa forma."
+	},
+	{
+		"id": "pistol_5a_description",
+		"text": "Quando você realmente quer a primeira foto para contar - o MB Magnum redefine o poder de parada!"
+	},
+	{
+		"id": "pistol_5b_description",
+		"text": "Quando você realmente quer a primeira foto para contar - o MB Magnum redefine o poder de parada!"
+	},
+	{
+		"id": "pistol_5c_description",
+		"text": "Um espécime esplêndido!"
+	},
+	{
+		"id": "pistol_6_description",
+		"text": "Uma arma danificada."
+	},
+	{
+		"id": "pistol_6a_description",
+		"text": "Este revólver de cano curto e poderoso é particularmente popular entre os detetives da Scotland Yard."
+	},
+	{
+		"id": "pistol_6b_description",
+		"text": "Este revólver de cano curto e poderoso é particularmente popular entre os detetives da Scotland Yard."
+	},
+	{
+		"id": "pistol_6c_description",
+		"text": "Este revólver está em excelente estado!"
+	},
+	{
+		"id": "pistol_7_description",
+		"text": "Algo está errado com a visao frontal ..."
+	},
+	{
+		"id": "pistol_7a_description",
+		"text": "Graças ao seu poder de fogo sem precedentes, o American Charleston .357 é um sucesso global!"
+	},
+	{
+		"id": "pistol_7b_description",
+		"text": "Graças ao seu poder de fogo sem precedentes, o American Charleston .357 é um sucesso global!"
+	},
+	{
+		"id": "pistol_7c_description",
+		"text": "Uma arma excelentemente criada!"
+	},
+	{
+		"id": "rifle_0_name",
+		"text": "Rifle automático de Venner manchado"
+	},
+	{
+		"id": "rifle_0a_name",
+		"text": "Novo rifle automático Venner"
+	},
+	{
+		"id": "rifle_0b_name",
+		"text": "Rifle automático de Venner aprimorado"
+	},
+	{
+		"id": "rifle_0c_name",
+		"text": "Esplendido rifle automático de venner"
+	},
+	{
+		"id": "rifle_1_name",
+		"text": "Adler manchado e stahlknecht stg-34"
+	},
+	{
+		"id": "rifle_1a_name",
+		"text": "Novo Adler e Stahlknecht Stg-34"
+	},
+	{
+		"id": "rifle_1b_name",
+		"text": "Adler e Stahlknecht aprimorado STG-34"
+	},
+	{
+		"id": "rifle_1c_name",
+		"text": "Esplêndido Adler e Stahlknecht Stg-34"
+	},
+	{
+		"id": "rifle_2_name",
+		"text": "Zeisig Sturmkarabiner manchado M18"
+	},
+	{
+		"id": "rifle_2a_name",
+		"text": "Novo Zeisig Sturmkarabiner M18"
+	},
+	{
+		"id": "rifle_2b_name",
+		"text": "Zeisig Sturmkarabiner aprimorado M18"
+	},
+	{
+		"id": "rifle_2c_name",
+		"text": "Esplêndido zeisig sturmkarabiner m18"
+	},
+	{
+		"id": "rifle_3_name",
+		"text": "Manchado Blake semi-automático"
+	},
+	{
+		"id": "rifle_3a_name",
+		"text": "New Blake semi-automático"
+	},
+	{
+		"id": "rifle_3b_name",
+		"text": "Blake aprimorado semi-automático"
+	},
+	{
+		"id": "rifle_3c_name",
+		"text": "Esplêndido Blake semi-automático"
+	},
+	{
+		"id": "rifle_4_name",
+		"text": "Rifle manchado de Charleston M1"
+	},
+	{
+		"id": "rifle_4a_name",
+		"text": "Novo rifle Charleston M1"
+	},
+	{
+		"id": "rifle_4b_name",
+		"text": "Rifle Charleston M1 aprimorado"
+	},
+	{
+		"id": "rifle_4c_name",
+		"text": "Esplendido rifle Charleston M1"
+	},
+	{
+		"id": "rifle_5_name",
+		"text": "Preston M1917-Sa"
+	},
+	{
+		"id": "rifle_5a_name",
+		"text": "New Preston M1917-SA"
+	},
+	{
+		"id": "rifle_5b_name",
+		"text": "Preston M1917-SA aprimorado"
+	},
+	{
+		"id": "rifle_5c_name",
+		"text": "Esplêndido Preston M1917-SA"
+	},
+	{
+		"id": "rifle_6_name",
+		"text": "Manchado Herzog Schnellfeuer-31d"
+	},
+	{
+		"id": "rifle_6a_name",
+		"text": "New Herzog Schnellfeuer-31d"
+	},
+	{
+		"id": "rifle_6b_name",
+		"text": "Herzog aprimorado Schnellfeuer-31d"
+	},
+	{
+		"id": "rifle_6c_name",
+		"text": "Esplêndido Herzog Schnellfeuer-31d"
+	},
+	{
+		"id": "rifle_7_name",
+		"text": "Calibre Dominico manchado .30-06"
+	},
+	{
+		"id": "rifle_7a_name",
+		"text": "Novo calibre Dominic .30-06"
+	},
+	{
+		"id": "rifle_7b_name",
+		"text": "Calibre Domínico Melhorado .30-06"
+	},
+	{
+		"id": "rifle_7c_name",
+		"text": "Splendid Dominic Caliber .30-06"
+	},
+	{
+		"id": "rifle_0_description",
+		"text": "O barril está um pouco deformado."
+	},
+	{
+		"id": "rifle_0a_description",
+		"text": "Robusto e acessível - essa tem sido a filosofia de design das plantas da Alsatian Venner desde 1878."
+	},
+	{
+		"id": "rifle_0b_description",
+		"text": "Robusto e acessível - essa tem sido a filosofia de design das plantas da Alsatian Venner desde 1878."
+	},
+	{
+		"id": "rifle_0c_description",
+		"text": "Está em excelente forma!"
+	},
+	{
+		"id": "rifle_1_description",
+		"text": "As garras na bunda do rifle se soltaram."
+	},
+	{
+		"id": "rifle_1a_description",
+		"text": "Surpreendentemente leve para esse calibre. Outro exemplo de engenharia alema. Um prenúncio perturbador do futuro da guerra."
+	},
+	{
+		"id": "rifle_1b_description",
+		"text": "Surpreendentemente leve para esse calibre. Outro exemplo de engenharia alema. Um prenúncio perturbador do futuro da guerra."
+	},
+	{
+		"id": "rifle_1c_description",
+		"text": "Ainda cheira novo ..."
+	},
+	{
+		"id": "rifle_2_description",
+		"text": "Alguém tentou raspar as manchas de ferrugem no barril usando areia no deserto."
+	},
+	{
+		"id": "rifle_2a_description",
+		"text": "Um desenvolvimento alemao tardio da Grande Guerra. Mobilidade máxima no combate de trincheiras graças a um barril radicalmente encurtado."
+	},
+	{
+		"id": "rifle_2b_description",
+		"text": "Um desenvolvimento alemao tardio da Grande Guerra. Mobilidade máxima no combate de trincheiras graças a um barril radicalmente encurtado."
+	},
+	{
+		"id": "rifle_2c_description",
+		"text": "Esta carabina foi bem conservada."
+	},
+	{
+		"id": "rifle_3_description",
+		"text": "Um impacto acentuado quebrou a madeira da bunda do rifle."
+	},
+	{
+		"id": "rifle_3a_description",
+		"text": "Um novo desenvolvimento impressionante dos turbulentos anos do pós-guerra, projetado para atender às necessidades das tropas coloniais britânicas."
+	},
+	{
+		"id": "rifle_3b_description",
+		"text": "Um novo desenvolvimento impressionante dos turbulentos anos do pós-guerra, projetado para atender às necessidades das tropas coloniais britânicas."
+	},
+	{
+		"id": "rifle_3c_description",
+		"text": "Ainda cheira um pouco de lascas de madeira. Provavelmente é direto da caixa."
+	},
+	{
+		"id": "rifle_4_description",
+		"text": "O gatilho parece um pouco solto."
+	},
+	{
+		"id": "rifle_4a_description",
+		"text": "O Charleston M1 agora é considerado a arma padrao da Polícia Federal dos EUA em sua batalha contra contrabandistas fortemente armados e a Máfia."
+	},
+	{
+		"id": "rifle_4b_description",
+		"text": "O Charleston M1 agora é considerado a arma padrao da Polícia Federal dos EUA em sua batalha contra contrabandistas fortemente armados e a Máfia."
+	},
+	{
+		"id": "rifle_4c_description",
+		"text": "É tao bom quanto novo."
+	},
+	{
+		"id": "rifle_5_description",
+		"text": "Esta arma tem uma história, e você pode dizer!"
+	},
+	{
+		"id": "rifle_5a_description",
+		"text": "Os Doughboys da Força Expedicionária Americana trouxeram o M1917 com eles através do Atlântico. Alguns chamam de arma que ganhou a Grande Guerra."
+	},
+	{
+		"id": "rifle_5b_description",
+		"text": "Os Doughboys da Força Expedicionária Americana trouxeram o M1917 com eles através do Atlântico. Alguns chamam de arma que ganhou a Grande Guerra."
+	},
+	{
+		"id": "rifle_5c_description",
+		"text": "Presumivelmente, um modelo pós-guerra que nunca viu açao na linha de frente."
+	},
+	{
+		"id": "rifle_6_description",
+		"text": "A arma parece estar com defeito."
+	},
+	{
+		"id": "rifle_6a_description",
+		"text": "O SF-31D é uma evoluçao mais compacta das tecnologias de armas existentes."
+	},
+	{
+		"id": "rifle_6b_description",
+		"text": "O SF-31D é uma evoluçao mais compacta das tecnologias de armas existentes."
+	},
+	{
+		"id": "rifle_6c_description",
+		"text": "Você acha que essa arma pertencia a um oficial alemao."
+	},
+	{
+		"id": "rifle_7_description",
+		"text": "A revista de bateria está um pouco solta!"
+	},
+	{
+		"id": "rifle_7a_description",
+		"text": "A revista Dominic's Drum permite uma taxa impressionante de incêndio."
+	},
+	{
+		"id": "rifle_7b_description",
+		"text": "A revista Dominic's Drum permite uma taxa impressionante de incêndio."
+	},
+	{
+		"id": "rifle_7c_description",
+		"text": "Uma excelente arma!"
+	},
+	{
+		"id": "shotgun_0_name",
+		"text": "Charleston Smoothbore manchado"
+	},
+	{
+		"id": "shotgun_0a_name",
+		"text": "New Charleston Smoothbore"
+	},
+	{
+		"id": "shotgun_0b_name",
+		"text": "Charleston Smoothbore aprimorado"
+	},
+	{
+		"id": "shotgun_0c_name",
+		"text": "Esplêndido Charleston Smoothbore"
+	},
+	{
+		"id": "shotgun_1_name",
+		"text": "Morley-Burke Break Action"
+	},
+	{
+		"id": "shotgun_1a_name",
+		"text": "Açao de New Morley-Burke Break"
+	},
+	{
+		"id": "shotgun_1b_name",
+		"text": "Morley-Burke Break Açao aprimorada"
+	},
+	{
+		"id": "shotgun_1c_name",
+		"text": "Açao esplêndida de quebra de Morley-Burke"
+	},
+	{
+		"id": "shotgun_2_name",
+		"text": "Venner Buckshot manchado"
+	},
+	{
+		"id": "shotgun_2a_name",
+		"text": "Novo Venner Buckshot"
+	},
+	{
+		"id": "shotgun_2b_name",
+		"text": "Venner Buckshot aprimorado"
+	},
+	{
+		"id": "shotgun_2c_name",
+		"text": "Splendid Venner Buckshot"
+	},
+	{
+		"id": "shotgun_3_name",
+		"text": "Pistola de trincheira de Hastings manchada"
+	},
+	{
+		"id": "shotgun_3a_name",
+		"text": "New Hastings Trench Gun"
+	},
+	{
+		"id": "shotgun_3b_name",
+		"text": "Pistola de trincheira de Hastings aprimorada"
+	},
+	{
+		"id": "shotgun_3c_name",
+		"text": "Pistola de trincheira esplêndida para Hastings"
+	},
+	{
+		"id": "shotgun_4_name",
+		"text": "Manchado Klugenstein Hartschrot"
+	},
+	{
+		"id": "shotgun_4a_name",
+		"text": "Novo Klugenstein Hartschrot"
+	},
+	{
+		"id": "shotgun_4b_name",
+		"text": "Klugenstein Hartschrot aprimorado"
+	},
+	{
+		"id": "shotgun_4c_name",
+		"text": "Esplêndido Klugenstein Hartschrot"
+	},
+	{
+		"id": "shotgun_5_name",
+		"text": "Manchado Willoughby 10-bore"
+	},
+	{
+		"id": "shotgun_5a_name",
+		"text": "NOVO WILLOUGHBY 10-BORE"
+	},
+	{
+		"id": "shotgun_5b_name",
+		"text": "Willoughby aprimorado 10-bore"
+	},
+	{
+		"id": "shotgun_5c_name",
+		"text": "Esplêndido Willoughby 10-bore"
+	},
+	{
+		"id": "shotgun_6_name",
+		"text": "Caputo Lupara manchado"
+	},
+	{
+		"id": "shotgun_6a_name",
+		"text": "Novo Caputo Lupara"
+	},
+	{
+		"id": "shotgun_6b_name",
+		"text": "Caputo Lupara melhorado"
+	},
+	{
+		"id": "shotgun_6c_name",
+		"text": "Esplêndidos Caputo Lupara"
+	},
+	{
+		"id": "shotgun_7_name",
+		"text": "Arma de choque Gordon manchada"
+	},
+	{
+		"id": "shotgun_7a_name",
+		"text": "Novo Gordon Riot Gun"
+	},
+	{
+		"id": "shotgun_7b_name",
+		"text": "Gun Riot Metter Riot"
+	},
+	{
+		"id": "shotgun_7c_name",
+		"text": "Pistola de tumultos esplêndidos Gordon"
+	},
+	{
+		"id": "shotgun_0_description",
+		"text": "O barril de espingarda é amassado em vários lugares."
+	},
+	{
+		"id": "shotgun_0a_description",
+		"text": "Com seu design simples, o Charleston serve principalmente o mercado de caça doméstica."
+	},
+	{
+		"id": "shotgun_0b_description",
+		"text": "Com seu design simples, o Charleston serve principalmente o mercado de caça doméstica."
+	},
+	{
+		"id": "shotgun_0c_description",
+		"text": "Esta espingarda está em perfeitas condiçoes."
+	},
+	{
+		"id": "shotgun_1_description",
+		"text": "A culatra é coberta com marcas de pó."
+	},
+	{
+		"id": "shotgun_1a_description",
+		"text": "Com o modelo de açao de quebra, este é a espingarda de caça de Burley-Burke."
+	},
+	{
+		"id": "shotgun_1b_description",
+		"text": "Com o modelo de açao de quebra, este é a espingarda de caça de Burley-Burke."
+	},
+	{
+		"id": "shotgun_1c_description",
+		"text": "A arma parece que nunca foi demitida."
+	},
+	{
+		"id": "shotgun_2_description",
+		"text": "Quando você olha de perto, você vê algumas rachaduras finas no barril ..."
+	},
+	{
+		"id": "shotgun_2a_description",
+		"text": "O Venner Buckshot: quando você deseja dar um soco."
+	},
+	{
+		"id": "shotgun_2b_description",
+		"text": "O Venner Buckshot: quando você deseja dar um soco."
+	},
+	{
+		"id": "shotgun_2c_description",
+		"text": "Apesar do seu peso, é surpreendentemente bem equilibrado!"
+	},
+	{
+		"id": "shotgun_3_description",
+		"text": "A arma parece ter sido usada como um clube mais de uma vez."
+	},
+	{
+		"id": "shotgun_3a_description",
+		"text": "Um desenvolvimento britânico de modelos civis anteriores. Causou medo e caos no combate da trincheira da Grande Guerra."
+	},
+	{
+		"id": "shotgun_3b_description",
+		"text": "Um desenvolvimento britânico de modelos civis anteriores. Causou medo e caos no combate da trincheira da Grande Guerra."
+	},
+	{
+		"id": "shotgun_3c_description",
+		"text": "É incrivelmente bem preservado."
+	},
+	{
+		"id": "shotgun_4_description",
+		"text": "O gatilho pega um pouco."
+	},
+	{
+		"id": "shotgun_4a_description",
+		"text": "Robusto e eficiente, o Klugenstein HS é ideal para perseguiçao e outras atividades."
+	},
+	{
+		"id": "shotgun_4b_description",
+		"text": "Robusto e eficiente, o Klugenstein HS é ideal para perseguiçao e outras atividades."
+	},
+	{
+		"id": "shotgun_4c_description",
+		"text": "Ele se encaixa bem na mao, como uma extensao natural do seu braço ..."
+	},
+	{
+		"id": "shotgun_5_description",
+		"text": "Esta arma está em uma condiçao sombria!"
+	},
+	{
+		"id": "shotgun_5a_description",
+		"text": "Tradiçao de caça escocesa desde 1721 - A empresa familiar de Willoughby garante qualidade e desempenho."
+	},
+	{
+		"id": "shotgun_5b_description",
+		"text": "Tradiçao de caça escocesa desde 1721 - A empresa familiar de Willoughby garante qualidade e desempenho."
+	},
+	{
+		"id": "shotgun_5c_description",
+		"text": "Uma pequena jóia ..."
+	},
+	{
+		"id": "shotgun_6_description",
+		"text": "A culatra é um pouco rígida."
+	},
+	{
+		"id": "shotgun_6a_description",
+		"text": "Originalmente desenvolvido para a caça ao lobo, o Lupara inflige lesoes devastadoras a curto alcance."
+	},
+	{
+		"id": "shotgun_6b_description",
+		"text": "Originalmente desenvolvido para a caça ao lobo, o Lupara inflige lesoes devastadoras a curto alcance."
+	},
+	{
+		"id": "shotgun_6c_description",
+		"text": "Perfeito para ataques surpresa!"
+	},
+	{
+		"id": "shotgun_7_description",
+		"text": "Você pode ver que esta é uma arma antiga."
+	},
+	{
+		"id": "shotgun_7a_description",
+		"text": "A Gordon Riot Gun - especialmente desenvolvida para combate tático em terrenos acidentados!"
+	},
+	{
+		"id": "shotgun_7b_description",
+		"text": "A Gordon Riot Gun - especialmente desenvolvida para combate tático em terrenos acidentados!"
+	},
+	{
+		"id": "shotgun_7c_description",
+		"text": "O barril foi reforçado."
+	},
+	{
+		"id": "sniper_0_name",
+		"text": "Adler manchado e Stahlknecht 8x56"
+	},
+	{
+		"id": "sniper_0a_name",
+		"text": "Novo Adler & Stahlknecht 8x56"
+	},
+	{
+		"id": "sniper_0b_name",
+		"text": "Adler e Stahlknecht aprimorado 8x56"
+	},
+	{
+		"id": "sniper_0c_name",
+		"text": "Esplêndido Adler e Stahlknecht 8x56"
+	},
+	{
+		"id": "sniper_1_name",
+		"text": "Morley-Burke Sniper M08 manchado"
+	},
+	{
+		"id": "sniper_1a_name",
+		"text": "Novo Morley-Burke Sniper M08"
+	},
+	{
+		"id": "sniper_1b_name",
+		"text": "Morley-Burke Sniper aprimorado M08"
+	},
+	{
+		"id": "sniper_1c_name",
+		"text": "Esplêndido Sniper Morley-Burke M08"
+	},
+	{
+		"id": "sniper_2_name",
+		"text": "Manchado Willoughby .303 Ghillie"
+	},
+	{
+		"id": "sniper_2a_name",
+		"text": "New Willoughby .303 Ghillie"
+	},
+	{
+		"id": "sniper_2b_name",
+		"text": "Willoughby .303 Ghillie"
+	},
+	{
+		"id": "sniper_2c_name",
+		"text": "Esplêndido Willoughby .303 Ghillie"
+	},
+	{
+		"id": "sniper_3_name",
+		"text": "Hastings manchados 6x32 Tipo 1924"
+	},
+	{
+		"id": "sniper_3a_name",
+		"text": "New Hastings 6x32 Tipo 1924"
+	},
+	{
+		"id": "sniper_3b_name",
+		"text": "Hastings aprimorados 6x32 Tipo 1924"
+	},
+	{
+		"id": "sniper_3c_name",
+		"text": "Esplêndido Hastings 6x32 Tipo 1924"
+	},
+	{
+		"id": "sniper_4_name",
+		"text": "Clark-Richfield de longa distância manchado"
+	},
+	{
+		"id": "sniper_4a_name",
+		"text": "Novo Clark-Richfield Long Range"
+	},
+	{
+		"id": "sniper_4b_name",
+		"text": "Melhor Clark-Richfield Long Range"
+	},
+	{
+		"id": "sniper_4c_name",
+		"text": "Esplêndidos Clark-Richfield Long Range"
+	},
+	{
+		"id": "sniper_5_name",
+		"text": "Steiner 10x50 manchado"
+	},
+	{
+		"id": "sniper_5a_name",
+		"text": "Novo Steiner 10x50 Optik"
+	},
+	{
+		"id": "sniper_5b_name",
+		"text": "Steiner 10x50 aprimorado"
+	},
+	{
+		"id": "sniper_5c_name",
+		"text": "Esplêndido Steiner 10x50 optik"
+	},
+	{
+		"id": "sniper_6_name",
+		"text": "Hericault Lunette manchado"
+	},
+	{
+		"id": "sniper_6a_name",
+		"text": "New Hericault Lunette"
+	},
+	{
+		"id": "sniper_6b_name",
+		"text": "Hericault Lunette aprimorada"
+	},
+	{
+		"id": "sniper_6c_name",
+		"text": "Esplêndida Lunette Hericault"
+	},
+	{
+		"id": "sniper_7_name",
+		"text": "Zeisig ZF-32 manchado"
+	},
+	{
+		"id": "sniper_7a_name",
+		"text": "Novo Zeisig ZF-32"
+	},
+	{
+		"id": "sniper_7b_name",
+		"text": "Zeisig ZF-32 aprimorado"
+	},
+	{
+		"id": "sniper_7c_name",
+		"text": "Esplêndido Zeisig ZF-32"
+	},
+	{
+		"id": "sniper_0_description",
+		"text": "Alguém deve apertar os parafusos dessa coisa."
+	},
+	{
+		"id": "sniper_0a_description",
+		"text": "O 8x56 é uma arma acessível para caça e atividades relacionadas."
+	},
+	{
+		"id": "sniper_0b_description",
+		"text": "O 8x56 é uma arma acessível para caça e atividades relacionadas."
+	},
+	{
+		"id": "sniper_0c_description",
+		"text": "Prático e solidamente criado."
+	},
+	{
+		"id": "sniper_1_description",
+		"text": "Infelizmente, o escopo está com defeito."
+	},
+	{
+		"id": "sniper_1a_description",
+		"text": "A arma padrao de atiradores britânicos na Grande Guerra."
+	},
+	{
+		"id": "sniper_1b_description",
+		"text": "A arma padrao de atiradores britânicos na Grande Guerra."
+	},
+	{
+		"id": "sniper_1c_description",
+		"text": "O rifle é mais leve do que o esperado."
+	},
+	{
+		"id": "sniper_2_description",
+		"text": "A areia do deserto nao foi gentil com o mecanismo desse rifle."
+	},
+	{
+		"id": "sniper_2a_description",
+		"text": "O .303 Ghillie é um clássico rifle de caça escocês das terras altas da Willoughby Company há muito estabelecida."
+	},
+	{
+		"id": "sniper_2b_description",
+		"text": "O .303 Ghillie é um clássico rifle de caça escocês das terras altas da Willoughby Company há muito estabelecida."
+	},
+	{
+		"id": "sniper_2c_description",
+		"text": "Um lindo espécime!"
+	},
+	{
+		"id": "sniper_3_description",
+		"text": "Infelizmente, nao é muito bem preservado."
+	},
+	{
+		"id": "sniper_3a_description",
+		"text": "Um desenvolvimento de última geraçao do fornecedor do Exército britânico Hastings, que equilibra o calibre e o recuo."
+	},
+	{
+		"id": "sniper_3b_description",
+		"text": "Um desenvolvimento de última geraçao do fornecedor do Exército britânico Hastings, que equilibra o calibre e o recuo."
+	},
+	{
+		"id": "sniper_3c_description",
+		"text": "Provavelmente furtado recentemente dos suprimentos do Exército Britânico."
+	},
+	{
+		"id": "sniper_4_description",
+		"text": "Uma arma como essa merece melhor cuidado ..."
+	},
+	{
+		"id": "sniper_4a_description",
+		"text": "Os engenheiros americanos desenvolveram o Clark-Richfield nos últimos meses da Grande Guerra para combater os atiradores alemaes. No entanto, era tarde demais para ver açao na frente."
+	},
+	{
+		"id": "sniper_4b_description",
+		"text": "Os engenheiros americanos desenvolveram o Clark-Richfield nos últimos meses da Grande Guerra para combater os atiradores alemaes. No entanto, era tarde demais para ver açao na frente."
+	},
+	{
+		"id": "sniper_4c_description",
+		"text": "Um exemplo brilhante do artesanato americano!"
+	},
+	{
+		"id": "sniper_5_description",
+		"text": "Este rifle parece que passou vários anos deitado em uma trincheira flamenga!"
+	},
+	{
+		"id": "sniper_5a_description",
+		"text": "A lendária arma dos atiradores alemaes sobre os campos de morte da Grande Guerra de 1914 - 1918."
+	},
+	{
+		"id": "sniper_5b_description",
+		"text": "A lendária arma dos atiradores alemaes sobre os campos de morte da Grande Guerra de 1914 - 1918."
+	},
+	{
+		"id": "sniper_5c_description",
+		"text": "O escopo realmente está em uma classe própria!"
+	},
+	{
+		"id": "sniper_6_description",
+		"text": "É incrível que a arma ainda atire ..."
+	},
+	{
+		"id": "sniper_6a_description",
+		"text": "O Hericault Lunette é o rifle de Sniper da Legiao Estrangeira Francesa."
+	},
+	{
+		"id": "sniper_6b_description",
+		"text": "O Hericault Lunette é o rifle de Sniper da Legiao Estrangeira Francesa."
+	},
+	{
+		"id": "sniper_6c_description",
+		"text": "Excelente artesanato!"
+	},
+	{
+		"id": "sniper_7_description",
+		"text": "Infelizmente, a areia do deserto arranhou o escopo!"
+	},
+	{
+		"id": "sniper_7a_description",
+		"text": "Defesa e equipado com a melhor ótica-o Zeisig ZF-32!"
+	},
+	{
+		"id": "sniper_7b_description",
+		"text": "Defesa e equipado com a melhor ótica-o Zeisig ZF-32!"
+	},
+	{
+		"id": "sniper_7c_description",
+		"text": "Esta arma é excelentemente equilibrada!"
+	},
+	{
+		"id": "heavyArmor_0_name",
+		"text": "Colete de combate usado"
+	},
+	{
+		"id": "heavyArmor_0a_name",
+		"text": "Novo colete de combate"
+	},
+	{
+		"id": "heavyArmor_0b_name",
+		"text": "Colete de combate aprimorado"
+	},
+	{
+		"id": "heavyArmor_0c_name",
+		"text": "Vesto de combate esplêndido"
+	},
+	{
+		"id": "heavyArmor_1_name",
+		"text": "Colete à prova de balas gasto"
+	},
+	{
+		"id": "heavyArmor_1a_name",
+		"text": "Novo colete à prova de balas"
+	},
+	{
+		"id": "heavyArmor_1b_name",
+		"text": "Colete melhorado à prova de balas"
+	},
+	{
+		"id": "heavyArmor_1c_name",
+		"text": "Colete esplêndido à prova de balas"
+	},
+	{
+		"id": "heavyArmor_2_name",
+		"text": "Vestido de batalha gasto"
+	},
+	{
+		"id": "heavyArmor_2a_name",
+		"text": "Novo vestido de batalha"
+	},
+	{
+		"id": "heavyArmor_2b_name",
+		"text": "Vestido de batalha melhorado"
+	},
+	{
+		"id": "heavyArmor_2c_name",
+		"text": "Vestido de batalha esplêndido"
+	},
+	{
+		"id": "heavyArmor_3_name",
+		"text": "Armadura tática usada"
+	},
+	{
+		"id": "heavyArmor_3a_name",
+		"text": "Nova armadura tática"
+	},
+	{
+		"id": "heavyArmor_3b_name",
+		"text": "Armadura tática aprimorada"
+	},
+	{
+		"id": "heavyArmor_3c_name",
+		"text": "Esplêndida armadura tática"
+	},
+	{
+		"id": "heavyArmor_4_name",
+		"text": "Armadura hidráulica usada"
+	},
+	{
+		"id": "heavyArmor_4a_name",
+		"text": "Nova armadura hidráulica"
+	},
+	{
+		"id": "heavyArmor_4b_name",
+		"text": "Armadura hidráulica aprimorada"
+	},
+	{
+		"id": "heavyArmor_4c_name",
+		"text": "Armadura hidráulica esplêndida"
+	},
+	{
+		"id": "heavyArmor_5_name",
+		"text": "Armadura de teslaborg usada"
+	},
+	{
+		"id": "heavyArmor_5a_name",
+		"text": "Nova armadura de Teslaborg"
+	},
+	{
+		"id": "heavyArmor_5b_name",
+		"text": "Armadura Teslaborg aprimorada"
+	},
+	{
+		"id": "heavyArmor_5c_name",
+		"text": "Esplêndida armadura de teslaborg"
+	},
+	{
+		"id": "heavyArmor_6_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6a_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6b_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6c_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7a_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7b_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7c_name",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_0c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_1c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_2c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_3c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_4_description",
+		"text": "Um pouco agredido, mas ainda muito impressionante!"
+	},
+	{
+		"id": "heavyArmor_4a_description",
+		"text": "Você nao pode acreditar que essa tecnologia avançada realmente existe ..."
+	},
+	{
+		"id": "heavyArmor_4b_description",
+		"text": "Você nao pode acreditar que essa tecnologia avançada realmente existe ..."
+	},
+	{
+		"id": "heavyArmor_4c_description",
+		"text": "Os acessórios de aço sem graça parecem ser um design especial."
+	},
+	{
+		"id": "heavyArmor_5_description",
+		"text": "O petróleo vazou nas articulaçoes dos ombros."
+	},
+	{
+		"id": "heavyArmor_5a_description",
+		"text": "Massivo e inspirador - um verdadeiro tita do campo de batalha!"
+	},
+	{
+		"id": "heavyArmor_5b_description",
+		"text": "Massivo e inspirador - um verdadeiro tita do campo de batalha!"
+	},
+	{
+		"id": "heavyArmor_5c_description",
+		"text": "Algo está gravado no peitoral de aço: 'Drauntless'."
+	},
+	{
+		"id": "heavyArmor_6_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_6c_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7a_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7b_description",
+		"text": ""
+	},
+	{
+		"id": "heavyArmor_7c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0_name",
+		"text": "Traje de safari gasto"
+	},
+	{
+		"id": "lightArmor_0a_name",
+		"text": "Novo traje Safari"
+	},
+	{
+		"id": "lightArmor_0b_name",
+		"text": "Terno de Safari elegante"
+	},
+	{
+		"id": "lightArmor_0c_name",
+		"text": "Traje esplêndido do safari"
+	},
+	{
+		"id": "lightArmor_1_name",
+		"text": "Casaco do assistente gasto"
+	},
+	{
+		"id": "lightArmor_1a_name",
+		"text": "Casaco de New Assistant"
+	},
+	{
+		"id": "lightArmor_1b_name",
+		"text": "Casaco de assistente elegante"
+	},
+	{
+		"id": "lightArmor_1c_name",
+		"text": "Casaco de assistente esplêndido"
+	},
+	{
+		"id": "lightArmor_2_name",
+		"text": "Vestido de campo gasto"
+	},
+	{
+		"id": "lightArmor_2a_name",
+		"text": "Novo vestido de campo"
+	},
+	{
+		"id": "lightArmor_2b_name",
+		"text": "Vestido de campo elegante"
+	},
+	{
+		"id": "lightArmor_2c_name",
+		"text": "Vestido de campo esplêndido"
+	},
+	{
+		"id": "lightArmor_3_name",
+		"text": "Traje de tweed usado"
+	},
+	{
+		"id": "lightArmor_3a_name",
+		"text": "Novo traje de tweed"
+	},
+	{
+		"id": "lightArmor_3b_name",
+		"text": "Tweed de terno elegante"
+	},
+	{
+		"id": "lightArmor_3c_name",
+		"text": "Esplêndido terno de tweed"
+	},
+	{
+		"id": "lightArmor_4_name",
+		"text": "Esgotado anorak"
+	},
+	{
+		"id": "lightArmor_4a_name",
+		"text": "Novo anorak"
+	},
+	{
+		"id": "lightArmor_4b_name",
+		"text": "Anorak elegante"
+	},
+	{
+		"id": "lightArmor_4c_name",
+		"text": "Esplêndido anorak"
+	},
+	{
+		"id": "lightArmor_5_name",
+		"text": "Vestido de selva gasta"
+	},
+	{
+		"id": "lightArmor_5a_name",
+		"text": "Novo vestido de selva"
+	},
+	{
+		"id": "lightArmor_5b_name",
+		"text": "Trajes elegantes da selva"
+	},
+	{
+		"id": "lightArmor_5c_name",
+		"text": "Vestido de selva esplêndido"
+	},
+	{
+		"id": "lightArmor_6_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6a_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6b_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6c_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7a_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7b_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7c_name",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_0c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_1c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_2c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_3c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_4c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_5c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_6c_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7a_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7b_description",
+		"text": ""
+	},
+	{
+		"id": "lightArmor_7c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0_name",
+		"text": "Casaco de ervilha gasta"
+	},
+	{
+		"id": "mediumArmor_0a_name",
+		"text": "Novo casaco de ervilha"
+	},
+	{
+		"id": "mediumArmor_0b_name",
+		"text": "Casaco de ervilha elegante"
+	},
+	{
+		"id": "mediumArmor_0c_name",
+		"text": "Esplêndido casaco de ervilha"
+	},
+	{
+		"id": "mediumArmor_1_name",
+		"text": "Jaqueta de couro desgastada"
+	},
+	{
+		"id": "mediumArmor_1a_name",
+		"text": "Nova jaqueta de couro"
+	},
+	{
+		"id": "mediumArmor_1b_name",
+		"text": "Jaqueta de couro elegante"
+	},
+	{
+		"id": "mediumArmor_1c_name",
+		"text": "Jaqueta de couro esplêndida"
+	},
+	{
+		"id": "mediumArmor_2_name",
+		"text": "Colete de pele de ovelha gasta"
+	},
+	{
+		"id": "mediumArmor_2a_name",
+		"text": "Novo colete de pele de ovelha"
+	},
+	{
+		"id": "mediumArmor_2b_name",
+		"text": "Colete elegante de pele de carneiro"
+	},
+	{
+		"id": "mediumArmor_2c_name",
+		"text": "Splêndido colete de pele de carneiro"
+	},
+	{
+		"id": "mediumArmor_3_name",
+		"text": "Jeans gasto em geral"
+	},
+	{
+		"id": "mediumArmor_3a_name",
+		"text": "Novo jeans em geral"
+	},
+	{
+		"id": "mediumArmor_3b_name",
+		"text": "Jeans elegante em geral"
+	},
+	{
+		"id": "mediumArmor_3c_name",
+		"text": "Denim esplêndido em geral"
+	},
+	{
+		"id": "mediumArmor_4_name",
+		"text": "Jaqueta de bombardeiro gasta"
+	},
+	{
+		"id": "mediumArmor_4a_name",
+		"text": "Nova jaqueta de bombardeiro"
+	},
+	{
+		"id": "mediumArmor_4b_name",
+		"text": "Jaqueta de bombardeiro elegante"
+	},
+	{
+		"id": "mediumArmor_4c_name",
+		"text": "Jaqueta de bombardeiro esplêndida"
+	},
+	{
+		"id": "mediumArmor_5_name",
+		"text": "Deserto Kaftan gasto"
+	},
+	{
+		"id": "mediumArmor_5a_name",
+		"text": "Novo Kaftan do deserto"
+	},
+	{
+		"id": "mediumArmor_5b_name",
+		"text": "Kaftan elegante no deserto"
+	},
+	{
+		"id": "mediumArmor_5c_name",
+		"text": "Esplêndido deserto kaftan"
+	},
+	{
+		"id": "mediumArmor_6_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6a_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6b_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6c_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7a_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7b_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7c_name",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_0c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_1c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_2c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_3c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_4c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_5c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_6c_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7a_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7b_description",
+		"text": ""
+	},
+	{
+		"id": "mediumArmor_7c_description",
+		"text": ""
+	},
+	{
+		"id": "RU_item_test_desc",
+		"text": "АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюя"
+	}
+]
+}
