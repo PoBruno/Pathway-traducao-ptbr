@@ -11,12 +11,34 @@ Este é uma tradução para o jogo Pathway que permite jogar em Português (Bras
 
 * A tradução atualmente está na oficina da steam, basta [inscrever-se](https://steamcommunity.com/sharedfiles/filedetails/?id=2986364384) no Item.
 
-
 ## Instruções de Instalação Manual
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+Se você adquiriu o jogo Pathway pela Epic Games Store e deseja instalar a tradução para o Português (Brasil) manualmente, siga os passos abaixo:
 
-* Faça o download da tradução [pt-BR_v1.0.rar](https://github.com/pobruno/Pathway-traducao-ptbr/releases/tag/v1.0).
+### Localizando a Pasta de Instalação do Jogo
 
-* Extraia e substitua todos os arquivo de tradução [pt-BR_v1.0.rar](https://github.com/pobruno/Pathway-traducao-ptbr/releases/tag/v1.0) para dentro da pasta ``...\SteamLibrary\steamapps\common\Pathway\i18n\en-US\``.
+1. **Localize a Pasta de Instalação do Pathway:**
+   - Por padrão, os jogos da Epic Games Store são instalados na pasta de aplicativos locais do seu sistema operacional.
+   - Geralmente, a pasta de instalação padrão é semelhante a: `C:\Program Files\Epic Games\[Nome do Jogo]`.
+   - Pasta padrão do Pathway: `C:\Program Files\Epic Games\Pathway`.
+
+### Instalando a Tradução
+
+1. **Faça o Download da Tradução:**
+   - [pt-BR_v1.0.rar](https://github.com/pobruno/Pathway-traducao-ptbr/releases/tag/v1.0).
+   
+2. **Localize a Pasta de Linguagem do Jogo:**
+   - Dentro da pasta de instalação do Pathway, navegue até a pasta `i18n`. O caminho completo pode ser semelhante a: `C:\Program Files\Epic Games\Pathway\i18n`.
+
+3. **Extraia e Substitua os Arquivos de Tradução::**
+   - Dentro da pasta `i18n`, você encontrará subpastas com os códigos de idioma, como `en-US`, `de-DE`, `fr-FR`, `ja-JP` e `zh-CN`.
+   - Escolha a pasta de idioma que você deseja substituir pela tradução.
+   - Por exemplo, se você deseja substituir a tradução em inglês, navegue até a pasta `en-US`. 
+   - Exeplo: `C:\Program Files\Epic Games\Pathway\i18n\en-US`.
+
+4. **Substitua os Arquivos de Linguagem:**
+   - Dentro da pasta do idioma escolhido, extraia arquivo baixado `pt-BR_v1.0.rar` e substitua todos os arquivos existentes pela nova tradução.
+   - Certifique-se de substituir todos os arquivos existentes. Isso garantirá que a tradução em Português (Brasil) seja aplicada corretamente.
 
 
 ## Suporte
