@@ -2,13 +2,15 @@
 
 ---
 
+
+
 # Pathway Traducao Português (Brasil)
 [![Pathway](https://raw.githubusercontent.com/pobruno/Pathway-traducao-ptbr/main/Production/pt-BR_preview.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=2986364384)
 
 Este é uma tradução para o jogo Pathway que permite jogar em Português (Brasil). Siga as instruções abaixo para instalar a tradução.
 
 ## Instruções de Instação pela Steam
-![Steam](https://shieldsio-steam-workshop.jross.me/2986364384)<br>
+<img  src= https://shieldsio-steam-workshop.jross.me/2986364384/><br>
 
 * A tradução atualmente está na oficina da steam, basta [inscrever-se](https://steamcommunity.com/sharedfiles/filedetails/?id=2986364384) no Item.
 
