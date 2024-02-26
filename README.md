@@ -12,7 +12,7 @@ Este é uma tradução para o jogo Pathway que permite jogar em Português (Bras
 * A tradução atualmente está na oficina da steam, basta [inscrever-se](https://steamcommunity.com/sharedfiles/filedetails/?id=2986364384) no Item.
 
 ## Instruções de Instalação Manual
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) <br>
 Se você adquiriu o jogo Pathway pela Epic Games Store e deseja instalar a tradução para o Português (Brasil) manualmente, siga os passos abaixo:
 
 ### Localizando a Pasta de Instalação do Jogo
