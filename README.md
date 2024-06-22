@@ -1,4 +1,4 @@
-<img  src="https://img.shields.io/steam/views/2986364384"/> <img  src="https://img.shields.io/steam/downloads/2986364384"/> <img  src="https://img.shields.io/steam/favorites/2986364384"/> <img  src="https://img.shields.io/steam/subscriptions/2986364384"/>
+![Steam Update Date](https://img.shields.io/steam/update-date/2986364384) <img  src="https://img.shields.io/steam/views/2986364384"/> <img  src="https://img.shields.io/steam/downloads/2986364384"/> <img  src="https://img.shields.io/steam/favorites/2986364384"/> <img  src="https://img.shields.io/steam/subscriptions/2986364384"/>
 
 ---
 
@@ -15,7 +15,8 @@ Este é uma tradução para o jogo Pathway que permite jogar em Português (Bras
 * A tradução atualmente está na oficina da steam, basta [inscrever-se](https://steamcommunity.com/sharedfiles/filedetails/?id=2986364384) no Item.
 
 ## Instruções de Instalação Manual
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) <br>
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![GitHub Release](https://img.shields.io/github/v/release/pobruno/Pathway-traducao-ptbr?display_name=release&style=for-the-badge&label=DOWNLOAD)
+<br>
 Se você adquiriu o jogo Pathway pela Epic Games Store e deseja instalar a tradução para o Português (Brasil) manualmente, siga os passos abaixo:
 
 ### Localizando a Pasta de Instalação do Jogo
