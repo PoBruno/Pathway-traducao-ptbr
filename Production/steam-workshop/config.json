@@ -1,0 +1,10 @@
+{
+  "classPath": [
+    "pathway-game.jar",
+    "pathway-base.jar"
+  ],
+  "mainClass": "com.robotality.pulp.PulpHeroDesktop",
+  "vmArgs": [
+    "-Xmx4G"
+  ]
+}
