@@ -1,0 +1,26 @@
+name: 🚀
+
+on:
+  push: { branches: [steam] }
+  pull_request: {}
+  workflow_dispatch:
+
+jobs:
+  workshopUpload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: CyberAndrii/steam-totp@v1
+        name: Generate TOTP
+        id: steam-totp
+        with:
+          shared_secret: ${{ secrets.STEAM_SHARED_SECRET }}
+      - uses: m00nl1ght-dev/steam-workshop-deploy@v1
+        with:
+          username: ${{ secrets.STEAM_USERNAME }}
+          password: ${{ secrets.STEAM_PASSWORD }}
+          totp: ${{ steps.steam-totp.outputs.code }}
+          path: build
+          appId: 1234560
+          publishedFileId: 1234560
+
+

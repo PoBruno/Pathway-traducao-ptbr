@@ -11,7 +11,7 @@
 		},
 		{
 			"id": "Combat_PlaceCharacter",
-			"text": "Posiçao [entidade:nome] dentro\nárea verde"
+			"text": "Posiçao [entity:name] dentro\nárea verde"
 		},
 		{
 			"id": "Combat_HitChance",
@@ -207,7 +207,7 @@
 		},
 		{
 			"id": "CharacterDismiss_Question",
-			"text": "Tem certeza de que deseja descartar [entidade:nome]?"
+			"text": "Tem certeza de que deseja descartar [entity:name]?"
 		},
 		{
 			"id": "CharacterDismiss_Ok",
@@ -231,27 +231,27 @@
 		},
 		{
 			"id": "CharacterStats_Name",
-			"text": "Nome: [entidade:nome]"
+			"text": "Nome: [entity:name]"
 		},
 		{
 			"id": "CharacterStats_XP",
-			"text": "XP: [entidade:EXP]"
+			"text": "XP: [entity:EXP]"
 		},
 		{
 			"id": "CharacterStats_Level",
-			"text": "Nível: [entidade:nível]"
+			"text": "Nivel: [entity:level]"
 		},
 		{
 			"id": "CharacterStats_HP",
-			"text": "Saúde: [entidade:CHEA]/[entidade:HEA]"
+			"text": "Saude: [entity:CHEA]/[entity:HEA]"
 		},
 		{
 			"id": "CharacterStats_AR",
-			"text": "Armadura: [entidade:CARM]/[entidade:ARM]"
+			"text": "Armadura: [entity:CARM]/[entity:ARM]"
 		},
 		{
 			"id": "CharacterStats_BR",
-			"text": "Bravura: [entidade:CBRA]/[entidade:BRA]"
+			"text": "Bravura: [entity:CBRA]/[entity:BRA]"
 		},
 		{
 			"id": "CharacterStats_Aim",
@@ -259,27 +259,27 @@
 		},
 		{
 			"id": "CharacterStats_Agility",
-			"text": "Agilidade: [entidade:AGI:N]"
+			"text": "Agilidade: [entity:AGI:N]"
 		},
 		{
 			"id": "CharacterStats_Intelligence",
-			"text": "Inteligência: [entidade:INT:N]"
+			"text": "Inteligência: [entity:INT:N]"
 		},
 		{
 			"id": "CharacterStats_Endurance",
-			"text": "Resistência: [entidade:END:N]"
+			"text": "Resistência: [entity:END:N]"
 		},
 		{
 			"id": "CharacterStats_Reflex",
-			"text": "Reflexos: [entidade:EVA:N]"
+			"text": "Reflexos: [entity:EVA:N]"
 		},
 		{
 			"id": "CharacterStats_Vitality",
-			"text": "Vitalidade: [entidade:HEA:N]"
+			"text": "Vitalidade: [entity:HEA:N]"
 		},
 		{
 			"id": "CharacterStats_Will",
-			"text": "Força de vontade: [entidade:BRA:N]"
+			"text": "Força de vontade: [entity:BRA:N]"
 		},
 		{
 			"id": "CharacterStatsShort_Agility",
@@ -311,7 +311,7 @@
 		},
 		{
 			"id": "CharacterStats_CHEA",
-			"text": "Saúde Atual"
+			"text": "saude Atual"
 		},
 		{
 			"id": "CharacterStats_CARM",
@@ -635,7 +635,7 @@
 		},
 		{
 			"id": "Tooltip_Item_Name",
-			"text": "[item:nome]"
+			"text": "[item:name]"
 		},
 		{
 			"id": "Tooltip_Item_ShortName",
@@ -667,19 +667,19 @@
 		},
 		{
 			"id": "Tooltip_Item_ValueAmount",
-			"text": "$[item:valor]"
+			"text": "$[item:value]"
 		},
 		{
 			"id": "Tooltip_Item_FameAmount",
-			"text": "[item:fama]"
+			"text": "[item:fame]"
 		},
 		{
 			"id": "Tooltip_Item_RarityAmount",
-			"text": "[item:raridade]"
+			"text": "[item:rarity]"
 		},
 		{
 			"id": "Tooltip_Item_LevelAmount",
-			"text": "[item:nível]"
+			"text": "[item:level]"
 		},
 		{
 			"id": "Tooltip_Item_StacksizeAmount",
@@ -687,11 +687,11 @@
 		},
 		{
 			"id": "Tooltip_Item_UsesAmount",
-			"text": "x[item:usa]"
+			"text": "x[item:uses]"
 		},
 		{
 			"id": "Tooltip_Entity_Health",
-			"text": "Saúde:"
+			"text": "saude:"
 		},
 		{
 			"id": "Tooltip_Entity_Armor",
@@ -699,11 +699,11 @@
 		},
 		{
 			"id": "Tooltip_Entity_HealthAmount",
-			"text": "[entidade:CHEA]/[entidade:HEA]"
+			"text": "[entity:CHEA]/[entity:HEA]"
 		},
 		{
 			"id": "Tooltip_Entity_ArmorAmount",
-			"text": "[entidade:CARM]/[entidade:ARM]"
+			"text": "[entity:CARM]/[entity:ARM]"
 		},
 		{
 			"id": "Tooltip_Item_SkillRequirement",
@@ -971,7 +971,7 @@
 		},
 		{
 			"id": "PerkEffect_Attribute_Medkit",
-			"text": "Medkits [benefício:attributeType] [benefício:attributeAmount]"
+			"text": "Medkits [perk:attributeType] [perk:attributeAmount]"
 		},
 		{
 			"id": "PerkEffect_Attribute_ItemSkill",
@@ -987,15 +987,15 @@
 		},
 		{
 			"id": "PerkEffect_Attribute_RepairKit",
-			"text": "Kits de reparo [benefício:attributeType] [benefício:attributeAmount]"
+			"text": "Kits de reparo [perk:attributeType] [perk:attributeAmount]"
 		},
 		{
 			"id": "PerkEffect_Attribute_Stats",
-			"text": "[benefício:attributeType] [benefício:attributeAmount]"
+			"text": "[perk:attributeType] [perk:attributeAmount]"
 		},
 		{
 			"id": "PerkEffect_Attribute_Weapon",
-			"text": "[benefício:targetType] [benefício:attributeType] [benefício:attributeAmount]"
+			"text": "[perk:targetType] [perk:attributeType] [perk:attributeAmount]"
 		},
 		{
 			"id": "PerkEffect_Attribute_WeaponSkill",
@@ -1003,7 +1003,7 @@
 		},
 		{
 			"id": "PerkEffect_Attribute_Armor",
-			"text": "[benefício:targetType] [benefício:attributeType] [benefício:attributeAmount]"
+			"text": "[perk:targetType] [perk:attributeType] [perk:attributeAmount]"
 		},
 		{
 			"id": "PerkEffect_Attribute_EntityTypeDamage",
@@ -1023,7 +1023,7 @@
 		},
 		{
 			"id": "PerkEffect_RndArmorAttributeAdjustment",
-			"text": "[benefício:attributeType] [benefício:attributeAmount]%"
+			"text": "[perk:attributeType] [perk:attributeAmount]%"
 		},
 		{
 			"id": "PerkEffect_AdjustDamageType",
@@ -1415,7 +1415,7 @@
 		},
 		{
 			"id": "ActionDescription_QuantumLeech",
-			"text": "Ataque o inimigo com um Quantum Leech que transforma 50% do dano corporal em saúde para o atacante."
+			"text": "Ataque o inimigo com um Quantum Leech que transforma 50% do dano corporal em saude para o atacante."
 		},
 		{
 			"id": "ActionDescription_Strike",
@@ -1535,7 +1535,7 @@
 		},
 		{
 			"id": "CharacterStatsDescription_HEA",
-			"text": "Determina os pontos de saúde do personagem."
+			"text": "Determina os pontos de saude do personagem."
 		},
 		{
 			"id": "CharacterStatsDescription_BRA",
@@ -2467,11 +2467,11 @@
 		},
 		{
 			"id": "AdventureSelect_EnemyStrengthDescription",
-			"text": "Ajuste a força de seus oponentes. Sua saúde, dano e tamanho do grupo serao ajustados. Reduza para uma experiência mais casual.\n\nSaúde do inimigo: [0]%\nDano do inimigo: [1]%\nInimigo Tamanho do grupo: [2]"
+			"text": "Ajuste a força de seus oponentes. Sua saude, dano e tamanho do grupo serao ajustados. Reduza para uma experiência mais casual.\n\nsaude do inimigo: [0]%\nDano do inimigo: [1]%\nInimigo Tamanho do grupo: [2]"
 		},
 		{
 			"id": "AdventureSelect_EnemyStrengthDescriptionPositive",
-			"text": "Ajuste a força de seus oponentes. Sua saúde, dano e tamanho do grupo serao ajustados. Reduza para uma experiência mais casual.\n\nSaúde do inimigo: +[0]%\nDano do inimigo: +[1]% \nTamanho do grupo inimigo: +[2]"
+			"text": "Ajuste a força de seus oponentes. Sua saude, dano e tamanho do grupo serao ajustados. Reduza para uma experiência mais casual.\n\nsaude do inimigo: +[0]%\nDano do inimigo: +[1]% \nTamanho do grupo inimigo: +[2]"
 		},
 		{
 			"id": "AdventureSelect_CombatSize",

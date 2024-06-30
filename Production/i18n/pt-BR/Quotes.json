@@ -1,0 +1,2021 @@
+{
+"id": "Quotes",
+"rows": [
+	{
+		"id": "natalya_NeedReloading_0",
+		"text": "Eu tenho que recarregar minha pistola."
+	},
+	{
+		"id": "natalya_NeedHealing_0",
+		"text": "Eu preciso de atendimento médico imediatamente."
+	},
+	{
+		"id": "natalya_CriticalStrike_0",
+		"text": "Uma execuçao perfeita."
+	},
+	{
+		"id": "natalya_Killshot_0",
+		"text": "Mais um para baixo."
+	},
+	{
+		"id": "natalya_Evade_0",
+		"text": "Isso foi incrivelmente perto."
+	},
+	{
+		"id": "natalya_Idle_0",
+		"text": "Temos muito mais a descobrir!"
+	},
+	{
+		"id": "natalya_Flanked_0",
+		"text": "Eu preciso de ajuda aqui!"
+	},
+	{
+		"id": "natalya_NeedFuel_0",
+		"text": "Estamos quase sem combustível."
+	},
+	{
+		"id": "natalya_NeedAmmo_0",
+		"text": "Nossos suprimentos de muniçao sao baixos."
+	},
+	{
+		"id": "natalya_ItemUpgrade_0",
+		"text": "Uma excelente escolha."
+	},
+	{
+		"id": "natalya_ItemDowngrade_0",
+		"text": "Parece uma má ideia."
+	},
+	{
+		"id": "natalya_Recruited_0",
+		"text": "Sempre animado para outra aventura."
+	},
+	{
+		"id": "natalya_LevelUp_0",
+		"text": "Que jornada interessante!"
+	},
+	{
+		"id": "natalya_EnemySpotted_0",
+		"text": "Inimígo avistado!"
+	},
+	{
+		"id": "natalya_NeedReloading_1",
+		"text": "Essa foi minha última foto."
+	},
+	{
+		"id": "natalya_NeedHealing_1",
+		"text": "Alguém tem um curativo para mim?"
+	},
+	{
+		"id": "natalya_CriticalStrike_1",
+		"text": "Isso deve ter doente."
+	},
+	{
+		"id": "natalya_Killshot_1",
+		"text": "Nao aceite o caminho errado!"
+	},
+	{
+		"id": "natalya_Evade_1",
+		"text": "Outra chamada próxima."
+	},
+	{
+		"id": "natalya_Idle_1",
+		"text": "Nao quero reclamar, mas estou começando a ficar entediado aqui."
+	},
+	{
+		"id": "natalya_Flanked_1",
+		"text": "Eles estao por toda parte!"
+	},
+	{
+		"id": "natalya_NeedFuel_1",
+		"text": "Nao vamos chegar longe com o combustível restante."
+	},
+	{
+		"id": "natalya_NeedAmmo_1",
+		"text": "O que faremos quando ficarmos sem muniçao?"
+	},
+	{
+		"id": "natalya_ItemUpgrade_1",
+		"text": "Posso ficar com isso?"
+	},
+	{
+		"id": "natalya_ItemDowngrade_1",
+		"text": "Nao é um fa."
+	},
+	{
+		"id": "natalya_Recruited_1",
+		"text": "Estou tao animado!"
+	},
+	{
+		"id": "natalya_LevelUp_1",
+		"text": "Acho que estou começando a entender."
+	},
+	{
+		"id": "natalya_EnemySpotted_1",
+		"text": "Há outro!"
+	},
+	{
+		"id": "leonora_NeedReloading_0",
+		"text": "Eu deveria recarregar minha arma."
+	},
+	{
+		"id": "leonora_NeedHealing_0",
+		"text": "Estou gravemente ferido."
+	},
+	{
+		"id": "leonora_CriticalStrike_0",
+		"text": "Um sucesso maravilhoso!"
+	},
+	{
+		"id": "leonora_Killshot_0",
+		"text": "Um lindo dia para morrer."
+	},
+	{
+		"id": "leonora_Evade_0",
+		"text": "Caramba! Quase me atingiu."
+	},
+	{
+		"id": "leonora_Idle_0",
+		"text": "Meu traseiro está começando a doer por tudo isso sentado."
+	},
+	{
+		"id": "leonora_Flanked_0",
+		"text": "Covardes."
+	},
+	{
+		"id": "leonora_NeedFuel_0",
+		"text": "Nossos suprimentos de combustível nao se reabastecem."
+	},
+	{
+		"id": "leonora_NeedAmmo_0",
+		"text": "Podemos querer prestar atençao ao nosso suprimento de muniçao."
+	},
+	{
+		"id": "leonora_ItemUpgrade_0",
+		"text": "Eu aprovo."
+	},
+	{
+		"id": "leonora_ItemDowngrade_0",
+		"text": "Nao é minha xícara de chá."
+	},
+	{
+		"id": "leonora_Recruited_0",
+		"text": "Deixe -me verificar minha programaçao ...\n Sim, tudo bem."
+	},
+	{
+		"id": "leonora_LevelUp_0",
+		"text": "Acho que aprendi algo hoje ..."
+	},
+	{
+		"id": "leonora_EnemySpotted_0",
+		"text": "Eu acho que vejo outro!"
+	},
+	{
+		"id": "leonora_NeedReloading_1",
+		"text": "Minha revista está vazia."
+	},
+	{
+		"id": "leonora_NeedHealing_1",
+		"text": "Estou me sentindo muito tímido. Eu perdi muito sangue?"
+	},
+	{
+		"id": "leonora_CriticalStrike_1",
+		"text": "Arqueologia aplicada, baby!"
+	},
+	{
+		"id": "leonora_Killshot_1",
+		"text": "Este nao nos machucará mais."
+	},
+	{
+		"id": "leonora_Evade_1",
+		"text": "Ridículo."
+	},
+	{
+		"id": "leonora_Idle_1",
+		"text": "Meu professor uma vez me disse que a verdadeira arqueologia acontece na biblioteca ... hah!"
+	},
+	{
+		"id": "leonora_Flanked_1",
+		"text": "Encontre a capa!"
+	},
+	{
+		"id": "leonora_NeedFuel_1",
+		"text": "Alguém verificou o tanque de gasolina recentemente?"
+	},
+	{
+		"id": "leonora_NeedAmmo_1",
+		"text": "Isso é toda a nossa muniçao?"
+	},
+	{
+		"id": "leonora_ItemUpgrade_1",
+		"text": "Oh sim por favor."
+	},
+	{
+		"id": "leonora_ItemDowngrade_1",
+		"text": "Bobagem."
+	},
+	{
+		"id": "leonora_Recruited_1",
+		"text": "Pronto quando estiveres."
+	},
+	{
+		"id": "leonora_LevelUp_1",
+		"text": "Todo desafio é uma experiência de aprendizado!"
+	},
+	{
+		"id": "leonora_EnemySpotted_1",
+		"text": "Olhe! Inimigo à frente!"
+	},
+	{
+		"id": "veduti_NeedReloading_0",
+		"text": "Deve recarregar."
+	},
+	{
+		"id": "veduti_NeedHealing_0",
+		"text": "Minhas feridas precisam de atençao."
+	},
+	{
+		"id": "veduti_CriticalStrike_0",
+		"text": "Eu nao aprendi isso no Seminário."
+	},
+	{
+		"id": "veduti_Killshot_0",
+		"text": "Vae Victis!"
+	},
+	{
+		"id": "veduti_Evade_0",
+		"text": "Deus defende aqueles que o adoram."
+	},
+	{
+		"id": "veduti_Idle_0",
+		"text": "*Rezar*"
+	},
+	{
+		"id": "veduti_Flanked_0",
+		"text": "Existem muitos males neste mundo."
+	},
+	{
+		"id": "veduti_NeedFuel_0",
+		"text": "Nossos suprimentos de combustível estao funcionando baixos."
+	},
+	{
+		"id": "veduti_NeedAmmo_0",
+		"text": "Temos que encontrar mais muniçao."
+	},
+	{
+		"id": "veduti_ItemUpgrade_0",
+		"text": "Grazie Mille."
+	},
+	{
+		"id": "veduti_ItemDowngrade_0",
+		"text": "Eu nao gosto disso."
+	},
+	{
+		"id": "veduti_Recruited_0",
+		"text": "Para a maior glória de Deus."
+	},
+	{
+		"id": "veduti_LevelUp_0",
+		"text": "A vida está sempre nos ensinando coisas novas ..."
+	},
+	{
+		"id": "veduti_EnemySpotted_0",
+		"text": "Há outro escondido lá!"
+	},
+	{
+		"id": "veduti_NeedReloading_1",
+		"text": "Temos mais balas?"
+	},
+	{
+		"id": "veduti_NeedHealing_1",
+		"text": "Eu vejo ... uma luz brilhante ... na escuridao."
+	},
+	{
+		"id": "veduti_CriticalStrike_1",
+		"text": "Olhos para os olhos, dente para dente."
+	},
+	{
+		"id": "veduti_Killshot_1",
+		"text": "Descanse em paz!"
+	},
+	{
+		"id": "veduti_Evade_1",
+		"text": "Meu tempo ainda nao chegou."
+	},
+	{
+		"id": "veduti_Idle_1",
+		"text": "Se alguém precisar de uma confissao - parece que tenho um pouco de tempo."
+	},
+	{
+		"id": "veduti_Flanked_1",
+		"text": "Nao vou cobrir com medo."
+	},
+	{
+		"id": "veduti_NeedFuel_1",
+		"text": "Estaremos rezando nossas últimas oraçoes em breve se nao encontrarmos combustível rapidamente ..."
+	},
+	{
+		"id": "veduti_NeedAmmo_1",
+		"text": "Sem muniçao? Senhor, ajude a todos nós."
+	},
+	{
+		"id": "veduti_ItemUpgrade_1",
+		"text": "Aleluia!"
+	},
+	{
+		"id": "veduti_ItemDowngrade_1",
+		"text": "Eu aceito com humilhado."
+	},
+	{
+		"id": "veduti_Recruited_1",
+		"text": "Você pode chamar de chance, eu digo que é a vontade de Deus."
+	},
+	{
+		"id": "veduti_LevelUp_1",
+		"text": "A sabedoria vem com a idade."
+	},
+	{
+		"id": "veduti_EnemySpotted_1",
+		"text": "Você achou que eu nao podia te ver?"
+	},
+	{
+		"id": "brunhilda_NeedReloading_0",
+		"text": "Tempo de recarregamento!"
+	},
+	{
+		"id": "brunhilda_NeedHealing_0",
+		"text": "Minha força está no fim."
+	},
+	{
+		"id": "brunhilda_CriticalStrike_0",
+		"text": "Exatamente onde dói."
+	},
+	{
+		"id": "brunhilda_Killshot_0",
+		"text": "BAM!"
+	},
+	{
+		"id": "brunhilda_Evade_0",
+		"text": "Isso foi muito próximo."
+	},
+	{
+		"id": "brunhilda_Idle_0",
+		"text": "Podemos continuar nos movendo?"
+	},
+	{
+		"id": "brunhilda_Flanked_0",
+		"text": "Estou cercado!"
+	},
+	{
+		"id": "brunhilda_NeedFuel_0",
+		"text": "Precisamos de mais combustível."
+	},
+	{
+		"id": "brunhilda_NeedAmmo_0",
+		"text": "Nossos suprimentos de muniçao estao quase vazios."
+	},
+	{
+		"id": "brunhilda_ItemUpgrade_0",
+		"text": "Takk!"
+	},
+	{
+		"id": "brunhilda_ItemDowngrade_0",
+		"text": "Eu posso fazer melhor."
+	},
+	{
+		"id": "brunhilda_Recruited_0",
+		"text": "Huzzah! Eu amo aventuras."
+	},
+	{
+		"id": "brunhilda_LevelUp_0",
+		"text": "Estou ficando ainda mais forte!"
+	},
+	{
+		"id": "brunhilda_EnemySpotted_0",
+		"text": "Eu encontrei outro!"
+	},
+	{
+		"id": "brunhilda_NeedReloading_1",
+		"text": "Foi esse meu último tiro?"
+	},
+	{
+		"id": "brunhilda_NeedHealing_1",
+		"text": "Bah, apenas um pequeno ferimento de carne!"
+	},
+	{
+		"id": "brunhilda_CriticalStrike_1",
+		"text": "Da próxima vez, vou atingir ainda mais!"
+	},
+	{
+		"id": "brunhilda_Killshot_1",
+		"text": "Eu amo o som de quebrar ossos."
+	},
+	{
+		"id": "brunhilda_Evade_1",
+		"text": "Principiante."
+	},
+	{
+		"id": "brunhilda_Idle_1",
+		"text": "Estou indo para a soneca - a menos que estejamos nos mudando?"
+	},
+	{
+		"id": "brunhilda_Flanked_1",
+		"text": "Eu posso lidar com isso sozinho!"
+	},
+	{
+		"id": "brunhilda_NeedFuel_1",
+		"text": "Esperançosamente, chegaremos ao próximo posto de gasolina."
+	},
+	{
+		"id": "brunhilda_NeedAmmo_1",
+		"text": "Nenhuma muniçao foi embora? Deixe nossos punhos falarem."
+	},
+	{
+		"id": "brunhilda_ItemUpgrade_1",
+		"text": "Na batalha!"
+	},
+	{
+		"id": "brunhilda_ItemDowngrade_1",
+		"text": "*Moa os dentes*"
+	},
+	{
+		"id": "brunhilda_Recruited_1",
+		"text": "Espero que você esteja brincando. Claro que vou entrar!"
+	},
+	{
+		"id": "brunhilda_LevelUp_1",
+		"text": "Eu me sinto poderoso!"
+	},
+	{
+		"id": "brunhilda_EnemySpotted_1",
+		"text": "Lá!"
+	},
+	{
+		"id": "pereira_NeedReloading_0",
+		"text": "Tenho que recarregar a lata."
+	},
+	{
+		"id": "pereira_NeedHealing_0",
+		"text": "Eu poderia usar alguma ajuda aqui."
+	},
+	{
+		"id": "pereira_CriticalStrike_0",
+		"text": "O velho ainda conseguiu."
+	},
+	{
+		"id": "pereira_Killshot_0",
+		"text": "Vejo você na próxima vida!"
+	},
+	{
+		"id": "pereira_Evade_0",
+		"text": "Ha! O Nitwit nem consegue mirar."
+	},
+	{
+		"id": "pereira_Idle_0",
+		"text": "Alguém pegou alguma bebida? Estou entediado."
+	},
+	{
+		"id": "pereira_Flanked_0",
+		"text": "Estou me sentindo um pouco exposto aqui."
+	},
+	{
+		"id": "pereira_NeedFuel_0",
+		"text": "Seco em combustível em breve."
+	},
+	{
+		"id": "pereira_NeedAmmo_0",
+		"text": "Quase nenhuma muniçao foi embora do que posso ver aqui."
+	},
+	{
+		"id": "pereira_ItemUpgrade_0",
+		"text": "Essa é uma boa peça de equipamento."
+	},
+	{
+		"id": "pereira_ItemDowngrade_0",
+		"text": "Por favor nao."
+	},
+	{
+		"id": "pereira_Recruited_0",
+		"text": "Sim - eu vou beber para isso!"
+	},
+	{
+		"id": "pereira_LevelUp_0",
+		"text": "Ótimo!"
+	},
+	{
+		"id": "pereira_EnemySpotted_0",
+		"text": "Inimígo avistado!"
+	},
+	{
+		"id": "pereira_NeedReloading_1",
+		"text": "Alguém pode me jogar uma revista completa do meu jeito?"
+	},
+	{
+		"id": "pereira_NeedHealing_1",
+		"text": "Só dói quando eu rio."
+	},
+	{
+		"id": "pereira_CriticalStrike_1",
+		"text": "Oh, isso doeu?"
+	},
+	{
+		"id": "pereira_Killshot_1",
+		"text": "Esses proprietários nao conseguem lidar com nada."
+	},
+	{
+		"id": "pereira_Evade_1",
+		"text": "Ha! Perdido!"
+	},
+	{
+		"id": "pereira_Idle_1",
+		"text": "Um encanador, um cozinheiro e uma freira entram em um bar ..."
+	},
+	{
+		"id": "pereira_Flanked_1",
+		"text": "Eles estao começando a me dar nos nervos!"
+	},
+	{
+		"id": "pereira_NeedFuel_1",
+		"text": "O motor também pode ser executado em alguns schnaps ... eu acho."
+	},
+	{
+		"id": "pereira_NeedAmmo_1",
+		"text": "Estamos ficando um pouco baixos em muniçao."
+	},
+	{
+		"id": "pereira_ItemUpgrade_1",
+		"text": "Sim, sim!"
+	},
+	{
+		"id": "pereira_ItemDowngrade_1",
+		"text": "Lixo."
+	},
+	{
+		"id": "pereira_Recruited_1",
+		"text": "Você sempre pode confiar na velha piranha."
+	},
+	{
+		"id": "pereira_LevelUp_1",
+		"text": "Uma rodada de grogue em mim!"
+	},
+	{
+		"id": "pereira_EnemySpotted_1",
+		"text": "Há outro!"
+	},
+	{
+		"id": "jackson_NeedReloading_0",
+		"text": "A arma está vazia."
+	},
+	{
+		"id": "jackson_NeedHealing_0",
+		"text": "Estou sangrando muito, garoto."
+	},
+	{
+		"id": "jackson_CriticalStrike_0",
+		"text": "Eu sou bom nisso!"
+	},
+	{
+		"id": "jackson_Killshot_0",
+		"text": "Aquele caiu rapidamente!"
+	},
+	{
+		"id": "jackson_Evade_0",
+		"text": "Isso foi .. completamente muito perto."
+	},
+	{
+		"id": "jackson_Idle_0",
+		"text": "Posso dirigir? Isso está demorando muito."
+	},
+	{
+		"id": "jackson_Flanked_0",
+		"text": "Escute garoto ... eu preciso de backup aqui."
+	},
+	{
+		"id": "jackson_NeedFuel_0",
+		"text": "Algum posto de gasolina por perto?"
+	},
+	{
+		"id": "jackson_NeedAmmo_0",
+		"text": "Se ficarmos sem muniçao, entao nos ajude a Deus."
+	},
+	{
+		"id": "jackson_ItemUpgrade_0",
+		"text": "Eu aprovo, garoto."
+	},
+	{
+		"id": "jackson_ItemDowngrade_0",
+		"text": "Você tem que estar brincando comigo."
+	},
+	{
+		"id": "jackson_Recruited_0",
+		"text": "Feliz em ajudar, garoto."
+	},
+	{
+		"id": "jackson_LevelUp_0",
+		"text": "Eu esperava nada menos de mim mesmo."
+	},
+	{
+		"id": "jackson_EnemySpotted_0",
+		"text": "Eu acho que vejo outro!"
+	},
+	{
+		"id": "jackson_NeedReloading_1",
+		"text": "Uma revista sobressalente seria útil agora!"
+	},
+	{
+		"id": "jackson_NeedHealing_1",
+		"text": "Nao vou desistir tao facilmente!"
+	},
+	{
+		"id": "jackson_CriticalStrike_1",
+		"text": "Somos você ou eu."
+	},
+	{
+		"id": "jackson_Killshot_1",
+		"text": "Eu acho que ele recebeu a mensagem."
+	},
+	{
+		"id": "jackson_Evade_1",
+		"text": "Estou começando a levar isso para o lado pessoal."
+	},
+	{
+		"id": "jackson_Idle_1",
+		"text": "Suponho que o sultao de Zanzibar ainda nao está falando comigo ..."
+	},
+	{
+		"id": "jackson_Flanked_1",
+		"text": "Isso nao parece bom ..."
+	},
+	{
+		"id": "jackson_NeedFuel_1",
+		"text": "O que você quer dizer, nao há mais gás?"
+	},
+	{
+		"id": "jackson_NeedAmmo_1",
+		"text": "Se nao conseguirmos mais muniçao em breve, teremos que começar a improvisar!"
+	},
+	{
+		"id": "jackson_ItemUpgrade_1",
+		"text": "Nada mal, nada mal."
+	},
+	{
+		"id": "jackson_ItemDowngrade_1",
+		"text": "Nós temos que?"
+	},
+	{
+		"id": "jackson_Recruited_1",
+		"text": "Perigo e dificuldade? Pode vir!"
+	},
+	{
+		"id": "jackson_LevelUp_1",
+		"text": "Esta viagem está me fazendo bem!"
+	},
+	{
+		"id": "jackson_EnemySpotted_1",
+		"text": "Olhe! Inimigo à frente!"
+	},
+	{
+		"id": "georgette_NeedReloading_0",
+		"text": "Meu rifle precisa ser recarregado."
+	},
+	{
+		"id": "georgette_NeedHealing_0",
+		"text": "Assistência médica necessária."
+	},
+	{
+		"id": "georgette_CriticalStrike_0",
+		"text": "Fácil."
+	},
+	{
+		"id": "georgette_Killshot_0",
+		"text": "Nao há mais necessidade de se preocupar com este."
+	},
+	{
+		"id": "georgette_Evade_0",
+		"text": "Feche um."
+	},
+	{
+		"id": "georgette_Idle_0",
+		"text": "Isso é um desperdício do meu tempo."
+	},
+	{
+		"id": "georgette_Flanked_0",
+		"text": "Backup necessário."
+	},
+	{
+		"id": "georgette_NeedFuel_0",
+		"text": "Nosso tanque de combustível está quase vazio."
+	},
+	{
+		"id": "georgette_NeedAmmo_0",
+		"text": "Nossas reservas de muniçao sao baixas."
+	},
+	{
+		"id": "georgette_ItemUpgrade_0",
+		"text": "*assente*"
+	},
+	{
+		"id": "georgette_ItemDowngrade_0",
+		"text": "Isso nao vai servir."
+	},
+	{
+		"id": "georgette_Recruited_0",
+		"text": "Nao vou decepcionar."
+	},
+	{
+		"id": "georgette_LevelUp_0",
+		"text": "Eu aprendo rápido."
+	},
+	{
+		"id": "georgette_EnemySpotted_0",
+		"text": "Há outro escondido lá!"
+	},
+	{
+		"id": "georgette_NeedReloading_1",
+		"text": "Minha arma nao é muito boa sem muniçao!"
+	},
+	{
+		"id": "georgette_NeedHealing_1",
+		"text": "Alguma penicilina seria boa agora."
+	},
+	{
+		"id": "georgette_CriticalStrike_1",
+		"text": "Alvo!"
+	},
+	{
+		"id": "georgette_Killshot_1",
+		"text": "Missao cumprida."
+	},
+	{
+		"id": "georgette_Evade_1",
+		"text": "Ooops!"
+	},
+	{
+		"id": "georgette_Idle_1",
+		"text": "Às vezes me pergunto o que aconteceu com aquele jovem repórter no Congo ..."
+	},
+	{
+		"id": "georgette_Flanked_1",
+		"text": "Nao perca sua coragem agora."
+	},
+	{
+		"id": "georgette_NeedFuel_1",
+		"text": "Parece que temos um problema de gasolina."
+	},
+	{
+		"id": "georgette_NeedAmmo_1",
+		"text": "Alguém conhece um revendedor de muniçao por aqui?"
+	},
+	{
+		"id": "georgette_ItemUpgrade_1",
+		"text": "Qualidade máxima!"
+	},
+	{
+		"id": "georgette_ItemDowngrade_1",
+		"text": "É isso?"
+	},
+	{
+		"id": "georgette_Recruited_1",
+		"text": "Só para mantê -lo longe de problemas!"
+	},
+	{
+		"id": "georgette_LevelUp_1",
+		"text": "Acabei de perceber algo ..."
+	},
+	{
+		"id": "georgette_EnemySpotted_1",
+		"text": "Você achou que eu nao podia te ver?"
+	},
+	{
+		"id": "professor_NeedReloading_0",
+		"text": "A falta de muniçao aqui."
+	},
+	{
+		"id": "professor_NeedHealing_0",
+		"text": "Alguém pode acabar com meu sangramento?"
+	},
+	{
+		"id": "professor_CriticalStrike_0",
+		"text": "Isso parecia extremamente doloroso."
+	},
+	{
+		"id": "professor_Killshot_0",
+		"text": "Obliterado."
+	},
+	{
+		"id": "professor_Evade_0",
+		"text": "Que emocionante!"
+	},
+	{
+		"id": "professor_Idle_0",
+		"text": "Eu preferiria se voltassemos à nossa tarefa em maos."
+	},
+	{
+		"id": "professor_Flanked_0",
+		"text": "Estou cercado por inimigos."
+	},
+	{
+		"id": "professor_NeedFuel_0",
+		"text": "Precisamos de mais combustível."
+	},
+	{
+		"id": "professor_NeedAmmo_0",
+		"text": "Temos reservas mínimas de muniçao restantes."
+	},
+	{
+		"id": "professor_ItemUpgrade_0",
+		"text": "Que objeto fascinante!"
+	},
+	{
+		"id": "professor_ItemDowngrade_0",
+		"text": "Eu acredito que isso me foi dado por erro."
+	},
+	{
+		"id": "professor_Recruited_0",
+		"text": "Dê -me alguns minutos para reunir meus papéis."
+	},
+	{
+		"id": "professor_LevelUp_0",
+		"text": "Estou muito satisfeito com meu progresso."
+	},
+	{
+		"id": "professor_EnemySpotted_0",
+		"text": "Eu encontrei outro!"
+	},
+	{
+		"id": "professor_NeedReloading_1",
+		"text": "Apenas um segundo ... recarregando."
+	},
+	{
+		"id": "professor_NeedHealing_1",
+		"text": "Nao sinto mais minhas pernas!"
+	},
+	{
+		"id": "professor_CriticalStrike_1",
+		"text": "Outro ponto para a ciência."
+	},
+	{
+		"id": "professor_Killshot_1",
+		"text": "Morte por tecnologia!"
+	},
+	{
+		"id": "professor_Evade_1",
+		"text": "Isso foi sorte!"
+	},
+	{
+		"id": "professor_Idle_1",
+		"text": "Sem um ionizador, a tensao é muito alta, é claro. Você teria que interpor um indutor de Pittsburgh ..."
+	},
+	{
+		"id": "professor_Flanked_1",
+		"text": "Retiro!"
+	},
+	{
+		"id": "professor_NeedFuel_1",
+		"text": "O medidor de combustível está quebrado? Nao? Entao temos um problema ..."
+	},
+	{
+		"id": "professor_NeedAmmo_1",
+		"text": "Sem muniçao, temos um problema ..."
+	},
+	{
+		"id": "professor_ItemUpgrade_1",
+		"text": "Maravilhoso..."
+	},
+	{
+		"id": "professor_ItemDowngrade_1",
+		"text": "Isso pertence ao lixo, nao nas minhas maos!"
+	},
+	{
+		"id": "professor_Recruited_1",
+		"text": "Fascinante. Simplesmente fascinante."
+	},
+	{
+		"id": "professor_LevelUp_1",
+		"text": "Viva e aprenda."
+	},
+	{
+		"id": "professor_EnemySpotted_1",
+		"text": "Lá!"
+	},
+	{
+		"id": "drChandra_NeedReloading_0",
+		"text": "Oh - parece que estou sem muniçao."
+	},
+	{
+		"id": "drChandra_NeedHealing_0",
+		"text": "Receio estar gravemente ferido."
+	},
+	{
+		"id": "drChandra_CriticalStrike_0",
+		"text": "Nao gosto de infligir dor."
+	},
+	{
+		"id": "drChandra_Killshot_0",
+		"text": "Era eu?"
+	},
+	{
+		"id": "drChandra_Evade_0",
+		"text": "Eu vivo!"
+	},
+	{
+		"id": "drChandra_Idle_0",
+		"text": "Estamos ... estamos perdidos?"
+	},
+	{
+		"id": "drChandra_Flanked_0",
+		"text": "De onde eles vêm?"
+	},
+	{
+		"id": "drChandra_NeedFuel_0",
+		"text": "Parece que estamos com poucos combustíveis."
+	},
+	{
+		"id": "drChandra_NeedAmmo_0",
+		"text": "Oh nao! Nossa muniçao está quase toda."
+	},
+	{
+		"id": "drChandra_ItemUpgrade_0",
+		"text": "Sim, sim .. eu posso trabalhar com isso."
+	},
+	{
+		"id": "drChandra_ItemDowngrade_0",
+		"text": "Eu nao pretendo ser rude, mas você tem certeza?"
+	},
+	{
+		"id": "drChandra_Recruited_0",
+		"text": "Estou esperando ansiosamente para participar desta expediçao!"
+	},
+	{
+		"id": "drChandra_LevelUp_0",
+		"text": "Eu acho significado em aprender."
+	},
+	{
+		"id": "drChandra_EnemySpotted_0",
+		"text": "Inimígo avistado!"
+	},
+	{
+		"id": "drChandra_NeedReloading_1",
+		"text": "Essa foi provavelmente minha última chance."
+	},
+	{
+		"id": "drChandra_NeedHealing_1",
+		"text": "Eu odeio ser um incômodo, mas alguém tem um curativo?"
+	},
+	{
+		"id": "drChandra_CriticalStrike_1",
+		"text": "Talvez você devesse apenas se render."
+	},
+	{
+		"id": "drChandra_Killshot_1",
+		"text": "Tao inútil ..."
+	},
+	{
+		"id": "drChandra_Evade_1",
+		"text": "O que eu fiz com você?"
+	},
+	{
+		"id": "drChandra_Idle_1",
+		"text": "Às vezes acho que estou ficando velho demais para isso ..."
+	},
+	{
+		"id": "drChandra_Flanked_1",
+		"text": "Parece que eles estao tentando nos cercar."
+	},
+	{
+		"id": "drChandra_NeedFuel_1",
+		"text": "Alguém está acompanhando nossas reservas de gás?"
+	},
+	{
+		"id": "drChandra_NeedAmmo_1",
+		"text": "Receio termos que nos contentar com nossas facas ..."
+	},
+	{
+		"id": "drChandra_ItemUpgrade_1",
+		"text": "Excelente qualidade, eu declaro."
+	},
+	{
+		"id": "drChandra_ItemDowngrade_1",
+		"text": "Isso é realmente tudo o que temos?"
+	},
+	{
+		"id": "drChandra_Recruited_1",
+		"text": "Tem certeza de que pensou nisso?"
+	},
+	{
+		"id": "drChandra_LevelUp_1",
+		"text": "A iluminaçao chega até você, nao o contrário."
+	},
+	{
+		"id": "drChandra_EnemySpotted_1",
+		"text": "Há outro!"
+	},
+	{
+		"id": "shaneeka_NeedReloading_0",
+		"text": "Minha arma precisa ser recarregada."
+	},
+	{
+		"id": "shaneeka_NeedHealing_0",
+		"text": "Esta ferida é ruim."
+	},
+	{
+		"id": "shaneeka_CriticalStrike_0",
+		"text": "Você vai se lembrar de mim agora!"
+	},
+	{
+		"id": "shaneeka_Killshot_0",
+		"text": "Eu golpeio para matar."
+	},
+	{
+		"id": "shaneeka_Evade_0",
+		"text": "Meus instintos sao excelentes."
+	},
+	{
+		"id": "shaneeka_Idle_0",
+		"text": "Para onde vamos a seguir?"
+	},
+	{
+		"id": "shaneeka_Flanked_0",
+		"text": "O inimigo está tentando me superar."
+	},
+	{
+		"id": "shaneeka_NeedFuel_0",
+		"text": "Nossos suprimentos de combustível precisam ser reabastecidos."
+	},
+	{
+		"id": "shaneeka_NeedAmmo_0",
+		"text": "Muniçao é baixa."
+	},
+	{
+		"id": "shaneeka_ItemUpgrade_0",
+		"text": "Eu vou gostar disso."
+	},
+	{
+		"id": "shaneeka_ItemDowngrade_0",
+		"text": "Isso nao é do meu gosto."
+	},
+	{
+		"id": "shaneeka_Recruited_0",
+		"text": "Nossos inimigos ficarao impressionados com o medo."
+	},
+	{
+		"id": "shaneeka_LevelUp_0",
+		"text": "Minha lâmina afia."
+	},
+	{
+		"id": "shaneeka_EnemySpotted_0",
+		"text": "Eu acho que vejo outro!"
+	},
+	{
+		"id": "shaneeka_NeedReloading_1",
+		"text": "Um verdadeiro guerreiro continua a lutar mesmo com uma arma vazia!"
+	},
+	{
+		"id": "shaneeka_NeedHealing_1",
+		"text": "Nao se preocupe comigo, eu ficarei bem."
+	},
+	{
+		"id": "shaneeka_CriticalStrike_1",
+		"text": "Tema minha ira!"
+	},
+	{
+		"id": "shaneeka_Killshot_1",
+		"text": "Cumprimente os espíritos de seus ancestrais de mim."
+	},
+	{
+		"id": "shaneeka_Evade_1",
+		"text": "Estou começando a ficar com muita raiva."
+	},
+	{
+		"id": "shaneeka_Idle_1",
+		"text": "A caçadora do paciente espera até a hora certa."
+	},
+	{
+		"id": "shaneeka_Flanked_1",
+		"text": "Nunca encurrale um predador!"
+	},
+	{
+		"id": "shaneeka_NeedFuel_1",
+		"text": "O carro soa como um animal com sede."
+	},
+	{
+		"id": "shaneeka_NeedAmmo_1",
+		"text": "Você tem mais cartuchos?"
+	},
+	{
+		"id": "shaneeka_ItemUpgrade_1",
+		"text": "A alegria enche meu coraçao."
+	},
+	{
+		"id": "shaneeka_ItemDowngrade_1",
+		"text": "Você insulta minha honra."
+	},
+	{
+		"id": "shaneeka_Recruited_1",
+		"text": "Minha lâmina e minha honra sao suas."
+	},
+	{
+		"id": "shaneeka_LevelUp_1",
+		"text": "O grande espírito me ilumina."
+	},
+	{
+		"id": "shaneeka_EnemySpotted_1",
+		"text": "Olhe! Inimigo à frente!"
+	},
+	{
+		"id": "baron_NeedReloading_0",
+		"text": "É hora de recarregar, meus amigos."
+	},
+	{
+		"id": "baron_NeedHealing_0",
+		"text": "Eu nao sinto o meu melhor."
+	},
+	{
+		"id": "baron_CriticalStrike_0",
+		"text": "Nao sorte, mas habilidade."
+	},
+	{
+		"id": "baron_Killshot_0",
+		"text": "Auf Wiedersehen!"
+	},
+	{
+		"id": "baron_Evade_0",
+		"text": "Facilmente evitado."
+	},
+	{
+		"id": "baron_Idle_0",
+		"text": "Estamos desperdiçando tempo valioso."
+	},
+	{
+		"id": "baron_Flanked_0",
+		"text": "Eu .. eu preciso de ajuda aqui."
+	},
+	{
+		"id": "baron_NeedFuel_0",
+		"text": "Vamos organizar mais combustível, amigos."
+	},
+	{
+		"id": "baron_NeedAmmo_0",
+		"text": "Temos pequena muniçao restante."
+	},
+	{
+		"id": "baron_ItemUpgrade_0",
+		"text": "JA."
+	},
+	{
+		"id": "baron_ItemDowngrade_0",
+		"text": "Nein."
+	},
+	{
+		"id": "baron_Recruited_0",
+		"text": "Fantastisch ... Fantastisch!"
+	},
+	{
+		"id": "baron_LevelUp_0",
+		"text": "Eu aprendi alguns truques."
+	},
+	{
+		"id": "baron_EnemySpotted_0",
+		"text": "Há outro escondido lá!"
+	},
+	{
+		"id": "baron_NeedReloading_1",
+		"text": "Eu realmente preciso de uma revista maior."
+	},
+	{
+		"id": "baron_NeedHealing_1",
+		"text": "Todo esse sangue está arruinando meu traje!"
+	},
+	{
+		"id": "baron_CriticalStrike_1",
+		"text": "Você nao esperava isso, nao é?"
+	},
+	{
+		"id": "baron_Killshot_1",
+		"text": "Discreto e eficiente."
+	},
+	{
+		"id": "baron_Evade_1",
+		"text": "Nao é muito impressionante."
+	},
+	{
+		"id": "baron_Idle_1",
+		"text": "Entao eu disse: MS Sturmbannführer, nao é isso que parece!"
+	},
+	{
+		"id": "baron_Flanked_1",
+		"text": "Podemos falar sobre isso?"
+	},
+	{
+		"id": "baron_NeedFuel_1",
+		"text": "Por favor, diga -me que ainda temos um pouco de gasolina em algum lugar."
+	},
+	{
+		"id": "baron_NeedAmmo_1",
+		"text": "As más notícias primeiro: estamos quase sem muniçao."
+	},
+	{
+		"id": "baron_ItemUpgrade_1",
+		"text": "Sim, isso deve funcionar ..."
+	},
+	{
+		"id": "baron_ItemDowngrade_1",
+		"text": "Eca! Eu nao tocaria com luvas!"
+	},
+	{
+		"id": "baron_Recruited_1",
+		"text": "O quê tem pra mim?"
+	},
+	{
+		"id": "baron_LevelUp_1",
+		"text": "Exzentro."
+	},
+	{
+		"id": "baron_EnemySpotted_1",
+		"text": "Você achou que eu nao podia te ver?"
+	},
+	{
+		"id": "Rose_NeedReloading_0",
+		"text": "Uma arma vazia nao ajudará ninguém."
+	},
+	{
+		"id": "Rose_NeedHealing_0",
+		"text": "Esta ferida precisa de atençao."
+	},
+	{
+		"id": "Rose_CriticalStrike_0",
+		"text": "Nada mal, nada mal!"
+	},
+	{
+		"id": "Rose_Killshot_0",
+		"text": "Próximo, por favor."
+	},
+	{
+		"id": "Rose_Evade_0",
+		"text": "A sorte está do meu lado!"
+	},
+	{
+		"id": "Rose_Idle_0",
+		"text": "Por que nao estamos nos movendo?"
+	},
+	{
+		"id": "Rose_Flanked_0",
+		"text": "Muitos deles por aqui!"
+	},
+	{
+		"id": "Rose_NeedFuel_0",
+		"text": "Se nao encontrarmos combustível em breve, estamos com problemas."
+	},
+	{
+		"id": "Rose_NeedAmmo_0",
+		"text": "Nao podemos ficar sem muniçao."
+	},
+	{
+		"id": "Rose_ItemUpgrade_0",
+		"text": "Eu gosto deste!"
+	},
+	{
+		"id": "Rose_ItemDowngrade_0",
+		"text": "Nao, isso é ruim."
+	},
+	{
+		"id": "Rose_Recruited_0",
+		"text": "Pronto para sair imediatamente!"
+	},
+	{
+		"id": "Rose_LevelUp_0",
+		"text": "Uma experiência gratificante."
+	},
+	{
+		"id": "Rose_EnemySpotted_0",
+		"text": "Eu encontrei outro!"
+	},
+	{
+		"id": "Rose_NeedReloading_1",
+		"text": "Ele acha que minha arma está vazia novamente."
+	},
+	{
+		"id": "Rose_NeedHealing_1",
+		"text": "Eu nao me sinto muito bem."
+	},
+	{
+		"id": "Rose_CriticalStrike_1",
+		"text": "Nada mal, hein?"
+	},
+	{
+		"id": "Rose_Killshot_1",
+		"text": "Vamos chamá-lo de autodefesa."
+	},
+	{
+		"id": "Rose_Evade_1",
+		"text": "Que rude."
+	},
+	{
+		"id": "Rose_Idle_1",
+		"text": "Você ouve passos? Nao, provavelmente sao apenas meus nervos."
+	},
+	{
+		"id": "Rose_Flanked_1",
+		"text": "Isso está ficando muito agitado para mim."
+	},
+	{
+		"id": "Rose_NeedFuel_1",
+		"text": "O que você quer dizer, nao há mais gás?"
+	},
+	{
+		"id": "Rose_NeedAmmo_1",
+		"text": "Estamos ficando sem muniçao."
+	},
+	{
+		"id": "Rose_ItemUpgrade_1",
+		"text": "Exatamente o que eu teria escolhido."
+	},
+	{
+		"id": "Rose_ItemDowngrade_1",
+		"text": "Você quer minha opiniao? Nao é ótimo."
+	},
+	{
+		"id": "Rose_Recruited_1",
+		"text": "Estou sentado com meu nariz nos livros há muito tempo."
+	},
+	{
+		"id": "Rose_LevelUp_1",
+		"text": "Estes sao algumas novas idéias interessantes ..."
+	},
+	{
+		"id": "Rose_EnemySpotted_1",
+		"text": "Lá!"
+	},
+	{
+		"id": "caballero_NeedReloading_0",
+		"text": "Eu nao tenho balas restantes."
+	},
+	{
+		"id": "caballero_NeedHealing_0",
+		"text": "Eu já vi pior, mas essa ferida é muito ruim."
+	},
+	{
+		"id": "caballero_CriticalStrike_0",
+		"text": "Tudo é justo no amor e na guerra!"
+	},
+	{
+		"id": "caballero_Killshot_0",
+		"text": "Nada mal, hein?"
+	},
+	{
+		"id": "caballero_Evade_0",
+		"text": "Eles nao podem me pegar."
+	},
+	{
+		"id": "caballero_Idle_0",
+		"text": "Se eu estivesse no comando, nao estaríamos perdendo tempo."
+	},
+	{
+		"id": "caballero_Flanked_0",
+		"text": "Eu preciso de backup!"
+	},
+	{
+		"id": "caballero_NeedFuel_0",
+		"text": "O combustível é baixo."
+	},
+	{
+		"id": "caballero_NeedAmmo_0",
+		"text": "Temos armas, mas pequena muniçao."
+	},
+	{
+		"id": "caballero_ItemUpgrade_0",
+		"text": "Perfeito!"
+	},
+	{
+		"id": "caballero_ItemDowngrade_0",
+		"text": "Uma má escolha."
+	},
+	{
+		"id": "caballero_Recruited_0",
+		"text": "Mal posso esperar para obter uma açao real!"
+	},
+	{
+		"id": "caballero_LevelUp_0",
+		"text": "Minha experiência cresce."
+	},
+	{
+		"id": "caballero_EnemySpotted_0",
+		"text": "Inimígo avistado!"
+	},
+	{
+		"id": "caballero_NeedReloading_1",
+		"text": "Talvez eu deva recarregar."
+	},
+	{
+		"id": "caballero_NeedHealing_1",
+		"text": "É tudo isso meu sangue?"
+	},
+	{
+		"id": "caballero_CriticalStrike_1",
+		"text": "Maos firmes."
+	},
+	{
+		"id": "caballero_Killshot_1",
+		"text": "Sem pasarán!"
+	},
+	{
+		"id": "caballero_Evade_1",
+		"text": "Eu preciso de alguns oponentes reais."
+	},
+	{
+		"id": "caballero_Idle_1",
+		"text": "Isso me lembra meu tempo com as brigadas internacionais fora de Guadalajara ..."
+	},
+	{
+		"id": "caballero_Flanked_1",
+		"text": "Eles estao por toda parte!"
+	},
+	{
+		"id": "caballero_NeedFuel_1",
+		"text": "Se nao encontrarmos gasolina em breve, é isso ..."
+	},
+	{
+		"id": "caballero_NeedAmmo_1",
+		"text": "Devemos fazer com que todas as balas contem."
+	},
+	{
+		"id": "caballero_ItemUpgrade_1",
+		"text": "Muito legal."
+	},
+	{
+		"id": "caballero_ItemDowngrade_1",
+		"text": "Suponho que devemos pegar o que podemos obter."
+	},
+	{
+		"id": "caballero_Recruited_1",
+		"text": "Como eu poderia dizer nao a tal empreendimento?"
+	},
+	{
+		"id": "caballero_LevelUp_1",
+		"text": "Que jornada interessante."
+	},
+	{
+		"id": "caballero_EnemySpotted_1",
+		"text": "Há outro!"
+	},
+	{
+		"id": "omar_NeedReloading_0",
+		"text": "Recarregue necessário."
+	},
+	{
+		"id": "omar_NeedHealing_0",
+		"text": "Isso é muito doloroso."
+	},
+	{
+		"id": "omar_CriticalStrike_0",
+		"text": "Quem está rindo agora!"
+	},
+	{
+		"id": "omar_Killshot_0",
+		"text": "Você pediu por isso!"
+	},
+	{
+		"id": "omar_Evade_0",
+		"text": "Ah, sim, eu fui embora."
+	},
+	{
+		"id": "omar_Idle_0",
+		"text": "Nao faz sentido sentar."
+	},
+	{
+		"id": "omar_Flanked_0",
+		"text": "Eles me fizeram prender!"
+	},
+	{
+		"id": "omar_NeedFuel_0",
+		"text": "Devemos procurar combustível."
+	},
+	{
+		"id": "omar_NeedAmmo_0",
+		"text": "Vamos encontrar uma muniçao."
+	},
+	{
+		"id": "omar_ItemUpgrade_0",
+		"text": "Uma boa escolha."
+	},
+	{
+		"id": "omar_ItemDowngrade_0",
+		"text": "Você tem certeza disso?"
+	},
+	{
+		"id": "omar_Recruited_0",
+		"text": "Faremos uma ótima equipe!"
+	},
+	{
+		"id": "omar_LevelUp_0",
+		"text": "Uma liçao dura e aprendida."
+	},
+	{
+		"id": "omar_EnemySpotted_0",
+		"text": "Eu acho que vejo outro!"
+	},
+	{
+		"id": "omar_NeedReloading_1",
+		"text": "Eu deveria ter mais alguns cartuchos em algum lugar ..."
+	},
+	{
+		"id": "omar_NeedHealing_1",
+		"text": "Amigos, eu nao estou me sentindo bem!"
+	},
+	{
+		"id": "omar_CriticalStrike_1",
+		"text": "Me sinto maravilhoso!"
+	},
+	{
+		"id": "omar_Killshot_1",
+		"text": "Ninguém pode suportar o príncipe Omar!"
+	},
+	{
+		"id": "omar_Evade_1",
+		"text": "Seu filho de um cachorro cuidadosos!"
+	},
+	{
+		"id": "omar_Idle_1",
+		"text": "Meu primo está vendendo alguns fragmentos de cerâmica antiga - você está interessado?"
+	},
+	{
+		"id": "omar_Flanked_1",
+		"text": "Uma emboscada? Dois podem jogar naquele jogo!"
+	},
+	{
+		"id": "omar_NeedFuel_1",
+		"text": "O motor parece meio vazio."
+	},
+	{
+		"id": "omar_NeedAmmo_1",
+		"text": "Alguém tem alguma muniçao?"
+	},
+	{
+		"id": "omar_ItemUpgrade_1",
+		"text": "Muito legal. Meu primo vai explodir com inveja."
+	},
+	{
+		"id": "omar_ItemDowngrade_1",
+		"text": "Até meu primo vende um lixo melhor."
+	},
+	{
+		"id": "omar_Recruited_1",
+		"text": "Omar ficará com você através de espessos e magros!"
+	},
+	{
+		"id": "omar_LevelUp_1",
+		"text": "A fortuna sorri em Omar!"
+	},
+	{
+		"id": "omar_EnemySpotted_1",
+		"text": "Olhe! Inimigo à frente!"
+	},
+	{
+		"id": "anabelle_NeedReloading_0",
+		"text": "Muniçao, por favor."
+	},
+	{
+		"id": "anabelle_NeedHealing_0",
+		"text": "Eu poderia usar alguma ajuda aqui."
+	},
+	{
+		"id": "anabelle_CriticalStrike_0",
+		"text": "Saia do meu caminho!"
+	},
+	{
+		"id": "anabelle_Killshot_0",
+		"text": "Bye Bye!"
+	},
+	{
+		"id": "anabelle_Evade_0",
+		"text": "Ha!"
+	},
+	{
+		"id": "anabelle_Idle_0",
+		"text": "Isso está demorando muito. Vamos!"
+	},
+	{
+		"id": "anabelle_Flanked_0",
+		"text": "Uma pequena ajuda seria apreciada."
+	},
+	{
+		"id": "anabelle_NeedFuel_0",
+		"text": "Temos pouco combustível pelo que posso ver."
+	},
+	{
+		"id": "anabelle_NeedAmmo_0",
+		"text": "Muniçao insuficiente em nossas reservas."
+	},
+	{
+		"id": "anabelle_ItemUpgrade_0",
+		"text": "Oh sim. Legal!"
+	},
+	{
+		"id": "anabelle_ItemDowngrade_0",
+		"text": "Nao, absolutamente nao."
+	},
+	{
+		"id": "anabelle_Recruited_0",
+		"text": "É claro que farei desta expediçao um sucesso."
+	},
+	{
+		"id": "anabelle_LevelUp_0",
+		"text": "Eu sou imparável!"
+	},
+	{
+		"id": "anabelle_EnemySpotted_0",
+		"text": "Há outro escondido lá!"
+	},
+	{
+		"id": "anabelle_NeedReloading_1",
+		"text": "Alguém viu minha bolsa de muniçao?"
+	},
+	{
+		"id": "anabelle_NeedHealing_1",
+		"text": "Eu odeio admitir - mas acho que preciso de ajuda."
+	},
+	{
+		"id": "anabelle_CriticalStrike_1",
+		"text": "Esse foi o meu último aviso."
+	},
+	{
+		"id": "anabelle_Killshot_1",
+		"text": "E você pensou que era melhor do que eu?"
+	},
+	{
+		"id": "anabelle_Evade_1",
+		"text": "Boa tentativa..."
+	},
+	{
+		"id": "anabelle_Idle_1",
+		"text": "Eu deveria ver meu aviao algum dia."
+	},
+	{
+		"id": "anabelle_Flanked_1",
+		"text": "Ei, isso nao é justo!"
+	},
+	{
+		"id": "anabelle_NeedFuel_1",
+		"text": "Foi toda a nossa gasolina?"
+	},
+	{
+		"id": "anabelle_NeedAmmo_1",
+		"text": "Quem usou toda a muniçao?!"
+	},
+	{
+		"id": "anabelle_ItemUpgrade_1",
+		"text": "Oh uau!"
+	},
+	{
+		"id": "anabelle_ItemDowngrade_1",
+		"text": "Isso é uma piada?"
+	},
+	{
+		"id": "anabelle_Recruited_1",
+		"text": "Mas compartilhamentos iguais, entendeu?"
+	},
+	{
+		"id": "anabelle_LevelUp_1",
+		"text": "Estou começando a aproveitar isso."
+	},
+	{
+		"id": "anabelle_EnemySpotted_1",
+		"text": "Você achou que eu nao podia te ver?"
+	},
+	{
+		"id": "leFantome_NeedReloading_0",
+		"text": "Recarregue isso, sim."
+	},
+	{
+		"id": "leFantome_NeedHealing_0",
+		"text": "Estou muito perto de morrer."
+	},
+	{
+		"id": "leFantome_CriticalStrike_0",
+		"text": "Nao sinto muito por isso."
+	},
+	{
+		"id": "leFantome_Killshot_0",
+		"text": "Au Revoir, Mon Amour."
+	},
+	{
+		"id": "leFantome_Evade_0",
+		"text": "Agora isso foi desconfortavelmente sortudo."
+	},
+	{
+		"id": "leFantome_Idle_0",
+		"text": "*assobios*"
+	},
+	{
+		"id": "leFantome_Flanked_0",
+		"text": "Conto muitos oponentes."
+	},
+	{
+		"id": "leFantome_NeedFuel_0",
+		"text": "Um pouco de combustível seria útil."
+	},
+	{
+		"id": "leFantome_NeedAmmo_0",
+		"text": "Precisa que eu encontre uma muniçao?"
+	},
+	{
+		"id": "leFantome_ItemUpgrade_0",
+		"text": "Ah, oui."
+	},
+	{
+		"id": "leFantome_ItemDowngrade_0",
+		"text": "Nao nao nao."
+	},
+	{
+		"id": "leFantome_Recruited_0",
+		"text": "Eu aceito a oferta. Em y va!"
+	},
+	{
+		"id": "leFantome_LevelUp_0",
+		"text": "Eu sou inteligente, veja?"
+	},
+	{
+		"id": "leFantome_EnemySpotted_0",
+		"text": "Eu encontrei outro!"
+	},
+	{
+		"id": "leFantome_NeedReloading_1",
+		"text": "Só um momento, por favor, recarregando!"
+	},
+	{
+		"id": "leFantome_NeedHealing_1",
+		"text": "Isso realmente dói."
+	},
+	{
+		"id": "leFantome_CriticalStrike_1",
+		"text": "Nem tente me escapar."
+	},
+	{
+		"id": "leFantome_Killshot_1",
+		"text": "Atacar quando eles menos esperam."
+	},
+	{
+		"id": "leFantome_Evade_1",
+		"text": "Você terá que fazer melhor do que isso!"
+	},
+	{
+		"id": "leFantome_Idle_1",
+		"text": "Eles nunca provaram que fui eu quem invadiu a embaixada alema em Paris."
+	},
+	{
+		"id": "leFantome_Flanked_1",
+		"text": "Você nunca vai me pegar!"
+	},
+	{
+		"id": "leFantome_NeedFuel_1",
+		"text": "Existe algum gás no recipiente sobressalente?"
+	},
+	{
+		"id": "leFantome_NeedAmmo_1",
+		"text": "Nao há mais muniçao? Nao fui eu!"
+	},
+	{
+		"id": "leFantome_ItemUpgrade_1",
+		"text": "Uma excelente escolha."
+	},
+	{
+		"id": "leFantome_ItemDowngrade_1",
+		"text": "Seriamente?"
+	},
+	{
+		"id": "leFantome_Recruited_1",
+		"text": "Vou acompanhá -lo ... desde que se adapte aos meus próprios planos."
+	},
+	{
+		"id": "leFantome_LevelUp_1",
+		"text": "Eu me sinto ótimo!"
+	},
+	{
+		"id": "leFantome_EnemySpotted_1",
+		"text": "Lá!"
+	},
+	{
+		"id": "fenris_NeedReloading_0",
+		"text": "Woof"
+	},
+	{
+		"id": "fenris_NeedHealing_0",
+		"text": "*Gemidos*"
+	},
+	{
+		"id": "fenris_CriticalStrike_0",
+		"text": "Aaah-oooh!"
+	},
+	{
+		"id": "fenris_Killshot_0",
+		"text": "*Gnarls*"
+	},
+	{
+		"id": "fenris_Evade_0",
+		"text": "*Choramingos*"
+	},
+	{
+		"id": "fenris_Idle_0",
+		"text": "Sniff-sniff"
+	},
+	{
+		"id": "fenris_Flanked_0",
+		"text": "Woof!"
+	},
+	{
+		"id": "fenris_NeedFuel_0",
+		"text": "Woooff!"
+	},
+	{
+		"id": "fenris_NeedAmmo_0",
+		"text": "Bow-wow!"
+	},
+	{
+		"id": "fenris_ItemUpgrade_0",
+		"text": "Woof"
+	},
+	{
+		"id": "fenris_ItemDowngrade_0",
+		"text": "Woof"
+	},
+	{
+		"id": "fenris_Recruited_0",
+		"text": "Woowoowoof!"
+	},
+	{
+		"id": "fenris_LevelUp_0",
+		"text": "*PESTO PESADO*"
+	},
+	{
+		"id": "fenris_EnemySpotted_0",
+		"text": "Woof!"
+	},
+	{
+		"id": "fenris_NeedReloading_1",
+		"text": "Woof"
+	},
+	{
+		"id": "fenris_NeedHealing_1",
+		"text": "*Gemidos*"
+	},
+	{
+		"id": "fenris_CriticalStrike_1",
+		"text": "Aaah-oooh!"
+	},
+	{
+		"id": "fenris_Killshot_1",
+		"text": "*Gnarls*"
+	},
+	{
+		"id": "fenris_Evade_1",
+		"text": "*Choramingos*"
+	},
+	{
+		"id": "fenris_Idle_1",
+		"text": "Sniff-sniff"
+	},
+	{
+		"id": "fenris_Flanked_1",
+		"text": "Woof!"
+	},
+	{
+		"id": "fenris_NeedFuel_1",
+		"text": "Woooff!"
+	},
+	{
+		"id": "fenris_NeedAmmo_1",
+		"text": "Bow-wow!"
+	},
+	{
+		"id": "fenris_ItemUpgrade_1",
+		"text": "Woof"
+	},
+	{
+		"id": "fenris_ItemDowngrade_1",
+		"text": "Woof"
+	},
+	{
+		"id": "fenris_Recruited_1",
+		"text": "Woowoowoof!"
+	},
+	{
+		"id": "fenris_LevelUp_1",
+		"text": "*PESTO PESADO*"
+	},
+	{
+		"id": "fenris_EnemySpotted_1",
+		"text": "Woof!"
+	},
+	{
+		"id": "snowWhite_NeedReloading_0",
+		"text": "Woof"
+	},
+	{
+		"id": "snowWhite_NeedHealing_0",
+		"text": "*Gemidos*"
+	},
+	{
+		"id": "snowWhite_CriticalStrike_0",
+		"text": "Aaah-oooh!"
+	},
+	{
+		"id": "snowWhite_Killshot_0",
+		"text": "*Gnarls*"
+	},
+	{
+		"id": "snowWhite_Evade_0",
+		"text": "*Choramingos*"
+	},
+	{
+		"id": "snowWhite_Idle_0",
+		"text": "Sniff-sniff"
+	},
+	{
+		"id": "snowWhite_Flanked_0",
+		"text": "Woof!"
+	},
+	{
+		"id": "snowWhite_NeedFuel_0",
+		"text": "Woooff!"
+	},
+	{
+		"id": "snowWhite_NeedAmmo_0",
+		"text": "Bow-wow!"
+	},
+	{
+		"id": "snowWhite_ItemUpgrade_0",
+		"text": "Woof"
+	},
+	{
+		"id": "snowWhite_ItemDowngrade_0",
+		"text": "Woof"
+	},
+	{
+		"id": "snowWhite_Recruited_0",
+		"text": "Woowoowoof!"
+	},
+	{
+		"id": "snowWhite_LevelUp_0",
+		"text": "*PESTO PESADO*"
+	},
+	{
+		"id": "snowWhite_EnemySpotted_0",
+		"text": "Woof!"
+	},
+	{
+		"id": "snowWhite_NeedReloading_1",
+		"text": "Woof"
+	},
+	{
+		"id": "snowWhite_NeedHealing_1",
+		"text": "*Gemidos*"
+	},
+	{
+		"id": "snowWhite_CriticalStrike_1",
+		"text": "Aaah-oooh!"
+	},
+	{
+		"id": "snowWhite_Killshot_1",
+		"text": "*Gnarls*"
+	},
+	{
+		"id": "snowWhite_Evade_1",
+		"text": "*Choramingos*"
+	},
+	{
+		"id": "snowWhite_Idle_1",
+		"text": "Sniff-sniff"
+	},
+	{
+		"id": "snowWhite_Flanked_1",
+		"text": "Woof!"
+	},
+	{
+		"id": "snowWhite_NeedFuel_1",
+		"text": "Woooff!"
+	},
+	{
+		"id": "snowWhite_NeedAmmo_1",
+		"text": "Bow-wow!"
+	},
+	{
+		"id": "snowWhite_ItemUpgrade_1",
+		"text": "Woof"
+	},
+	{
+		"id": "snowWhite_ItemDowngrade_1",
+		"text": "Woof"
+	},
+	{
+		"id": "snowWhite_Recruited_1",
+		"text": "Woowoowoof!"
+	},
+	{
+		"id": "snowWhite_LevelUp_1",
+		"text": "*PESTO PESADO*"
+	},
+	{
+		"id": "snowWhite_EnemySpotted_1",
+		"text": "Woof!"
+	}
+]
+}

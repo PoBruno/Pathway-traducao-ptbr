@@ -1,0 +1,609 @@
+{
+"id": "Codex",
+"rows": [
+	{
+		"id": "GameDescription",
+		"text": "Introduçao"
+	},
+	{
+		"id": "GameDescription_Content",
+		"text": "# Fundo\n \n O ano é 1936 e a atividade nazista está aumentando em intensidade a cada dia.\n Infiradamente, eles enviam suas expediçoes para a vastidao dos desertos e as montanhas inóspitas do Oriente Médio.\n Norte da África, Arábia - o que os exércitos do mal poderia estar procurando?\n \n ! [Image] (codex_atmoshot)\n \n # Cada expediçao é diferente\n \n No caminho, você envia um grupo de aventureiros intrépidos em expediçoes perigosas. Eles devem vencer batalhas baseadas em turnos, descobrir segredos antigos e gerenciar seus suprimentos de combustível para garantir que eles cheguem a tempo de impedir os planos malignos de seus inimigos impiedosos.\n Toda expediçao é diferente no caminho. Isso ocorre porque, além de um esboço básico, as expediçoes recebem sempre uma série aleatória de novos eventos. Mas mesmo os eventos que você pode ter encontrado antes podem dar uma guinada inesperada, seja por acaso ou por causa da diferente composiçao de sua equipe.\n \n # Jogabilidade persistente\n \n Mesmo uma derrota significa progresso no caminho, à medida que os personagens ganham experiência mesmo quando falham. Ao longo de aventuras individuais, os personagens ganharao experiência e equipamento suficientes para tentar empreendimentos cada vez mais arriscados.\n Gerencie sua expediçao! Faça uso dos pontos fortes de seus membros individuais! Tome as decisoes certas sobre os eventos que você experimenta durante sua jornada!\n \n # Cada decisao conta\n \n O mundo está à beira do desastre quando uma guerra nao declarada se enfurece nas sombras! Vitória ou derrota - apenas você e seus heróis desconhecidos podem decidir o resultado!\n \n ! [Image] (Codex_armor)"
+	},
+	{
+		"id": "KeyBindings",
+		"text": "Combinaçoes de teclas"
+	},
+	{
+		"id": "KeyBindings_Content",
+		"text": "# Combinaçoes de teclas\n \n À medida que avança no Codex, você aprenderá em detalhes como jogar o jogo. Você também pode configurar as ligaçoes de chave em opçoes / controles. Por padrao, as principais ligaçoes sao definidas como descrito abaixo:\n \n # Mapa\n \n I: tela de equipe aberta\n \n # Tela de equipe\n \n Clique com o botao direito do mouse ou clique com o botao esquerdo na arma da alcance: Recarregue\n Clique com o botao direito do mouse ou clique com o botao esquerdo no Medkit: Cura / Reviva Personagem\n Clique com o botao direito do mouse ou clique com o botao esquerdo no ReparyKit: Reparar Armour\n Clique com o botao direito do mouse ou clique com o botao esquerdo em qualquer item: soltar item\n \n # Mapa / batalha\n \n WASD: Mover Câmera\n Pressione Espaço + LMB: Mova de câmera grátis\n \n # Batalha\n \n Arqueiro direito: Próxima unidade própria\n Seta à esquerda: unidade anterior própria\n Retorno: Turning final\n 1: Ataque padrao de longo alcance\n 2: ataque de longo alcance\n 3: ataque de faca padrao\n 4: ataque especial de faca\n 5: Use o item\n F: Açao especial relacionada à armadura\n R: Recarregue\n B: Punto do punho\n LMB: iniciar açao\n RMB: Açao abortada\n \n # Trader\n \n Clique com o botao direito do mouse no item próprio: vender item\n Clique com o botao direito do mouse ou clique com a esquerda no trader Item: Compre o item"
+	},
+	{
+		"id": "KeyBindings_Controller",
+		"text": "Controles"
+	},
+	{
+		"id": "KeyBindings_Content_Controller",
+		"text": "# Controles\n \n # Mapa\n \n Y: Open Journal\n \n # Página de equipe\n \n A: Mostrar açoes de item disponível\n \n # Mapa / batalha\n \n Stick Right: Mova a câmera\n \n # Batalha\n \n L/r: percorrer os personagens\n ZL/ZR: ACONSE\n A: Confirmar açao\n Y: Turning final\n X: Ver detalhes\n \n # Trader\n \n X: vender item\n A: Compre item"
+	},
+	{
+		"id": "KeyBindings_Content_Xbox",
+		"text": "# Controles\n \n # Mapa\n \n Y: Open Journal\n \n # Página de equipe\n \n A: Mostrar açoes de item disponível\n \n # Mapa / batalha\n \n Stick Right: Mova a câmera\n \n # Batalha\n \n Lb/rb: percorrer os caracteres\n LT/RT: Ciclo através de açoes de personagem\n A: Confirmar açao\n Y: Turning final\n X: Ver detalhes\n \n # Trader\n \n X: vender item\n A: Compre item"
+	},
+	{
+		"id": "KeyBindings_Content_Steamdeck",
+		"text": "# Controles\n \n # Mapa\n \n Y: Open Journal\n \n # Página de equipe\n \n A: Mostrar açoes de item disponível\n \n # Mapa / batalha\n \n Stick Right: Mova a câmera\n \n # Batalha\n \n L1/R1: percorrer os caracteres\n L2/R2: Ciclo através de açoes de personagem\n A: Confirmar açao\n Y: Turning final\n X: Ver detalhes\n \n # Trader\n \n X: vender item\n A: Compre item"
+	},
+	{
+		"id": "Adventures",
+		"text": "Aventuras"
+	},
+	{
+		"id": "Adventures_Content",
+		"text": "# Equipes e aventuras\n \n O caminho consiste em uma série de aventuras individuais que aumentam gradualmente em dificuldade. Para iniciar uma aventura, você deve primeiro reunir uma equipe do total de personagens desbloqueados e nao feridos.\n \n ! [Image] (Codex_teamSelect)\n \n # Desbloqueando novas aventuras\n \n No início do jogo, todas as aventuras além da aventura inicial estao trancadas. Cada aventura concluída desbloqueia automaticamente a próxima aventura."
+	},
+	{
+		"id": "JeepStorage",
+		"text": "Armazenamento de carros"
+	},
+	{
+		"id": "JeepStorage_Content",
+		"text": "# Armazenamento de carro\n \n Depois de montar sua equipe, você pode equipar seus personagens com novos itens que você pode ter ganho durante aventuras anteriores.\n \n ! [Image] (Codex_JeepStorage)\n \n Clique em itens nao necessários para sua equipe para movê -los para a bolsa de objetos de valor e limpar o espaço de inventário. Os itens na bolsa de valor podem ser vendidos a um comerciante posteriormente. Clique com o botao esquerdo no botao abaixo da bolsa de objetos de valor para devolver o último item (mas apenas o último!) De volta ao armazenamento do carro.\n \n Você também pode atualizar permanentemente os suprimentos, combustível e muniçao do seu carro. Esta opçao custa dinheiro e, portanto, está disponível apenas quando você tem fundos suficientes."
+	},
+	{
+		"id": "JeepStorage_Content_Controller",
+		"text": "# Armazenamento de carro\n \n Depois de montar sua equipe, você pode equipar seus personagens com novos itens que você pode ter ganho durante aventuras anteriores.\n \n ! [Image] (Codex_JeepStorage)\n \n Para limpar o espaço do inventário, você pode mover itens desnecessários para a bolsa de objetos de valor pressionando um e selecionando \"mover para objetos de valor\". Os itens na bolsa de valor podem ser vendidos a um comerciante posteriormente.\n \n Você também pode atualizar permanentemente os suprimentos, combustível e muniçao do seu carro. Esta opçao custa dinheiro e, portanto, está disponível apenas quando você tem fundos suficientes."
+	},
+	{
+		"id": "EquipmentSlots",
+		"text": "Slots de equipamento"
+	},
+	{
+		"id": "EquipmentSlots_Content",
+		"text": "# Slots de equipamento\n \n Você pode equipar o primeiro espaço de equipamento de um personagem com uma arma à distância ou uma arma corpo a corpo. Você pode equipar o segundo slot de um personagem com uma arma corpo a corpo ou outro item. Esses outros itens podem ser granadas manuais, medkits e reparos. O terceiro slot é destinado exclusivamente para a armadura.\n \n ! [Image] (codex_itemslots)"
+	},
+	{
+		"id": "Characters",
+		"text": "Personagens"
+	},
+	{
+		"id": "Characters_Content",
+		"text": "# Recruta informaçoes\n \n Quando você seleciona um personagem, as estatísticas do personagem sao exibidas à direita, juntamente com um breve resumo de seus pontos fortes e fracos. As três barras coloridas imediatamente à direita do retrato do personagem indicam sua saúde (vermelha), valor da armadura (azul) e bravura (laranja).\n \n ! [Image] (Codex_Character)"
+	},
+	{
+		"id": "CharacterAttributes",
+		"text": "Estatísticas de caracteres"
+	},
+	{
+		"id": "CharacterAttributes_Content",
+		"text": "# Estatísticas de personagens\n \n Além de seus equipamentos, os personagens também têm estatísticas diferentes de personagens:\n \n ! [Image] (Codex_Charstats)\n \n # Vitalidade (Vit)\n \n Determina a saúde de um personagem.\n \n # Willpower (WIL)\n \n Determina os pontos de bravura de um personagem. A bravura é necessária para açoes especiais.\n \n # Destreza (DEX)\n \n Afeta a precisao para ataques à distância.\n \n # Agilidade (AGI)\n \n Afeta o quao longe um personagem pode se mover na sua vez.\n \n # Inteligência (int)\n \n Afeta quantos pontos de experiência um personagem recebe. Quanto maior o valor, mais rápido um personagem progride.\n \n # Reflexos (RFX)\n \n Afeta a probabilidade de um personagem poder se esquivar de um ataque.\n \n # Resistência (final)\n \n Afeta o número de voltas que um personagem inconsciente permanece vivo e também o dano que um personagem sofre ao viajar sem jipe."
+	},
+	{
+		"id": "CharacterSkills",
+		"text": "Vantagens e habilidades"
+	},
+	{
+		"id": "CharacterSkills_Content",
+		"text": "# Açoes iniciais\n \n No início do jogo, cada personagem tem uma açao especial individual que é exibida em sua árvore de habilidades. Ao longo do jogo, eles podem desbloquear mais duas açoes especiais em sua árvore de habilidades.\n \n # Vantagens\n \n As vantagens distinguem ainda mais seus personagens, dando -lhes várias vantagens e desvantagens.\n \n ! [Image] (Codex_Perklist)\n \n # Habilidades\n \n Clique com o botao esquerdo no botao de habilidade de um personagem para abrir a visualizaçao de habilidades.\n \n # Habilidades de item\n \n Habilidades de item Definir quais itens um personagem pode equipar. Os ícones de habilidades com um sinal verde mais dao vantagens, enquanto aqueles com sinais vermelhos negativos têm certas desvantagens.\n As habilidades que têm vantagens e desvantagens sao indicadas com um ícone vermelho-verde.\n \n ! [Image] (Codex_itemskills)\n \n # Árvore de habilidades e subindo de nível\n \n Clique com o botao esquerdo no botao da árvore de habilidades para abrir a árvore de habilidades. Toda vez que um personagem nivela, eles obtêm uma nova vantagem que podem escolher entre as opçoes na árvore de habilidades. Dessa forma, seu personagem pode melhorar suas estatísticas e habilidades ou aprender a usar novos itens.\n \n ! [Image] (codex_skilltree)"
+	},
+	{
+		"id": "CharacterSkills_Content_Controller",
+		"text": "# Açoes iniciais\n \n Cada personagem inicia o jogo com uma açao especial exibida em sua árvore de habilidades. Ao longo do jogo, os personagens podem desbloquear mais duas açoes especiais em sua árvore de habilidades.\n \n # Vantagens\n \n As vantagens distinguem ainda mais seus personagens, dando -lhes várias vantagens e desvantagens.\n \n ! [Image] (Codex_Perklist)\n \n # Habilidades de item\n \n Habilidades de item Definir quais itens um personagem pode equipar. Os ícones de habilidade com um sinal de mais dao vantagens, enquanto aqueles com sinais negativos têm desvantagens.\n As habilidades que têm vantagens e desvantagens sao indicadas com um ícone mais/menos.\n \n ! [Image] (Codex_itemskills)\n \n # Árvore de habilidades e subindo de nível\n \n Pressione o botao da árvore de habilidades para abrir a árvore de habilidades. Cada vez que um caractere níveis, eles desbloqueiam uma nova vantagem que você pode escolher entre a árvore de habilidades. Dessa forma, seu personagem pode melhorar suas estatísticas e habilidades ou aprender a usar novos itens.\n \n ! [Image] (codex_skilltree)"
+	},
+	{
+		"id": "CharacterUnlock",
+		"text": "Desbloqueando novos personagens"
+	},
+	{
+		"id": "CharacterUnlock_Content",
+		"text": "# Desbloqueando novos personagens\n \n ! [Image] (codex_unlock01)\n Você começa o jogo com um número limitado de personagens jogáveis. Personagens adicionais sao desbloqueados durante o jogo sempre que você satisfaz certas condiçoes. As condiçoes precisas para cada caractere sao exibidas quando você clica de esquerda nelas ou leia a lista de realizaçoes.\n \n ! [Image] (Codex_unlock02)"
+	},
+	{
+		"id": "CharacterUnlock_Content_Controller",
+		"text": "# Desbloqueando novos personagens\n \n ! [Image] (codex_unlock01)\n Você começa o jogo com um número limitado de personagens jogáveis. Você pode desbloquear personagens adicionais durante o jogo, satisfazendo certas condiçoes. As condiçoes precisas para cada caractere sao exibidas em sua folha de informaçoes e na página de troféus da revista.\n \n ! [Image] (Codex_unlock02)"
+	},
+	{
+		"id": "HospitalizedChars",
+		"text": "Personagens hospitalizados"
+	},
+	{
+		"id": "HospitalizedChars_Content",
+		"text": "# Caracteres hospitalizados e recuperaçao\n \n ! [Image] (codex_hospitalized01)\n Personagens que sao incapacitados durante uma aventura estao trancados para a próxima expediçao, pois precisam se recuperar de seus ferimentos. Você pode pagar dinheiro para comprar melhores cuidados médicos e reduzir o tempo no hospital.\n \n ! [Image] (codex_hospitalizado02)"
+	},
+	{
+		"id": "Persistence",
+		"text": "Persistência"
+	},
+	{
+		"id": "Persistence_Content",
+		"text": "# Ganhando experiência e equipamento\n \n Independentemente do resultado de uma aventura, todo personagem participante mantém os pontos de experiência e os itens que ganham. Somente o cancelamento de uma aventura redefinirá quaisquer pontos de experiência e itens obtidos por todos os personagens participantes durante essa aventura.\n \n ! [Image] (Codex_itemlendary03)"
+	},
+	{
+		"id": "Achievements",
+		"text": "Realizaçoes"
+	},
+	{
+		"id": "Achievements_Content",
+		"text": "# Conquistas\n \n Você pode acessar seus troféus na guia na parte inferior direita desta tela Codex. Esses troféus representam todas as realizaçoes que você pode concluir no caminho. Mova o cursor sobre uma conquista para ver seu nome e as açoes necessárias para desbloqueá -lo.\n \n Cada conquista desbloqueada concede uma recompensa; Isso também é descrito na dica de ferramenta. Cada recompensa pode ser reivindicada imediatamente quando uma conquista é desbloqueada ou posteriormente clicando à esquerda na conquista na tela do troféu.\n \n ! [Image] (Codex_achievens)"
+	},
+	{
+		"id": "Achievements_Content_GamePass",
+		"text": "# Conquistas\n \n Você pode acessar suas realizaçoes na guia no canto inferior direito desta tela Codex. Mova o cursor sobre uma conquista para ver seu nome e as açoes necessárias para desbloqueá -lo.\n \n Cada conquista desbloqueada concede uma recompensa; Isso também é descrito na dica de ferramenta. Cada recompensa pode ser reivindicada imediatamente quando uma conquista é desbloqueada ou posteriormente clicando na esquerda na conquista na tela Achievement.\n \n ! [Image] (Codex_achievens)"
+	},
+	{
+		"id": "Achievements_Content_Controller",
+		"text": "# Troféus\n \n A página de troféus da revista contém uma lista de todas as realizaçoes do jogo, incluindo as que você ainda nao obteve. Navegue pela lista de realizaçoes nao obtidas para ver as açoes necessárias para desbloqueá -las.\n \n Você receberá uma recompensa por cada conquista que você desbloqueia. Para reivindicar uma recompensa, pressione a reivindicaçao imediatamente após o desbloqueio de uma conquista ou encontre a conquista na página de troféus posteriormente.\n \n ! [Image] (Codex_achievens)"
+	},
+	{
+		"id": "TravelBasics",
+		"text": "Fundamentos"
+	},
+	{
+		"id": "TravelBasics_Content",
+		"text": "# Fundamentos\n \n As viagens externas sao retratadas no caminho como uma série de eventos em um mapa: todos os locais para os quais sua expediçao viaja no mapa tem seu próprio evento. Locais acessíveis (verde) sao conectados por uma linha de viagem tracejada ao local atual de seus caracteres (laranja). Todos os locais e linhas de viagem que você já visitou também sao exibidos em Orange.\n \n ! [imagem] (codex_travelnodes)\n \n As viagens terrestres exigem algum planejamento estratégico (por exemplo, alocaçao cuidadosa dos recursos de viagem, escolha de uma rota de viagem que atenda aos objetivos da sua expediçao).\n \n O objetivo de cada jornada é chegar ao destino correspondente. Para completar a aventura correspondente, seus viajantes devem chegar a este local. Aventuras mais longas podem consistir em vários mapas vinculados por destinos separados.\n \n Embora cada mapa tenha um padrao específico de linhas de viagem, nenhuma jornada é a mesma da próxima, pois seus eventos sao redeterminados no início de cada aventura. No entanto, cada aventura tem seus próprios eventos que impulsionam a história dessa aventura individual, bem como a narrativa abrangente.\n \n ! [Image] (codex_itemlendary02)"
+	},
+	{
+		"id": "TravelResources",
+		"text": "Recursos de viagem"
+	},
+	{
+		"id": "TravelResources_Content",
+		"text": "# Recursos de viagem\n \n Viajar de um local para outro custa uma unidade de combustível. Quando o suprimento de combustível da expediçao é usado, você pode admitir a derrota ou tentar passar pelo deserto inóspito a pé. Tal empreendimento drenará rapidamente a saúde dos personagens (o dano exato depende da resistência de cada indivíduo). Se você conseguir encontrar um novo combustível em um futuro próximo, poderá retomar sua jornada com o jipe. Caso contrário, sua expediçao terminará em falha.\n \n ! [Image] (Codex_travelResources)\n \n Quando seus personagens usarem toda a sua muniçao, eles serao forçados a recorrer a facas, punhos e granadas - os desintegradores também têm cobrança ilimitada.\n \n Os suprimentos de uma expediçao sao uma mistura importante de recursos: eles sao consumidos através do uso de medkits e reparos, bem como jogando granadas.\n \n A expediçao precisa de dinheiro para reabastecer seus estoques de combustível e equipamento, bem como contratar novos recrutas.\n \n Alguns personagens têm vantagens que aumentam o número de recursos que você captura."
+	},
+	{
+		"id": "Events",
+		"text": "Ícones do evento"
+	},
+	{
+		"id": "Events_Content",
+		"text": "# Ícones do evento\n \n Os eventos no mapa sao normalmente exibidos como símbolos redondos. Uma variedade de eventos especiais também tem seus próprios ícones exclusivos:\n \n # Destino\n \n ! [Image] (Codex_Destination)\n \n O destino de sua jornada, diferentemente dos outros possíveis locais de viagem, é indicado com uma cruz em vez de um círculo. O ícone é retratado como uma bandeira em uma cruz\n \n # Batalhas\n \n ! [Image] (Codex_battle)\n \n Eventos em que você pode esperar a batalha sao indicados por um ícone de mira.\n Todos os companheiros de viagem que sobrevivem e estao totalmente conscientes no final de uma batalha recebem pontos de experiência com base na inteligência do personagem individual, bem como no número de inimigos derrotados.\n \n # Lugares de descanso\n \n ! [Image] (Codex_restingPlace)\n \n Os locais de descanso permitem que você recupere a saúde da sua expediçao. Personagens inconscientes vao se curar completamente aqui. Os locais de descanso sao marcados no mapa com um ícone da barraca. Você pode visitar lugares de descanso quantas vezes quiser.\n \n # Novos recrutas\n \n ! [Image] (codex_recruiter)\n \n Locais onde você pode contratar novos membros da equipe sao indicados com um ícone que descreve um recruta em potencial amigável. Se a sua expediçao nao contratar o personagem, você ainda poderá fazê -lo retornando ao local mais tarde.\n \n # Comerciantes\n \n ! [Image] (Codex_trader)\n \n Os comerciantes sao indicados no mapa com uma bolsa de dinheiro. Além de combustível e muniçao, os comerciantes também vendem outros itens valiosos. Você pode visitar cada comerciante quantas vezes quiser.\n \n Comprando e vendendo:\n \n Clique com o botao direito do mouse no ícone correspondente para vender seus próprios itens a um comerciante.\n Você pode clicar com o botao direito do mouse ou clicar com o botao esquerdo em um item oferecido por um comerciante para comprá-lo.\n \n # Pontos de interesse\n \n !\n \n Os pontos de interesse sao uma categoria de retençao. Tudo pode acontecer aqui: batalhas perigosas, eventos mais complexos, mas geralmente também recompensas mais valiosas.\n \n Como regra geral, quanto maior o risco, maior a recompensa ..."
+	},
+	{
+		"id": "Events_Content_Controller",
+		"text": "# Ícones do evento\n \n Os eventos no mapa sao normalmente exibidos como símbolos redondos. Uma variedade de eventos especiais também tem seus próprios ícones exclusivos:\n \n # Destino\n \n ! [Image] (Codex_Destination)\n \n O destino de sua jornada, diferentemente dos outros possíveis locais de viagem, é indicado com uma cruz em vez de um círculo. O ícone é retratado como uma bandeira em uma cruz\n \n # Batalhas\n \n ! [Image] (Codex_battle)\n \n Eventos em que você pode esperar a batalha sao indicados por um ícone de mira.\n Todos os companheiros de viagem que sobrevivem e estao totalmente conscientes no final de uma batalha recebem pontos de experiência com base na inteligência do personagem individual, bem como no número de inimigos derrotados.\n \n # Lugares de descanso\n \n ! [Image] (Codex_restingPlace)\n \n Os locais de descanso permitem que você recupere a saúde da sua expediçao. Personagens inconscientes vao se curar completamente aqui. Os locais de descanso sao marcados no mapa com um ícone da barraca. Você pode visitar lugares de descanso quantas vezes quiser.\n \n # Novos recrutas\n \n ! [Image] (codex_recruiter)\n \n Locais onde você pode contratar novos membros da equipe sao indicados com um ícone que descreve um recruta em potencial amigável. Se a sua expediçao nao contratar o personagem, você ainda poderá fazê -lo retornando ao local mais tarde.\n \n # Comerciantes\n \n ! [Image] (Codex_trader)\n \n Os comerciantes sao indicados no mapa com uma bolsa de dinheiro. Além de combustível e muniçao, os comerciantes também vendem outros itens valiosos. Você pode visitar cada comerciante quantas vezes quiser.\n \n Comprando e vendendo:\n \n Quando estiver em um comerciante, pressione A em seus próprios itens para vendê -los.\n Pressione A nos produtos do comerciante para comprá -los.\n \n # Pontos de interesse\n \n !\n \n Os pontos de interesse sao uma categoria de retençao. Tudo pode acontecer aqui: batalhas perigosas, eventos mais complexos, mas geralmente também recompensas mais valiosas.\n \n Como regra geral, quanto maior o risco, maior a recompensa ..."
+	},
+	{
+		"id": "IconVisibility",
+		"text": "Ícones de eventos e visibilidade"
+	},
+	{
+		"id": "IconVisibility_Content",
+		"text": "# Ícones de eventos e visibilidade\n \n Quando uma expediçao entra em um novo mapa, você só pode ver um número aleatório de eventos, fornecendo a base inicial para planejar sua jornada."
+	},
+	{
+		"id": "EventCourses",
+		"text": "Resultados de eventos"
+	},
+	{
+		"id": "EventCourses_Content",
+		"text": "# Resultados de eventos\n \n Os resultados de eventos individuais podem variar, pois as consequências das decisoes dos jogadores sao determinadas aleatoriamente.\n \n Alguns personagens têm vantagens que desbloqueiam soluçoes alternativas.\n \n ! [Image] (codex_perkchoice)\n \n Como regra geral, a probabilidade de sucesso dessas decisoes de Perk é sempre maior do que para as opçoes padrao. Personagens que usam uma vantagem de evento com sucesso também ganharao uma quantidade substancial de pontos de experiência.\n \n Os efeitos de múltiplos vantagens de eventos nao empilham."
+	},
+	{
+		"id": "PerkList",
+		"text": "Lista de vantagens"
+	},
+	{
+		"id": "PerkList_Content",
+		"text": "# Idiomas antigos\n \n Permite decisoes alternativas com base na capacidade do personagem de decifrar idiomas antigos ou entender os dialetos locais.\n \n # Temerário\n \n Permite decisoes alternativas com base em açoes de pensamento rápido, pouco ortodoxo e muitas vezes erupçao cutânea. Os temerários geralmente conseguem ou falham de maneira espetacular.\n \n # Bruto\n \n Permite decisoes alternativas com base na aplicaçao da força bruta.\n \n # Sombra\n \n Permite decisoes alternativas baseadas nas proezas furtivas e atléticas gerais.\n \n # Especialista médico\n \n Permite decisoes alternativas com base no conhecimento médico que vai além da capacidade de aplicar bandagens improvisadas.\n \n # Engenheiro\n \n Permite decisoes alternativas com base no conhecimento técnico.\n \n # Trickster\n \n Permite decisoes alternativas com base em truques da mao e manipular as desavisadas.\n \n # Sexto sentido\n \n Permite decisoes alternativas com base na intuiçao e na consciência situacional.\n \n # Intimidaçao\n \n Permite decisoes alternativas com base na capacidade de exercer pressao psicológica sobre os outros.\n \n # Sobrevivência\n \n Permite decisoes alternativas com base no conhecimento profundo do ambiente natural, incluindo condiçoes climáticas e as características de várias animais selvagens.\n \n # Lore proibido\n \n Permite decisoes alternativas que começam onde o aprendizado da escola termina e a área cinzenta das tradiçoes místicas começa."
+	},
+	{
+		"id": "TeamScreen",
+		"text": "Tela de equipe"
+	},
+	{
+		"id": "TeamScreen_Content",
+		"text": "# Tela de equipe\n \n Clique com o botao esquerdo na barra de informaçoes mais baixa durante uma jornada terrestre leva você à tela da equipe, onde você pode curar os personagens e reparar a armadura entre as batalhas.\n \n ! [Image] (Codex_TeamOpen)\n \n Isso é feito clicando em um Medkit ou Repairkit. A pessoa-alvo desejada é entao selecionada clicando com esquerda. Cada uso de um Medkit ou Repairkit usa os suprimentos da expediçao. Você pode recarregar as armas clicando nelas e também trocá -las entre o armazenamento do carro e os personagens.\n \n ! [Image] (Codex_Repair)\n \n Os caracteres só podem equipar os itens quando nao estao em combate. Clique em qualquer item para soltá -lo. Clique com o botao esquerdo em um retrato de personagem abrirá a visao de caractere correspondente."
+	},
+	{
+		"id": "TeamScreen_Content_Controller",
+		"text": "# Estatísticas de personagens\n \n Além de seus equipamentos, os personagens também têm estatísticas diferentes de personagens:\n \n ! [Image] (Codex_Charstats)\n \n # Vitalidade (Vit)\n \n Determina a saúde de um personagem.\n \n # Willpower (WIL)\n \n Determina os pontos de bravura de um personagem. A bravura é necessária para açoes especiais.\n \n # Destreza (DEX)\n \n Afeta a precisao para ataques à distância.\n \n # Agilidade (AGI)\n \n Afeta o quao longe um personagem pode se mover na sua vez.\n \n # Inteligência (int)\n \n Afeta quantos pontos de experiência um personagem recebe. Quanto maior o valor, mais rápido um personagem progride.\n \n # Reflexos (RFX)\n \n Afeta a probabilidade de um personagem poder se esquivar de um ataque.\n \n # Resistência (final)\n \n Afeta o número de voltas que um personagem inconsciente permanece vivo e também o dano que um personagem sofre ao viajar sem jipe."
+	},
+	{
+		"id": "LevelUp",
+		"text": "Nivelando"
+	},
+	{
+		"id": "LevelUp_Content",
+		"text": "# Nivelando\n \n Um pequeno ícone na barra de informaçoes mais baixa indica que um caractere subiu.\n \n ! [Image] (codex_levelup)\n \n Você pode atualizar o caractere na tela da equipe clicando à esquerda no botao de nível para cima sobre o caractere correspondente.\n \n ! [Image] (codex_levelupbutton)\n \n O jogo abre a árvore de habilidades do personagem, onde você pode escolher sua nova vantagem."
+	},
+	{
+		"id": "LevelUp_Content_Controller",
+		"text": "# Nivelando\n \n Um pequeno ícone na barra de informaçoes mais baixa indica que um personagem está pronto para subir de nível.\n \n ! [Image] (codex_levelup)\n \n Para atualizar o personagem, selecione -o na página da equipe e pressione o botao de nível para cima.\n \n ! [Image] (codex_levelupbutton)\n \n Isso abrirá a árvore de habilidades do personagem, onde você pode escolher sua nova vantagem."
+	},
+	{
+		"id": "RareItems",
+		"text": "Raridades de itens"
+	},
+	{
+		"id": "RareItems_Content",
+		"text": "# Raridades de item\n \n A raridade de um item indica sua excelência: os itens raros sao geralmente melhores que os comuns. Assim, com o aumento da raridade, o valor de um item também aumenta.\n Existem cinco categorias de raridade na via: comum (branco), raro (azul), épico (roxo), lendário (dourado) e único (vermelho).\n \n ! [Image] (codex_itemlendary)\n \n Armas e armaduras também têm níveis diferentes; Um rifle de Sniper de nível quatro de nível comum pode, portanto, causar mais danos do que um lendário rifle de Sniper de nível um. No entanto, armas e armaduras épicas e lendárias podem ter bônus adicionais que tornam seu uso atraente, no entanto.\n \n ! [Image] (Codex_itemlevel)"
+	},
+	{
+		"id": "CharacterPlacement",
+		"text": "Colocaçao da unidade"
+	},
+	{
+		"id": "CharacterPlacement_Content",
+		"text": "# Posicionamento da unidade\n \n No início de uma batalha, você começa colocando todos os personagens na área verde. Você pode usar as setas esquerda e direita para alternar entre as diferentes unidades a serem colocadas.\n \n ! [Image] (Codex_Placement)\n \n O tamanho e a forma da área de colocaçao depende do tipo de encontro: se sua expediçao surpreender o inimigo ou em encontros que nenhum dos lados esperava, você terá uma extensa área inicial. Mas se seus personagens forem emboscados, eles terao menos espaço para implantaçao."
+	},
+	{
+		"id": "CharacterPlacement_Content_Controller",
+		"text": "# Posicionamento do personagem\n \n No início da batalha, você deve escolher posiçoes iniciais para cada um de seus personagens. Use L/R para pedalar entre os caracteres disponíveis. Use o bastao esquerdo para navegar na área de partida. Pressione A para colocar o caractere atualmente selecionado.\n \n ! [Image] (Codex_Placement)\n \n O tamanho e a forma da área de colocaçao depende do tipo de encontro: se sua expediçao surpreender o inimigo, ou se o encontro for uma surpresa para os dois lados, você terá uma extensa área de partida para escolher. Se seus personagens forem emboscados, eles terao menos espaço para implantaçao."
+	},
+	{
+		"id": "CharacterPlacement_Content_Xbox",
+		"text": "# Posicionamento do personagem\n \n No início da batalha, você deve escolher posiçoes iniciais para cada um de seus personagens. Use LB/RB para pedalar entre os caracteres disponíveis. Use o bastao esquerdo para navegar na área de partida. Pressione A para colocar o caractere atualmente selecionado.\n \n ! [Image] (Codex_Placement)\n \n O tamanho e a forma da área de colocaçao depende do tipo de encontro: se sua expediçao surpreender o inimigo, ou se o encontro for uma surpresa para os dois lados, você terá uma extensa área de partida para escolher. Se seus personagens forem emboscados, eles terao menos espaço para implantaçao."
+	},
+	{
+		"id": "CharacterPlacement_Content_Steamdeck",
+		"text": "# Posicionamento do personagem\n \n No início da batalha, você deve escolher posiçoes iniciais para cada um de seus personagens. Use L1/R1 para pedalar entre os caracteres disponíveis. Use o bastao esquerdo para navegar na área de partida. Pressione A para colocar o caractere atualmente selecionado.\n \n ! [Image] (Codex_Placement)\n \n O tamanho e a forma da área de colocaçao depende do tipo de encontro: se sua expediçao surpreender o inimigo, ou se o encontro for uma surpresa para os dois lados, você terá uma extensa área de partida para escolher. Se seus personagens forem emboscados, eles terao menos espaço para implantaçao."
+	},
+	{
+		"id": "EnemyInfo",
+		"text": "Informaçao inimiga"
+	},
+	{
+		"id": "EnemyInfo_Content",
+		"text": "# Informaçoes inimigas\n \n Durante a fase de colocaçao, você pode ver as informaçoes do inimigo para todos os inimigos no campo da visao de seus personagens. Durante o curso da batalha, você pode clicar nas guias à esquerda para alternar entre as açoes do personagem e as informaçoes do inimigo. O clique de esquerda em um retrato inimigo focará a câmera na unidade correspondente.\n \n ! [Image] (codex_enemyinfo)\n \n Passando seu cursor acima de um oponente revela que o alcance de ataque do inimigo (área vermelha). Pressione a guia para exibir a gama de movimentos do seu inimigo (área azul)."
+	},
+	{
+		"id": "CharacterSelection",
+		"text": "Seleçao de caracteres"
+	},
+	{
+		"id": "CharacterSelection_Content",
+		"text": "# Seleçao de personagens\n \n Durante o combate, você seleciona um personagem clicando com a esquerda ou em seu retrato de personagem no canto inferior esquerdo. Como alternativa, você pode usar as setas esquerda e direita para alternar entre as diferentes unidades.\n \n ! [Image] (Codex_CharSelect)"
+	},
+	{
+		"id": "CharacterSelection_Content_Controller",
+		"text": "# Seleçao de personagens\n \n Durante o combate, use L/R para pedalar entre seus personagens.\n \n ! [Image] (Codex_CharSelect)"
+	},
+	{
+		"id": "CharacterSelection_Content_Xbox",
+		"text": "# Seleçao de personagens\n \n Durante o combate, use LB/RB para pedalar entre seus personagens.\n \n ! [Image] (Codex_CharSelect)"
+	},
+	{
+		"id": "CharacterSelection_Content_Steamdeck",
+		"text": "# Seleçao de personagens\n \n Durante o combate, use L1/R1 para pedalar entre seus personagens.\n \n ! [Image] (Codex_CharSelect)"
+	},
+	{
+		"id": "CoverTypes",
+		"text": "Tipos de cobertura"
+	},
+	{
+		"id": "CoverTypes_Content",
+		"text": "# Tipos de capa\n \n Quando um caractere é colocado diretamente ao lado da cobertura, isso é indicado como uma dica de ferramenta. Um personagem que para imediatamente adjacente para cobrir vai se agachar automaticamente e se beneficiar de sua proteçao - o contato diagonal com a cobertura nao fornece nenhuma proteçao.\n \n # Exemplo\n \n ! [Image] (Codex_coveruse)\n Brunhilda (ajoelhado, à esquerda) fica diretamente ao lado da capa ao sul. Isso concede sua proteçao contra todos os ataques do sul.\n Jackson (em pé, à direita), é apenas diagonalmente adjacente à capa à sua direita. Portanto, ele nao está protegido.\n \n A via distingue entre dois tipos de cobertura. Paredes também fornecem proteçao muito eficaz."
+	},
+	{
+		"id": "PartialCovers",
+		"text": "Cobertura parcial"
+	},
+	{
+		"id": "PartialCovers_Content",
+		"text": "# Capa baixa\n \n A capa baixa reduz a probabilidade de ser atingida por um ataque de longo alcance por [capa: Smallcover]%. Ele também fornece proteçao completa contra estilhaços de granada. O raio de proteçao inclui todos os ataques frontais. Nao quebra a linha de visao e pode ser pulado. Os personagens agachados atrás da capa baixa se levantam automaticamente se quiserem atirar sobre ela. Granadas podem ser jogadas sobre a capa baixa, anulando sua proteçao. Objetos entre o quadril e a altura do ombro sao considerados com baixa cobertura. A tampa baixa é exibida na dica de ferramenta como um escudo.\n \n ! [Image] (Codex_weakcover)\n \n # Alta cobertura\n \n A cobertura alta se comporta da mesma maneira que a capa baixa, mas nao pode ser saltada. Objetos maiores que os caracteres geralmente sao considerados altos cobertos. A cobertura alta é exibida na dica de ferramenta como um escudo com uma cruz no centro.\n \n ! [Image] (Codex_strongcover)"
+	},
+	{
+		"id": "Walls",
+		"text": "Paredes"
+	},
+	{
+		"id": "Walls_Content",
+		"text": "# Paredes\n \n As paredes fornecem proteçao completa de todos os ataques à distância realizados do outro lado da parede. A área protegida inclui todos os ataques frontais. Nao é possível pular sobre paredes ou jogar granadas de mao sobre elas. Se uma parede estiver localizada ao longo de uma linha direta entre dois ladrilhos, ela quebra a linha de visao. Personagens em pé na beira de uma parede dao automaticamente um passo lateral para passar por essa borda, se necessário, para atingir seu alvo. (Ataques e granadas especiais sao exceçoes a essa regra.) Objetos enormes que sao significativamente maiores que os caracteres geralmente sao tratados como paredes. As paredes sao exibidas na dica de ferramenta como um pedaço de alvenaria.\n \n ! [Image] (Codex_wall)"
+	},
+	{
+		"id": "HitChances",
+		"text": "Áreas protegidas"
+	},
+	{
+		"id": "HitChances_Content",
+		"text": "# Áreas protegidas e probabilidades de acertar\n \n No caminho, um alvo visível que nao está na cobertura e dentro do alcance é sempre atingido durante o combate à distância. Para alvos de combate à distância por trás da cobertura alta e baixa, a probabilidade de acerto é calculada usando uma fórmula que leva em consideraçao o tipo de cobertura, a precisao da arma e a destreza do atirador. Os ataques de ladrilhos adjacentes cancelam os efeitos protetores da cobertura. É por isso que ataques corpo a corpo sempre atingem.\n \n # Exemplo\n \n ! [Image] (Codex_coverangle)\n \n O Stormtrooper nazista tem proteçao contra todos os ataques do sul.\n Como Annabelle (canto inferior direito, a tampa do piloto) está posicionada ao sul dele, sua chance de acertar é reduzida de acordo.\n Natalya (canto superior direito, casaco de laboratório), no entanto, está no mesmo nível que o soldado alemao. Ela e todas as unidades posicionadas ao norte teriam um tiro claro.\n Georgette (esquerda, ajoelhada) está posicionada ao sul do soldado, mas ela também está em um ladrilho diretamente adjacente, negando assim os efeitos protetores de sua capa."
+	},
+	{
+		"id": "CharacterActions",
+		"text": "Açoes"
+	},
+	{
+		"id": "CharacterActions_Content",
+		"text": "# Açoes de caracteres\n \n O combate no caminho é baseado em turno. Pressionar o botao vermelho no final da barra de açao termina sua vez e começa a curva inimiga.\n \n ! [Image] (Codex_endturn)\n \n Nas opçoes, em jogo, você pode ativar a opçao \"Confirmar a volta final\". Você deve entao clique com a esquerda para confirmar o final do turno se pelo menos um de seus personagens ainda puder executar uma açao.\n \n Cada caractere pode executar no máximo duas açoes por turno: isso pode incluir um máximo de uma açao de ataque e uma açao de movimento, além de até duas açoes neutras. Um personagem que usou todas as suas açoes é indicado com uma pequena marca de seleçao.\n As açoes sao executadas clicando com a esquerda no botao de açao correspondente. Se essa açao estiver conectada a uma açao de acompanhamento (por exemplo, seleçao de destino), você ainda poderá cancelar a açao clicando com o botao direito do mouse."
+	},
+	{
+		"id": "CharacterActions_Content_Controller",
+		"text": "# Açoes de caracteres\n \n Use ZL/ZR para percorrer as açoes disponíveis para o caractere atualmente selecionado. Pressione A para realizar a açao selecionada.\n \n Cada caractere pode executar no máximo duas açoes por turno. Você pode executar duas açoes neutras em um turno, mas nao pode atacar duas vezes ou se mover duas vezes em um turno.\n \n Quando um personagem usar todas as suas açoes, uma pequena marca de seleçao aparecerá acima da cabeça.\n \n O combate no caminho é baseado em turnos. Pressione Y para terminar sua vez e começar o inimigo.\n \n ! [Image] (Codex_endturn)\n \n Para impedir que você termine acidentalmente a sua vez, você pode ativar a reviravolta de confirmaçao no menu de opçoes."
+	},
+	{
+		"id": "CharacterActions_Content_Xbox",
+		"text": "# Açoes de caracteres\n \n Use LT/RT para percorrer as açoes disponíveis para o caractere atualmente selecionado. Pressione A para realizar a açao selecionada.\n \n Cada caractere pode executar no máximo duas açoes por turno. Você pode executar duas açoes neutras em um turno, mas nao pode atacar duas vezes ou se mover duas vezes em um turno.\n \n Quando um personagem usar todas as suas açoes, uma pequena marca de seleçao aparecerá acima da cabeça.\n \n O combate no caminho é baseado em turnos. Pressione Y para terminar sua vez e começar o inimigo.\n \n ! [Image] (Codex_endturn)\n \n Para impedir que você termine acidentalmente a sua vez, você pode ativar a reviravolta de confirmaçao no menu de opçoes."
+	},
+	{
+		"id": "CharacterActions_Content_Steamdeck",
+		"text": "# Açoes de caracteres\n \n Use L2/R2 para percorrer as açoes disponíveis para o caractere atualmente selecionado. Pressione A para realizar a açao selecionada.\n \n Cada caractere pode executar no máximo duas açoes por turno. Você pode executar duas açoes neutras em um turno, mas nao pode atacar duas vezes ou se mover duas vezes em um turno.\n \n Quando um personagem usar todas as suas açoes, uma pequena marca de seleçao aparecerá acima da cabeça.\n \n O combate no caminho é baseado em turnos. Pressione Y para terminar sua vez e começar o inimigo.\n \n ! [Image] (Codex_endturn)\n \n Para impedir que você termine acidentalmente a sua vez, você pode ativar a reviravolta de confirmaçao no menu de opçoes."
+	},
+	{
+		"id": "SpecialActions",
+		"text": "Açoes especiais"
+	},
+	{
+		"id": "SpecialActions_Content",
+		"text": "# Açoes especiais\n \n Algumas açoes sao açoes especiais e usam pontos de bravura.\n Um personagem regenerará os pontos de bravura como resultado do seguinte:\n \n Um ataque bem -sucedido a um inimigo: +[bravura: hit] bravura\n Hit crítico em um inimigo: +[bravura: hitcritical] bravura\n Evitar com sucesso um ataque inimigo: +[Bravura: Evade] Bravura\n Curar você ou um amigo: +[bravura: usemedkit] bravura\n Repare sua armadura ou de um amigo: +[bravura: userepairkit] bravura"
+	},
+	{
+		"id": "MovementActions",
+		"text": "Açoes de movimento"
+	},
+	{
+		"id": "MovementActions_Content",
+		"text": "# Andar\n \n ! [Image] (Codex_walk)\n Qualquer caractere ativado pode se mover movendo o cursor para o local desejado dentro do raio de movimento do personagem (azul) e depois clicando na esquerda.\n \n Nas opçoes, em jogo, você pode ativar a opçao \"Confirmar Move\". Os movimentos agora sao executados apenas quando você esquerda, clique novamente no mesmo campo. Ative esta opçao para reduzir o risco de movimento acidental.\n \n # Sprint (especial)\n \n ! [Image] (codex_sprint)\n Qualquer personagem com armadura leve pode executar a açao especial da Sprint, concedendo -lhes um bônus de movimento significativo. IMPORTANTE: Um sprint nao desencadeia uma emboscada inimiga.\n \n # Traço\n \n ! [Image] (Codex_Dash)\n Qualquer caractere ativado pode correr para um campo próximo, movendo o cursor para o local desejado dentro do raio de movimento do personagem (azul) e depois clicando no botao esquerdo. IMPORTANTE: Ao contrário de todas as outras açoes, um traço nao consome um ponto de açao - ele também nao desencadeia emboscadas inimigas.\n \n Esta açao nao está vinculada a equipamentos especiais."
+	},
+	{
+		"id": "MovementActions_Content_Controller",
+		"text": "# Andar\n \n ! [Image] (Codex_walk)\n Os caracteres podem caminhar para qualquer local dentro da área destacada. Use o stick esquerdo para planejar sua rota e pressione A para mover o personagem para o local indicado pela seta.\n \n Para evitar que você escolha acidentalmente o local errado, você pode ativar o MOVILHO CONFIRMENTO NO MENU OPÇoES. Agora, o jogo perguntará se você tem certeza antes de confirmar a jogada de um personagem.\n \n # Sprint (especial)\n \n ! [Image] (codex_sprint)\n Qualquer personagem com armadura leve pode executar a açao especial da Sprint, concedendo -lhes um bônus de movimento significativo. IMPORTANTE: Um sprint nao desencadeia uma emboscada inimiga.\n \n # Traço\n \n ! [Image] (Codex_Dash)\n Os caracteres podem correr para um local próximo dentro da área destacada. Use o Stick Left para selecionar um local e pressione A para mover. IMPORTANTE: Ao contrário de todas as outras açoes, um traço nao consome um ponto de açao - ele também nao desencadeia emboscadas inimigas.\n \n Esta açao nao está vinculada a equipamentos especiais."
+	},
+	{
+		"id": "AttackActions",
+		"text": "Açoes de ataque"
+	},
+	{
+		"id": "AttackActions_Content",
+		"text": "# Ataque à distância\n \n ! [Image] (Codex_rangeed)\n \n Qualquer caractere equipado com uma arma de alcance carregada pode executar a açao padrao de ataque à distância. Para fazer isso, posicione o cursor sobre um inimigo no campo de fogo do personagem (vermelho) e clique com o botao esquerdo para acionar o ataque. O campo de fogo é definido pela faixa de armas do personagem e pelo campo de visao. A dica de ferramenta exibe os valores de combate mais importantes do destino, bem como sua probabilidade de acerto.\n \n Pressionar a tecla TAB enquanto pairava sobre um inimigo exibe mais detalhes sobre o cálculo de danos, como o impacto dos tipos de danos ou das vantagens de caracteres.\n \n # Tiro duplo (especial)\n \n ! [Image] (codex_doubleshot)\n \n Qualquer personagem com uma pistola pode executar a açao especial de tiro duplo, que permite duas fotos rápidas em dois alvos diferentes. Para fazer isso, você seleciona dois inimigos e o clique com a esquerda para acionar os ataques.\n \n # Burst Fire (especial)\n \n ! [Image] (codex_rifleburst)\n \n Qualquer personagem com um rifle de assalto pode executar a açao especial de incêndio de Burst, que permite atacar vários alvos em uma linha reta. Você usa a roda do mouse para definir a direçao do fogo e do clique esquerdo para acioná-lo.\n \n # Emboscada (especial)\n \n ! [Image] (Codex_ambush)\n \n Qualquer personagem com um rifle de Sniper pode executar a açao especial de emboscada, que interrompe as açoes inimigas dentro de uma área previamente definida. Você move o cursor para definir o campo do fogo e clicar esquerda para confirmá-lo. A emboscada é entao desencadeada durante a curva inimiga subsequente, quando uma unidade inimiga tenta se mover ou realizar um ataque dentro do campo de fogo definido. As emboscadas sao açoes atrasadas e, portanto, nao desencadeiam uma emboscada inimiga.\n \n Se um personagem sofrer dano, seu status de emboscada será cancelado.\n \n # Shotgun Blast (especial)\n \n ! [Image] (Codex_blast)\n \n Qualquer personagem com uma espingarda pode realizar a açao especial de espingarda, que dispara em todas as unidades dentro de um campo de fogo cônico de curto alcance. Você move o cursor para definir o campo do fogo e clicar esquerdo para acionar o ataque.\n \n # Meltdown (especial)\n \n ! [Image] (Codex_Meltdown)\n \n Qualquer personagem com um desintegrador pode executar a açao especial de Meltdown, que dispara um raio em linha reta através de qualquer número de alvos até atingir uma parede. Você move o cursor para definir a direçao do fogo e o clique esquerdo para acionar o ataque.\n \n # Tiro na cabeça (especial)\n \n ! [Image] (Codex_headshot)\n \n Um tiro de cabeça direcionado mata qualquer inimigo, independentemente de sua força ou armadura. Você o executa da maneira usual, posicionando o cursor sobre um inimigo dentro do campo de fogo do personagem (vermelho) e clicando na esquerda para acionar o ataque. IMPORTANTE: Os tiros da cabeça só trabalham contra inimigos que já sofreram danos à saúde.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada.\n \n # Tiro incapacitante (especial)\n \n ! [Image] (Codex_Cripplingshot)\n \n Um tiro incapacitante restringe o movimento de uma pessoa -alvo durante a curva subsequente. Você o executa da maneira usual, posicionando o cursor sobre um inimigo dentro do campo de fogo do personagem (vermelho) e clicando na esquerda para acionar o ataque.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada.\n \n # Tiro de trituraçao (especial)\n \n ! [Image] (codex_shreddinghot)\n \n Um tiro de trituraçao aumenta a armadura destruindo uma arma infligida ao seu próximo tiro. Você o executa da maneira usual, posicionando o cursor sobre um inimigo dentro do campo de fogo do personagem (vermelho) e clicando na esquerda para acionar o ataque.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada.\n \n # Sanguenta Quantum (especial)\n \n ! [Image] (Codex_quantumleech)\n \n Uma sanguessuga quântica acrescenta alguns dos danos que você inflige aos inimigos à sua própria saúde. Você o executa da maneira usual, posicionando o cursor sobre um inimigo dentro do campo de fogo do personagem (vermelho) e clicando na esquerda para acionar o ataque.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada.\n \n # Tiro de reaçao (especial)\n \n !\n \n As fotos de reaçao sao disparadas em resposta a um ataque inimigo se o atacante estiver dentro do seu próprio alcance de armas. Esta açao é filmada ao clicar com o botao esquerdo do respectivo botao.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada. As fotos de reaçao sao açoes atrasadas e, portanto, nao desencadeiam uma emboscada inimiga.\n \n # Ataque de faca\n \n ! [Image] (Codex_melee)\n \n Qualquer personagem com uma faca pode executar a açao padrao de ataque de faca quando diretamente adjacente a uma unidade inimiga. Para fazer isso, posicione o cursor sobre um inimigo no campo de ataque do personagem (vermelho) e clique com o botao esquerdo para acionar o ataque.\n \n # Sangramento (especial)\n \n ! [Image] (Codex_bleed)\n Qualquer personagem com uma faca pode executar a açao especial sangrada, que inflige danos adicionais ao inimigo nas rodadas subsequentes. Para fazer isso, posicione o cursor sobre um inimigo no campo de ataque do personagem (vermelho) e clique com o botao esquerdo para acionar o ataque.\n \n # Cleave (especial)\n \n ! [Image] (Codex_strike)\n \n Você configura um ataque de Cleave a inimigos adjacentes, movendo o cursor dentro do campo de ataque do personagem (vermelho). Os campos afetados sao exibidos. O ataque é confirmado pelo clique de esquerda.\n \n Esta açao requer uma faca.\n \n # Greve repentina (especial)\n \n ! [Image] (Codex_Parry)\n \n Se o personagem for atacado no próximo turno por um inimigo imediatamente adjacente, poderá infligir um ataque surpresa antes que o inimigo atire. A açao é na fila clicando com a esquerda no respectivo botao.\n \n Esta açao requer uma faca. Greves repentinas sao açoes atrasadas e, portanto, nao desencadeiam uma emboscada inimiga.\n \n # Soco\n \n ! [Image] (Codex_punch)\n \n Qualquer personagem sem faca pode executar a açao padrao do punçao quando diretamente adjacente a uma unidade inimiga. Para fazer isso, posicione o cursor sobre um inimigo no campo de ataque do personagem (vermelho) e clique com o botao esquerdo para acionar o ataque. Os ataques de soco causam apenas danos mínimos.\n \n # Sucker Punch (especial)\n \n ! [Image] (Codex_suckerpunch)\n \n Um soco de otário derruba um inimigo de volta a vários campos na direçao do soco. Pode causar danos adicionais se derrubar o inimigo contra paredes, barris ou outras unidades. Posicione o cursor sobre um inimigo dentro do campo de ataque do personagem (vermelho) e clique esquerdo para acionar o ataque.\n \n Esta açao nao está vinculada a equipamentos especiais.\n \n # Jogue granada\n \n ! [Image] (Codex_grenadethrow)\n Qualquer caractere com uma granada pode executar a açao padrao de granada de arremesso. Posicione o cursor no campo de ataque (vermelho), selecione um ladrilho de destino e clique com o botao esquerdo para acionar o ataque. A área de dano é exibida. O arremesso de granadas reduz os suprimentos por um."
+	},
+	{
+		"id": "AttackActions_Content_Controller",
+		"text": "# Ataque à distância\n \n ! [Image] (Codex_rangeed)\n \n Qualquer caractere equipado com uma arma de alcance carregada pode executar a açao padrao de ataque à distância. Use o bastao esquerdo para atingir um inimigo e pressione A para acionar o ataque à distância. O campo de fogo é definido pela faixa de armas do personagem e pelo campo de visao. A dica de ferramenta exibe os valores de combate mais importantes do destino, bem como sua probabilidade de acerto.\n \n Para ver informaçoes adicionais sobre o cálculo de danos, pressione X ao selecionar um inimigo para atacar.\n \n # Tiro duplo (especial)\n \n ! [Image] (codex_doubleshot)\n \n Qualquer personagem com uma pistola pode executar a açao especial de tiro duplo, que permite uma foto rápida em dois alvos diferentes. Use o bastao esquerdo e um para navegar e selecionar alvos.\n \n # Burst Fire (especial)\n \n ! [Image] (codex_rifleburst)\n \n Qualquer personagem com um rifle de assalto pode executar a açao especial de incêndio de Burst, que permite atacar vários alvos em uma linha reta. Use os botoes direcionais esquerdo e direito para girar a linha de fogo e pressione A para acionar a explosao.\n \n # Emboscada (especial)\n \n ! [Image] (Codex_ambush)\n \n Qualquer personagem com um rifle sniper pode executar a açao especial de emboscada, que interrompe um inimigo que se move ou ataca dentro de um campo de fogo que você define. Use o Stick Left para selecionar o campo de incêndio e pressione A para confirmar. A emboscada acionará se uma unidade inimiga tentar se mover ou atacar dentro do campo de fogo. Como as emboscadas sao açoes atrasadas, sua emboscada nao desencadeará a emboscada de um inimigo.\n \n Se um personagem sofrer dano, seu status de emboscada será cancelado.\n \n # Shotgun Blast (especial)\n \n ! [Image] (Codex_blast)\n \n Qualquer personagem com uma espingarda pode realizar a açao especial de espingarda, que dispara em todas as unidades dentro de um campo de fogo cônico de curto alcance. Use o bastao esquerdo para definir o campo de fogo e pressione A para acionar o ataque.\n \n # Meltdown (especial)\n \n ! [Image] (Codex_Meltdown)\n \n Qualquer personagem com um desintegrador pode executar a açao especial de Meltdown, que dispara um raio em linha reta através de qualquer número de alvos até atingir uma parede. Use o Stick Stick para definir a direçao do fogo e pressione A para acionar o ataque.\n \n # Tiro na cabeça (especial)\n \n ! [Image] (Codex_headshot)\n \n Um tiro de cabeça direcionado mata qualquer inimigo, independentemente de sua força ou armadura. Use o Stick Stick para selecionar um inimigo dentro do campo de fogo destacado e pressione A para acionar o ataque.\n \n IMPORTANTE: Os tiros da cabeça só trabalham contra inimigos que já sofreram danos à saúde.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada.\n \n # Tiro incapacitante (especial)\n \n ! [Image] (Codex_Cripplingshot)\n \n Um tiro incapacitante restringe o movimento de um inimigo durante o próximo turno. Use o Stick Stick para selecionar um inimigo dentro do campo de fogo destacado e pressione A para acionar o ataque.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada.\n \n # Tiro de trituraçao (especial)\n \n ! [Image] (codex_shreddinghot)\n \n Um tiro de trituraçao aumenta a armadura destruindo uma arma infligida ao seu próximo tiro. Use o Stick Stick para selecionar um inimigo dentro do campo de fogo destacado e pressione A para acionar o ataque.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada.\n \n # Sanguenta Quantum (especial)\n \n ! [Image] (Codex_quantumleech)\n \n Uma sanguessuga quântica acrescenta alguns dos danos que você inflige aos inimigos à sua própria saúde. Use o Stick Stick para selecionar um inimigo dentro do campo de fogo destacado e pressione A para acionar o ataque.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada.\n \n # Tiro de reaçao (especial)\n \n !\n \n As fotos de reaçao sao disparadas em resposta a um ataque inimigo se o atacante estiver dentro do seu próprio alcance de armas. Para fila uma foto de reaçao, selecione a açao no menu e pressione A para confirmar.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada. Como as fotos de reaçao sao açoes atrasadas, elas nao desencadeiam uma emboscada inimiga.\n \n # Ataque de faca\n \n ! [Image] (Codex_melee)\n \n Qualquer personagem com uma faca pode executar a açao padrao de ataque de faca quando diretamente adjacente a uma unidade inimiga. Use o Stick Stick para selecionar um inimigo dentro do alcance de ataque destacado. Pressione A para acionar o ataque.\n \n # Sangramento (especial)\n \n ! [Image] (Codex_bleed)\n Qualquer personagem com uma faca pode executar a açao especial sangrada, que inflige danos adicionais ao inimigo ao longo do tempo. Use o Stick Left para selecionar um inimigo dentro da faixa de ataque destacada e pressione A para acionar o ataque.\n \n # Cleave (especial)\n \n ! [Image] (Codex_strike)\n \n Para configurar um ataque de Cleave, use o Stick Left para selecionar inimigos adjacentes dentro do alcance destacado. Os campos afetados sao exibidos. Pressione A para confirmar o ataque.\n \n Esta açao requer uma faca.\n \n # Greve repentina (especial)\n \n ! [Image] (Codex_Parry)\n \n Você pode usar um ataque repentino para infligir um ataque surpresa a um inimigo que tenta atacar seu personagem de um local adjacente. Para configurar um ataque repentino, selecione a açao no menu e pressione A para confirmar.\n \n Esta açao requer uma faca. Como ataques repentinos sao açoes atrasadas, elas nao desencadeiam emboscadas inimigas.\n \n # Soco\n \n ! [Image] (Codex_punch)\n \n Qualquer personagem sem faca pode executar a açao padrao do punçao quando diretamente adjacente a uma unidade inimiga. Use o Stick Left para selecionar um inimigo dentro do campo de ataque destacado e pressione A para acionar o ataque. Os ataques de soco causam danos mínimos.\n \n # Sucker Punch (especial)\n \n ! [Image] (Codex_suckerpunch)\n \n Um soco de otário derruba um inimigo de volta a vários espaços na direçao do ataque. Um soco de otário pode causar danos adicionais se o inimigo for derrubado contra uma parede, barril ou outra unidade. Use o Stick Left para selecionar um inimigo dentro do campo de ataque destacado e pressione A para acionar o ataque.\n \n Esta açao nao está vinculada a equipamentos especiais.\n \n # Jogue granada\n \n ! [Image] (Codex_grenadethrow)\n Qualquer caractere com uma granada pode executar a açao padrao de granada de arremesso. Use o Stick Left para atingir um local dentro da área destacada e pressione A para acionar o ataque. A área de dano é exibida. Este ataque consumirá 1 x granada."
+	},
+	{
+		"id": "AttackActions_Content_Xbox",
+		"text": "# Ataque à distância\n \n ! [Image] (Codex_rangeed)\n \n Qualquer caractere equipado com uma arma de alcance carregada pode executar a açao padrao de ataque à distância. Use o bastao esquerdo para atingir um inimigo e pressione A para acionar o ataque à distância. O campo de fogo é definido pela faixa de armas do personagem e pelo campo de visao. A dica de ferramenta exibe os valores de combate mais importantes do destino, bem como sua probabilidade de acerto.\n \n Para ver informaçoes adicionais sobre o cálculo de danos, pressione X ao selecionar um inimigo para atacar.\n \n # Tiro duplo (especial)\n \n ! [Image] (codex_doubleshot)\n \n Qualquer personagem com uma pistola pode executar a açao especial de tiro duplo, que permite uma foto rápida em dois alvos diferentes. Use o bastao esquerdo e um para navegar e selecionar alvos.\n \n # Burst Fire (especial)\n \n ! [Image] (codex_rifleburst)\n \n Qualquer personagem com um rifle de assalto pode executar a açao especial de incêndio de Burst, que permite atacar vários alvos em uma linha reta. Use o D-Pad esquerdo e direito para girar a linha de fogo e pressione A para acionar a explosao.\n \n # Emboscada (especial)\n \n ! [Image] (Codex_ambush)\n \n Qualquer personagem com um rifle sniper pode executar a açao especial de emboscada, que interrompe um inimigo que se move ou ataca dentro de um campo de fogo que você define. Use o Stick Left para selecionar o campo de incêndio e pressione A para confirmar. A emboscada acionará se uma unidade inimiga tentar se mover ou atacar dentro do campo de fogo. Como as emboscadas sao açoes atrasadas, sua emboscada nao desencadeará a emboscada de um inimigo.\n \n Se um personagem sofrer dano, seu status de emboscada será cancelado.\n \n # Shotgun Blast (especial)\n \n ! [Image] (Codex_blast)\n \n Qualquer personagem com uma espingarda pode realizar a açao especial de espingarda, que dispara em todas as unidades dentro de um campo de fogo cônico de curto alcance. Use o bastao esquerdo para definir o campo de fogo e pressione A para acionar o ataque.\n \n # Meltdown (especial)\n \n ! [Image] (Codex_Meltdown)\n \n Qualquer personagem com um desintegrador pode executar a açao especial de Meltdown, que dispara um raio em linha reta através de qualquer número de alvos até atingir uma parede. Use o Stick Stick para definir a direçao do fogo e pressione A para acionar o ataque.\n \n # Tiro na cabeça (especial)\n \n ! [Image] (Codex_headshot)\n \n Um tiro de cabeça direcionado mata qualquer inimigo, independentemente de sua força ou armadura. Use o Stick Stick para selecionar um inimigo dentro do campo de fogo destacado e pressione A para acionar o ataque.\n \n IMPORTANTE: Os tiros da cabeça só trabalham contra inimigos que já sofreram danos à saúde.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada.\n \n # Tiro incapacitante (especial)\n \n ! [Image] (Codex_Cripplingshot)\n \n Um tiro incapacitante restringe o movimento de um inimigo durante o próximo turno. Use o Stick Stick para selecionar um inimigo dentro do campo de fogo destacado e pressione A para acionar o ataque.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada.\n \n # Tiro de trituraçao (especial)\n \n ! [Image] (codex_shreddinghot)\n \n Um tiro de trituraçao aumenta a armadura destruindo uma arma infligida ao seu próximo tiro. Use o Stick Stick para selecionar um inimigo dentro do campo de fogo destacado e pressione A para acionar o ataque.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada.\n \n # Sanguenta Quantum (especial)\n \n ! [Image] (Codex_quantumleech)\n \n Uma sanguessuga quântica acrescenta alguns dos danos que você inflige aos inimigos à sua própria saúde. Use o Stick Stick para selecionar um inimigo dentro do campo de fogo destacado e pressione A para acionar o ataque.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada.\n \n # Tiro de reaçao (especial)\n \n !\n \n As fotos de reaçao sao disparadas em resposta a um ataque inimigo se o atacante estiver dentro do seu próprio alcance de armas. Para fila uma foto de reaçao, selecione a açao no menu e pressione A para confirmar.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada. Como as fotos de reaçao sao açoes atrasadas, elas nao desencadeiam uma emboscada inimiga.\n \n # Ataque de faca\n \n ! [Image] (Codex_melee)\n \n Qualquer personagem com uma faca pode executar a açao padrao de ataque de faca quando diretamente adjacente a uma unidade inimiga. Use o Stick Stick para selecionar um inimigo dentro do alcance de ataque destacado. Pressione A para acionar o ataque.\n \n # Sangramento (especial)\n \n ! [Image] (Codex_bleed)\n Qualquer personagem com uma faca pode executar a açao especial sangrada, que inflige danos adicionais ao inimigo ao longo do tempo. Use o Stick Left para selecionar um inimigo dentro da faixa de ataque destacada e pressione A para acionar o ataque.\n \n # Cleave (especial)\n \n ! [Image] (Codex_strike)\n \n Para configurar um ataque de Cleave, use o Stick Left para selecionar inimigos adjacentes dentro do alcance destacado. Os campos afetados sao exibidos. Pressione A para confirmar o ataque.\n \n Esta açao requer uma faca.\n \n # Greve repentina (especial)\n \n ! [Image] (Codex_Parry)\n \n Você pode usar um ataque repentino para infligir um ataque surpresa a um inimigo que tenta atacar seu personagem de um local adjacente. Para configurar um ataque repentino, selecione a açao no menu e pressione A para confirmar.\n \n Esta açao requer uma faca. Como ataques repentinos sao açoes atrasadas, elas nao desencadeiam emboscadas inimigas.\n \n # Soco\n \n ! [Image] (Codex_punch)\n \n Qualquer personagem sem faca pode executar a açao padrao do punçao quando diretamente adjacente a uma unidade inimiga. Use o Stick Left para selecionar um inimigo dentro do campo de ataque destacado e pressione A para acionar o ataque. Os ataques de soco causam danos mínimos.\n \n # Sucker Punch (especial)\n \n ! [Image] (Codex_suckerpunch)\n \n Um soco de otário derruba um inimigo de volta a vários espaços na direçao do ataque. Um soco de otário pode causar danos adicionais se o inimigo for derrubado contra uma parede, barril ou outra unidade. Use o Stick Left para selecionar um inimigo dentro do campo de ataque destacado e pressione A para acionar o ataque.\n \n Esta açao nao está vinculada a equipamentos especiais.\n \n # Jogue granada\n \n ! [Image] (Codex_grenadethrow)\n Qualquer caractere com uma granada pode executar a açao padrao de granada de arremesso. Use o Stick Left para atingir um local dentro da área destacada e pressione A para acionar o ataque. A área de dano é exibida. Este ataque consumirá 1 x granada."
+	},
+	{
+		"id": "AttackActions_Content_Steamdeck",
+		"text": "# Ataque à distância\n \n ! [Image] (Codex_rangeed)\n \n Qualquer caractere equipado com uma arma de alcance carregada pode executar a açao padrao de ataque à distância. Use o bastao esquerdo para atingir um inimigo e pressione A para acionar o ataque à distância. O campo de fogo é definido pela faixa de armas do personagem e pelo campo de visao. A dica de ferramenta exibe os valores de combate mais importantes do destino, bem como sua probabilidade de acerto.\n \n Para ver informaçoes adicionais sobre o cálculo de danos, pressione X ao selecionar um inimigo para atacar.\n \n # Tiro duplo (especial)\n \n ! [Image] (codex_doubleshot)\n \n Qualquer personagem com uma pistola pode executar a açao especial de tiro duplo, que permite uma foto rápida em dois alvos diferentes. Use o bastao esquerdo e um para navegar e selecionar alvos.\n \n # Burst Fire (especial)\n \n ! [Image] (codex_rifleburst)\n \n Qualquer personagem com um rifle de assalto pode executar a açao especial de incêndio de Burst, que permite atacar vários alvos em uma linha reta. Use o D-Pad esquerdo e direito para girar a linha de fogo e pressione A para acionar a explosao.\n \n # Emboscada (especial)\n \n ! [Image] (Codex_ambush)\n \n Qualquer personagem com um rifle sniper pode executar a açao especial de emboscada, que interrompe um inimigo que se move ou ataca dentro de um campo de fogo que você define. Use o Stick Left para selecionar o campo de incêndio e pressione A para confirmar. A emboscada acionará se uma unidade inimiga tentar se mover ou atacar dentro do campo de fogo. Como as emboscadas sao açoes atrasadas, sua emboscada nao desencadeará a emboscada de um inimigo.\n \n Se um personagem sofrer dano, seu status de emboscada será cancelado.\n \n # Shotgun Blast (especial)\n \n ! [Image] (Codex_blast)\n \n Qualquer personagem com uma espingarda pode realizar a açao especial de espingarda, que dispara em todas as unidades dentro de um campo de fogo cônico de curto alcance. Use o bastao esquerdo para definir o campo de fogo e pressione A para acionar o ataque.\n \n # Meltdown (especial)\n \n ! [Image] (Codex_Meltdown)\n \n Qualquer personagem com um desintegrador pode executar a açao especial de Meltdown, que dispara um raio em linha reta através de qualquer número de alvos até atingir uma parede. Use o Stick Stick para definir a direçao do fogo e pressione A para acionar o ataque.\n \n # Tiro na cabeça (especial)\n \n ! [Image] (Codex_headshot)\n \n Um tiro de cabeça direcionado mata qualquer inimigo, independentemente de sua força ou armadura. Use o Stick Stick para selecionar um inimigo dentro do campo de fogo destacado e pressione A para acionar o ataque.\n \n IMPORTANTE: Os tiros da cabeça só trabalham contra inimigos que já sofreram danos à saúde.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada.\n \n # Tiro incapacitante (especial)\n \n ! [Image] (Codex_Cripplingshot)\n \n Um tiro incapacitante restringe o movimento de um inimigo durante o próximo turno. Use o Stick Stick para selecionar um inimigo dentro do campo de fogo destacado e pressione A para acionar o ataque.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada.\n \n # Tiro de trituraçao (especial)\n \n ! [Image] (codex_shreddinghot)\n \n Um tiro de trituraçao aumenta a armadura destruindo uma arma infligida ao seu próximo tiro. Use o Stick Stick para selecionar um inimigo dentro do campo de fogo destacado e pressione A para acionar o ataque.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada.\n \n # Sanguenta Quantum (especial)\n \n ! [Image] (Codex_quantumleech)\n \n Uma sanguessuga quântica acrescenta alguns dos danos que você inflige aos inimigos à sua própria saúde. Use o Stick Stick para selecionar um inimigo dentro do campo de fogo destacado e pressione A para acionar o ataque.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada.\n \n # Tiro de reaçao (especial)\n \n !\n \n As fotos de reaçao sao disparadas em resposta a um ataque inimigo se o atacante estiver dentro do seu próprio alcance de armas. Para fila uma foto de reaçao, selecione a açao no menu e pressione A para confirmar.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada. Como as fotos de reaçao sao açoes atrasadas, elas nao desencadeiam uma emboscada inimiga.\n \n # Ataque de faca\n \n ! [Image] (Codex_melee)\n \n Qualquer personagem com uma faca pode executar a açao padrao de ataque de faca quando diretamente adjacente a uma unidade inimiga. Use o Stick Stick para selecionar um inimigo dentro do alcance de ataque destacado. Pressione A para acionar o ataque.\n \n # Sangramento (especial)\n \n ! [Image] (Codex_bleed)\n Qualquer personagem com uma faca pode executar a açao especial sangrada, que inflige danos adicionais ao inimigo ao longo do tempo. Use o Stick Left para selecionar um inimigo dentro da faixa de ataque destacada e pressione A para acionar o ataque.\n \n # Cleave (especial)\n \n ! [Image] (Codex_strike)\n \n Para configurar um ataque de Cleave, use o Stick Left para selecionar inimigos adjacentes dentro do alcance destacado. Os campos afetados sao exibidos. Pressione A para confirmar o ataque.\n \n Esta açao requer uma faca.\n \n # Greve repentina (especial)\n \n ! [Image] (Codex_Parry)\n \n Você pode usar um ataque repentino para infligir um ataque surpresa a um inimigo que tenta atacar seu personagem de um local adjacente. Para configurar um ataque repentino, selecione a açao no menu e pressione A para confirmar.\n \n Esta açao requer uma faca. Como ataques repentinos sao açoes atrasadas, elas nao desencadeiam emboscadas inimigas.\n \n # Soco\n \n ! [Image] (Codex_punch)\n \n Qualquer personagem sem faca pode executar a açao padrao do punçao quando diretamente adjacente a uma unidade inimiga. Use o Stick Left para selecionar um inimigo dentro do campo de ataque destacado e pressione A para acionar o ataque. Os ataques de soco causam danos mínimos.\n \n # Sucker Punch (especial)\n \n ! [Image] (Codex_suckerpunch)\n \n Um soco de otário derruba um inimigo de volta a vários espaços na direçao do ataque. Um soco de otário pode causar danos adicionais se o inimigo for derrubado contra uma parede, barril ou outra unidade. Use o Stick Left para selecionar um inimigo dentro do campo de ataque destacado e pressione A para acionar o ataque.\n \n Esta açao nao está vinculada a equipamentos especiais.\n \n # Jogue granada\n \n ! [Image] (Codex_grenadethrow)\n Qualquer caractere com uma granada pode executar a açao padrao de granada de arremesso. Use o Stick Left para atingir um local dentro da área destacada e pressione A para acionar o ataque. A área de dano é exibida. Este ataque consumirá 1 x granada."
+	},
+	{
+		"id": "NeutralActions",
+		"text": "Açoes neutras"
+	},
+	{
+		"id": "NeutralActions_Content",
+		"text": "# Recarregar\n \n ! [Image] (Codex_reload)\n Qualquer caractere equipado com uma arma de alcance pode executar a açao padrao de recarga. A revista da arma está completamente recarregada, desde que haja suprimentos gerais de muniçao suficientes.\n \n # Use Medkit\n \n ! [Image] (Codex_healkit)\n Qualquer personagem com um Medkit pode executar o uso da açao padrao do Medkit para curar a si mesmos ou a seus membros da equipe. Clique com o botao esquerdo em um alvo no campo de efeito (verde) para acionar a cicatrizaçao. Essa açao pode ser usada para reviver companheiros inconscientes. Cada uso de um Medkit reduz os suprimentos por um.\n \n # Use reparokit\n \n ! [Image] (codex_repairkit)\n Qualquer personagem com um Kit de reparo pode executar a açao especial de reparo para reparar sua armadura ou a armadura de um companheiro. Clique com o botao esquerdo em um alvo no campo de efeito (verde) para acionar o reparo. Cada uso de um kit de reparo reduz os suprimentos por um.\n \n # Low Profile (especial)\n \n ! [Image] (codex_lowprofile)\n Qualquer caractere com armadura média pode executar a açao especial de baixo perfil que concede a eles um bônus de fuga significativo na virada atual e subsequente.\n \n # Hunker Down (especial)\n \n ! [imagem] (codex_hunkerdown)\n Qualquer caráter com armadura pesada pode executar a açao especial que reduz significativamente todos os danos que o personagem recebe na virada atual e subsequente.\n \n # Isca (especial)\n \n ! [Image] (Codex_Bait)\n \n A isca pode ser jogada para distrair caes e zumbis por uma rodada. Posicione o cursor no campo de ataque (vermelho), selecione um ladrilho de destino e clique com o botao esquerdo para acionar o arremesso. A área de efeito é exibida.\n \n Esta açao nao está vinculada a equipamentos especiais.\n \n # Desaparecer (especial)\n \n ! [Image] (Codex_vanish)\n \n O personagem desaparece e é ignorado pelos inimigos no próximo turno. Esta açao é confirmada clicando com a esquerda no respectivo botao.\n \n Esta açao nao está vinculada a equipamentos especiais.\n \n # Controle psíquico (especial)\n \n ! [Image] (codex_psychiccontrol)\n \n O personagem pode assumir o controle de qualquer inimigo na tela de batalha que também está dentro do alcance de ataque de outro inimigo. O inimigo controlado atacará seu ex -aliado. Se o inimigo controlado puder atacar vários aliados, o alvo será selecionado aleatoriamente.\n \n Esta açao nao está vinculada a equipamentos especiais.\n \n # Morale Boost (especial)\n \n ! [Image] (codex_moraleboost)\n \n Um impulso moral aumenta significativamente o movimento de qualquer membro desejado de expediçao por um curto período de tempo. Este efeito pode empilhar com sprint. Você seleciona a pessoa-alvo clicando com a esquerda.\n \n Esta açao nao está vinculada a equipamentos especiais.\n \n # Concentro (especial)\n \n ! [Image] (codex_meditate)\n \n O personagem regenera instantaneamente um ponto de bravura. Esta açao é confirmada clicando com a esquerda no respectivo botao.\n \n Esta açao nao está vinculada a equipamentos especiais.\n \n # Primeiros socorros (especial)\n \n ! [Image] (Codex_firstaid)\n \n Você pode usar os primeiros socorros para fornecer aos personagens lesionados e inconscientes a cura provisória. Isso também removerá todos os efeitos do status negativo que afetam o caractere correspondente. Você deve escolher um alvo dentro da zona de cicatrizaçao (verde) e clique esquerdo para executar a cura.\n \n Esta açao nao está vinculada a equipamentos especiais e nao usa suprimentos.\n \n # Ressuscitar (especial)\n \n ! [Image] (Codex_revive)\n \n Você pode usar ressuscitar para fornecer aos personagens lesionados e inconscientes a cura provisória. Você deve escolher um alvo dentro da zona de cicatrizaçao (verde) e clique esquerdo para executar a cura.\n \n Esta açao nao está vinculada a equipamentos especiais e nao usa suprimentos.\n \n # Tiro de cura (especial)\n \n ! [Image] (Codex_healingshot)\n \n Atira uma pequena adrenalina que restaura a saúde do alvo em surtos. Você deve escolher um alvo dentro da zona de cicatrizaçao (verde) e clique esquerdo para executar a cura.\n \n Esta açao nao está vinculada a equipamentos especiais e nao usa suprimentos.\n \n # Tiro de aviso (especial)\n \n ! [Image] (Codex_warningshot)\n \n Os tiros de aviso suprimem os movimentos inimigos dentro de uma área previamente definida. Você move o cursor para definir o campo do fogo e clicar esquerda para confirmá-lo. Os tiros de aviso sao disparados durante a curva inimiga subsequente assim que as unidades inimigas se movem dentro da área definida. Ao contrário de uma emboscada, os tiros de aviso nao causam danos, mas podem ser disparados em vários alvos.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada. As fotos de aviso sao açoes atrasadas e, portanto, nao desencadeiam uma emboscada inimiga."
+	},
+	{
+		"id": "NeutralActions_Content_Controller",
+		"text": "# Recarregar\n \n ! [Image] (Codex_reload)\n Qualquer caractere equipado com uma arma de alcance pode executar a açao padrao de recarga. Isso recarregará completamente a revista de uma arma, desde que você tenha suprimentos de muniçao suficientes.\n \n # Use Medkit\n \n ! [Image] (Codex_healkit)\n Qualquer personagem com um item Medkit pode executar a açao padrao do Medkit para curar a si mesmos ou a seus membros da equipe. Use o Stick Left para selecionar um alvo dentro da área destacada e pressione A para acionar a cicatrizaçao. Medkits podem reviver companheiros inconscientes. Cada uso consome 1 x Medkit Supply.\n \n # Use reparokit\n \n ! [Image] (codex_repairkit)\n Qualquer personagem com um Kit de reparo pode executar a açao especial de reparo para reparar sua armadura ou a armadura de um companheiro. Use o Stick Left para selecionar um alvo no campo de efeito destacado e pressione A para acionar o reparo. Cada uso consome 1 x Supplykit.\n \n # Low Profile (especial)\n \n ! [Image] (codex_lowprofile)\n Qualquer caractere com armadura média pode executar a açao especial de baixo perfil, que concede um bônus de fuga significativo na virada atual e subsequente. Pressione A para confirmar esta açao.\n \n # Hunker Down (especial)\n \n ! [imagem] (codex_hunkerdown)\n Qualquer caráter com armadura pesada pode executar a açao especial que reduz significativamente todos os danos que o personagem recebe na virada atual e subsequente. Pressione A para confirmar esta açao.\n \n # Isca (especial)\n \n ! [Image] (Codex_Bait)\n \n A isca pode ser jogada para distrair caes e zumbis por uma rodada. Use o Stick Left para selecionar um alvo dentro da área destacada e pressione A para jogar a isca. A área de efeito é exibida.\n \n Esta açao nao está vinculada a equipamentos especiais.\n \n # Desaparecer (especial)\n \n ! [Image] (Codex_vanish)\n \n O personagem desaparece e é ignorado pelos inimigos no próximo turno. Pressione A para confirmar esta açao.\n \n Esta açao nao está vinculada a equipamentos especiais.\n \n # Controle psíquico (especial)\n \n ! [Image] (codex_psychiccontrol)\n \n O personagem pode assumir o controle de qualquer inimigo que também esteja dentro do alcance de ataque de outro inimigo. Use o stick esquerdo para selecionar e inimigo e pressione A para confirmar. O inimigo controlado atacará seu ex -aliado. Se o inimigo controlado puder atacar vários aliados, o alvo será selecionado aleatoriamente.\n \n Esta açao nao está vinculada a equipamentos especiais.\n \n # Morale Boost (especial)\n \n ! [Image] (codex_moraleboost)\n \n Um impulso moral aumenta significativamente o movimento de qualquer membro desejado de expediçao por um curto período de tempo. Use o Stick Left para selecionar um destino e pressione A para acionar o efeito. O impulso do moral pode acumular sprint.\n \n Esta açao nao está vinculada a equipamentos especiais.\n \n # Concentro (especial)\n \n ! [Image] (codex_meditate)\n \n O personagem regenera instantaneamente um ponto de bravura. Pressione A para confirmar.\n \n Esta açao nao está vinculada a equipamentos especiais.\n \n # Primeiros socorros (especial)\n \n ! [Image] (Codex_firstaid)\n \n Você pode usar os primeiros socorros para fornecer aos personagens lesionados e inconscientes a cura provisória. Isso também removerá todos os efeitos do status negativo que afetam o caractere correspondente. Use o stick esquerdo para selecionar um alvo na zona de cura destacada e pressione A para confirmar.\n \n Esta açao nao está vinculada a equipamentos especiais e nao usa suprimentos.\n \n # Ressuscitar (especial)\n \n ! [Image] (Codex_revive)\n \n Você pode usar ressuscitar para fornecer aos personagens lesionados e inconscientes a cura provisória. Use o Stick Left para selecionar um destino dentro da zona destacada e pressione A para executar a açao.\n \n Esta açao nao está vinculada a equipamentos especiais e nao usa suprimentos.\n \n # Tiro de cura (especial)\n \n ! [Image] (Codex_healingshot)\n \n Atira uma pequena adrenalina que restaura a saúde do alvo em surtos. Use o Stick Left para selecionar um alvo dentro da área destacada e pressione A para acionar a foto.\n \n Esta açao nao está vinculada a equipamentos especiais e nao usa suprimentos.\n \n # Tiro de aviso (especial)\n \n ! [Image] (Codex_warningshot)\n \n Os tiros de aviso suprimem os movimentos inimigos dentro de uma área previamente definida. Use o Stick Left para definir o campo de fogo e pressione A para confirmar. Os tiros de aviso sao disparados durante a curva inimiga subsequente assim que as unidades inimigas se movem dentro da área definida. Ao contrário de uma emboscada, os tiros de aviso nao causam danos, mas podem ser disparados em vários alvos.\n \n Essa açao nao está vinculada a equipamentos especiais, mas requer uma arma de fogo carregada. Como os tiros de alerta sao açoes atrasadas, elas nao desencadearao uma emboscada inimiga."
+	},
+	{
+		"id": "DamageClasses",
+		"text": "Tipos de dano"
+	},
+	{
+		"id": "DamageClasses_Content",
+		"text": "# Dano primário (DMG) e trituraçao de armadura\n \n No caminho, cada arma inflige dois tipos de danos: dano primário (DMG) e trituraçao de armadura.\n \n ! [Image] (codex_weapondamage)\n \n Quando um inimigo é atingido, seu valor de armadura (se houver) é geralmente deduzido do dano da arma (DMG) que eles recebem. A diferença é entao deduzida da saúde do inimigo.\n \n Independentemente disso, todo golpe também danifica a armadura usada pela pessoa alvo com base na trituraçao da armadura infligida pela arma correspondente.\n \n Existem quatro tipos de danos no caminho:\n \n # Padrao\n \n O dano padrao causa danos médios que devem primeiro penetrar na armadura, conforme descrito acima.\n \n # Splinter\n \n Os danos causados ​​por lascar tendem a causar mais danos aos alvos desarmados - mas a armadura inimiga recebe um bônus de ([dano: lasca: 1]%) contra danos causados ​​por lascas. As espingardas causam danos causados ​​por lascas por padrao, assim como modelos especiais de outras classes de armas.\n \n # Corrosao\n \n Os raios de corrosao geralmente apenas infligem danos médios, mas infligem trituraçao significativa de armadura. Sao predominantemente desintegradores que causam danos à corrosao.\n \n # Piercing de armadura\n \n O dano à perfuraçao da armadura funciona de maneira diferente aos outros tipos de danos: ignora completamente a armadura, infligindo danos diretamente ao seu alvo. Projetos especiais de todas as classes de armas podem causar danos à armadura. Todas as facas fazem isso por padrao."
+	},
+	{
+		"id": "WeaponTypeIntro",
+		"text": "Classes de armas"
+	},
+	{
+		"id": "WeaponTypeIntro_Content",
+		"text": "# Vantagens e desvantagens de diferentes classes de armas\n \n No caminho, os personagens podem atrair um arsenal de cinco classes de armas diferentes e uma classe de armas corpo a corpo. Há também uma classe de itens (granadas) que pode ser usada para infligir danos.\n \n Cada arma tem uma chance específica de infligir um golpe crítico. Os Crits geram danos adicionais. A Chance Geral Crit Varia de classe de armas para a classe de armas, conforme descrito abaixo."
+	},
+	{
+		"id": "WeaponTypePistol",
+		"text": "Pistolas"
+	},
+	{
+		"id": "WeaponTypePistol_Content",
+		"text": "# Pistolas\n \n As pistolas têm grandes revistas e uma alta chance de crítica. No entanto, eles apenas infligem danos padrao moderados a médias faixas e precisao. Sua açao especial de tiro duplo faz de Pistols uma classe de armas extremamente flexível.\n \n ! [Image] (Codex_pistol)"
+	},
+	{
+		"id": "WeaponTypeShotgun",
+		"text": "Espingardas"
+	},
+	{
+		"id": "WeaponTypeShotgun_Content",
+		"text": "# Espingardas\n \n As espingardas causam danos altos sobre lascas, mas sao muito limitadas em termos de alcance, precisao, chance de crítica e tamanho da revista. Sua açao especial de espingarda é devastadora para grupos de adversários desarmados próximos.\n \n ! [Image] (Codex_shotgun)"
+	},
+	{
+		"id": "WeaponTypeAssault",
+		"text": "Rifles de assalto"
+	},
+	{
+		"id": "WeaponTypeAssault_Content",
+		"text": "# Rifles de assalto\n \n Os rifles de assalto sao armas de médio alcance em termos de alcance, precisao, chance de crítica e tamanho de revista; Eles infligem danos médios padrao. Sua açao especial de incêndio em burst é moderadamente flexível e pode fornecer um meio eficaz de lidar com grupos de inimigos a uma distância média.\n \n ! [Image] (codex_rifle)"
+	},
+	{
+		"id": "WeaponTypeSniper",
+		"text": "Rifles de precisao"
+	},
+	{
+		"id": "WeaponTypeSniper_Content",
+		"text": "# Rifles de precisao\n \n Os rifles de Sniper combinam alta precisao e variam com a chance média de críticas, mas eles têm apenas uma pequena revista e danos padrao moderados. A açao especial de emboscada é uma boa maneira de controlar seus inimigos.\n \n ! [imagem] (codex_sniperRrifle)"
+	},
+	{
+		"id": "WeaponTypeDisintegrator",
+		"text": "Desintegradores"
+	},
+	{
+		"id": "WeaponTypeDisintegrator_Content",
+		"text": "# Desintegradores\n \n Os desintegradores causam altos danos à corrosao, mas só têm um alcance moderado e uma chance de crítica. Eles têm um tamanho e precisao de revista média. Sua açao especial de colapso depende extremamente do posicionamento do inimigo, mas, em condiçoes ideais, fornece um meio eficaz de lidar com inimigos fortemente blindados a quase qualquer distância. Os desintegradores têm acumuladores internos e, portanto, nao precisam de muniçao regular.\n \n ! [Image] (codex_disintegrator)"
+	},
+	{
+		"id": "WeaponTypeKnife",
+		"text": "Facas"
+	},
+	{
+		"id": "WeaponTypeKnife_Content",
+		"text": "# Facas\n \n As facas combinam danos padrao médios com boas chances de críticas, mas infligem danos causadores de armadura que ignoram a armadura inimiga. No entanto, eles exigem proximidade com o inimigo, juntamente com todos os riscos que implica. A açao especial sangrada inflige danos adicionais.\n \n ! [Image] (Codex_Knife)"
+	},
+	{
+		"id": "WeaponTypeGrenade",
+		"text": "Granadas"
+	},
+	{
+		"id": "WeaponTypeGrenade_Content",
+		"text": "# Granadas\n \n Granadas infligem danos médios em distâncias médias. Tampa baixa e alta fornece proteçao completa contra estilhaços de granada. As granadas podem, no entanto, ignorar essa proteçao se forem jogadas atrás da capa. Granadas nao podem ser direcionadas para os ladrilhos de capa. Eles causam danos na área, mas nenhum golpe crítico.\n \n ! [Image] (Codex_grenade)"
+	},
+	{
+		"id": "TheNazis",
+		"text": "Os nazistas"
+	},
+	{
+		"id": "TheNazis_Content",
+		"text": "# A pergunta de Valkyrium\n \n A obsessao secreta do Reich alemao é chamado Valkyrium.\n O que é essa substância estranha? Que poderes isso concede àqueles que o possuem?\n Parece que os nazistas encontraram respostas para essas perguntas - respostas terríveis ...\n \n ! [Image] (Codex_Valkyrium)"
+	},
+	{
+		"id": "Infanterist",
+		"text": "Soldado nazista"
+	},
+	{
+		"id": "Infanterist_Content",
+		"text": "# Soldado nazista\n \n Armados com rifles de assalto, essas tropas alemas boitadas estao excelentemente equipadas para a batalha no deserto. Os soldados nazistas sao a espinha dorsal das forças expedicionárias alemas. Sua disciplina e determinaçao os tornam oponentes formidáveis ​​em qualquer situaçao.\n \n ! [Image] (Codex_nazitroopers)"
+	},
+	{
+		"id": "Dog",
+		"text": "Cao de ataque"
+	},
+	{
+		"id": "Dog_Content",
+		"text": "# Cao de ataque\n \n Os caes de ataque alemao sao bestas temíveis: uma vez que se agarraram ao seu alvo, eles nao deixarao ir até que esteja sangrando e indefeso nas areias do deserto. Ao contrário de seus mestres, eles nao têm conceito de tática e cobertura.\n \n ! [Image] (Codex_Dogs)"
+	},
+	{
+		"id": "Shotgunner",
+		"text": "Trooper de choque"
+	},
+	{
+		"id": "Shotgunner_Content",
+		"text": "# Trooper de choque\n \n Os soldados de choque sao os mais agressivos de tropas alemas contingentes. Mobile e bem armado, eles avançam incansavelmente para envolver o inimigo com suas espingardas. Os soldados de choque sao lutadores destemidos e mortais próximos, especialmente contra oponentes desarmados.\n \n ! [Image] (Codex_shocktroopers)"
+	},
+	{
+		"id": "Sniper",
+		"text": "Atirador de elite"
+	},
+	{
+		"id": "Sniper_Content",
+		"text": "# Atirador de elite\n \n Infelizmente, nao há muita cobertura que possa protegê -lo com segurança da precisao dos atiradores alemaes. Embora nao sejam particularmente difíceis ou móveis, eles dominam o campo de batalha graças à faixa superior de seus rifles de precisao.\n \n ! [Image] (Codex_snipers)"
+	},
+	{
+		"id": "Medic",
+		"text": "Médico"
+	},
+	{
+		"id": "Medic_Content",
+		"text": "# Médico\n \n As insígnias uniformes dos médicos de campo alemaes os tornam facilmente reconhecíveis de longe. A principal tarefa deles é cuidar de seus camaradas feridos - mas isso nao significa que eles nao sabem como usar suas pistolas de serviço ...\n \n ! [Image] (Codex_Medics)"
+	},
+	{
+		"id": "Officer",
+		"text": "Policial"
+	},
+	{
+		"id": "Officer_Content",
+		"text": "# Policial\n \n Os oficiais alemaes lideram suas tropas com disciplina impiedosa - a menor das transgressoes é recebida com puniçao grave. No entanto, os oficiais alemaes têm excelente treinamento tático - uma unidade do exército alemao combaterá visivelmente com mais eficiência se comandado por um oficial.\n \n ! [Image] (Codex_Officers)"
+	},
+	{
+		"id": "EliteDog",
+		"text": "Battle Hound"
+	},
+	{
+		"id": "EliteDog_Content",
+		"text": "# Battle Hound\n \n Os nazistas devem ter feito algo indizível a essas criaturas monstruosas! Nao existe um programa de treinamento no mundo que possa induzir uma glóbulo sanguínea implacável. Sem mencionar seus olhos estranhamente sem vida ...\n \n ! [Image] (Codex_elitedogs)"
+	},
+	{
+		"id": "Teslaborg",
+		"text": "Teslaborg"
+	},
+	{
+		"id": "Teslaborg_Content",
+		"text": "# Teslaborg\n \n A elite absoluta do terror. Stormtroopers altamente móveis e bem armados das forças expedicionárias alemas. O Teslaborg é um pesadelo de aço em combate devido à sua armadura monstruosa e poder de fogo devastador.\n \n ! [Image] (Codex_teslaborgs)"
+	},
+	{
+		"id": "TheBrotherhood",
+		"text": "A Irmandade"
+	},
+	{
+		"id": "TheBrotherhood_Content",
+		"text": "# A ameaça nas sombras\n \n Os verdadeiros objetivos da Irmandade de Khonesh permanecem envoltos na escuridao - mas essa escuridao está cheia de rumores repugnantes ...\n Rumores que roubam você do seu sono e roem as bordas da sua alma!\n \n ! [Image] (Codex_ring)"
+	},
+	{
+		"id": "Cultist",
+		"text": "Cultista"
+	},
+	{
+		"id": "Cultist_Content",
+		"text": "# Cultista\n \n Os soldados dos pés da Irmandade-fanáticos, cheios de ódio e dispostos a lutar até a morte. Ao contrário de seus horríveis aliados mortos -vivos, os cultistas lutam taticamente, usam cobertura ou fuga quando faz sentido. Os cultistas sao os mestres fningers e seus vasos de enxofre ardentes chuvam a morte e a destruiçao sobre seus inimigos!\n \n ! [Image] (Codex_Cultistas)"
+	},
+	{
+		"id": "Zombie",
+		"text": "Zumbi"
+	},
+	{
+		"id": "Zombie_Content",
+		"text": "# Zumbi\n \n O que dá à Irmandade seu poder profano sobre os mortos? Uma coisa é certa: onde quer que eles apareçam, as hordas de zumbis nao estao muito atrás. Atormentado e irracional, eles sao motivados por uma constante fome e ódio pelos vivos. Poucas coisas sao tao perigosas quanto um zumbi ferido ...\n \n ! [Image] (Codex_zombies)"
+	},
+	{
+		"id": "Infected",
+		"text": "Infetado"
+	},
+	{
+		"id": "Infected_Content",
+		"text": "# Infetado\n \n A morte e a destruiçao seguem a irmandade onde quer que vá. Os infectados desempenham claramente um papel importante em seus planos sinistros. Inchado e deteriorado, eles espalharam sua doença ao vomitar a putrescência vil sobre seus inimigos.\n \n ! [Image] (codex_infecteds)"
+	},
+	{
+		"id": "Sporebearer",
+		"text": "Portador de esporos"
+	},
+	{
+		"id": "Sporebearer_Content",
+		"text": "# Portador de esporos\n \n Com seus rituais indescritíveis, a Irmandade criou uma abominaçao parasitária que paralisa seus inimigos em uma nuvem de esporos venenosos. Que afliçao possui essas almas infelizes? Que forma final sua metamorfose revelará?\n \n !"
+	},
+	{
+		"id": "HighPriestess",
+		"text": "Alta sacerdotisa"
+	},
+	{
+		"id": "HighPriestess_Content",
+		"text": "# Alta sacerdotisa\n \n Durante anos de estudo e práticas inefáveis, esses líderes abomináveis ​​da Irmandade aprenderam os mistérios mais sombrios do ocultismo. Eles agora comandam os segredos da vida e da morte - eles nao hesitarao em liberar seus poderes profanos para alcançar seus objetivos ...\n \n ! [Image] (Codex_HighSesterdesses)"
+	},
+	{
+		"id": "TravelSummary",
+		"text": "Introduçao"
+	},
+	{
+		"id": "TravelSummary_Content",
+		"text": "# Objetivo\n \n O objetivo de cada aventura é chegar ao ponto de destino do mapa. No caminho até lá, a equipe viaja de local para local.\n \n ! [Image] (Codex_Encounter)\n \n # Eventos\n \n Cada local apresenta um novo evento. O evento pode ser um texto simples de sabor sem nenhuma conseqüência de jogabilidade, ou ocorrências mais significativas, como itens, comerciantes, locais de descanso e batalhas desafiadoras.\n \n Alguns eventos sao curtos e, desde o ponto, enquanto outros oferecem opçoes de ramificaçao complexas. Vantagens de personagens como Demolidor ou sobrevivência podem abrir escolhas adicionais e ramos de eventos.\n \n # Reservas de combustível\n \n A jornada drenará lentamente as reservas de combustível. Uma vez esgotado, você pode desistir ou continuar com a expediçao a pé ao custo da saúde da equipe.\n \n # Falha\n \n A expediçao falha assim que o último de seus personagens morre devido às duras condiçoes de viagem dos pés ou pelas maos de seus inimigos."
+	},
+	{
+		"id": "CombatSummary",
+		"text": "Introduçao"
+	},
+	{
+		"id": "CombatSummary_Content",
+		"text": "# Combate baseado em turnos\n \n O combate no caminho é baseado em turnos: o jogador primeiro entra em uma fase de planejamento na qual pode colocar seus personagens dentro de uma área marcada (verde). O jogador e o inimigo se revezam sequencialmente. A batalha acabou quando uma das equipes perdeu todas as suas unidades.\n \n ! [Image] (Codex_battleImpression)\n \n Durante a vez deles, o jogador pode mover seus personagens em qualquer ordem. Quando o jogador se transforma, o inimigo passa a executar suas açoes.\n \n # Açoes\n \n Cada unidade pode executar um máximo de duas açoes por turno: ataques e movimentos sao limitados a um por turno. Açoes neutras, como recarregar ou curar um caráter aliado, podem ser feitas até duas vezes por turno.\n \n Cada personagem tem várias açoes especiais. Isso requer pontos de bravura adicionais para usar. A bravura é regenerada através de várias açoes, como ataques e evades bem -sucedidos.\n \n # Cobrir\n \n Os personagens posicionados diretamente (nao na diagonal) ao lado de cobrir recebem alguma proteçao contra armas à altura. A capa baixa e alta reduz a probabilidade de sucesso do inimigo. Paredes quebram a linha de visao e, portanto, também evitam ataques de longo alcance.\n \n # Curar, reparar e reviver\n \n Se um personagem estiver equipado com medkits tais bandagens, ele poderá usá -los para curar aliados próximos, se houver suprimentos suficientes. Além disso, os medkits podem ser usados ​​para reviver personagens inconscientes. Personagens com reparos como agulha e rosca podem reparar a armadura.\n \n Quando nao estao em combate, medkits e reparos podem ser usados ​​por qualquer pessoa clicando no item na tela da equipe.\n \n Alguns personagens também têm açoes especiais que lhes permitem fornecer aos aliados a cura provisória durante o combate."
+	},
+	{
+		"id": "CombatSummary_Content_Controller",
+		"text": "# Combate baseado em turnos\n \n O combate no caminho é baseado em turnos: o jogador primeiro entra em uma fase de planejamento na qual pode colocar seus personagens dentro de uma área marcada (verde). O jogador e o inimigo se revezam sequencialmente. A batalha acabou quando uma das equipes perdeu todas as suas unidades.\n \n ! [Image] (Codex_battleImpression)\n \n Durante a vez deles, o jogador pode mover seus personagens em qualquer ordem. Quando o jogador se transforma, o inimigo passa a executar suas açoes.\n \n # Açoes\n \n Cada unidade pode executar um máximo de duas açoes por turno: ataques e movimentos sao limitados a um por turno. Açoes neutras, como recarregar ou curar um caráter aliado, podem ser feitas até duas vezes por turno.\n \n Cada personagem tem várias açoes especiais. Isso requer pontos de bravura adicionais para usar. A bravura é regenerada através de várias açoes, como ataques e evades bem -sucedidos.\n \n # Cobrir\n \n Os personagens posicionados diretamente (nao na diagonal) ao lado de cobrir recebem alguma proteçao contra armas à altura. A capa baixa e alta reduz a probabilidade de sucesso do inimigo. Paredes quebram a linha de visao e, portanto, também evitam ataques de longo alcance.\n \n # Curar, reparar e reviver\n \n Se um personagem estiver equipado com medkits como ataduras, ele poderá usá -los para curar aliados próximos. Além disso, os medkits podem ser usados ​​para reviver personagens inconscientes. Os caracteres podem usar kits de reparos, como agulha e linha, para reparar a armadura.\n \n Quando nao estiver em combate, você pode usar medkits e reparos para curar os membros da equipe e reparar a armadura. Na página da equipe da revista, pressione A para visualizar as açoes disponíveis de um item e selecione usar.\n \n Alguns personagens também têm açoes especiais que lhes permitem fornecer aos aliados a cura provisória durante o combate."
+	},
+	{
+		"id": "GameOptions",
+		"text": "Opçoes de jogo"
+	},
+	{
+		"id": "GameOptions_Content",
+		"text": "# Configuraçoes do jogo\n \n Em Opçoes / jogo, existem várias configuraçoes que você pode usar para ajustar o jogo às suas preferências individuais:\n \n Mostrar notificaçoes do Codex: Ative se você deseja que o jogo exiba mensagens tutoriais.\n \n Confirme Move: Ative para confirmar seus movimentos de unidade, clicando duas vezes.\n \n Confirme a volta final: Ative para evitar acabar com seu próprio turno por acidente.\n \n Modo para caes: ativar para desativar a violência contra caes.\n \n Sem derramamento de sangue: Ative para reduzir o nível geral de violência retratado.\n \n Rolagem de borda: Ative para mover a visualizaçao do mapa movendo o cursor para as bordas da tela."
+	},
+	{
+		"id": "GameOptions_Content_Controller",
+		"text": "# Configuraçoes do jogo\n \n Em Opçoes / jogo, existem várias configuraçoes que você pode usar para ajustar o jogo às suas preferências individuais:\n \n Mostrar notificaçoes do Codex: Ative se você deseja que o jogo exiba mensagens tutoriais.\n \n Confirme Move: Ative para evitar mover um personagem para o local errado por acidente.\n \n Confirme a volta final: Ative para evitar acabar com seu próprio turno por acidente."
+	},
+	{
+		"id": "BattleModes",
+		"text": "Modos de combate"
+	},
+	{
+		"id": "BattleModes_Content",
+		"text": "O combate difere em termos do número de inimigos: portanto, sempre leia o texto inicial antes de iniciar o combate - se ele mencionar um grande grupo de inimigos, você precisará ter um cuidado extra!\n \n No caminho, existem três cenários de combate diferentes:\n \n # Vantagem\n \n Quando os personagens surpreendem um inimigo inocente, eles geralmente também podem optar por evitar a luta. Se, no entanto, eles decidirem atacar, poderao iniciar um ataque com uma curva completa e livre.\n \n # Tumult\n \n Uma reuniao espontânea de dois partidos surpresos é menos clara: depois de colocar seus personagens, seus oponentes se movem primeiro - só entao o jogador comum se transforma.\n \n # Cegamente\n \n Se os caracteres forem emboscados, cada caractere só poderá executar uma única açao. O oponente entao inicia a luta com uma curva livre.\n \n No primeiro jogador, os personagens sao marcados com um ícone especial, indicando seu handicap.\n \n ! [Image] (Codex_ambushdebufficon)"
+	},
+	{
+		"id": "Credits",
+		"text": "# Caminho\n \n # Um jogo por robotalidade\n \n [BR]\n \n \n [BR]\n \n \n ## Simon Bachmann\n \n Arte, design de nível e dev\n \n Daniel Ludwig\n \n Código\n \n Stefan Bachmann\n \n Code & Game Design\n \n ## Stephan Naujoks\n \n Escrita e design de jogo adicional\n \n ## Gavin Harrison\n \n Design de música e som\n \n ## Lucas \"\" Midio \"\" Carvalho\n \n Design de personagens e animaçao\n \n ## Andreas Illenseer\n \n Ícones dos itens e animaçoes adicionais\n \n ## Phil Giarrusso\n \n Design e arte da interface do usuário\n \n ## Johan Vinet\n \n ART adicional da interface do usuário\n \n ## Matthew \"\" Leth \"\" Griffin\n \n Diretor de Marketing/PR\n \n ## Hassan Durant\n \n Escrita adicional\n \n [BR]\n \n \n [BR]\n \n \n ## Sebastian Tredinnick\n \n Traduçao do inglês\n \n ## Damian Harrison\n \n Traduçao do inglês\n \n ## Pierre Gehenne\n \n Traduçao francesa\n \n ## Rolf Klischewski\n \n Traduçao alema adicional\n \n ## Serviço de traduçao Akebono\n \n Traduçao chinesa e japonesa\n \n ## Karnie\n \n Traduçao adicional chinesa\n \n ## Satojomov\n \n Traduçao japonesa adicional\n \n ## Rob Northcott\n \n Orquestraçao e arranjo adicionais\n \n ## Catherine O'Grady\n \n Flauta\n \n ## Kristin Naigus\n \n Flauta\n \n ## Kristin Naigus\n \n Oboé, buzina inglesa e clarinete\n \n ## George Cooke\n \n Violoncelo\n \n ## Sam Hughes\n \n Vozes de personagens\n \n ## Thryn Henderson\n \n Vozes de personagens\n \n ## Bob Smith\n \n Narrador\n \n [BR]\n \n \n [BR]\n \n \n # Risfish\n \n [BR]\n \n \n ## Finn Brice\n \n Fundador de Chucklefish\n \n Donna Orlowski\n \n Diretor de operaçoes\n \n Tom Katkus\n \n Gerente de produto\n \n ## Katy Ellis\n \n Marketing e comunidade\n \n ## Alexis Trust\n \n Marketing e comunidade\n \n ## Rosie Ball\n \n Designer de marca\n \n ## Ryan Alfred Page\n \n Designer de marca\n \n ## Renee Simonini\n \n Designer de marca\n \n ## Stephen Alexander\n \n Editor de vídeo - trailer\n \n ## Caoimhe Roddy\n \n Produtor de publicaçao\n \n ## Shona Feltham\n \n Garantia da Qualidade\n \n [BR]\n \n \n [BR]\n \n \n # Universalmente falando\n \n [BR]\n \n \n ## Chandler James\n \n Líder de controle de qualidade\n \n ## Alix Saunders\n \n Testador de controle de qualidade\n \n Michael Wilkinson\n \n Testador de controle de qualidade\n \n ## Nathan Hill\n \n Testador CQA\n \n [BR]\n \n \n [BR]\n \n \n # Testadores de jogo\n \n ANEMEMEER\n Andrew Feres\n Antonio M. \"Matchet\" \"Gallardo Vargas\n Aaron Aslett\n Caleb Selstad\n Christopher Burwell\n Felix Fehlberg\n Israel Puerta Merino\n John \"\" redigido \"\" Draconis\n Kamil Sztuczka\n Karl Willers\n Karnie\n Law_4x\n Matej \"\" retro \"\" Jan\n Pablo Barea\n Philipp \"\" Murks \"\" überbacher\n Satojomov\n Tobias Gut\n \n [BR]\n \n \n [BR]\n \n \n # Traduçoes Português-BR\n \n [BR]\n \n Bruno \"\" Lorthe \"\" Gomes\n \n [BR]\n \n \n # Trailer de lançamento\n \n Nós somos alcance\n \n [BR]\n \n \n [BR]\n \n \n # Obrigado\n \n Oliver Franzke\n Sergei Klimov\n Mario Zechner\n Rolf Klischewski\n Matthias Kaestner\n Lili Ibrahim\n Verling cristao\n Timo Krahl\n Daniel Kvarfordt\n Duplo fino\n Thomas “Cyangmou” Feichtmeir\n Alex Vostrov\n Seriamente\n Duna\n Andrew Ferguson\n Pawel Pastuszak\n Ioannis tsakpinis\n \n # Stephan quer agradecer:\n \n Tobias Schachte e Martin Gantefoehr\n Por me levar\n \n # Simon envia seu amor e gratidao a:\n \n Melanie, Emilia e Leander\n Nia Schmidheiny\n Gabriel Bachmann\n Hans-Rudolf e Kathrin Bachmann\n Christoph Bachmann\n Hans-Juergun e Elvira Zuelch\n \n # Daniel cumprimenta:\n \n Jana, Karsten e Elian\n Andre \"Floh\" Weissflog\n Chris Engelbert\n Tom \"Tommele\" Bott\n \n # Stefan obrigado:\n \n Madison e Ezra\n Sempre meus favoritos\n \n [BR]\n \n \n [BR]\n \n \n [BR]\n \n \n [BR]\n \n \n [BR]\n \n \n ## Obrigado por jogar o caminho!\n \n [BR]\n \n \n [BR]\n \n \n [BR]"
+	}
+]
+}
